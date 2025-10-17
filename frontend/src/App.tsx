@@ -5,7 +5,7 @@ import html2canvas from 'html2canvas';
 
 
 // --- Configuration ---
-const API_BASE_URL = 'http://127.0.0.1:8000';
+const API_BASE_URL = 'https://complai-smart-predict.onrender.com';
 
 // --- SVG Icons ---
 const LogoIcon = () => ( <svg width="40" height="40" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M12 2L2 7V17L12 22L22 17V7L12 2Z" stroke="#B08D57" strokeWidth="2" strokeLinejoin="round"/><path d="M2 7L12 12L22 7" stroke="#B08D57" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/><path d="M12 12V22" stroke="#B08D57" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/><path d="M20 15.5L12 12" stroke="#B08D57" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/><path d="M4 15.5L12 12" stroke="#B08D57" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/></svg> );

@@ -11,7 +11,7 @@ app = FastAPI(
 # CORS (Cross-Origin Resource Sharing)
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:5173"], # The default Vite dev server port
+    allow_origins=["https://complai-orpin.vercel.app/"], # The default Vite dev server port
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
