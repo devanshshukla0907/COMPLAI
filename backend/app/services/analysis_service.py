@@ -7,9 +7,26 @@ from app.core.config import settings
 import json
 
 # --- INITIALIZE MODELS AND API ---
-nlp = spacy.load("en_core_web_sm")
-embedding_model = SentenceTransformer('all-MiniLM-L6-v2')
-genai.configure(api_key=settings.GEMINI_API_KEY)
+
+_nlp = None
+_embedding_model = None
+def get_nlp_model():
+    """Loads the spaCy model once and caches it."""
+    global _nlp
+    if _nlp is None:
+        print("Loading spaCy model for the first time...")
+        _nlp = spacy.load("en_core_web_sm")
+        print("spaCy model loaded.")
+    return _nlp
+
+def get_embedding_model():
+    """Loads the SentenceTransformer model once and caches it."""
+    global _embedding_model
+    if _embedding_model is None:
+        print("Loading SentenceTransformer model for the first time...")
+        _embedding_model = SentenceTransformer('all-MiniLM-L6-v2')
+        print("SentenceTransformer model loaded.")
+    return _embedding_model
 
 def extract_text(file_data: bytes) -> str:
     """Extracts text from a file-like object (PDF)."""
@@ -23,6 +40,11 @@ def extract_text(file_data: bytes) -> str:
 def run_analysis_pipeline(job_id: str, complaint_file_data: bytes, frl_file_data: bytes):
     """The main AI analysis pipeline."""
     try:
+        nlp = get_nlp_model()
+        embedding_model = get_embedding_model()
+        genai.configure(api_key=settings.GEMINI_API_KEY)
+
+
         # 1. Update job status to PROCESSING
         supabase.table('jobs').update({'status': 'PROCESSING'}).eq('job_id', job_id).execute()
 
