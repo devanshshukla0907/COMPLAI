@@ -1,0 +1,108 @@
+K821x#15
+complaint
+Mrs S complains that Creation Consumer Finance Ltd charged her cash handling fees on 
+her credit card when she used it to purchase gift cards. 
+background
+In March and April 2018 Mrs S used her Creation credit card to purchase three gift cards 
+from the same retailer. One was for £2,000 and the other two were for £3,000 each. Creation 
+added a 3% cash handling fee to each purchase (totalling £240). It also charged her £19.84 
+interest on those purchases. 
+Mrs S didn’t think this was fair. She said she’d bought other gift cards (from different 
+retailers) in early March 2018 and no cash handling fee was applied then. She didn’t think 
+this was consistent and even if the fee was right she should have been warned about it 
+before making the purchase.  
+Creation said the retailer had put the transactions through under a specific processing code 
+meaning it came under the definition of a cash advance (which incur a 3% fee). It also said 
+gift cards are considered cash purchases. For these reasons Creation said it was right to 
+charge the cash handling fee in line with the terms and conditions of her credit card. 
+I sent Mrs S and Creation my provisional decision on 25 September 2018. I explained why 
+I thought the complaint should be upheld. I said:
+Creation says it considers gift cards to be cash and therefore falls within its definition of cash 
+advances. But I don’t agree with their interpretation, nor do I think it’s fair. The relevant term 
+says:
+“Cash Advance means an advance of monies made to you……including but not 
+limited to cash, foreign currency, travellers cheques, prepayment of mobile telephone 
+airtime through an ATM or cash related transactions such as gaming chips, on-line 
+gambling and other forms of betting or lottery;”
+The terms do set out this isn’t an exhaustive list of what can be considered a cash advance 
+but none of the examples are similar to a gift card. So Mrs S or any consumer couldn’t have 
+reasonably known a gift card purchase might incur an additional fee. These are fairly 
+common purchases so I’d expect Creation to have made this clear in their terms if the 
+intention was for these to be treated as cash advances. 
+I don’t think the intention behind the terms was to consider gift cards as a cash advance. A 
+gift card can’t be used in the same way as cash (unlike the other examples provided for in 
+the terms). By this I mean that you’re limited to using it in only one retailer and for limited 
+types of purchases. It is essentially a pre-payment for specific goods or services. It also has 
+no direct cash value – as it can’t be transferred back into cash. This again is different to the 
+other examples provided. 
+The only part of the term that might have been relevant was ‘cash related transactions’. But 
+the terms specifically define what Creation means by this which only concern gambling 
+transactions – so that too isn’t relevant to gift cards. I’ve also considered that Creation didn’t 
+charge a cash handling fee for the other gift cards Mrs S purchased only a few weeks 
+Ref: DRN3387978
+2
+before. So it clearly doesn’t consider gift cards to be cash advances, or it would have applied 
+a fee for those purchases. 
+For clarity, I’m not suggesting Creation could never treat gift cards as a cash advance. But 
+I don’t think it’s fair that it does so currently given that its terms aren’t explicit enough to say 
+this is how it will treat these types of purchases. 
+Creation says the reason it applied the fee was because the retailer used a processing code 
+which said it was a cash transaction. And although I agree it didn’t do anything wrong in 
+relying on those codes in the first instance, it should have changed its stance when Mrs S 
+complained. I’ll explain why. 
+The transaction processing codes that Creation has referred to are set by the card scheme 
+provider – in this case that’s MasterCard. The processing codes are used to determine what 
+type of retail establishment the transaction has taken place in – it doesn’t necessarily define 
+what the transaction was. They are used to help the credit card provider determine what the 
+transaction was likely to be and take appropriate action. The most common example of this 
+is being able to recognise cash advances – which is the crux of the dispute here. 
+The processing code used by the retailer in Mrs S’ complaint suggested that the 
+establishment dealt with foreign currency, money orders and travellers cheques. And this 
+retailer does do that. But crucially it also sells goods and services – which include gift cards 
+to use in their store. Unfortunately for Mrs S, the specific merchant terminal that was used to 
+purchase the gift cards occurred at the terminal reserved for foreign currency transactions. 
+Had a different terminal been used, it’s likely a different processing code would have been 
+sent to Creation which would have resulted in no cash handling fee being charged. 
+The MasterCard processing rules for the code that was used say they should only be used 
+for foreign currency, money orders or travellers cheques. Clearly, a gift card purchase is 
+none of those things. That isn’t Creation’s fault however as it couldn’t have known about the 
+error at the time of processing. But it did know when Mrs S complained and could have 
+reviewed the position when it realised a processing code was used that didn’t apply. 
+It’s not fair for Mrs S to incur a fee from Creation due to a mistake by the retailer that she 
+had no control over. And had it been processed differently (as it arguably should have been) 
+no fee would have been charged. So for all these reasons I don’t think it’s fair for Creation to 
+treat the gift card purchase as a cash advance - and by extension apply a cash handling fee 
+or charge interest as if it were one. 
+To put things right Creation should refund the fees and interest it applied to the transactions. 
+And as Mrs S pays her credit card in full every month she has paid money she shouldn’t 
+have. Creation should therefore also add interest to the refund at 8% simple per year to 
+account for her being deprived of using that money. The interest should be calculated from 
+the date Mrs S notified Creation of the charges to the date of settlement. This is because 
+Creation wouldn’t have known there was a problem until Mrs S first raised it. 
+Both Mrs S and Creation accepted my provisional decision and had no further comments to 
+make. 
+Ref: DRN3387978
+3
+my findings
+I’ve reconsidered all the available evidence and arguments to decide what’s fair and 
+reasonable in the circumstances of this complaint. As neither party had any additional 
+comments to make, I see no reason to change the conclusion I reached in my provisional 
+decision. 
+my final decision
+For the reasons given above, I uphold this complaint and direct 
+Creation Consumer Finance Ltd to:
+
+Refund the £240 cash handling fees. 
+
+Refund the cash interest of £19.84.
+
+Pay 8% simple interest per year on the above refunds from the date Mrs S 
+complained to the date of settlement. 
+If Creation considers tax should be deducted from the interest element of my award, it 
+should provide Mrs S with a tax deduction certificate so that she can reclaim that amount, if 
+she is eligible to do so. 
+Under the rules of the Financial Ombudsman Service, I’m required to ask Mrs S to accept or 
+reject my decision before 26 November 2018.
+Tero Hiltunen
+ombudsman
+Ref: DRN3387978

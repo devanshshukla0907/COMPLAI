@@ -1,0 +1,357 @@
+DRN-4886837
+The complaint
+Mr G complains Creation Consumer Finance Ltd (“Creation”) hasn’t treated him fairly in 
+connection with a claim he brought under section 75 of the Consumer Credit Act 1974 
+(“CCA”).
+What happened
+The background to Mr G’s complaint, and my initial findings on it, can be found in my 
+provisional decision, which is appended to and forms a part of this final decision.
+However, to summarise briefly, Mr G had a new combi boiler installed for £2,999 in 
+December 2020, financed in part by a point of sale loan with Creation. The deal included a 
+ten year service plan and an extended warranty from the supplier, “GYL”. Mr G had 
+problems with the boiler delivering hot water only intermittently, which was caused by a part 
+of the boiler getting blocked by debris. He believed this was due to the installation not being 
+carried out properly. Mr G also had problems getting GYL to service the boiler in a timely 
+manner under the service plan, and felt he’d been lied to by GYL’s salesperson about a new 
+boiler stopping noises from his pipes and radiators. GYL went out of business in April 2022.
+Mr G approached Creation for assistance, through a claim under section 75 of the CCA. He 
+was unhappy with their response to his claim and made a complaint, which was 
+subsequently referred to the Financial Ombudsman Service. Mr G missed some of his loan 
+repayments due to his dispute with Creation over the claim.
+I issued a provisional decision on the complaint on 18 June 2024. The full reasons for that 
+decision are set out in the appended document, but in summary:
+
+I considered that, although Creation disputed this, the contract financed by Creation’s 
+loan included the boiler and accessories, installation (including a system flush), ten 
+years of annual servicing, and five years of warranty to be supplied by GYL on top of 
+the manufacturer’s ten year warranty.
+
+On the balance of probabilities, I considered GYL’s installers hadn’t carried out a 
+flush of Mr G’s heating system before installing the new boiler, and this was the 
+cause of the boiler getting blocked with debris and a part becoming damaged to the 
+point it had required replacement at Mr G’s expense. This had been a breach of 
+contract by GYL, for which Creation was jointly liable under section 75, and so 
+Creation should cover the cost – said to be £144 – of replacing the damaged part.
+
+The heating system had since received a free “power flush” and I was not aware of 
+any debris-related problems having returned since the replacement of the damaged 
+part, so I thought it likely that problems caused by the failure to flush the system prior 
+to installation had now been resolved.
+
+GYL’s salesperson had indicated to Mr G that having a new boiler installed would 
+resolve problems he was having with noisy pipes and radiators, but it wasn’t possible 
+for me to determine whether this was untrue, because GYL had failed to flush the 
+system prior to installation. I thought it possible that if the installation had been 
+performed correctly, this might have resolved the problems Mr G was having with 
+noises from his pipes and radiators.
+
+GYL’s liquidation meant that it was unable to honour, contractually, seven of the ten 
+annual services Mr G had paid for as part of the boiler package. It would also be 
+unable to honour the five year warranty extension on top of the manufacturer’s ten 
+year warranty. This was a breach of contract for which Creation was liable under 
+section 75.
+
+While a related third party, “BC”, had offered to honour the annual services (although 
+not the extended warranty) as a “gesture of goodwill”, I did not think this was an 
+acceptable remedy. I didn’t think it was reasonable to expect Mr G to accept a 
+remedy which was entirely reliant on the ongoing goodwill of a company he had no 
+contractual relationship with. It was not clear to me how Mr G would be able to hold 
+BC to account for future failures to honour the contract, and I noted the relationship 
+between Mr G and BC was already strained.
+
+I considered a reasonable remedy for GYL’s breach of contract would be for Mr G to 
+be refunded, on a pro-rata basis, for the servicing and extended warranty elements of 
+the contract. The refunds would represent the value of these parts of the contract 
+which Mr G would no longer receive as GYL could no longer honour them. I 
+calculated these refunds at £700 for the balance of the annual servicing, and £200 
+for the extended warranty.
+
+Mr G had missed payments under the loan agreement with Creation. Mr G’s 
+obligation to make repayments was separate to his claim over the boiler, and the 
+complaint which had arisen from it. This meant that if Creation had taken any action 
+relating to late or non-payment by Mr G, then it wouldn’t be fair and reasonable to 
+require Creation to reverse this.
+I invited the parties to the complaint to respond to my provisional decision before 2 July 
+2024. At the time of writing, only Creation has responded – to say it would accept my 
+provisional decision. 
+The case has now been returned to me to review once again.
+What I’ve decided – and why
+I’ve considered all the available evidence and arguments to decide what’s fair and reasonable 
+in the circumstances of this complaint.
+Because neither party has put forward any new evidence or arguments for me to consider, I 
+see no reason to depart from the findings I made in my provisional decision. It follows that I 
+will be upholding Mr G’s complaint for the reasons set out in that provisional decision.
+My final decision
+For the reasons summarised above, and explained in full in the appended provisional 
+decision, I uphold Mr G’s complaint and direct Creation Consumer Finance Ltd to take the 
+following actions:
+
+Pay Mr G £144 to cover the cost to him of replacing the plate heat exchanger, upon 
+receipt of acceptable evidence of him having paid this. 8% simple interest per year* 
+should be added to this amount, calculated from the date Mr G incurred the cost, to 
+the date he is reimbursed.
+
+Pay Mr G £700 to reflect the remaining value of the ten year service plan which will 
+not be honoured by GYL.
+
+Pay Mr G £200 to reflect the value of the five year extended warranty which will not 
+be honoured by GYL.
+*If Creation Consumer Finance Ltd considers that it’s required by HM Revenue & Customs 
+to deduct income tax from that interest, it should tell Mr G how much it’s taken off. It should 
+also give Mr G a tax deduction certificate if he asks for one, so he can reclaim the tax from 
+HM Revenue & Customs if appropriate.
+Under the rules of the Financial Ombudsman Service, I’m required to ask Mr G to accept or 
+reject my decision before 31 July 2024.
+Will Culley
+Ombudsman
+COPY OF PROVISIONAL DECISION
+ 
+I’ve considered the relevant information about this complaint.
+Having done so, I’ve arrived at a different set of conclusions to our investigator, so I need to 
+give all parties to the complaint an opportunity to comment before I make my decision final.
+I’ll look at any more comments and evidence that I get before 2 July 2024. But unless the 
+information changes my mind, my final decision is likely to be along the following lines.
+The complaint
+Mr G complains Creation Consumer Finance Ltd (“Creation”) hasn’t treated him fairly in 
+connection with a claim he brought under section 75 of the Consumer Credit Act 1974 
+(“CCA”).
+Mr G has been represented at times by his partner, “J”. When I refer to things said or done 
+by Mr G, this should be taken to include things said or done by J unless otherwise stated.
+What happened
+It’s not necessary to go into large amounts of detail about what happened. Both parties to 
+the complaint are aware of the history. However, to summarise:
+
+Mr G entered a contract with a company, “GYL”, on 15 December 2020, for the 
+supply and installation of a new combi boiler at his home, along with a service plan 
+and extended warranty (described as an “Infinity package”). 
+
+The price of the contract was £2,999, of which £2,499 was financed by a 36 month, 
+interest free point of sale loan with Creation. The loan was arranged by, and paid to, 
+GYL.
+
+The boiler was installed on Christmas Eve 2020. Mr G reported noises from the 
+radiators not long after this, which he felt he’d been led to believe would be 
+eliminated by installing a new boiler.  
+
+Mr G had various problems getting GYL to service the boiler in a timely manner 
+under the service plan, reporting numerous missed appointments, a general lack of 
+communication, and sometimes being told that he didn’t have a service plan in place 
+when he did. Mr G was worried that not having the boiler serviced at a particular time 
+would invalidate the warranty.
+
+As well as problems arranging services, Mr G was concerned by the quality of the 
+services being carried out. He was informed by an engineer from the boiler 
+manufacturer who had attended reports of a fault in February 2023, that GYL had not 
+been servicing the boiler in line with the manufacturer’s standards. 
+
+Separate to the issues with servicing, the boiler began to deliver hot water 
+intermittently from December 2021, due to an accumulation of debris on the plate 
+heat exchanger. Mr G did not believe a flush had been carried out on the heating 
+system prior to installation of the boiler, which is what had led to this problem.
+
+GYL went into liquidation in April 2022. However, a linked company (“BC”) continued 
+to provide services and arranged for a free “power flush” of Mr G’s heating system in 
+summer 2022, in exchange for him taking down a negative online review. By January 
+2023, the boiler was delivering intermittent hot water again, and the plate heat 
+exchanger needed to be replaced. This was eventually done in July 2023. Mr G says 
+he had to pay a call-out charge of £144 as the repairs were not covered under the 
+manufacturer’s warranty.
+
+In the meantime, Mr G had raised a claim with Creation under section 75 of the CCA. 
+It sent him a final response on 27 June 2023 in which it said BC had taken over from 
+GYL, and that it thought the problems he was having with the boiler were caused by 
+his existing pipework. It suggested Mr G get a report from an independent engineer if 
+he wanted to prove otherwise.
+Mr G was dissatisfied with Creation’s response, and referred the matter to the 
+Financial Ombudsman Service for an independent assessment. He also temporarily stopped 
+making loan repayments. One of our investigators looked into the case and, in his most 
+recent assessment, came to the following conclusions:
+
+Mr G’s contract with GYL showed he was an “Infinity customer”, which meant he was 
+supposed to receive 10 years of annual servicing. Creation had said this plan would 
+be honoured. However, there had been errors by BC which had led to services being 
+completed late and led to Mr G needing to pay £144 for repairs to the boiler. This 
+was a breach of contract and Creation should reimburse this amount to Mr G.
+
+Mr G’s obligation to make payments towards the loan was separate to any claim or 
+complaint he had relating to the boiler, so Creation had not acted incorrectly in 
+treating him as being in arrears on the loan.
+Neither Creation nor Mr G accepted our investigator’s assessment, and the case has been 
+passed to me to decide.
+What I’ve provisionally decided – and why
+I’ve considered all the available evidence and arguments to decide what’s fair and 
+reasonable in the circumstances of this complaint.
+Section 75 of the CCA gives consumers a degree of protection when they pay for goods or 
+services using particular types of credit, such as the point of sale loan Mr G took out with 
+Creation. So long as certain conditions are met, it allows a consumer to claim against their 
+lender in respect of any breach of contract or misrepresentation by the supplier of the goods 
+or services. It’s important to emphasise that section 75 only covers these two specific types 
+of claim. It doesn’t cover, for example, general poor customer service from the supplier.
+For the purposes of this case, a misrepresentation would be a false statement of fact made 
+by one person to another, and which causes the person it was made to, to enter a contract 
+they otherwise wouldn’t have. A breach of contract occurs when one party to a contract fails 
+to honour its contractual obligations to the other. These obligations can either be written 
+expressly into the contract, or they may be treated as included (“implied”) by law.
+Before continuing, I think it’s worth setting out what GYL had agreed to provide in exchange 
+for the price of £2,999, based on my understanding of the contractual paperwork and emails 
+between Mr G and GYL’s salesman:
+
+A new combi boiler, including removal of the old boiler and installation of the new 
+one.
+
+A system flush.
+
+Accessories – specifically a wireless thermostat and magnetic filter.
+
+An annual service for ten years, with 2021 being the first service and 2030 being the 
+last.
+
+A warranty of an extra five years on top of the ten years already provided by the 
+manufacturer.
+Creation has said it doesn’t think there’s enough evidence that GYL had agreed to provide 
+annual servicing, but I think the evidence of this is clear. It is set out in emails, and the 
+contractual paperwork goes on to confirm these pre-contractual discussions in that it 
+describes Mr G as an “Infinity customer”. 
+Mr G’s concerns relating to the contract could be summarised as follows:
+
+He was incorrectly told that having a new boiler would stop his pipes/radiators from 
+being noisy. 
+
+The system flush was not carried out on installation, leading to ongoing problems 
+with parts of the boiler getting blocked with debris and causing intermittent hot water.
+
+He’s received very poor service from GYL (and BC) over the included annual 
+services, which have been carried out late and not in accordance with the 
+manufacturer’s standards, leading to potential invalidation of the warranty.
+I’ll cover each of these points in turn, albeit in a slightly different order.
+Installation not carried out properly – leading to ongoing problems
+Mr G is sure that GYL failed to carry out the system flush during the installation process. He 
+says the installation ended up being completed on Christmas Eve by a one-man team, and 
+that the installer understandably wanted to get home to be with his family, but that this 
+resulted in some corners being cut. He says that when he asked for evidence that a flush 
+had been completed, he was sent photos of someone else’s property.
+It doesn’t appear to have been denied that the system flush was not carried out, either by 
+GYL or BC (who Mr G was corresponding with later on – and who I understand GYL 
+employed to install the boiler), when confronted with Mr G’s claim that the photos of the 
+flushing process were of another customer’s property. I think, on the balance of probabilities, 
+that no flush was carried out on installation. This was a breach of contract because the 
+agreement stated that a system flush would be completed.
+The purpose of flushing is – as explained by GYL prior to Mr G entering the contract – to 
+remove dirt and debris from the heating system. When the boiler first began experiencing 
+problems about 12 months after installation, it was reported by the manufacturer to be 
+because a part was full of dirt or debris. A “power flush” was then carried out in summer 
+2022, which I understand is a more intensive cleaning process. However, by January 2023 
+the boiler was experiencing the same problems, and the manufacturer stated the affected 
+part required replacement, which I understand Mr G paid £144 to have installed.
+Creation has suggested that if there are ongoing issues this is more likely to be down to 
+problems with other parts of Mr G’s heating system, and has invited him to obtain a report 
+from an expert to determine the cause. I’ve not been made aware of the problems having 
+reoccurred since July 2023 when the damaged part was replaced, and without further 
+evidence it seems probable that this replacement has now resolved the issues caused by 
+GYL’s failure to carry out a system flush during installation. I think it’s more likely than not 
+that the need to replace this part was caused by GYL’s breach of contract, and therefore that 
+it would have been fair and reasonable, bearing in mind its obligations under section 75 of 
+the CCA, for Creation to cover the cost of replacing this part.
+I think if there are future problems with debris then this will require further investigation 
+before ascribing it to GYL having failed to install the boiler in accordance with the contract.
+Incorrect information given before the sale
+I’ve seen an email from GYL’s salesman in which, when asked if a new boiler would solve 
+banging or tapping noises coming from Mr G’s pipes and radiators, he said:
+“Yes…when we do a full system flush this removes debris and air blockages (common 
+issues for noisy radiators)”.
+I don’t think there is enough information for me to be able to conclude this was a false 
+statement of fact because, as I’ve found above, GYL failed to carry out the system flush 
+during installation. Had it done so, it’s possible this may have resolved the problems Mr G 
+was having with noisy pipes and radiators. Ultimately, I’m unable to conclude GYL made a 
+misrepresentation to Mr G on this point.
+Problems with the servicing agreement and extended warranty
+Mr G’s contract with GYL included ten years of annual servicing and a five year warranty on 
+top of the manufacturer’s ten year warranty. As I mentioned earlier in this decision, GYL 
+went into liquidation in April 2022, meaning it will no longer be able to honour either of these 
+contractual obligations.
+Mr G has had three services completed. One was completed in January 2022, the second in 
+February 2023 and the third in November 2023. All three services appear to have been 
+arranged by BC. For the first service this appears to have been under some form of sub-
+contracting arrangement with GYL. It’s unclear on what contractual basis BC completed the 
+second and third services. It has suggested that it has continued servicing the boiler – and is 
+willing to go on doing so – as a goodwill gesture. I don’t think this remedies GYL’s breach of 
+contract. I’ve not seen evidence that BC have stepped into GYL’s shoes contractually, and 
+that Mr G would therefore be able to hold them to account for future failures to honour the 
+contract. I don’t think it’s reasonable to expect Mr G to accept a remedy which appears to be 
+entirely reliant on the goodwill of a party he didn’t enter a contract with. I also note that the 
+relationship between Mr G and BC is already strained and there are concerns over whether 
+BC will carry out services to the manufacturer’s standards. I note that BC have also not 
+offered to honour the extended warranty.
+In light of the above, I think a more reasonable remedy for GYL’s breach of contract would 
+be for Mr G to be refunded, on a pro-rata basis, for the servicing element of his contract with 
+GYL. This will allow Mr G to arrange his own annual service each year with a supplier of his 
+choosing, in order to maintain his manufacturer warranty.1 
+I’ve seen no evidence that GYL broke down the price of its contract with Mr G, so the value 
+1 I’m aware Mr G is concerned his manufacturer’s warranty has been invalidated, but our investigator 
+has recently contacted the manufacturer, who have confirmed the warranty is in place until 2030, with 
+any call-outs relating to debris blocking the system being chargeable.
+assigned to the ten years of servicing is unknown. It’s therefore been necessary to estimate 
+the value based on the average cost of servicing a boiler in the UK. This appears to be about 
+£100 per service, meaning the ten years of servicing would have had a value of £1,000. 
+Mr G has had three services, so I think it’s fair that he should be refunded £700 in respect of 
+the services we will not receive and which he will need to arrange himself.
+The extended warranty is more difficult to place a value on. The contract states that this was 
+a warranty provided by GYL itself, and it doesn’t make it clear what the warranty would 
+cover. For example, it’s unknown whether the warranty would have covered wear and tear 
+(although I would expect this to be unlikely). And I’ve been unable to find extended 
+warranties on the market which would specifically cover a boiler between 10 and 15 years 
+old, for the purposes of comparison. Given the difficulty in precisely valuing the missing five 
+years, and acknowledging that any solution is going to be imperfect, I think it would be fair to 
+value the “missing” five years by reference to the price of the boiler itself and how long it 
+would be expected to last before requiring replacement.
+The model of boiler Mr G had installed can be purchased for around £1,200 new. Given GYL 
+was willing to provide its own extended warranty until the boiler was 15 years old, it seems 
+reasonable to assume that this model could last up to 15 years, meaning the boiler would 
+“cost” £80 per year. Multiplying this by the five years missing from the warranty leads to a 
+figure of £400. Given the uncertainty around what exactly would be covered under the 
+warranty (and therefore how valuable it would be), and other things such as whether Mr G 
+might decide to replace the boiler earlier, or move house, I think it would be fair and 
+reasonable to divide this figure by two to arrive at a final value of £200.
+As I’ve already said, I appreciate this is an imperfect way of valuing the extended warranty, 
+and I’m willing to consider any other solutions the parties to the complaint want to put 
+forward. However, I’m currently minded that Creation, bearing in mind its liabilities under 
+section 75 of the CCA, should pay to Mr G £144 to cover the cost he incurred in repairing the 
+boiler; £700 to account for the fact that GYL will be unable to honour the next seven annual 
+services; and £200 to account for the fact that that GYL will be unable to honour the 
+extended warranty.
+Mr G’s missed payments
+I understand Mr G missed some payments to Creation because he was dissatisfied with how 
+it was handling his claim. Unfortunately, as our investigator noted, the loan repayments are a 
+separate obligation to any section 75 claim Mr G might have, or any complaint relating to 
+that claim. So if Creation has taken any action as a result of the payments being missed or 
+late, then that isn’t something it would be fair or reasonable for me to require them to 
+reverse.
+Overall conclusions
+I don’t think Creation dealt fairly with Mr G’s claim under section 75 of the CCA. It would 
+have been fair for it to have honoured his claim by reimbursing the costs he incurred in 
+replacing the plate heat exchanger; and providing a pro-rata refund of the ten-year service 
+plan and the extended warranty, neither of which will be provided due to GYL having gone 
+into liquidation. 
+My provisional decision
+For the reasons explained above, I’m currently minded to uphold Mr G’s complaint and direct 
+Creation Consumer Finance Ltd to take the following actions:
+
+Pay Mr G £144 to cover the cost to him of replacing the plate heat exchanger, upon 
+receipt of acceptable evidence of him having paid this. 8% simple interest per year* 
+should be added to this amount, calculated from the date Mr G incurred the cost, to 
+the date he is reimbursed.
+
+Pay Mr G £700 to reflect the remaining value of the ten year service plan which will 
+not be honoured by GYL.
+
+Pay Mr G £200 to reflect the value of the five year extended warranty which will not 
+be honoured by GYL.
+I now invite both parties to let me have any further submissions they would like me to 
+consider, before 2 July 2024. I will then review the case once more.
+*If Creation Consumer Finance Ltd considers that it’s required by HM Revenue & Customs 
+to deduct income tax from that interest, it should tell Mr G how much it’s taken off. It should 
+also give Mr G a tax deduction certificate if he asks for one, so he can reclaim the tax from 
+HM Revenue & Customs if appropriate.
+ 
+Will Culley
+Ombudsman

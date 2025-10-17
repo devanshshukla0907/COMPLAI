@@ -1,0 +1,137 @@
+DRN-4876243
+The complaint
+Mrs N complains that Creation Consumer Finance Ltd registered a missed payment marker 
+on her credit file in relation to a fixed sum loan agreement.
+What happened
+I issued a provisional decision setting out what had happened and what I thought about the 
+complaint. I’ve copied the relevant parts of that decision below – and they form part of this 
+final decision.
+Mrs N took out a loan agreement in April 2022 with a repayment term of 12 months. 
+Repayments of £80.82 were made on the 19th of each month via direct debit. On 23 August 
+2022, the direct debit for that month was returned due to insufficient funds. A late payment 
+fee of £30 was charged, and a payment was made to clear the arrears on 5 September 
+2022.
+In July 2023, Mrs N discovered that a missed payment marker had been registered on her 
+credit file as a result of the August 2022 payment being returned. She contacted Creation to 
+query this. She said she called Creation to warn it that the payment would be returned, and 
+offered to make the payment manually over the phone. She recalled being told that she 
+didn’t need to take any further action.
+Creation responded and said the missed payment marker was correct, as the scheduled 
+payment was missed and not paid for a further two weeks. Unhappy with this response, Mrs 
+N raised a formal complaint. Creation responded to the complaint in October 2023. It agreed 
+that Mrs N had called in August 2022 – but was unable to listen to the call recording as they 
+were only held for 12 months. It said that Mrs N’s account had fallen into arrears – and that it 
+was correct for this to be reflected on her credit file.
+Because Mrs N didn’t agree, she referred her complaint to this service. One of our 
+Investigators looked into the complaint and upheld it. They said Mrs N made Creation aware 
+of her concerns in July 2023 – within 12 months of her call – and that it could have obtained 
+a recording had it looked into the matter at the time. On that basis they thought Mrs N likely 
+offered to make a payment on the phone – so it wouldn’t therefore be fair to charge a late 
+payment fee or record adverse information. They recommended removing the missed 
+payment marker and refunding the £30 charge.
+Mrs N accepted the Investigator’s conclusions, but Creation didn’t. It said it had provided 
+evidence to show the payment wasn’t made on time – so didn’t agree to amend Mrs N’s 
+credit file or refund the charge. It asked for an Ombudsman to consider the complaint – so 
+it’s been passed to me to decide.
+What I’ve provisionally decided – and why
+I’ve considered all the available evidence and arguments to decide what’s fair and 
+reasonable in the circumstances of this complaint.
+I appreciate it would have been upsetting for Mrs N to discover that her credit file had been 
+impacted by the missed payment – especially as she feels she took reasonable steps to 
+make sure the payment was made on time. Lenders have a responsibility to report accurate 
+information about how customers manage their borrowing. It’s not in dispute that Mrs N’s 
+direct debit was returned as unpaid – so the payment wasn’t made on the day it was due. 
+I’ve considered whether this was due to an error on Creation’s part.
+Both parties agree that a call took place on 19 August 2022 – and that Mrs N told Creation 
+she expected the payment to be returned. Mrs N says this is because she hadn’t moved her 
+funds in time to meet her bank’s deadline for the payment to be taken. She recalls offering to 
+make the payment manually over the phone – but was told she didn’t need to, and that 
+Creation would make a further attempt to collect the funds. She says she was under the 
+impression she didn’t need to take any further action. Creation has no record of this being 
+said – just that Mrs N was told to wait and see if the payment would be returned - as it hadn’t 
+been at the time that she called.
+Mrs N raised her concerns with Creation in July 2023 – around 11 months after the call took 
+place. Creation says it only holds call recordings for 12 months, so the recording is no longer 
+available. I can appreciate Mrs N’s frustration here – as the call might have been available 
+had Creation investigated her concerns when she originally raised them. Where evidence is 
+missing, incomplete or contradictory – as it is in this case – I need to consider what more 
+likely than not happened based on the information that is available.
+Creation has provided an extract from its system notes, which contains a brief note taken at 
+the time of the call:
+“CUST SAID DD MAY COME BACK UNPAI (…) ADVISED DD NNOT COME BACK 
+UNPAIND ALOW UNTIL NEXT WEEK AND CALL BCK”
+Although the note is very brief, it’s a contemporaneous record of what was said during the 
+call. While Mrs N’s version of events is slightly different, I need to consider that memories 
+can fade with time, and that the call took place nearly a year before she had reason to query 
+it. That’s not to say I doubt what Mrs N has said – but that I need to decide what’s more 
+likely than not based on the available evidence.
+I’ve considered the possibility that the call note doesn’t contain everything that was 
+discussed. Mrs N’s phone records show that the call lasted just over six minutes – but that 
+doesn’t necessarily mean the conversation lasted that long. Mrs N would likely have been on 
+hold for at least some of the call’s duration. The call note is brief, which I think suggests the 
+conversation wasn’t a long one.
+The call took place on 19 August 2022, which was a Friday – but the payment wasn’t 
+returned to Mrs N’s bank until the following Tuesday. So at the time of the call, as far as 
+Creation was concerned the payment had been made successfully. Although Mrs N said it 
+may be returned, it hadn’t been at the time. This is reflected in Creation’s call note – where it 
+says the payment hasn’t yet come back as unpaid. Because Creation had already received 
+the funds due, I wouldn’t expect it to take a manual payment over the phone. Had the 
+payment not then been returned, this would have resulted in an overpayment.
+The call note says Mrs N was asked to wait and see if the payment was returned and call 
+back the following week. As the payment hadn’t been returned at the time, I think it’s 
+reasonable this would have been agreed as a next step. I can’t see that Mrs N contacted 
+Creation again to follow this up after the payment was returned.
+Creation has provided records to show it sent Mrs N two letters after the payment was 
+returned – on 25 August 2022 and 1 September 2022. It’s provided examples to show what 
+those letters would have said. The first notified Mrs N that her account was in arrears and 
+that it had applied a £30 charge. It asked her to get in touch either online or over the phone 
+to make the outstanding payment. The second letter asked Mrs N to make the payment 
+within seven days to avoid a default sum being added to her agreement.
+A payment was made to clear the arrears on 5 September 2022. Mrs N recalls that this 
+payment was taken by Creation via direct debit as agreed on the phone. Creation says the 
+payment was made manually by Mrs N via an online link. Based on the payment codes 
+included in its account statements, I’m satisfied the payment was made manually rather than 
+via direct debit. This seems consistent with Mrs N having received one or both of the letters 
+from Creation and following the instructions in them.
+Although Mrs N called Creation to warn it that the payment would be returned, the notes 
+don’t reflect what she remembers of the call. The notes show she was asked to get back in 
+touch ‘next week’, but she didn’t call again after the account fell into arrears. While the 
+payment was made, this was more than two weeks after it was originally due. And I don’t 
+think it’s likely on balance that Mrs N was told she didn’t have to take any further action, or 
+that her account and credit file wouldn’t be impacted if the payment wasn’t made when it was 
+due.
+On that basis, I don’t think Creation has acted unfairly by recording a missed payment – as 
+the payment wasn’t made when it was due. I don’t find that the payment was missed due to 
+Creation’s error – so it was entitled to apply a fee in line with the terms of the agreement. For 
+these reasons, I don’t intend to uphold the complaint – and this means I don’t plan to tell 
+Creation to remove the missed payment marker from Mrs N’s credit file, or refund the £30 
+charge.
+Responses to my provisional decision
+Creation said it accepted my provisional decision. Mrs N also said she accepted my 
+provisional decision. She commented that she recalls her conversation with Creation very 
+clearly and remembered writing a note of it – but she doesn’t recall what happened after that 
+conversation took place. She says she accepts that from Creation’s perspective the payment 
+was still in their system when she called – so can understand how my outcome is fair. 
+Overall, Mrs N said she accepts the outcome I reached.
+What I’ve decided – and why
+I’ve considered all the available evidence and arguments to decide what’s fair and 
+reasonable in the circumstances of this complaint.
+I appreciate Mrs N says she clearly recalls her conversation with Creation – and I don’t 
+disregard her testimony around this. But I’ve considered what’s more likely than not – taking 
+all of the available evidence into consideration. Considering the contents of Creation’s call 
+note outlined above, as well as the fact that the payment hadn’t been returned at the time of 
+the call, I’m satisfied Creation more likely than not asked Mrs N to wait and see if the 
+payment was returned and call back the following week. 
+This didn’t happen – and the payment ultimately wasn’t made when it was due. So for the 
+reasons I’ve explained above, I think Creation was entitled to apply a charge in line with the 
+terms of the agreement and report details of the payment to credit reference agencies.
+Both parties accepted the outcome I reached. So, I’ve seen no reason to change my 
+decision that Creation does not need to remove the late payment marker from Mrs N’s credit 
+file or refund the £30 late payment charge.
+My final decision
+My final decision is that I don’t uphold this complaint.
+Under the rules of the Financial Ombudsman Service, I’m required to ask Mrs N to accept or 
+reject my decision before 30 July 2024.
+ 
+Stephen Billings
+Ombudsman

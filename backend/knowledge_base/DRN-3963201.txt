@@ -1,0 +1,84 @@
+DRN-3963201
+The complaint
+Mr F complains that Creation Consumer Finance Ltd trading as Creation provided an 
+incorrect early settlement figure for his loan account and didn’t provide an annual loan 
+statement in 2022.
+What happened
+Mr F opened a loan account with Creation in early 2020. In August 2022 Mr F requested a 
+settlement figure for the loan and paid the amount Creation quoted. Mr F complained that 
+the settlement figure was calculated incorrectly and, that as Creation hadn’t provided a loan 
+statement in 2022, some of the interest he paid should be refunded. 
+Creation said the loan interest had been added to the loan at the start and that the 
+settlement figure had been calculated correctly. Creation said the 2022 annual statement 
+had been emailed to the email address it held for Mr F. Creation apologised for the delay in 
+dealing with Mr F’s complaint.
+Mr F brought his complaint to the Financial Ombudsman Service and one of our 
+Investigators looked into things. The Investigator thought there was no evidence to show 
+Creation had incorrectly calculated the settlement figure and that Creation had emailed a 
+statement to Mr F by email in 2022. Mr F asked that an Ombudsman decides the complaint.
+What I’ve decided – and why
+I’ve considered all the available evidence and arguments to decide what’s fair and 
+reasonable in the circumstances of this complaint.
+I understand Mr F has very strong views that the settlement figure Creation provided for his 
+loan was incorrect and that Creation didn’t fulfil its obligation to provide an annual statement 
+for his loan account. However, for very much the same reasons as the Investigators I’ve 
+decided that Creation acted fairly and reasonably in this case. I will now explain why.
+It may be useful if I first explain how early settlement of a loan works. When a loan is taken 
+out, the total amount the borrower has to pay back is the amount they’ve borrowed plus the 
+cost of borrowing that amount. This is usually the interest and any fees or charges. In this 
+case, the interest was added to the amount borrowed at the start of the loan – it wasn’t 
+charged daily. Commonly, loans are based on an ‘amortisation’ schedule. What that means 
+is that each instalment is made up of some of the amount originally borrowed (also known as 
+“capital” or “principal”) and some of the interest and charges. 
+The loan repayments may be for a fixed amount. But in the earlier stages of the loan term, 
+more of each monthly payment goes on paying the interest – because it’s calculated based 
+on the outstanding balance. And that’s going to be higher at the start. As the borrower 
+progresses through the loan term, and the remaining balance reduces, more of their 
+payment goes on paying off the principal element of that balance. As instalments are paid, 
+the capital balance reduces, and so does the amount of interest.
+If the borrower repays all or some of a loan early, they may not have to pay the interest they 
+would need to pay in the future if the loan ran for its full term. This saving is called a rebate. 
+If a rebate is due, the lender will apply a mathematical formula which is set out in The 
+Consumer Credit (Early Settlement) Regulations 2004 to work out what the rebate should 
+be. The regulations are there to protect borrowers to make sure they don’t pay more than 
+they need to, especially if they repay a loan very early in its term. The formula works out how 
+much of the amount borrowed is left to be repaid and how much of the future interest and 
+charges will no longer need to be paid if the loan is settled by the settlement date.
+In Mr F’s case, he’s provided evidence of settlement figures he obtained using on-line 
+calculation sites. I’ve looked at these, but I note that Mr F hasn’t used the correct number of 
+payments he made on his loan at the date of the calculations. Mr F, by agreement with 
+Creation, took a payment holiday in 2021. This meant that when he applied for an early 
+settlement figure Creation calculated the rebate using the payments Mr F had made to his 
+loan account, and not the number of months it had been open. I’m satisfied that Creation 
+didn’t do anything wrong in this regard.
+Mr F has provided two separate spreadsheets showing how he feels the settlement figure 
+should have been calculated. However, both of these calculations show interest being 
+applied monthly, which wasn’t how Mr F’s loan worked. In Mr F’s case the interest was 
+added at the start, and this is clearly explained in the credit agreement. I think it’s likely this 
+is why Mr F has calculated an early settlement figure that is different to the one provided by 
+Creation. Mr F has questioned whether Creation can add interest to the loan at the start and 
+I’m satisfied it can as long as it offers a rebate on early settlement – which Creation did in 
+this case when it rebated £1275.62 of interest.
+Mr F says he received an annual statement for his loan account in 2021, but not in 2022. I’ve 
+seen evidence that persuades me Creation sent the 2022 statement to an email address it 
+held for Mr F. This is still Mr F’s email address and I consider it’s more likely than not Mr F 
+would have received this statement, albeit may have gone to a ‘junk’ folder. Mr F goes on to 
+say that the annual statement he received didn’t include the statutory information Creation is 
+required to provide under the regulations of the Consumer Credit Act 1974, specifically 
+section 77B. Mr F believes the annual statement must contain a breakdown of the instalment 
+showing how much of it is made up of capital repayment, interest, and other charges. I’ve 
+considered Mr F’s comments, but section 77B specifically relates to what a business must 
+include if a consumer requests a statement and not what must be included in an annual 
+statement of account. So, in this regard, I’m satisfied Creation didn’t do anything wrong as 
+there’s no evidence that Mr F requested a statement of account in 2022.
+I’ve noted that Creation apologised to Mr F that it delayed in dealing with his complaint when 
+it was received. As complaint handling is not a regulated activity, I cannot consider this part 
+of Mr F’s complaint.  
+My final decision
+For the reasons detailed above, I’ve decided not to uphold Mr F’s complaint about Creation 
+Consumer Finance Ltd trading as Creation.
+Under the rules of the Financial Ombudsman Service, I’m required to ask Mr F to accept or 
+reject my decision before 18 July 2023.
+ 
+Paul Lawton
+Ombudsman

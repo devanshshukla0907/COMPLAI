@@ -1,0 +1,119 @@
+DRN-4248901
+The complaint
+Mrs D complains about Creation Consumer Finance Ltd’s response to a claim she made to it 
+under section 75 of the Consumer Credit Act 1974. She’s assisted in bringing this complaint 
+by her son, Mr D. For ease of reading I’ll refer to any actions or submissions by Mr or Mrs D 
+as being from Mrs D.
+What happened
+In October 2021 Mrs D had some replacement doors and windows supplied and fitted by a 
+company “W”. She paid for the work using a fixed sum loan provided by Creation. Shortly 
+after the fitting, Mrs D identified a number of problems with the work W had carried out, most 
+notably in relation to the installation of the front windows, which she felt was defective. She 
+attempted to resolve the issue with W, who over the course of the following months visited 
+her property to make adjustments and check the work had been carried out to an 
+appropriate standard.
+Unfortunately, Mrs D remained dissatisfied with the windows, which continued to be 
+draughty and noisy when it was windy outside. She ended up getting a quote from an 
+alternative fitter to replace the windows at a cost of £1,140, which she sought to claim from 
+W. By July 2022 W considered that it had resolved the problems and wasn’t willing to cover 
+the cost of the replacement windows. Mrs D turned to Creation, which has a potential liability 
+for a breach of contract claim against W under the connected lender liability provisions of 
+section 75.
+Creation made enquiries of W to establish the actions it had taken to rectify the problems. 
+After receiving W’s version of events, Creation declined to meet Mrs D’s claim, saying that W 
+had advised it had carried out repairs to a suitable standard. Mrs D ended up replacing the 
+windows with the alternative fitter in November 2022.
+Mrs D was unhappy with Creation’s response to her claim and asked us to look into matters. 
+Our investigator noted the provisions of the Consumer Rights Act 2015 (“CRA”) and the 
+number of times W had been out to attempt to rectify various issues. He felt this, along with 
+the evidence Mrs D supplied, pointed to the windows failing to meet the threshold for 
+satisfactory quality.
+The investigator wasn’t satisfied that the evidence Creation provided demonstrated W had 
+carried out an effective repair. He recommended that Creation adjust the loan balance by 
+£1,140, that it pay Mrs D £250 compensation for the difficulties she’d experienced, and that it 
+arrange for a different fitter to check the outstanding issue Mrs D had with the other window 
+and door handles.
+Creation has agreed to the investigator’s recommendation of £250 for Mrs D’s distress and 
+inconvenience. It hasn’t agreed to his other recommendations, maintaining the position 
+taken by W that the problems with the windows had been rectified by W in July 2022. It has 
+cited W’s own inspection report in support of that position.
+Our investigator wasn’t persuaded by Creation’s arguments. Creation said it would respond 
+further when it had discussed the matter further with W. However, other than its agreement 
+to the £250 payment mentioned, Creation has provided no further evidence and in the 
+interests of resolving matters, the complaint has been passed to me for review and 
+determination. 
+What I’ve decided – and why
+I’ve considered all the available evidence and arguments to decide what’s fair and 
+reasonable in the circumstances of this complaint.
+The parties accept that the transaction in question meets the requirements – both in financial 
+terms and in the way the arrangements were structured – to enable Mrs D to bring a claim 
+under section 75. For clarity, section 75 has the effect that, if Mrs D has a claim in 
+misrepresentation or in breach of contract against W, she has a like claim (joint and several) 
+against Creation. Here, her claim is one of breach of contract; that is, that the service W 
+undertook to provide to her was not carried out with reasonable skill and care, as 
+incorporated into the contract by the Consumer Rights Act 2015 (“CRA”).
+Creation accept that Mrs D has such a claim. Indeed, given W’s undertaking of rectification 
+work it would be difficult to reach any other conclusion than that the service relating to the 
+original installation failed to meet the appropriate standard. With this in mind, the question is 
+not whether there was a breach of contract, but whether the acknowledged breach was 
+remedied by W’s subsequent rectification work.
+Mrs D considered that it had not. She said the windows were still draughty and there was a 
+whistling sound when it was windy. W provided its own inspection report, dated 14 July 
+2022, signed off by its head of installations. W’s report concluded that it had rectified the 
+problems that had been identified, and that there were no leaks or draughts on the date of its 
+visit. It appears that Creation seeks to rely on W’s report in support of its position that it has 
+no further liability to Mrs D.
+I don’t consider it reasonable for Creation to place as much reliance as it has on W’s report. 
+Aside from the rather basic position that a report compiled by W can’t properly be considered 
+to be independent evidence, W’s letter of 22 July 2022 advised there was no wind on the 
+day the inspection was carried out. I can’t therefore see how it provides Creation with 
+sufficient evidence that the additional work resolved the problems caused by the original 
+installation.
+I’m conscious that it is now not possible to obtain an independent inspection that might have 
+properly established whether the noise and draughts persisted after W completed its work. 
+I’ve no reason to think Mrs D would have proceeded in November 2022 to replace the 
+windows if the problems had been fixed. Further, it was open to Creation to obtain and 
+provide persuasive evidence that an effective remedy had been performed before Mrs D had 
+the windows replaced. She informed it of her claim in early August 2022, and it set out its 
+response later that month. If that opportunity has since passed, I don’t consider Creation can 
+fairly argue that was down to Mrs D’s actions.
+I’ve noted the comments relating to the window and door handles, and it seems that this 
+remains an outstanding concern that requires further inspection and possibly rectification. 
+I’m satisfied Mrs D raised it within the guarantee period and within a reasonable time period 
+that might apply under considerations of durability. So I find it appropriate to include this 
+aspect within the overall resolution intended to bring matters to a close.
+It doesn’t seem to me reasonable to say that Creation has done enough to demonstrate it 
+has had proper regard for its potential liability to Mrs D, given the known shortcomings of 
+W’s report and the onus the CRA places on the trader (and by extension, Creation) to 
+demonstrate the work conformed to contract. It follows that I am upholding Mrs D’s 
+complaint.
+Putting things right
+The remedies available to Mrs D under the CRA include – but aren’t limited to – requiring 
+repeat performance, a price reduction, reimbursement where consideration for payment of 
+the money has failed, and a damages claim. Noting that Mrs D has replaced the windows 
+(which appears to have addressed the problems she was experiencing), some of those 
+remedies are no longer appropriate. And some of them have broadly the same effect as 
+each other.
+Bearing all of this in mind, I share our investigator’s view that to settle Mrs D’s complaint 
+(and by way of addressing Creation’s liability for the breach of contract claim), Creation 
+should – within 28 days of receiving Mrs D’s acceptance of this decision – take the following 
+steps:
+1.
+apply a credit of £1,140 to Mrs D’s finance balance to reflect the additional cost she’s 
+incurred in addressing the problems caused by W’s installation. For the avoidance of 
+doubt, this credit should be backdated to November 2022, when Mrs D replaced the 
+windows
+2.
+pay Mrs D £250 (as it has already agreed to do) in recognition of her distress and 
+inconvenience
+3.
+arrange for an appropriate business to inspect the outstanding issues with the 
+window and door handles, and pay for any remedial work identified as necessary
+My final decision
+My final decision is that I uphold this complaint and direct Creation Consumer Finance Ltd to 
+take the steps I’ve set out above. 
+Under the rules of the Financial Ombudsman Service, I’m required to ask Mrs D to accept or 
+reject my decision before 22 September 2023.
+ 
+Niall Taylor
+Ombudsman

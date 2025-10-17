@@ -1,0 +1,132 @@
+K821x#15
+complaint
+Mrs H is unhappy with the outcome of her complaint about a claim she made against 
+Creation Consumer Finance Ltd, under Section 75 of the Consumer Credit Act 1974 (the 
+‘Act’), after her solar panel system stopped working.
+background
+Mrs H had a solar panel system fitted in early 2015 by a supplier that has since gone bust. 
+Creation financed the installation with a 10-year loan. The system worked initially. But in 
+September 2017, Mrs H reported to Creation that it was no longer functioning. 
+The supplier had given Mrs H an insurance-backed guarantee for the work. But the insurer 
+providing the backing to the guarantee had also gone bust. So, Mrs H tried to take her claim 
+to a company that was working with the Financial Services Compensation Scheme (‘FSCS’), 
+following up on claims against the insolvent insurer. But she was advised by them that she’d 
+only have 90% of her claim paid if she did. They told her that, as financier, Creation would 
+be liable to pay 100% under Section 75 of the Act. So, she went to Creation for help.
+Creation took over six months to deal with Mrs H’s claim and complaint. Mrs H chased 
+Creation up over this time. And she’s told us she spent significant periods on the phone to a 
+premium rate number. She also says that her emails weren’t returned. In its final response to 
+the complaint, Creation said that a fault hadn’t yet been confirmed, so it wouldn’t deal with 
+the claim.
+Creation referred Mrs H to its own insurer to follow up on what the problem was. The Insurer 
+sent out an engineer who issued a report finding that there was a fault with the inverter. Mrs 
+H was told that she’d need to take this up with the manufacturer. So, she gave them a call. 
+The manufacturer said it would be prepared to come out. But that as it was located many 
+miles from where Mrs H lived, she’d need to cover its travel costs. These were estimated at 
+over £300.
+So, Mrs H went back to Creation, which continued to maintain that it was a manufacturing 
+fault and that she’d need to deal with the manufacturer. Mrs H brought her complaint to this 
+service.
+Once we were involved, Creation contacted the manufacturer who said that the fault 
+identified was extremely rare. The manufacturer said it would come out and take the inverter 
+away for examination. But it indicated there could be a problem with the wiring in Mrs H’s 
+home that had caused the malfunction. Creation said it would pay the costs of the 
+manufacturer for attending. But it wouldn’t agree that it was liable unless or until Mrs H’s 
+electrics were ruled out as being at fault.
+This was in March 2020 when the country went into lock-down. So, the manufacturer 
+couldn’t attend immediately. Our investigator explored whether the claim could be cash-
+settled. But this was never agreed and after some further recommendations from an 
+investigator, the matter ultimately came to me for decision.
+In advance of this final decision, I issued a provisional decision in which I indicated my 
+intention to uphold the complaint. Both parties accepted that provisional decision.
+Ref: DRN3256681
+2
+my findings
+I’ve considered all the available evidence and arguments to decide what’s fair and 
+reasonable in the circumstances of this complaint. And I’ve decided to uphold it. I’ll explain 
+why below.
+In my provisional decision, I made the following findings:
+‘Section 75 of the Act provides that a consumer can bring their claim against the original 
+supplier and/or the finance provider who are both jointly and severally liable for any breach 
+of contract or misrepresentation. Here the original supplier has gone bust, so Mrs H had little 
+choice but to bring her claim to Creation.
+This is a case where the solar panel system worked on installation but failed two years or so 
+later. That failure has been determined to have been caused by a fault with the inverter 
+which is showing an error code. Its durability must clearly be in question as it has broken 
+down only two years into a 10-year finance agreement.
+Mrs H had the benefit of an insurance-backed guarantee from the supplier. As it was no 
+longer around to come out and fix the system, she was left to fall back on either the insurer 
+or Creation. The insurer had gone bust. So that just left Creation. And it was required under 
+Section 75 to deal with the breach of contract by the supplier and insurer in not coming to 
+Mrs H’s aid under the guarantee.
+Creation took far too long to deal with Mrs H’s Section 75 claim. And when it did give her it’s 
+final response letter, it passed her on to its own insurers. I don’t think Mrs H should have had 
+to go to the effort of following this up with yet another third party. It was for Creation to make 
+the arrangements for its insurers to come out and inspect the system, if that’s how it wanted 
+to handle the claim. Telling Mrs H that it wasn’t responsible as there was no fault identified, 
+when her solar panel system clearly wasn’t working and the insurance-backed guarantee 
+hadn’t been fulfilled, wasn’t an appropriate response to her claim for a breach of contract. 
+The insurer’s engineer’s report indicates a failed inverter with error code ‘9’ – ‘AC current 
+sensor failure’. The insurer and Creation then told Mrs H that she’d need to deal with the 
+manufacturer herself to get this fixed. That wasn’t fair and reasonable. It was for Creation to 
+stand in the shoes of the original supplier to honour the insurance-backed guarantee and to 
+deal with any failed parts that weren’t of satisfactory quality.
+The manufacturer wanted to charge Mrs H over £300 to come out and look at the inverter. 
+And, again, it wasn’t fair and reasonable for Creation to have asked Mrs H to either deal with 
+the manufacturer directly or to cover those travel costs herself. The inverter had failed just 
+over two years after installation. The fact that it had worked up until then, indicates that it’s 
+unlikely that it was Mrs H’s electrics that were to blame. And if there was a problem with the 
+electrics, I would have expected the original supplier to have noted that when the system 
+was first installed. The error code ‘9’ may be rare, but it was for Creation to liaise with the 
+manufacturer to find out the cause and remedy it. And it hasn’t done that.
+The finance for Mrs H’s system has been provided over 10 years. And she was fairly and 
+reasonably entitled to expect that the inverter would last for a good deal longer than two 
+years. The Sale of Goods Act 1979 applies to this installation. And the inverter was required 
+to be of satisfactory quality. There’s no indication that wear and tear could be an issue here, 
+given its age. And the engineer found that it was displaying a fault code. So, on the basis of 
+Ref: DRN3256681
+3
+the evidence available, it’s my finding that the inverter is more likely than not faulty and that 
+this was something that was likely to have been an inherent fault at the time of the original 
+installation. So, it wasn’t of satisfactory quality and Creation is now responsible for that.
+Creation has given Mrs H quite the run-around over what is coming up to three and a half 
+years. During this time, she’s been without her solar system but has continued to pay for it 
+monthly. Mrs H would have expected not only to save on electricity, but also would have 
+been entitled to Feed in Tariff (FIT) payments from the government over the period. So, she 
+has suffered a financial loss.
+I’ve considered what fair compensation for this would be. And I’ve provisionally decided that 
+Creation should refund Mrs H her finance payments for the period since she first reported 
+the system problems, in September 2017, until Creation arranges for the system to be fixed. 
+I did think about whether or not Mrs H should be asked to go to the trouble of proving her 
+exact loss in terms of FIT payments and electricity over the period. But the monthly 
+instalments are about £129, and a significant proportion of those is interest. Mrs H has had 
+no benefit at all from the system over this period. So, it’s difficult to see that it’s fair and 
+reasonable to require her to pay for something over this lengthy period where it has not been 
+working at all. So, I consider the refund of the monthly payments to be fair compensation for 
+the loss that Mrs H will have suffered.  
+Mrs H also experienced trouble and upset through the way she’s been treated over the time 
+this claim has taken. And I’ve taken that into account in the award I intend to make for the 
+instalment refunds. But Mrs H also had to spend a significant amount of time pursuing her 
+claim in the first place. Her emails weren’t responded to and she had to make a number of 
+lengthy phone calls. For the trouble and upset she experienced for that, I intend to award her 
+£250 compensation.’
+Both Mrs H and Creation have accepted the findings in my provisional decision. So, I see no 
+need to amend those. And I now adopt them as my findings in this final decision.
+Ref: DRN3256681
+4
+my final decision
+It’s my final decision to uphold this complaint. I require that Creation Consumer Finance Ltd 
+do the following:
+
+arrange for the repair or replacement, as appropriate, of the faulty parts of Mrs H’s 
+solar panel system and/or remedy its installation, so that it works properly again;
+
+refund Mrs H the monthly finance instalments for the period from September 2017 
+when she reported the faults until the system is repaired; and
+
+pay Mrs H £250 for the trouble and upset that she’s been caused.
+Under the rules of the Financial Ombudsman Service, I’m required to ask Mrs H to accept or 
+reject my decision before 11 April 2021.
+James Kennard
+Ombudsman
+Ref: DRN3256681

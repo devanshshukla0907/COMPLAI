@@ -1,0 +1,155 @@
+K821x#14
+complaint
+Mr D complains that a sofa, which was financed by a loan from Creation Consumer Finance
+Limited, trading as Creation, was misrepresented to him.
+background
+Mr D bought a sofa in November 2013 with finance provided by a fixed sum loan agreement
+with Creation. Mr D said that the sofa was misrepresented to him by the supplier of the sofa,
+K. He said that K’s salesman, Mr B, told him that the Bluetooth receiver in the sofa would
+work with other Bluetooth devices and that it would connect to any Smart TV. In reliance on
+this statement, Mr D bought the sofa. And, before delivery of the sofa, he also bought a
+Smart TV in December 2013 from another retailer as he was attracted by the TV playing
+through the sofa. But, when the sofa was delivered in February 2014, it did not connect to
+the Smart TV. Mr D has since discovered that even though the Smart TV had Bluetooth
+capability, it was not compatible with the Bluetooth device in the sofa. This was contrary to
+what Mr B had led Mr D to believe.
+our adjudicator’s view
+The adjudicator concluded that that there was sufficient information to suggest that Mr D was
+informed that the sofa would be compatible with any Bluetooth device, which was not true.
+He recommended that Creation should:-
+- Cancel the agreement and take collection of the sofa;
+- Refund 25% of the monthly payments; and
+- Pay Mr D £100 compensation for the distress and inconvenience caused.
+Creation disagreed and responded to say, in summary, that it was incorrect to say that the
+sofa was not fit for purpose as at the time of the purchase of the sofa, Mr D did not have the
+Smart TV. It said that it was Mr D’s fault that he had bought the wrong TV.
+my provisional decision
+After considering all the evidence, I issued a provisional decision on this complaint to Mr D 
+and to Creation on 21 May 2015. I summarise my findings:
+ As the evidence was incomplete, inconclusive, or contradictory, I reached my decision on 
+the balance of probabilities – in other words, what I considered was most likely to have 
+happened in light of the available evidence and the wider circumstances.
+Mr D’s complaint was brought against Creation under section 75 of the Consumer Credit
+Act 1974 (“CCA”). The general effect of section 75 is that if Mr D has a claim for
+misrepresentation against K, he can also bring that claim against Creation. To be able to
+uphold that the sofa was misrepresented to Mr D, I would need to be able to conclude not
+only that Mr D was given incorrect information, but also that he was induced into buying the
+sofa and entering into the loan agreement because of that information.
+It was not possible to be sure what was discussed between Mr B and Mr D before Mr D 
+bought the sofa. Mr D had said that he was told by Mr B that the sofa had a built-in Bluetooth 
+device which would connect to any Smart TV. I could see that Mr D was attracted by this 
+idea, and so he bought the sofa and also decided to buy a Smart TV to take advantage of 
+Ref: DRN8319276
+2
+the Bluetooth technology within the sofa. He bought the TV in December 2013 before the 
+sofa was delivered to him in February 2014. I noted that Mr D contacted K when he 
+discovered that the sofa did not connect with the Smart TV. Mr D said that he was again told 
+that the sofa should link up with Bluetooth systems.
+I had seen a copy of Mr B’s statement. It said that Mr B could confirm that the sofa would
+work with any compatible Bluetooth transmitter. Mr B also said that any device with a
+Bluetooth transmitter would work with the sofa as the sofa unit was a Bluetooth receiver.
+Creation had provided this service with a link to the manufacturer’s manual for Mr D’s
+Smart TV. I could see that this did refer to the TV having a Bluetooth function although its
+manufacturer had since said that the TV would not connect to every Bluetooth device. It is
+unfortunate that Mr B did not provide Mr D with the same caveat.
+In view of Mr B’s statement which confirmed his belief that the sofa would work with “any
+device with a Bluetooth transmitter”, on balance, I considered that it was more likely than not 
+that he would have said this to Mr D when selling the sofa. I also noted that Mr B had a 
+Smart TV which was able to connect to a Bluetooth transmitter. So, I considered that it was 
+also possible that Mr B would have told Mr D that the sofa could connect to any Smart TV.
+As I found Mr D’s evidence and subsequent behaviour to be credible, I accepted that
+Mr D relied on Mr B’s statements, and that they induced him into buying both the sofa and
+the Smart TV. 
+I also considered that Mr D would have checked to ensure that he bought a compatible TV if 
+he had been told by K that not all Smart TVs could connect to the Bluetooth within the sofa. 
+This meant that, on balance, I was satisfied that the sofa was misrepresented to Mr D and it 
+was fair that Creation was held liable for this.
+Mr D had explained in correspondence that his whole room had been designed and the
+furniture in it had been bought to fit around the sofa. Mr D did not refer to any problems
+with the sofa other than the lack of connection with the TV. So, I did not agree with the
+adjudicator’s recommendations that the sofa should be collected, and the agreement
+cancelled.
+As Mr D was most concerned about the connection of the TV to the sofa, I wondered 
+whether he had explored the use of a Bluetooth dongle/transmitter. I understood that this 
+could make a TV, or other device, Bluetooth compatible. And I considered that it was 
+possible that a Bluetooth transmitter, which was compatible with the sofa, could be 
+purchased. This would be a swift solution to the problem if the right dongle/transmitter could 
+be found. If Mr D was able to buy this, I said that the cost of it should be reimbursed by 
+Creation.
+If such a dongle/transmitter was not available, I proposed that Mr D’s Smart TV be collected 
+by Creation at its cost, and that it refunded Mr D the amount of £1,079 which he had paid for 
+his Smart TV. I considered that it would be reasonable for Creation to pay this amount to 
+Mr D to enable him to buy a compatible Smart TV.
+I also noted that Mr D believed that K should have done more to assist him with this issue. 
+But, I could not require Creation to compensate Mr D for the trouble and upset caused by K’s
+failings, as this service does not generally award such compensation for claims brought
+under section 75 of the CCA.
+Ref: DRN8319276
+3
+For the reasons I had explained, but subject to any further information or evidence I might
+receive from the parties, my provisional decision was that I am minded to uphold this 
+complaint in part. In full and final settlement of it, I intended to order Creation Consumer 
+Finance Limited, trading as Creation, to refund Mr D the cost of a Bluetooth 
+dongle/transmitter which was capable of making the Smart TV compatible with the sofa. The 
+refund should be made after Creation had had sight of Mr D’s receipt for the purchased item. 
+If such an item was not available, Creation should collect Mr D’s Smart TV at its cost and 
+pay him £1,079 as a refund for that TV.
+Creation responded to say that it agreed to cover the cost of a Bluetooth transmitter up to 
+the value of £100.
+Mr D disagreed and responded to say, in summary, that:-
+1.
+The supplier, K, was to blame as it had mis-sold the sofa, and he wanted to know 
+why I had not ordered K to pay him compensation;
+2.
+He was unable to locate a dongle/transmitter which would connect the TV to the sofa;
+3.
+The TV fitted in his room and he had also spent more money buying a special stand 
+for the TV to hide its wires; 
+4.
+He had suffered inconvenience for 16 months and he was paying insurance for an 
+item he could not use; and
+5.
+He would like to reject the sofa.
+my findings
+I have considered all the available evidence and arguments to decide what is fair and 
+reasonable in the circumstances of this complaint.
+I note that Creation has agreed to cover the cost of the Bluetooth transmitter. But Mr D has 
+spoken to the manufacturer for his TV, and it said that no Bluetooth transmitter will work with 
+the TV. 
+So, as I anticipated in my provisional decision that such a transmitter might not be available, 
+I consider that it would be reasonable for Creation to collect Mr D’s Smart TV at its cost and 
+pay him £1,079 as a refund for that TV, to enable him to then buy a compatible Smart TV. I 
+note that K said that there are Smart TVs which will work with Mr D’s sofa. In order that Mr D 
+does not have a problem with compatibility again, I suggest that he takes details of his sofa 
+unit to a television retailer, so that the retailer can advise him which televisions will be 
+compatible.
+Mr D is unhappy that I haven’t ordered compensation. But as Mr D complained to Creation 
+who then issued its final response to him, this complaint has been processed against 
+Creation. I can’t require Creation to pay compensation under section 75 of the Consumer 
+Credit Act.
+I note that Mr D would like a refund for the stand which he bought for the TV at a cost of 
+£217.49. But, I note that the stand wasn’t specially made for the TV which Mr D bought, and 
+that it can be used for other TVs up to 60 inches wide. I consider it is more likely than not 
+that Mr D will be able to use the stand with a replacement TV. So, I’m not persuaded that a 
+refund should be ordered for it.
+Ref: DRN8319276
+4
+Mr D would also like a refund for part of the five year warranty which he has paid for his 
+whole suite for a five year period to cover it against accidental damage to the leather and 
+structural defects. Mr D said that he wasn’t able to use the unit, so he shouldn’t have to pay 
+for the insurance for this. But I note that the unit includes spaces to hold drinks, and on 
+balance, I consider it’s likely that these would have been used. So, in these circumstances, I 
+don’t consider that a refund would be reasonable.
+Mr D has again said that he would like to reject the sofa, but for the reasons set out above, I 
+do not consider that this would be appropriate. 
+I appreciate that this is not the outcome which Mr D wants. But he does not have to accept 
+my decision and may pursue his case by alternative means should he wish to do so.
+my final decision
+My decision is that I uphold this complaint in part. In full and final settlement of it, I order 
+Creation Consumer Finance Limited, trading as Creation, to collect Mr D’s Smart TV at its 
+cost, and pay him £1,079 as a refund for that TV.
+Under the rules of the Financial Ombudsman Service, I am required to ask Mr D to accept or 
+reject my decision before 28 August 2015.
+Roslyn Rawson
+ombudsman
+Ref: DRN8319276

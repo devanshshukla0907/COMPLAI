@@ -1,0 +1,156 @@
+ 
+ 
+DRN-5305323 
+ 
+ 
+The complaint 
+ 
+Mr J has complained about the way Creation Consumer Finance Ltd “Creation” responded to 
+his claim against it under Section 75 of the Consumer Credit Act 1974. 
+ 
+What happened 
+Mr J bought a solar panel system for his home in 2022 – this also included a battery. The 
+purchase was funded by a loan from Creation, and that business is therefore liable for the 
+misrepresentations and/or breach of contract under the relevant legislation. In this case, Mr J 
+alleges that the supplier misled Mr J into believing that that the 5.2 kWh battery could be 
+used to its full capacity – but he later discovered he could only utilise 80% of its capacity.  
+ 
+Mr J felt he had been mis-led about the battery, and that while the supplier had used 
+firmware to increase the battery’s efficiency – to 100%, it hadn’t been transparent about the 
+way this update was installed. He had agreed to the update but assumed it was a general 
+update and he hadn’t known about the problem with the battery utilisation issues. He felt the 
+supplier had mis-led him and hadn’t been transparent about the issues with the battery.  
+ 
+Creation didn’t uphold his complaint. It said that it had considered his section 75 claim but 
+felt the supplier using firmware to ensure the battery can be used to its full 100% capacity 
+was a fair solution.  It also said the supplier had offered him £100 for the inconvenience he 
+had suffered. Creation also pointed out that Mr J had taken the supplier to an alternative 
+dispute resolution service directly, which also found that the supplier’s solution was a fair 
+outcome. Finally, Creation said Mr J’s concerns about the lifespan and efficiency was not 
+backed up by any evidence.  
+ 
+Mr J reiterated that he didn’t feel the solution was a fair resolution to his complaint so 
+referred the matter to this service. He said that when the supplier asked him about the 
+update, it hadn’t told him why the update was necessary so he agreed to it unaware that 
+he’d been given a battery that couldn’t be used to its full capacity. He added that the battery 
+and firmware wasn’t being sold in the general market – and the battery is now marketed at 
+being able to only utilise 80% of its capacity. He added that he believed the firmware would 
+affect the lifespan and effectiveness of the battery.  
+ 
+Mr J’s complaint was considered by one of our investigator’s. She didn’t agree with Mr J’s 
+complaint. While she felt that the supplier had led him to believe that the battery could be 
+used to its full capacity, at the time of sale, it had believed this was the case. The issues with 
+the battery came to light a few months later. She also felt the firmware update was a fair 
+response to the issue and she didn’t think Creation needed to do anything more. She also 
+highlighted that the battery was under warranty and the manufacturer had agreed that the 
+warranty would be unaffected by the update (and it seemed like the firmware had come from 
+the manufacturer). She reiterated that the manufacturer had said the firmware would 
+improve the performance of the battery.  
+ 
+Mr J disagreed. He reiterated that he was concerned about the lifespan and effectiveness of 
+the battery so had the firmware removed (using a party other than the supplier). So, the 
+battery was now again only able to utilise 80% of its capacity. He felt if the firmware had 
+ 
+ 
+been an appropriate fix, it would be sold in the general market alongside the battery so it 
+could be used to maximise the battery’s usage, rather than the battery being sold as only 
+being able to use 80% of its capacity. He felt this supported his claim that the firmware would 
+impact the efficiency and lifespan of the battery. Mr J asked for a period of 6 weeks to 
+enable him to submit further evidence.   
+ 
+As the complaint couldn’t be resolved by our investigator, I’ve been asked to make a 
+decision having waited the 6 weeks. No further evidence has been submitted.  
+ 
+What I’ve decided – and why 
+I’ve considered all the available evidence and arguments to decide what’s fair and 
+reasonable in the circumstances of this complaint. 
+It may be helpful to explain that I need to consider whether Creation – as a provider of 
+financial services – has acted fairly and reasonably in the way it handled Mr J’s claim. But 
+it’s important to note Creation isn’t the supplier. Section 75 is a statutory protection that 
+enables Mr J to make a ‘like claim’ against Creation for breach of contract or 
+misrepresentation by a supplier paid using a fixed sum loan in respect of an agreement it 
+had with him for the provision of goods or services.  
+ 
+There are certain conditions that need to be met for section 75 to apply. From what I’ve 
+seen, those conditions have been met and Creation has also appeared to agree that Section 
+75 applies.  
+ 
+I’ve considered if there is persuasive evidence of a breach of contract or misrepresentation 
+by the supplier that means Creation should have offered something different when handling 
+Mr J’s claim. But I want to explain from the outset that I can only consider Mr J’s complaint 
+on that narrow basis – that is, whether it was fair and reasonable for Creation to respond to 
+his claim in the way it did, of if anything further should have been offered. 
+ 
+Having carefully considered everything provided, for broadly the same reasons as those 
+explained by the investigator, I do not uphold this complaint. 
+ 
+It’s not in dispute that Mr J was sold a 5.2kWh battery and was told it could be utilised to 
+100% of its capacity. The sales quotation document does set this out. It’s also not in dispute 
+that upon installation – this is not what Mr J received. There was a false statement made. 
+Mr J said this induced him, so it could be considered a misrepresentation, albeit an innocent 
+one. It’s also not in dispute the goods weren’t as described which could be a breach of 
+contract. Breach of contract and misrepresentation have different remedies that could be 
+applied, so I’ve considered what’s happened next and if anything else needs to be done.  
+ 
+So, as explained above, the matter left in dispute is whether this matter has been put right 
+fairly and reasonably or whether Creation, as the finance provider, needs to do something 
+differently. Like our investigator, I don’t think Creation acted unfairly by making the decision 
+not to offer Mr J anything different and I’ll explain why.  
+ 
+The manufacturer (through the supplier) produced a firmware update that enabled Mr J’s 
+battery to work at 100% of its capacity which is what he was promised at the point of sale 
+and what Mr J wanted. I think this resolves the issues above – as at this point Mr J had a 
+battery without the capacity limitations he hadn’t wanted.  
+ 
+Mr J also accepted the update when it was offered to him. I understand Mr J said the 
+supplier hadn’t broken down exactly what the update was for, and he has assumed it was a 
+general update – he feels the supplier hadn’t been fully transparent. But I’ve seen an 
+ 
+ 
+example of the email sent offering the update – and it did say that it would improve the 
+performance of the battery and that there would be new upper and lower limits. I understand 
+it doesn’t appear to break down the capacity issues in the way Mr J would’ve liked – but I 
+think with products such as this, the balance in providing technical information and not 
+confusing customers is a difficult one. And Mr J could’ve asked for further information at the 
+time if he had wanted more details – instead he went ahead and accepted the update.   
+ 
+I understand Mr J simply does not want this battery and wants one that is sold in the general 
+market with 5.2kWh capacity or above that runs at 100%. He is worried, understandably, 
+about the lifespan and durability of the battery following the firmware update. I understand to 
+such an extent that he’s now had the battery reverted back to running at its original 80% 
+capacity.  
+ 
+I sympathise with Mr J’s concerns about the lifespan of the battery with the firmware update. 
+But generally, a machine running continually at 100% may not last as long as that same 
+machine running at 80%. Manufacturers can cap different products at certain capacities to 
+encourage them to last longer but this doesn’t mean the products are inherently faulty or 
+aren’t of satisfactory quality. And I have to bear in mind that Mr J had wanted a battery that 
+could and would run at 100% and had the durability of a battery that runs at 100% - this was 
+what he was ultimately given.  
+ 
+I’m not a battery expert and am reliant on the evidence being produced by both parties to a 
+complaint. I’ve seen no supporting evidence that this firmware update has impacted the 
+durability or lifespan of the battery to such an extent that it’s no longer of satisfactory quality. 
+The firmware update appears to have been done by the manufacturer itself rather than some 
+workaround created by a third party and Creation has confirmed the warranty has remained 
+unaffected by the update. And the update was accepted by Mr J at the time it was offered.  
+So, without sufficient supporting evidence, I don’t think Creation was unfair to not uphold his 
+complaint on the basis that any problems had not been effectively remedied.  
+ 
+Overall, I’m satisfied that Mr J was sold a battery that did not work as he was promised it 
+would. But I’m also satisfied that, based on the available evidence, the supplier produced an 
+effective update which was a fair and reasonable solution to the problem. So, I don’t think 
+Creation acted unfairly by refusing to offer Mr J any further remedies in response to his claim 
+against it. I understand the supplier also offered Mr J £100 for the inconvenience he 
+suffered, and, in this case, I can’t fairly direct Creation to pay any more.   
+ 
+My final decision 
+For the reasons I’ve explained, I don’t uphold this complaint. 
+ 
+Under the rules of the Financial Ombudsman Service, I’m required to ask Mr J to accept or 
+reject my decision before 15 April 2025. 
+  
+ 
+Asma Begum 
+Ombudsman 
+ 

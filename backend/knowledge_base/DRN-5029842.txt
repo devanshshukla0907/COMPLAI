@@ -1,0 +1,146 @@
+ 
+ 
+DRN-5029842 
+ 
+ 
+The complaint 
+ 
+Mr R’s unhappy that Creation Consumer Finance Ltd hasn’t accepted responsibility for a 
+claim he’s made against it under the connected lender liability provisions of section 75 of the 
+Consumer Credit Act 1974 (“section 75”). 
+ 
+Background 
+I recently issued my provisional conclusions setting out the events leading up to this 
+complaint, and how I thought Frasers should resolve it. I’ve reproduced my provisional 
+findings below, which form part of this final decision. 
+Mr R’s concerns relate to a dispute with a third party (I’ll call this party “T”) he engaged to 
+supply and fit solar panels to his roof. Under section 75 provisions, if T said something 
+untrue that induced Mr R into the contract, or if T breached its contract with Mr R, then he 
+may be able to claim against Creation as it financed the transaction. 
+In 2014, Mr R entered into an agreement with T to have some solar panels fitted to his 
+property. The agreement was funded using finance from Creation, who paid T directly. 
+Shortly after the panels were fitted, Mr R suffered water damage to his property, which he 
+attributes to the way in which T installed the panels and associated cabling. As I 
+understand it, he raised the matter with T, who disputed that its actions were responsible 
+for the water ingress. Mr R maintained his view but was unable to get T to accept liability. 
+T later ceased trading and was dissolved in 2019. 
+ 
+Mr R says that in 2023 he became aware that section 75 meant he could make a claim 
+against Creation as the credit provider in the transaction. He raised a breach of contract 
+claim in July 2023 in relation to the way in which the installation was carried out. Creation 
+acknowledged that Mr R had made a claim, but didn’t respond in any meaningful way, 
+other than in October 2023 to say Mr R could refer a complaint to our service. Mr R duly 
+did so. 
+My provisional findings 
+While there are undoubtedly shortcomings in Creation’s handling of matters for which he 
+should receive compensation, I can’t properly require Creation to accept Mr R’s section 
+75 claim, or to pay him compensation equivalent to the amount of that claim. I’ll explain 
+why. 
+ 
+There’s no dispute here that section 75 applies to the transaction involving Mr R, T and 
+Creation. The necessary elements all appear to be in place such that Mr R could make a 
+claim in breach of contract against the lender under the provisions of relevant legislation. 
+Mr R entered into the contract with T in 2014, before the implementation of the Consumer 
+Rights Act 2015 (“CRA”), which wasn’t retrospective. So the relevant legislation to take 
+into account here instead includes the Supply of Goods and Services Act 1982 (“SGSA”), 
+which applies to consumer contracts not covered by the CRA. 
+ 
+ 
+ 
+Section 13 of SGSA has a similar effect as the CRA provision that replaced it, in that it 
+says that in a relevant contract for the supply of a service, where the supplier – in the 
+case, T – is acting in the course of a business, there is an implied term that the supplier 
+will carry out the service with reasonable care and skill. 
+ 
+But having the right to bring a claim is not the same as saying that claim will be 
+successful. It’s open to Creation to defend the claim, which it can do by reference to 
+evidence rebutting Mr R’s arguments, or other defences to the claim, which might include 
+but are not limited to, the Limitation Act 1980.  
+ 
+The provisions of that Act provide a defence to a claim for breach of simple contract (as is 
+the case here) where that claim’s brought more than six years after the cause for action 
+arose. The cause for action here is T’s alleged failure to carry out its service with 
+reasonable care and skill. So cause for action arose in 2014, when the panels were 
+installed. 
+ 
+So in order for Creation to be liable to Mr R to meet his breach of contract claim, he’d 
+need to satisfy at least all of the following: 
+• 
+T failed to keep to its part of the bargain by not carrying out the installation service 
+with reasonable skill and care, breaching its contract with Mr R; 
+• 
+the effect of the breach has caused Mr R loss or damage for which he’s entitled to 
+seek restitution; and 
+• 
+Mr R informed Creation of his claim within six years of T’s breach (in other words, no 
+later than 2020) 
+ 
+I can see there are some elements Mr R can demonstrate, and some that he might be 
+able to make a persuasive argument for. But there are other aspects – most notably, the 
+date of the alleged breach, that Creation might have a fair chance of defending 
+successfully, based on what it might raise should the claim be considered by a court. 
+Even though Creation did not raise this defence in the course of dealing with Mr R’s 
+claim, I can’t simply disregard its existence when considering what constitutes a fair and 
+reasonable conclusion to this complaint. If Creation isn’t liable to meet Mr R’s claim, I 
+can’t fairly require it to do so in order to deal with his complaint. 
+ 
+There are obvious flaws in the way Creation’s handled its response to Mr R’s complaint. It 
+should have done much more to engage with his concerns, and to offer some sort of 
+meaningful response. I would also remind Creation of its continuing obligation to engage 
+with our service in our efforts to resolve matters. I don’t have any power to make a 
+punitive award, but it is apparent that Mr R has been put to unnecessary and material 
+distress and inconvenience in having to pursue matters as he has. Creation could have 
+avoided these problems by providing Mr R with a response to his claim, even if that 
+response was to decline to meet the claim. 
+ 
+In light of what I’ve said, I don’t believe I can properly find that fair compensation for the 
+shortcomings in its complaint handling would involve Creation covering the breach of 
+contract claim. Overall though, I think it’s right that Creation pays Mr R compensation for 
+the problems he’s experienced due to its handling of his concerns. My current view is that 
+£350 is a fair sum in this respect. 
+ 
+Additional observations 
+ 
+While it has no bearing on my finding in relation to Mr R’s dispute with Creation, I think it’s 
+appropriate to note that some of the documents relating to the installation appear to 
+ 
+ 
+provide for an insurance-backed guarantee in relation to the solar panels. It’s unclear to 
+me whether this extends to the installation of the panels or merely covers their 
+performance. Mr R might wish to look further into this, as it might provide a means by 
+which he could make a guarantee claim to the insurer following T’s dissolution. It is for 
+him to decide whether to take independent legal advice over any rights he might have in 
+this respect. 
+I invited both parties to let me have any further comments they wished to make in response 
+to my provisional conclusions. 
+ 
+Responses to my provisional decision 
+ 
+Mr R was understandably disappointed with my intended conclusions. He had no further 
+comments to make, other than to ask that I note the internal property damage sustained due 
+to the water ingress. Creation didn’t provide any response to my provisional decision. 
+ 
+What I’ve decided – and why 
+I’ve considered all the available evidence and arguments to decide what’s fair and reasonable 
+in the circumstances of this complaint. 
+Having done so, while I’m conscious of what Mr R has said about the damage to his ceilings 
+and coving, and the extent to which remedial work will be required, I’m afraid that doesn’t 
+enable me to require Creation to cover the cost of that work. 
+For the reasons I set out in my provisional findings, which I adopt in full as part of this final 
+decision, I’m not persuaded that I can fairly order Creation to do more than to pay Mr R 
+compensation for the distress and inconvenience he incurred due to its handling of his claim. 
+In that respect, I remain of the opinion that the £350 I proposed is a fair sum. 
+My final decision 
+My final decision is that to settle this complaint Creation Consumer Finance Ltd must, within 
+28 days of receiving his acceptance of this decision, pay Mr R £350. 
+Mr R can accept the compensation payment without affecting any right he may have to 
+pursue his underlying section 75 claim against Creation through alternative action, such as a 
+court claim. 
+Under the rules of the Financial Ombudsman Service, I’m required to ask Mr R to accept or 
+reject my decision before 16 October 2024. 
+  
+  
+ 
+Niall Taylor 
+Ombudsman 
+ 

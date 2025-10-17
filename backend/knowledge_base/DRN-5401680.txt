@@ -1,0 +1,220 @@
+ 
+ 
+DRN-5401680 
+ 
+ 
+The complaint 
+ 
+Mr J has complained that Creation Consumer Finance Ltd (“CCF”) rejected his claim against 
+it under Section 75 of the Consumer Credit Act 1974. 
+ 
+What happened 
+In June 2020, Mr J entered into a fixed sum loan agreement with CCF to fund the purchase 
+of a dishwasher from a supplier that I’ll call “M”. The cash price was just over £1,400. Mr J 
+was due to pay back the agreement with monthly payments of just under £40 and the term of 
+the loan was around 3 years.  
+ 
+In July 2024, Mr J contacted M as the dishwasher had broken down. M offered to send out 
+an engineer to repair the dishwasher and notified Mr J of the cost, as the dishwasher was 
+outside of its two-year warranty period. Mr J felt the repair should be free as a dishwasher 
+should last more than four years. Mr J said M told him, it would see what it could do.  
+ 
+M eventually repaired the dishwasher and sent Mr J an invoice for £581. Mr J refused to pay 
+this believing the repair should be free as he felt this dishwasher from this supplier was 
+expensive and this supplier often said its products last around 20 years. M said as the 
+dishwasher was now outside the warranty period, any repairs were chargeable, and Mr J 
+was informed of the costs before it came out to look at it – and had never agreed to do it for 
+free.  
+ 
+Mr J subsequently raised a section 75 claim against CCF under the Consumer Credit Act 
+1974 (s.75). CCF rejected the claim for the same reasons as those set out by M.  
+ 
+Mr J remained unhappy so referred the complaint to our service. Our investigator looked into 
+things and didn’t think CCF had acted unfairly. He said there wasn’t sufficient evidence that 
+there had been a breach of contract because there was no evidence the dishwasher was 
+defective.  
+ 
+Mr J didn’t agree. He sent in an engineer’s report who said he thought the machine had 
+likely suffered from component failure after being used for a period of time and that a 
+dishwasher should last more than four years. The engineer also commented that he was 
+surprised the repair hadn’t been carried out for free. Mr J also submitted evidence of M, 
+displayed on its website, that it tested its products and expected them to last up to 20 years.  
+ 
+CCF responded that the adverts that M’s products could last up to 20 years was not a 
+guarantee and said the engineers report gave no details about the fault that actually 
+occurred.  
+ 
+Our investigator pointed out the engineer had commented that he had no knowledge of this 
+type of dishwasher, and it was his subjective opinion that the product should’ve lasted more 
+than four years. He also reiterated that the product hadn’t been guaranteed for 20 years but 
+had only come with a two-year warranty that had now passed. As things weren’t resolved the 
+complaint has been passed to me to decide. 
+ 
+ 
+ 
+What I’ve decided – and why 
+I’ve considered all the available evidence and arguments to decide what’s fair and 
+reasonable in the circumstances of this complaint. 
+Firstly, I’d like to reassure Mr J, that I have considered all his concerns carefully, but I will 
+only be dealing with the most salient parts of his complaint in this decision as I’m required to 
+decide matters quickly and with minimum formality.  
+ 
+I would add that I’m sorry to hear that Mr J is unhappy with the dishwasher. But it may be 
+helpful to explain that I need to consider whether CCF – as a provider of financial services – 
+has acted fairly and reasonably in the way it handled Mr J’s claim. It’s important to note CCF 
+isn’t the supplier. S.75 is a statutory protection that enables Mr J to make a ‘like claim’ 
+against CCF for breach of contract or misrepresentation by a supplier paid using a fixed sum 
+loan for the provision of goods or services. But I want to explain from the outset that I can 
+only consider Mr J’s complaint on that narrow basis – that is, whether it was fair and 
+reasonable for CCF to respond to his claim in the way that it did. 
+ 
+There are certain conditions that need to be met for s.75 to apply. From what I’ve seen, 
+those conditions have been met and CCF has also agreed that s.75 applies.  
+ 
+Misrepresentation  
+ 
+To make a claim for misrepresentation, I’d have to consider if the dishwasher has been 
+misrepresented to Mr J in any way and that this caused him to suffer loss. For the purpose of 
+this decision, I’ve used the definition of a misrepresentation as an untrue statement of fact or 
+law made by one party (or his agent) to a second party which induces that second party to 
+enter the contract, thereby causing them loss. 
+ 
+I’ve considered whether the comments made by M generally online that it tests its products 
+to last up to 20 years amount to a misrepresentation and I’m afraid I don’t. I haven’t seen 
+any evidence that Mr J was given any sort of guarantee that his dishwasher would last 20 
+years – he was given a two-year warranty, and the dishwasher didn’t breakdown until four 
+years had passed. Additionally, M (through CCF) has pointed out that it has never said its 
+products wouldn’t require maintenance or repairs during the 20-year period. It offers a two-
+year warranty, where (subject to some exclusions) repairs are free of charge, and I can see 
+that consumers can purchase extended warranties after this period has passed. So, I think 
+It's clear that products may require repairs within that 20-year period which is why M sells 
+additional warranties.  
+ 
+So, while I understand Mr J’s frustration, and understand that he felt the dishwasher should 
+last longer than four years before a breakdown, I’m afraid I don’t agree that the comment 
+that M’s products are designed to last up to 20 years amounts to a misrepresentation. I 
+understand that his dishwasher has now been repaired, and it may well be its lasts a long 
+time – but I don’t think it requiring a repair four years after sale means the dishwasher has 
+been misrepresented to him.  
+ 
+Breach of contract – express terms  
+ 
+In order for me to uphold Mr J’s s.75 claim on this basis, I’d have to be satisfied that M 
+breached a term of the contract – and that caused him to suffer loss. I’ve initially looked at 
+whether there has been an express breach of the contract that M had with Mr J.  
+ 
+Mr J bought a dishwasher which he received and used for almost four years – and as 
+explained by CCF, Mr J’s dishwasher only came with a two-year warranty. It wasn’t 
+ 
+ 
+guaranteed for 20 years. So, I don’t think any express terms have been breached in this 
+case.  
+ 
+Breach of contract- implied terms  
+ 
+The Consumer Rights Act 2015 (CRA) is also relevant to this complaint. The CRA implies 
+terms into the contract that the goods must be of satisfactory quality, aspects of which 
+include goods being durable and free from minor defects. The CRA also sets out what 
+remedies are available to consumers if statutory rights under a goods or services contract 
+are not met. 
+ 
+So, I’ve gone on to consider whether there has been a breach of an implied term in the 
+contract. I understand Mr J said he expected the dishwasher to last more than four years, 
+but I don’t think it’s unfair for CCF not to simply assume the dishwasher wasn’t of 
+satisfactory quality at the time of sale because it suffered a breakdown four years after 
+purchase.  
+ 
+As Mr J is making a claim a number of years after the sale, CCF would only be liable to offer 
+a remedy, if Mr J could establish with evidence that the dishwasher was either, defective to 
+begin with or was of unsatisfactory quality at the time of sale, or show that the dishwasher 
+isn’t durable as would be expected - rather than becoming damaged over the years due to 
+usage.  
+ 
+Machines sometimes breakdown due to wear and tear, overuse, misuse, accidents or lack of 
+proper care or maintenance. Additionally, a machine requiring proper maintenance, 
+replacement parts or repairs after being used for four years – doesn’t automatically mean 
+that it’s not sufficiently durable. Especially since after the repair, it seems to be working as 
+intended and may last for a substantial number of additional years. In order to uphold this 
+complaint, I’d need to see evidence (usually from an independent expert with experience of 
+this type of machine), explaining why the dishwasher requiring a repair after four years 
+means the system isn’t sufficiently durable (and therefore not of satisfactory quality), rather 
+than a general assumption that a dishwasher should generally last longer than four years 
+without a breakdown.  
+ 
+I have looked carefully at the report Mr J’s engineer produced. The engineer admitted that 
+he doesn’t have any knowledge of this type of dishwasher, but he felt generally the 
+dishwasher should’ve lasted longer than four years. He didn’t give any information as to the 
+actual fault suffered by the dishwasher (likely because it had already been repaired), but he 
+guesses that it was component failure. He also highlighted that his views were his subjective 
+opinion. Usually, businesses like CCF would require a report from an independent expert, 
+well versed in these types of machines, to have examined and noted the reason for the 
+failure and repair and then comment on whether the machine itself was of poor quality 
+because it wasn’t sufficiently durable, or whether it had broken down for some other reason 
+such as accidental damage, mis-use or not being maintained properly.  
+ 
+I’ve considered this evidence carefully, but I have to bear in mind that it’s from an individual 
+who admitted he doesn’t have any knowledge of this particular dishwasher, hadn’t examined 
+the fault before it was repaired, and only gave a subjective opinion that the dishwasher ought 
+to have lasted longer than four years. So, I’m not satisfied this sufficiently evidences that the 
+dishwasher was faulty to begin with or that it isn’t sufficiently durable. As I’ve explained 
+above, the machine lasted for four years which isn’t an insignificant amount of time, lasted 
+two years longer than the guarantee provided by M, and M hadn’t guaranteed the 
+dishwasher for 20 years (certainly not without repair or maintenance).  So, I don’t think it was 
+unfair for CCF to conclude that there wasn’t sufficient evidence that there had been a breach 
+of contract here.  
+ 
+ 
+ 
+I understand it’s difficult for Mr J to now obtain evidence as to the cause of the breakdown 
+because it’s been repaired. But, bearing in mind, he raised his claim four years after the 
+sale, I don’t think it’s unreasonable for CCF to require some evidence that either the 
+dishwasher was of unsatisfactory quality when it was sold to him or not sufficiently durable – 
+which would lead to CCF being liable to offer a remedy (such as covering the cost of the 
+repair).  
+ 
+Mr J was aware that the dishwasher was no longer under warranty, and M informed him of 
+the different charging options available (fixed fee or variable) to have it repaired. If he felt 
+that it should have been free because it was defective or of poor quality, this should have 
+been ironed out before he accepted the repair. This would’ve given him the chance to have 
+the machine looked at to see if it had simply broken down due to wear and tear or some 
+other reason, or whether there was evidence of the dishwasher being defective (which would 
+give rise to a s.75 claim). I have looked at the email chain he sent in, and while I can see he 
+did say he wanted it to be done free of charge, I haven’t seen any evidence that M agreed to 
+do this for free. So, I think Mr J went ahead with the repair, aware that his dishwasher was 
+no longer under warranty and that there would be a charge for the repair. Although I 
+understand he hoped and asked for this to be waived – there had been no confirmation that 
+it would be.  
+ 
+I should point out that these types of machines often come with a warranty of around two 
+years (so parts and labour for breakdowns are covered) and then customers can purchase 
+extended warranties for a set number of additional years. If M was guaranteeing these 
+products for 20 years without them ever needing to be maintained or repaired during the 20-
+year period, as Mr J appears to be arguing, there would be no need for additional warranties 
+to be provided and purchased by consumers.  
+ 
+Summary  
+ 
+As explained above, I can only assess Mr J’s complaint, on a narrow basis – whether there 
+is a breach of contract or misrepresentation that M made that CCF would now be 
+responsible for. And I don’t think it was unreasonable for CCF to conclude that there is 
+insufficient evidence here to support either claim. 
+ 
+Overall, I don’t think there’s sufficient evidence that there’s been a breach of contract or 
+misrepresentation. So, I don’t think CCF acted unfairly for declining this claim. While I am 
+sorry to hear Mr J is unhappy, with s.75 in mind, I don’t find there are grounds to direct CCF 
+to cover the cost of the repair. I understand M has offered Mr J a discount on the invoice for 
+the repair and he may wish to contact M to pay the discounted invoice. But I don’t think CCF 
+is liable to offer any further remedies in this case.  
+ 
+I should, however, point out Mr J doesn’t have to accept this decision. He’s also free to 
+pursue the complaint by more formal means such as through the courts. 
+ 
+My final decision 
+For the reasons given above, my final decision is that I do not uphold this complaint. 
+Under the rules of the Financial Ombudsman Service, I’m required to ask Mr J to accept or 
+reject my decision before 5 June 2025. 
+  
+ 
+Asma Begum 
+Ombudsman 
+ 

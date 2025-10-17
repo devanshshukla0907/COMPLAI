@@ -1,0 +1,174 @@
+K822x
+complaint
+Mr L complains that the performance of solar panels he bought with a loan from Creation 
+Consumer Finance Limited was mis-represented and he’s struggling to afford repayments 
+because it doesn’t provide the returns he was promised.  
+background 
+The background to this complaint and my provisional findings are set out in my provisional 
+decision dated 28 September 2015 – a copy of which is attached and forms part of my final 
+decision. In my provisional decision I explained why I considered Creation should remove 
+the solar panels, cancel the loan and give Mr L a refund. 
+my findings
+I’ve reconsidered all the available evidence and arguments to decide what’s fair and 
+reasonable in the circumstances of this complaint.
+Mr L accepted my provisional decision. And Creation says the solar panels have been 
+removed and it’s taking steps to comply with the rest of my provisional decision, so I see no 
+reason to depart from that decision. 
+my final decision
+My decision is that I uphold this complaint. In full and final settlement, I require Creation 
+Consumer Finance Limited to 
+1.
+Arrange for the removal of Mr L’s solar panel installation at no cost to him and restore 
+his property to the state it was in before the system was installed;
+2.
+Cancel Mr L’s loan agreement;
+3.
+Refund all of the loan repayments Mr L has made, after deducting the amount he 
+received as income, plus interest calculated at 8% a year from the date of payment 
+until the date of settlement; and
+4.
+Remove any information about the loan from Mr L’s credit file.
+HM Revenue & Customs may require Creation to take off tax from the interest paid. Creation 
+must give Mr L a certificate showing how much tax it’s taken off if he asks for one.
+Under the rules of the Financial Ombudsman Service, I’m required to ask Mr L to accept or 
+reject my decision before 7 December 2015.
+Claire Jackson
+ombudsman
+Ref: DRN6776249
+2
+                                                provisional decision 
+complaint
+Mr L complains that the performance of solar panels he bought with a loan from Creation Consumer 
+Finance Limited was mis-represented and he’s struggling to afford repayments because it doesn’t 
+provide the returns he was promised.  
+background
+In 2014 Mr L took out a loan with Creation for a solar panel system. He says the salesman told him 
+the installation would “pay for itself” by generating enough income and savings to cover the £100 a 
+month loan repayments. But Mr L only earned about £270 in the year after he got the panels and he 
+hasn’t noticed any great electricity savings. He thought the panels would self-fund so he’s finding it 
+hard to pay off the loan now. And he says Creation shouldn’t have lent him the money in the first 
+place. 
+Creation says Mr L was told about the potential benefits of the system - but documents he signed at 
+the time made it clear those weren’t guaranteed. And Mr L could have cancelled if he was unhappy 
+after he had time to consider the predicted returns. Creation says it checks if a loan is affordable 
+using industry standards. It took Mr L’s income and credit history into account, and he met the 
+relevant criteria, so the loan wasn’t unaffordable.  
+Our adjudicator considers it’s impossible to know for certain what was discussed at the time, so more 
+weight should be attached to what was put in writing. And the documents say the estimated benefits 
+aren’t guaranteed, so he couldn’t safely find the system was misrepresented. He wasn’t persuaded 
+the loan is unaffordable. 
+Mr L says he wasn’t given detailed information about the system’s performance before he signed the 
+supply and loan agreements. So he relied on what the salesman told him and was misled into buying 
+the installation. 
+my provisional findings
+I have considered all the available evidence and arguments to decide what is fair and reasonable in 
+the circumstances of this complaint. Mr L brings his complaint under section 75 of the Consumer 
+Credit Act 1974 – which says where Mr L has a claim for breach of contract or misrepresentation 
+against the solar panel supplier he may be able to bring it against Creation too. 
+I think the crux of Mr L’s complaint is that the salesman misrepresented the benefits of the solar panel 
+system by saying it would “pay for itself”. The salesman denies that. For me to be able to uphold the 
+complaint, I must be satisfied a false statement was made that induced Mr L to buy the installation. 
+I can’t know for certain what was said at the time. Where the evidence is incomplete, inconclusive or 
+contradictory (as some of it is here), I reach my decision on the balance of probabilities – in other 
+words, what I consider is most likely to have happened in the light of the available evidence and the 
+wider circumstances. And I have considered carefully what each party has said and the documents 
+provided. 
+Mr L and the supplier have each produced their own copy of the supplier’s contract. On the first page 
+there’s a box (which takes up about a quarter of the page) headed “calculating a SAP calculation”. 
+The SAP calculation gives the installation’s anticipated level of performance in the form of kilowatts 
+per year - and it’s calculated according to the Government’s standard assessment procedure. 
+Underneath there’s space for the consumer to initial and “confirm that I fully understand how the SAP 
+calculation was arrived at”. 
+Ref: DRN6776249
+3
+The salesman has provided a statement. He says he would have given Mr L the SAP information, as 
+well as a “pay as you earn” breakdown of likely returns over 20 years. That breakdown is a separate 
+document to the supply contract. I can see it contains Mr L’s address but it’s not signed or dated. It 
+refers to a SAP calculation of 1716 kw per year. And a spreadsheet shows the system would return 
+about £5,000 over the ten year loan term and about £14,000 after 20 years. 
+On the supplier’s copy of the contract the SAP calculation been completed and it estimates the panels 
+will produce 1716 kw a year. Mr L’s initials have been inserted alongside the calculation. And, on the 
+next page, the contract is dated 24 February 2014 (the same date as the loan) and signed by both 
+parties. 
+Mr L accepts he signed both the loan and supply agreements. But he says the salesman didn’t give 
+him the SAP calculation or the “pay as you earn” schedule beforehand. So he relied on the 
+salesman’s assurance that the system would produce enough income and savings to “pay for itself”. 
+His copy of the supply contract is signed but not dated, the SAP calculation box is blank and it’s not 
+initialled. 
+Mr L is in his seventies, he experiences poor health and is on a fixed income. I have seen no 
+evidence to suggest that he wanted a solar panel installation as a long term investment or because he 
+was committed to renewable energy. I think it’s unlikely that Mr L would have agreed to install these 
+panels and take out a ten year loan for nearly £12,000 if he wasn’t told something about the likely 
+benefits of the system. But, given his particular circumstances, I think it’s unlikely that Mr L would 
+have gone ahead if he had seen the “pay as you earn” breakdown that says it would take about 17 
+years to recoup what he spent. 
+I note the consumer code produced by the Renewable Energy Association (of which the supplier is a 
+member) says a written estimate of predicted performance should be provided to customers before 
+the contract is signed. And, given the prominence of the SAP calculation box, and the fact that the 
+customer is asked to initial it specifically, I would find it surprising if the salesman gave Mr L the 
+predicted performance calculation without recording that on the relevant part of his contract. 
+The salesman says he quoted for Mr L on the phone initially, basing the figures on a friend’s 
+installation. But that was revised after visiting Mr L’s property, because it was suitable for 16 panels. 
+Mr L’s installation only has 8 panels. Mr L thinks the salesman may have confused it with a 16 panel 
+installation the same supplier provided to a relative around the same time. I’m inclined to agree. So I 
+am not persuaded that the salesman’s recollection is accurate or may reasonably be relied upon here 
+as a result.  
+I have found Mr L’s evidence to be credible and consistent and, overall and on balance, I accept his 
+account of events. I’m satisfied it’s more likely than not the salesman told Mr L this solar panel system 
+would be self funding. And I don’t think Mr L would have agreed to buy the installation if he hadn’t. 
+Creation refers to the customer satisfaction note Mr L signed on 8 March 2014. It predicts Mr L would 
+receive a return of about £450 in the first year – made up from about £300 income from his electricity 
+supplier and nearly £150 in electricity savings. The note also contains a disclaimer that says the 
+system’s returns aren’t guaranteed as the performance of the panels “is impossible to predict with 
+certainty”. And I can see it contains a SAP calculation – albeit the figure is marginally different to the 
+one on the supplier’s documents. Creation considers Mr L had all the information he needed and 
+could have cancelled at that stage - if he was concerned the figures didn’t match the salesman’s.  
+There’s no dispute Mr L received and signed the customer satisfaction note. He says it was his first 
+indication that the system’s returns might not be as much as the salesman said. But the panels were 
+already installed by that time. And Mr L says he wasn’t unduly concerned because he thought the 
+income and savings were bound to be much higher than the estimates because of the salesman’s 
+assurances. So he decided to wait and see how the system performed. I’m not persuaded that was 
+unreasonable in the circumstances here. 
+Ref: DRN6776249
+4
+Mr L subsequently received nearly £270 in payments from his electricity provider over the first 12 
+months. He hasn’t been able to obtain information about his electricity use in the year before he got 
+the panels to compare with his use after. But, even if I were to accept that Mr L would have received 
+the £150 savings estimated in the satisfaction note, his return is only about £400 - less than half the 
+annual loan costs he expected the system would pay for. 
+From the evidence I have seen, I’m satisfied Mr L agreed to the installation because the salesman 
+misrepresented its performance by saying it would effectively be cost neutral – meaning his monthly 
+loan repayments would be off-set by the return from the panels. 
+I’m not persuaded that Mr L was given the SAP calculation or the “pay as you earn“ schedule as he 
+should have been - before he signed the loan and supply agreements. And, given the panels were 
+already installed when he got the satisfaction note, I don’t think it’s unreasonable that he didn’t try and 
+cancel at that stage. So, in the circumstances overall here, I am minded to uphold this complaint. 
+I consider Creation should put Mr L back into the position he would have been but for the 
+misrepresentation. And I’m inclined to order Creation to arrange for the solar panel system to be 
+removed and have Mr L’s property restored. It should also refund all of the loan payments he has 
+made so, far less any income he has received, and pay interest on the refund at 8% a year from the 
+date of payment until settlement. And remove any information about the loan from Mr L’s credit file. 
+But I can see that there’s a risk of damage and certainly disruption associated with removal of the 
+panels. So, it might be more practical, if Mr L is willing, to allow them to remain and for his loan to be 
+recalculated. I’m inclined to suggest it would be fair for him to repay about 40% of the total amount - 
+which, I think, provides Mr L with the arrangement he thought he was taking out originally and reflects 
+the benefit he’s likely to receive going forward.
+I invite the parties to let me have their comments on redress as well as any further evidence or 
+information by 28 October 2015, after which time I will make my final decision. 
+my provisional decision
+For the reasons I’ve given, my provisional decision is that I am minded to uphold this complaint and 
+require Creation Consumer Finance Limited to 
+
+Arrange for the removal of Mr L’s solar panel installation at no cost to him and restore his 
+property to the state it was in before the system was installed;
+
+Cancel Mr L’s loan agreement;
+
+Refund all of the loan repayments Mr L has made, after deducting the amount he has 
+received as income, plus interest calculated at 8% a year from the date of payment until 
+the date of settlement;
+
+Remove any information about the loan from Mr L’s credit file. 
+Claire Jackson
+ombudsman
+Ref: DRN6776249

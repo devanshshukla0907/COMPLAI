@@ -1,0 +1,133 @@
+DRN-3855991
+The complaint
+Mrs C complains that Creation Consumer Finance Ltd failed to deal with her claim under 
+section 75 of the Consumer Credit Act 1974 for a refund of her purchase of a defective glass 
+table.
+What happened
+In 2019 Mrs C bought a glass table and six chairs and paid for them with an interest-free 
+loan from Creation. They were delivered in September 2019. In June 2022 the glass table 
+spontaneously shattered, and so Mrs C asked Creation for a refund, as the company she 
+had bought it from was no longer trading. She obtained a report from an independent expert, 
+who examined the table and concluded that the damage was the result of a manufacturing 
+defect. The damage cannot be repaired. These conclusions are not in dispute.
+Creation failed to issue a final response letter in time, citing “internal delays,” and told Mrs C 
+that she had the right to refer the matter to our service, which she did in September 2022. 
+She asked for a refund of the cost of the table, and some further compensation for some 
+customer service failings. After that, in October, Creation upheld her claim and issued a final 
+response. It offered to refund her the cost of the table, minus a deduction of about £291 for 
+the fact that she had had nearly three years’ use of the table before it broke.
+Since neither party told our investigator about that offer at the time, the investigator issued 
+his opinion of the case in November. He upheld the complaint and recommended that 
+Creation refund all of Mrs C’s loan repayments in respect of the table and the chairs too, less 
+£500 to reflect her use of them. He also recommended that Creation pay interest on the 
+refunds, end the loan agreement, collect the table or pay a further £22 (being the cost of the 
+local authority’s waste collection service), and ensure that no negative information is 
+reported on Mrs C’s credit file.
+Creation did not accept that recommendation. It insisted that its offer was fair. The 
+investigator did not agree, saying that the table and chairs were part of a matching set and 
+so the whole suite should be replaced. The case was referred for an ombudsman’s decision.
+I wrote a provisional decision which read as follows.
+What I’ve decided – and why
+I’ve considered all the available evidence and arguments to decide what’s fair and 
+reasonable in the circumstances of this complaint.
+Having done so, I am currently of the view that the chairs were never a part of this complaint 
+and that the way Creation calculated its offer is fair, although I propose to add £50 to the 
+compensation for some customer service issues. I will explain why.
+Firstly, Mrs C did not mention the chairs in her section 75 claim or in this complaint, or ask 
+for that part of her purchase to be refunded. The entire focus of her case has been the table, 
+so it is not surprising that Creation confined its offer to the table alone. I have thought about 
+whether this might have just been an oversight by Mrs C. But although the table and the 
+chairs were bought at the same time, the way they are described on the receipt suggests 
+that they were not actually manufactured as a set of matching furniture, as they have 
+different names. And the table is just a plain white metal frame for legs, with a plain glass 
+top, so I don’t think it would be difficult to find another table of similar appearance which 
+would go just as well with the chairs as the original table. So I am not persuaded that it is 
+necessary to refund the price of the chairs as well as the table.
+As for the refund of the table, nobody disputes that it is fair for Creation to deduct something 
+from the refund to reflect the fact that Mrs C was able to use the table for 34 months before it 
+broke. The only issue here is how much that should be. Creation calculated that in the 
+following way (and showed its working in its offer letter).
+First, Creation calculated that the time between the table being delivered (in September 
+2019) and when it broke (in June 2022) was 34 months. Next, it assumed a life expectancy 
+for the table of ten years, which appears to be arbitrary but does not seem to me to be 
+unreasonable. It then calculated 34 months as a percentage of 120 months, which it wrongly 
+stated to be 27.5% but which is actually 28.333%. However, it appears to have still used the 
+correct percentage when calculating that 34/120 of the price of the table, £1,030.06, comes to 
+£291.85. The latter figure is how much Creation proposed to keep for itself, and the 
+difference between those two figures, £738.21, is the proposed refund, by way of a cost 
+reduction.
+That seems to me to be a fair way of calculating the amount to refund. I don’t think it is 
+necessary to award interest on that sum.
+Mrs C’s complaint about customer service does not appear to have been addressed yet. She 
+says that Creation did not respond to her emails in a timely manner, and it was not possible 
+to phone them. I also note that the final response letter was sent late, which meant that she 
+brought this complaint to our service, which might not have been necessary if Creation had 
+made its offer in September. That caused her some inconvenience. Taking all of these 
+matters together, I think that £50 is fair compensation. That should be paid directly to Mrs C, 
+rather than being treated as a cost reduction on the loan agreement.
+Since Mrs C still has the chairs, I don’t think it is necessary to remove the loan agreement 
+from her credit file. After the cost reduction, I think there will be no more left to pay towards 
+the loan agreement, and so this should be recorded as settled in full.
+So my provisional decision is that I intend to uphold this complaint. Subject to any further 
+representations I receive from the parties by the date below, I intend to order Creation 
+Consumer Finance Ltd to put things right in the way I have set out above; that is:
+
+Reduce the cost of Mrs C’s loan by £738.21,
+
+Report the loan to the relevant credit reference agencies as settled in full, and
+
+Pay another £50 directly to Mrs C for her inconvenience.
+Responses to my provisional findings
+Creation accepted my provisional decision. Mrs C did not, and made the following points:
+
+The table and chairs were bought and sold together as a matching set.
+
+The broken glass is a hazard, and recently caused an injury to Mrs C’s mother when 
+she visited.
+
+The table is taking up a lot of room in the house, while it can no longer be used.
+
+I had not considered how the table is to be disposed of.
+
+I had let Creation get away with mistreating her.
+I put these points to Creation and asked for its comments, but it did not respond by the 
+deadline.
+My findings
+I had meant to deal with the disposal of the table in the same way as the investigator had 
+recommended, which was for Creation to either collect the table or pay a further £22 for it to 
+be collected by Mrs C’s local authority. I apologise for forgetting to include that in my 
+provisional decision. I have already told Creation that this was an oversight and that it would 
+be in my final decision.
+Although Mrs C feels strongly about this case, I have to emphasize that my role is to award 
+compensation, not to punish, so I can’t fine a business to teach it a lesson, which I presume 
+is what she meant with her last point.1
+I am not persuaded to award further compensation for the chairs, for the same reasons I set 
+out in my provisional decision.
+I have seen photos of the broken glass. It has crazed but is still holding together. I think the 
+risk of injury could have been mitigated by putting tape over any sharp edges, but I don’t 
+think that should get Creation off the hook entirely, since the risk of injury from broken glass 
+is still foreseeable. Although Mrs C’s mother was not a party to the contract (and is not 
+eligible to bring a complaint to our service), I think her injury would have caused Mrs C some 
+distress and so I will award some compensation for that. I think £200 is fair.
+(Just in case Creation thinks that Mrs C should have got rid of the table already – although it 
+has never said that – I can understand why she didn’t want to do that while her complaint 
+was still ongoing, and so I do not think it would be right to reduce her compensation because 
+of that.)
+My final decision
+My decision is that I uphold this complaint. I order Creation Consumer Finance Ltd to:
+
+Reduce the cost of Mrs C’s loan by £738.21,
+
+Report the loan to the relevant credit reference agencies as settled in full,
+
+Pay another £250 directly to Mrs C for her distress and inconvenience, and
+
+Arrange to collect and dispose of the table at no cost to Mrs C, or alternatively pay 
+Mrs C a further £22.
+Under the rules of the Financial Ombudsman Service, I’m required to ask Mrs C to accept or 
+reject my decision before 27 March 2023.
+ 
+Richard Wood
+Ombudsman
+1 A court cannot award exemplary (punitive) damages for breach of contract; see Chitty on Contracts 
+(34th edition) paragraph 29-067.

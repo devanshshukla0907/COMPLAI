@@ -1,0 +1,210 @@
+K821x#15
+Complaint
+Mr D is unhappy with the response of Creation Consumer Finance Ltd (‘Creation’), following 
+a claim against it under section 75 of the Consumer Credit Act (‘CCA’) 1974.
+Background
+I issued a provisional decision in April 2020, concluding that Mr D’s complaint should be 
+upheld. I also set out what Creation should do to put things right. I attach a redacted version 
+of my provisional decision which forms part of this final decision.
+I invited further comments from both parties before I reconsidered the complaint for a final 
+time. Both Mr D and Creation accepted my provisional decision findings.
+My findings
+I’ve considered all the available evidence and arguments to decide what’s fair and 
+reasonable in the circumstances of this complaint.
+Having done so, I’ve come to the same overall conclusions as set out in my provisional 
+decision.
+My final decision
+My final decision is that Mr D’s complaint should be upheld. In full and final settlement of it, I 
+require Creation Consumer Finance Ltd to:
+
+arrange for the system to be removed from Mr D’s property and make good any 
+damage caused at no additional cost to him,
+
+refund the payments Mr D has made towards the system, including any deposit, less 
+any benefits he has received. Creation should use Mr D’s FIT statements and 
+electricity bills to do this, including a self-consumption rate of 37%,
+
+add 8% simple interest* to the above from the date the payments were made to the 
+date of the settlement, and;
+
+pay Mr D £300 for the trouble and upset caused.
+Ref: DRN8956648
+2
+Under the rules of the Financial Ombudsman Service, I’m required to ask Mr D to accept or 
+reject my decision before 3 July 2020.
+Michael Fisher
+ombudsman
+*If Creation Consumer Finance Ltd considers that it’s required by HM Revenue & Customs 
+to take off income tax from that interest, it should tell Mr D how much it’s taken off. It should 
+also give him a certificate showing this, if he asks for one, so he can claim the tax form HM 
+Revenue & Customs.
+Ref: DRN8956648
+3
+Provisional decision
+Complaint
+Mr D is unhappy with the response of Creation Consumer Finance Ltd (“Creation”), following a claim 
+against it under section 75 of the Consumer Credit Act (“CCA”) 1974.
+Background
+Mr D was contacted by a company, I’ll refer to it as “E”, that supplied and installed solar panel 
+systems. Following a meeting at his home, Mr D agreed to enter into a contract with E for it to supply 
+and install a solar panel system costing £10,800. To fund this, he also agreed to enter into a 10 year 
+fixed sum loan agreement with Creation.
+Mr D made a claim under section 75 (“s75”) of the CCA. He said that E had told him that the solar 
+panel system would be “self-funded” and that the benefits he’d receive from the system by way of 
+feed-in-tariff (“FIT”) income and savings on his electricity bills would more than off-set the monthly 
+loan repayments. But this hadn’t happened. Instead, his monthly loan repayments had been much 
+higher than any income or benefit he’d received. Mr D also raised some concerns about the quality of 
+the installation and that he hadn’t been receiving any FIT payments since 2018.
+In response, Creation offered to arrange for an independent expert to visit Mr D’s home and look at 
+the quality of the installation. Mr D declined this and referred his complaint to this service.
+During the course of our investigation Mr D agreed to Creation arranging for a company to inspect his 
+solar panel system. Its report said ‘this installation is of an extremely poor quality throughout.’ It also 
+provided a quote for the repair work it had identified. Creation offered to arrange and pay for the 
+repair work. In addition to this it also offered to calculate the potential savings and income to Mr D 
+over the term of the loan. It then said it would restructure the loan so that he would pay no more than 
+this over the 10 year term.
+Our investigator thought the offer put forward by Creation was fair. 
+Mr D disagreed. He said he wanted the panels to be removed from his home and for all the payments 
+he’d made to be returned to him.
+As an agreement couldn’t be reached the complaint has been passed to me for review.
+ 
+My provisional findings
+I’ve considered all the available evidence and arguments to decide what’s fair and reasonable in the 
+circumstances of this complaint.  
+I’m required to determine this complaint on the basis of what I consider to be fair and reasonable in all 
+the circumstances. When considering what is fair and reasonable, I’m required to take into account 
+relevant law and regulations; regulator’s rules, guidance and standards, and codes of practice; and, 
+where appropriate, what I consider to have been good industry practice at the relevant time.
+In this case the relevant law includes s75 of the CCA, which provides protection for consumers for 
+goods or services bought using credit. It states:
+“If the debtor under a debtor-creditor-supplier agreement falling within section 12(b) or (c) has, in 
+relation to a transaction financed by the agreement, any claim against the supplier in respect of a 
+misrepresentation or breach of contract, he shall have a like claim against the creditor, who, with the 
+supplier, shall accordingly be jointly and severally liable to the debtor.”
+Ref: DRN8956648
+4
+As Mr D paid for the solar panel system through a fixed sum loan agreement, Creation agrees that 
+s75 applies to this transaction. This means that Mr D could claim against Creation – the creditor – for 
+any misrepresentation or breach of contract by the supplier in the same way he could have claimed 
+against the supplier. So, I have taken s75 into account when deciding what is fair and reasonable in 
+the circumstances of this case.
+The offer put forward by Creation is to arrange and pay for the repair work that is needed to bring the 
+quality of Mr D’s solar panel installation to the required standard. It has also it will put Mr D in a 
+position where his solar panels are self-funding over the original term of the loan. By doing this 
+Creation has accepted that the benefits of the solar panel system were misrepresented to Mr D and 
+that there was a breach of contract due to the quality of the installation of the system. As a result, this 
+decision will deal with what I consider to be fair compensation.
+Creation’s offer
+I need to decide whether the offer put forward by Creation is fair and reasonable in the particular 
+circumstances of this complaint. I understand that in similar complaints our service  has accepted that 
+the proposal put forward by Creation, as outlined above, to be fair and reasonable in the individual 
+circumstances of those complaints.
+The original contract to supply and install Mr D’s solar panel system was covered by the Supply of 
+Goods and Services Act (‘SGSA’) 1982. The SGSA sets out that the goods must be of a satisfactory 
+quality and services must be carried out with reasonable skill and care.
+And within the contract that Mr D had with E for it to supply and install the solar panel system to his 
+home, there is an implied term that the trader, in this case E, would carry out the services, i.e. the 
+installation, will reasonable skill and care.
+I’ve reviewed the report that was completed on Mr D’s solar panel system. The report says:
+“On Inspection, this installation is of an extremely poor quality throughout. The panels are not secured 
+correctly on the roof  and as a result of this, the limpets are all loose and are close to being blown of 
+the roofs. The panels on the front roof have now sagged and are not straight due to the loose fittings 
+on the panels. There is a hole on the roof where the roof hook has split a roof tile under the bracker, 
+water can easily find its way in from this area on the front roof. The Dc cable and MC4 connectors are 
+not tied to the rail and are lying on the roof with water ingress. This has caused a reduction with the 
+systems performance. In the loft space the DC cable is unclipped in areas and the Isolators are not 
+securely installed atall in the loft. The original installers have used less than half the amount of 
+required brackets. The AC cable run is in twin and earth, when it MUST be armoured for any external 
+runs and it is also not securely installed and is tied to a loose pipe, which is dangerous practice. 
+Finally there are no warning labels or a shutdown procedure installed at the property, which could 
+cause a serious incident to another electrician working on the customers electrics as they wouldnt 
+know solar was installed internally. The Inverter is also damaged but not from workmanship, simply 
+age.”
+I’ve also noted in the report there is a section that says “DETAIL ANY IMMEDIATE HEALTH & 
+SAFETY ISSUES”. This then says “Several issues as stated above.”
+The report outlined above highlights a number of issues with the installation of Mr D’s solar panel 
+system. So, like Creation, I’m not satisfied that the installation of Mr D’s solar panel system was 
+carried out with reasonable skill and care. Therefore, I consider this to be a breach of contract.  
+The report covers a number of key issues with the installation. These include the solar panels being 
+so poorly installed that they are close to ‘being blown off the roof’ and that there is further damage to 
+Mr D’s roof which is likely to lead to water ingress. It goes on to say that the performance of the solar 
+panel system has been reduced and therefore any benefits that Mr D has received are less than he 
+Ref: DRN8956648
+5
+should have reasonably expected. This is supported by Mr D’s statement that he hasn’t been 
+receiving FIT payments since 2018. 
+I’ve also gone on to consider that the report highlights there are ‘several’ immediate health and safety 
+issues that need to be resolved. I’m of the view that this means that Mr D’s solar panel system is, and 
+has been since installation, unsafe and poses an immediate risk to his and others health and safety. 
+Again, this demonstrates that the installation wasn’t carried out with reasonable skill and care. In my 
+view, this is a significant breach of the contract Mr D had with E.
+Whilst I understand that Creation believes that its offer is fair and reasonable, and in similar 
+complaints this service has agreed with it, my role is to reach a fair and reasonable outcome taking 
+account of the particular circumstances of this complaint. Overall, the report highlights a number of 
+major, and what I consider to be key issues, with the solar panel systems installation. These issues 
+have placed Mr D, his family and any contractors carrying out work in his home in harms way and I’ve 
+taken this into account when considering what is fair and reasonable.
+The report mentions that the inverter for the solar panel system is no longer working and needs to be 
+replaced. This explains why Mr D hasn’t been receiving FIT payments from his energy provider. I’ve 
+noted that this says this is due to age rather than the quality of the installation. 
+I’ve looked at the current information available from the Energy Savings Trust. It says that solar 
+panels don’t need a lot of maintenance but usually the inverter will need replacing ‘sometime’ during 
+the lifetime of the panels at a cost of around £800. 
+Mr D’s solar panel system has a 20 year lifetime and was installed in 2015. From the evidence 
+discussed above, it appears that his inverter needed replacing shortly after three years of installation. 
+I accept that it isn’t unusual for an inverter to need replacing, as set out by the Energy Savings Trust. 
+Although I am surprised that it has stopped working just over three years after installation.
+I’ve also considered the methodology that Creation has submitted to this service to calculate the total 
+benefits of the solar panel system. This methodology is based on the actual and estimated future 
+performance of Mr D’s solar panel system.
+The methodology Creation follows is to calculate the first year’s benefits based on Mr D’s FIT 
+statements and electricity bills. To calculate the remaining benefits, it uses a number of assumptions 
+including, but not limited to, a self-consumption rate of 37%, electricity price inflation, the degradation 
+rate and the estimated retail price index. I’m of the view that these appear reasonable taking into 
+account the actual known figures. For example, the actual average retail price index for the last four 
+years doesn’t seem to be far from the assumed figure. 
+Usually, I’d consider that the assumptions being used by Creation provide a fair and reasonable basis 
+for calculating fair compensation. However, in Mr D’s complaint, I’m not satisfied that they do. Mr D 
+hasn’t been in receipt of FIT payments since 2018 so I don’t consider it fair for Creation to use only 
+the first year’s FIT statements and electricity bills to calculate the estimated future performance of the 
+solar panel system as it isn’t a true reflection of his solar panel systems performance.
+Taking account of what I have discussed above in regards to the quality of the installation and 
+Creation’s offer to make good the installation and the solar panel system self-funding, I’m not satisfied 
+that this provides a fair and reasonable outcome in the particular circumstances of this complaint. 
+Fair compensation
+Creation doesn’t dispute that the benefits of the solar panel system were misrepresented to Mr D and 
+that the poor quality of the installation was a breach of contract as the system installation didn’t take 
+place with reasonable skill and care. So, in assessing what would be fair compensation, I consider my 
+aim should be to put Mr D in a position he would’ve been in but for the misrepresentation and breach 
+of contract by E.
+Ref: DRN8956648
+6
+On that basis, taking account of the evidence I have discussed above, I’m minded to ask Creation to 
+refund any payments made towards the solar panel system, together with 8% simple interest per 
+annum from the date of the payment to the date of the settlement. I’ll allow Creation to take account of 
+the benefits that Mr D has received from the system when calculating fair compensation. To do this it 
+should use Mr D’s FIT statements and electricity bills. For ease I consider it fair to use a self-
+consumption rate of 37% to calculate electricity savings.
+I also think that there was sufficient information available at the time that Mr D first contacted Creation 
+which means his claim should’ve been upheld. Consequently, I’ll make an award of £300 to recognise 
+this.
+  
+My provisional decision
+Subject to any further submissions I should receive from either party by 23 May 2020, my provisional 
+decision is that this complaint should be upheld.
+In full and final settlement of it, I’m minded to require Creation Consumer Finance Ltd to:
+
+arrange for the system to be removed from Mr D’s property and make good any damage 
+caused at no additional cost to him,
+
+refund the payments Mr D has made towards the system, including any deposit, less any 
+benefits he has received. Creation should use Mr D’s FIT statements and electricity bills to do 
+this, including a self-consumption rate of 37%,
+
+add 8% simple interest* to the above from the date the payments were made to the date of 
+the settlement, and;
+
+pay Mr D £300 for the trouble and upset caused.
+Michael Fisher
+ombudsman
+Ref: DRN8956648

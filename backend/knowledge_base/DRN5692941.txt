@@ -1,0 +1,133 @@
+K820x#14
+complaint
+Mr A has complained about the way Creation Consumer Finance Ltd (“Creation”) dealt with 
+a claim he made under section 75 of the Consumer Credit Act 1974 (“s.75”).
+background
+In late 2015 Mr A entered into an agreement with a company called Mainframe (UK) Limited 
+(“Mainframe”) for the supply and installation of a solar panel system.  It cost £7,650 and Mr A 
+paid using a fixed sum loan arranged with Creation.
+Mr A says he was told the panels to be installed were of the highest quality and that the 
+financial benefits provided by the system would cover the cost of the loan – effectively 
+making it free.  The benefits were due to come in the form of energy savings and receipt of 
+feed-in tariff (“FIT”) payments from selling excess energy back to the grid.
+Around a year after the solar panels was installed Mr A reviewed his bills and FIT 
+statements, and says he realised the system wasn’t performing as he expected.
+Mainframe is no longer trading and has been dissolved, so Mr A couldn’t complain to it. But 
+under s.75 a finance provider can be held responsible to the same extent as the supplier of 
+goods for breaches of contract and misrepresentations.  So, Mr A made a claim to Creation.
+Represented by a claims management company (“CMC”) Mr A made a number of points, but 
+in summary said:
+
+The benefits of the system were misrepresented as he was told it would cover the 
+cost of the loan and pay for itself.
+
+He was pressured into making the purchase and taking the associated loan.
+
+The solar panels are of lower quality than was described by the salesman.
+
+No information was provided about the system warranty.
+Creation didn’t uphold Mr A’s claim.  Unhappy with its response, the CMC referred Mr A’s 
+complaint to this Service for review.
+One of our investigators reviewed everything and recommended the complaint should not be 
+upheld.  In summary she said:
+
+Although she acknowledged Mr A’s claims, the documents from the time of sale don’t 
+suggest the system would be self-funding, and explain its impossible to predict the 
+performance of the system.
+
+There is no evidence to suggest the panels where not of the standard represented by 
+Mainframe.
+Mr A didn’t accept the investigator’s conclusions.  He re-iterated the verbal representations 
+he says were made by the sales person, and that he was told the system would be ‘free’.
+As no agreement could be reached, the complaint has been passed to me for a fresh review 
+and decision to be made.
+Ref: DRN5692941
+2
+my findings
+I’ve considered all the available evidence and arguments to decide what’s fair and 
+reasonable in the circumstances of this complaint.  Having done so, I’ve reached much the 
+same conclusion as the investigator – and I’ll explain why.
+There are several issues raised by the CMC on behalf of Mr A.  I’ve reviewed and 
+considered all of them, but in this decision, I’ve focussed on what I consider to be the key 
+issues, which are central to the complaint.
+Self-funding
+Mr A alleges that Mainframe misrepresented the system and said the benefits it would 
+produce would cover the cost of the system in 6-7 years – essentially making it self-funding.
+As Mainframe has been dissolved and no longer exists, there is limited information available.  
+The CMC has provided documentation from the time of sale including the order form, 
+invoice, terms and conditions, and funding choice form.  In parts, these documents are 
+illegible, but better copies are not available.
+From what I’ve seen, the documentation doesn’t state that the system will be self-funding.  In 
+fact, the order form specifically says:
+“The performance of Solar PV systems is impossible to predict with certainty 
+due to the variability in solar radiation (sunlight) from location to location and 
+from year to year”.
+This statement is set out prominently alongside the illustrated output calculation, and so it 
+was clearly made known to Mr A that the performance of his system was not guaranteed.
+Upon installation of the solar panels, Mr A was issued with an MCS certificate as proof that 
+the system was installed compliant to industry standards.  That certificate estimated that Mr 
+A’s system would generate 2,555KWh of electricity each year.  A satisfaction note completed 
+for Creation estimated the annual income Mr A would receive in FIT payments would be 
+around £392.  This is clearly substantially lower than the £1,187 needed each year to service 
+the loan payments to pay for the system.
+A reading of Mr A’s meter on 5 September 2016 showed that the system had generated 
+2,290KWh of electricity.  When pro-rated to a full year this provides a generation of 
+2,572KWh – which is what was expected and in line with the estimate provided on the MCS 
+certificate.
+I understand Mr A says he was told that the system would be free, and I’ve taken that into 
+account.  Also, it’s not uncommon for suppliers of solar panel systems to market them based 
+on a self-funding model.  But I’m required to review each complaint on its own individual 
+facts, taking account of any wider knowledge I have.
+In this complaint, I’ve not seen anything to support Mr A’s assertion that the system would be 
+self-funding – and the available documentation contradicts that claim.  Given the lack of 
+marketing literature available, the investigator reviewed an archived version of Mainframe’s 
+website.  She didn’t feel there was anything to suggest the system would be ‘free’ or ‘self-
+funding’ – and I agree with that conclusion.
+Ref: DRN5692941
+3
+I can’t be certain exactly what was discussed at the time of sale, and whilst I don’t doubt Mr 
+A believes his recollection of events to be true, I feel to reasonably agree a representation 
+was made I require evidence to support his position.  Without that evidence I’m unable to 
+conclude the benefits of the system were misrepresented to Mr A.
+Pressure applied at the time of sale
+Mr A says that he was pressured into purchasing the system and entering the loan with 
+Creation.  I have no doubt that the sales person was persuasive when discussing the system 
+with Mr A, but both the purchase agreement and finance agreement provided cooling-off 
+periods.  So, if Mr A was unsure or didn’t want the system, he had the opportunity to cancel 
+the order or ask more questions.
+Quality of solar panels
+Mr A says Mainframe told him that the solar panels he was purchasing were of the highest 
+quality and performance, but he feels the installed panels don’t meet that description.
+I’ve not seen anything in the available documentation from the time of sale that refers to the 
+quality of the solar panels. The installation was issued with an MCS certificate which 
+confirms the panels are compliant with industry standards.
+So, I’m not satisfied that any misrepresentation was made to Mr A in relation to the quality of 
+the solar panels.  
+Warranty
+Mr A says that he wasn’t given details of the warranty for the solar panel system.  Creation 
+has pointed out that section 8 of Mainframe’s terms and conditions provided information 
+about the system warranty.
+I’ve considered this point and I’m not persuaded Mr A has suffered any loss by not being 
+familiar with the terms of the warranty.  If the system developed a fault, I would expect Mr A 
+to check his paperwork and find reference to the warranty.  But as Mainframe is no longer 
+operating, Creation would be responsible for honouring the terms of the warranty under s.75.
+Summary
+I appreciate Mr A is disappointed with the performance of his solar panel system and the 
+final benefits it’s providing him, but I note it’s reached the level of energy output that was 
+stated at the time of sale.
+The CMC has suggested a holistic approach should be taken when considering Mr A’s 
+complaint.  But whilst I’ve taken everything into account, I’m required to determine what I 
+consider to be fair and reasonable in Mr A specific circumstances.  Having done so, I’m not 
+persuaded there is enough evidence for me to reasonably conclude there’s been a 
+misrepresentation or breach of contract – and so I can’t uphold the complaint against 
+Creation.
+Ref: DRN5692941
+4
+my final decision
+My final decision is that I don’t uphold Mr A’s complaint against Creation Consumer Finance 
+Ltd.
+Under the rules of the Financial Ombudsman Service, I’m required to ask Mr A to accept or 
+reject my decision before 9 December 2020.
+Ross Hammond
+ombudsman
+Ref: DRN5692941

@@ -1,0 +1,155 @@
+DRN-3762155
+The complaint
+Mr H is unhappy that a car supplied to him under a hire purchase agreement with Creation 
+Consumer Finance Ltd was of an unsatisfactory quality.
+What happened
+On 25 March 2022, Mr H was supplied with a used car through a hire purchase agreement 
+with Creation. He paid an advance payment of £5,000 and the agreement was for £38,995 
+over 49 months; with 48 monthly repayments of £601.79, and a final payment of £17,492 if 
+Mr H wanted to keep the car. At the time of supply, the car was around one and a half years 
+old and had done 14,570 miles.
+On 13 April 2022, Mr H complained to both the dealership and Creation that the car had 
+developed an ABS fault. The dealership couldn’t determine a fault, and the car was 
+examined under the manufacturer’s warranty. Again, no fault could be found, and the car 
+was returned to Mr H on 22 April 2022. 39 miles later the car broke down and had to be 
+recovered. It was examined again under warranty, and an issue with the ABS was found and 
+fixed. The car was returned to Mr H on 6 May 2022.
+On 9 May 2022, the engine management light (EML) came on, and the warranty company 
+reset nine fault codes. But the EML came on again after one mile. So, on 10 May 2022, Mr H 
+asked to reject the car. The dealership refused but offered to buy the car back for around 
+£5,000 less than Mr H paid for it around 10-weeks earlier. Mr H didn’t accept this offer and 
+the car broke down again on 24 May 2022 due to another fault with the ABS.
+Mr H had an independent report done on the car, and was told that, if it were to be repaired, 
+there would be a substantial delay while waiting for parts. And he felt that he had no option 
+but to sell the car, as he needed it to be able to get to work. On 31 May and 1 June 2022, 
+the dealership’s solicitors wrote to Mr H to tell him they considered the issues with the car to 
+be “merely trivial”, that his claim was “wholly unproven“, and that he had no right of rejection.
+Mr H sold the car for £37,283.90, which was a loss of £6,711.10 on what he’d paid for it. He 
+also needed to pay Creation £1,033 for the shortfall in the agreement, bringing his total loss 
+to £7,744.10. And he brought his complaint to us for investigation.
+Our investigator said the evidence showed there was likely to be a fault with the car that was 
+present when it was supplied to Mr H. And this made the car of an unsatisfactory quality. 
+She said that, under the Consumer Rights Act 2015 (CRA), Creation were allowed one 
+chance to repair the car, which they’d had. And whether or not each breakdown had been 
+caused by the same underlying issue wasn’t relevant. What’s more, Mr H had only been able 
+to do 1,300 miles in the car, while suffering multiple breakdowns, and he hadn’t had much 
+use of the car since 13 April 2022. So, she also didn’t think the car was sufficiently durable. 
+Because of this, the investigator said that, under circumstances like this, Mr H should usually 
+be allowed to reject the car. However, as the car had already been sold, she thought that 
+Creation should treat the agreement as it the car had been rejected. And they should refund 
+all payments Mr H had made since 13 April 2022; reimburse him the £7,744.10 financial loss 
+he’d incurred; and refund him £971.05 additional expenses he’d incurred relating to tax and 
+insurance while the car was off the road, recovery costs, and inspection costs.
+The investigator also said that Creation should pay statutory interest on the refunds; pay Mr 
+H an additional £500 for the distress and inconvenience he’d been caused; and remove any 
+adverse credit, relating to this agreement, from Mr H’s credit file. Mr H agreed with the 
+investigator, but Creation didn’t respond to her view. Because of this, this matter has been 
+passed to me to make a final decision.
+What I’ve decided – and why
+I’ve considered all the available evidence and arguments to decide what’s fair and 
+reasonable in the circumstances of this complaint.
+Having done so, I’ve reached the same overall conclusions as the investigator, and for 
+broadly the same reasons. If I haven’t commented on any specific point, it’s because I don’t 
+believe it’s affected what I think is the right outcome.
+In considering this complaint I’ve had regard to the relevant law and regulations; any 
+regulator’s rules, guidance and standards, codes of practice, and (if appropriate) what I 
+consider was good industry practice at the time. Mr H was supplied with a car under a hire 
+purchase agreement. This is a regulated consumer credit agreement which means we’re 
+able to investigate complaints about it. 
+The CRA says, amongst other things, that the car should’ve been of a satisfactory quality 
+when supplied. And if it wasn’t, as the supplier of goods, Creation are responsible. What’s 
+satisfactory is determined by things such as what a reasonable person would consider 
+satisfactory given the price, description, and other relevant circumstances. In a case like this, 
+this would include things like the age and mileage at the time of sale, and the vehicle’s 
+history and its durability. Durability means that the components of the car must last a 
+reasonable amount of time.
+The CRA also implies that goods must confirm to contract within the first six months. So, 
+where a fault is identified within the first six months, it’s assumed the fault was present when 
+the car was supplied, unless Creation can show otherwise. But, where a fault is identified 
+after the first six months, the CRA implies that it’s for Mr H to show it was present when the 
+car was supplied. 
+So, if I thought the car was faulty when Mr H took possession of it, and this made the car not 
+of a satisfactory quality, it’d be fair and reasonable to ask Creation to put this right.
+It’s not disputed that Mr H had problems with the car shortly after it was supplied to him. I’ve 
+seen an invoice for the repair that took place on 4 May 2022, which confirms that there were 
+“multiple ABS related warnings in display” and there was a broken wire in the ABS module. 
+The wiring fault was fixed under warranty. However, a breakdown report dated 24 May 2022 
+confirmed that the mechanic “found loose wiring to abs module.”
+I’ve also seen a copy of an independent report on the car, dated 16 June 2022. At this point 
+the car had done 15,901 miles – 1,331 miles more than when it was supplied to Mr H. This 
+said that the engineer has “checked wiring to ABS module and found connector had melted. 
+Vehicle will require new engine bay harness and possibly ABS module.” Mr H was charged 
+£192 for this report.
+In their response to Mr H’s complaint, Creation have said they would need to inspect the car 
+to “confirm if it is a second fault” and that “the dealer has a right to repair if it is a different 
+fault.” However, section 24(5) of the CRA says:
+A consumer who has the right to a price reduction and the final right to reject may 
+exercise one (not both), and may only do so in one of these situations – 
+a) after one repair or one replacement, the goods do not confirm to contract
+And the explanatory notes for the CRA make it clear that “if the consumer’s goods continue 
+to be substandard after the consumer  has … already undergone one repair or replacement 
+of the goods by the trader … the consumer may … reject the goods and obtain a refund.” 
+It's clear that the CRA only allows a single chance at repair, and not one chance to repair 
+each fault. And this single chance of repair took place on 4 May 2022, when an ABS fault 
+was fixed. It’s also clear that this repair failed because the car broke down again on 24 May 
+2022. As it happens this was also with an ABS fault, but the CRA doesn’t require these faults 
+to be linked. As such, I’m satisfied that Mr H has the right to reject the car.
+Putting things right
+Mr H was in possession of the car from 25 March to 5 August 2022, when it was sold. In a 
+situation like this, I’d expect Mr H to return the car to Creation, and for them to unwind the 
+agreement. But this isn’t possible, as the car has been sold, and the agreement repaid in full. 
+As such, while the car can no longer be rejected, I’d expect Creation to treat the agreement 
+as if it had.
+Where a car had been rejected, I’d expect a financial business to refund any deposit paid, as 
+well as clearing the remaining amount on the agreement at no cost to the customer. So, for 
+Creation to put Mr H back in the position he should’ve been, had rejection been accepted on 
+10 May 2022 (when Mr H asked for this), I expect Creation to refund Mr H the difference 
+between what he paid for the car and the sale price, plus the additional amount he was 
+required to pay them to repay the agreement in full – a total of £7,744.10.
+While I would expect Mr H to pay for the car while he had use of it, I also need to take into 
+consideration the period when it was in his possession but undrivable due to the faults. Mr H 
+said that he had no issues with the car for the first two weeks, that it was in for inspection 
+and repair for around six weeks, and the car broke down completely on 24 May 2022. As I’ve 
+not seen anything to show me that Mr H was provided with alternate transportation while the 
+car was in for inspection/repair, I’m in agreement with the investigator that Mr H should only 
+pay for the first two weeks of use, plus the few days use he had until 24 May 2022. As such, 
+Creation should refund him any payments he made after 13 April 2022.
+I’m also in agreement that Mr H should be refunded for the insurance and road tax payments 
+he’d made while the car wasn’t in use, plus the cost of the recovery and inspection he paid 
+for. And I’ve seen evidence that this comes to a total of £971.50.
+Finally, Mr H has suffered a substantial amount of distress and inconvenience with what’s 
+happened, given the multiple breakdowns, the multiple trips to garages, and the sheer 
+number of times he’s needed to chase or liaise with multiple parties. And this has had an 
+impact on his mental health, resulting in him having to take time off work and being 
+prescribed medication. Given this, I’m also in agreement that Creation should pay Mr H an 
+additional £500 compensation.
+So, Creation should:
+
+end the agreement with nothing further to pay;
+
+pay Mr H £7,744.10 to put him back in the position he would’ve been had they 
+allowed the car to be rejected;
+
+refund all the payments Mr H has made after 13 April 2022;
+
+reimburse Mr H £971.50 for the road tax and insurance he paid while the car was off 
+the road, for the cost of recovery, and for the cost of the inspection on the car;
+
+apply 8% simple yearly interest on the above, calculated from the date Mr H made 
+the payments to the date of the refund †;
+
+remove any adverse information relating to this agreement from Mr H’s credit file; 
+and
+
+pay Mr H an additional £500 for the distress and inconvenience he’s suffered as a 
+result of being supplied a car that wasn’t of a satisfactory quality. 
+†HM Revenue & Customs requires Creation to take off tax from this interest. Creation must 
+give Mr H a certificate showing how much tax they’ve taken off if he asks for one.
+My final decision
+For the reasons explained, I uphold Mr H’s complaint and Creation Consumer Finance Ltd 
+should follow my directions above.
+Under the rules of the Financial Ombudsman Service, I’m required to ask Mr H to accept or 
+reject my decision before 14 December 2022.
+ 
+Andrew Burford
+Ombudsman

@@ -1,0 +1,174 @@
+ 
+ 
+DRN-5230672 
+ 
+ 
+The complaint 
+ 
+Mrs W has complained about the way Creation Consumer Finance Ltd (“Creation”) 
+responded to claims she made in relation to misrepresentation, breach of contract, and an 
+alleged unfair relationship taking into account section 140A (“s.140A”) of the Consumer 
+Credit Act. 
+ 
+What happened 
+In February 2015, Mrs W entered into a fixed sum loan agreement with Creation to pay for a 
+solar panel system (“the system”) from a supplier I’ll call “A”. 
+ 
+In September 2021, Mrs W sent a letter of claim to Creation explaining she thought the 
+system was mis-sold. She said A told her she’d be paid for the electricity the system 
+generated though the government’s Feed in Tariff (FIT) payments. She also said A told her 
+that her energy bills would reduce, and that the system would be maintenance free with a 
+40-year life expectancy. 
+ 
+Mrs W said the system was misrepresented and believed the statements and several other 
+actions at the time of the sale created an unfair relationship between her and Creation.  
+ 
+Creation sent a final response letter in November 2021 to say they were dismissing the 
+complaint without consideration because it had been brought out of time. 
+ 
+Mrs W wasn’t happy with Creation’s response, so she referred his complaint to our service in 
+January 2022. 
+ 
+One of our investigators looked into what had happened. She thought A had led Mrs W to 
+believe the system was self-funding and that their documentation didn’t clearly set out it 
+wasn’t. She didn’t think the system was self-funding over the course of the loan term, and so 
+she thought A had misrepresented it. Our investigator thought a court would likely find the 
+relationship between Mrs W and Creation was unfair and that she’d suffered a loss through 
+entering into the agreement. She thought Creation should recalculate the loan based on 
+known and assumed savings and income over eight years so that Mrs W pays no more than 
+that, and that she keeps the system. She also recommended £300 compensation for the 
+impact of Creation not investigating the s.140A claim. 
+ 
+Mrs W said she wasn’t happy with our investigator’s proposed resolution. She said she didn’t 
+want to pay another penny towards the solar panels. Mrs W wanted the debt written off and 
+her credit standing restored. 
+ 
+Creation didn’t reply, so as things remained unresolved, the complaint was passed to me for 
+a decision. 
+ 
+I issued my provisional decision on 5 December 2024, relevant extracts of which I include 
+below.  
+ 
+‘Jurisdiction to look at the “Section 75” complaint 
+ 
+ 
+ 
+Where Creation exercises its right and duties as a creditor under a credit agreement, they 
+are carrying out a regulated activity within the scope of our compulsory jurisdiction under 
+Article 60B(2) of the Financial Services and Markets Act 2000 (Regulated Activities) Order 
+2001. In undertaking that activity, the creditor must honour liabilities to the debtor. So, if a 
+debtor advances a valid claim under section 75 of the Consumer Credit Act 1974 (s.75) in 
+respect of the credit agreement, the creditor has to honour that liability and failing or refusing 
+to do so comes under our compulsory jurisdiction. 
+ 
+Creation argues that the event complained of when the matter is brought to our service 
+occurred as and when the supplier caused the alleged s.75 liability to arise in the first place. 
+I disagree with this though. The lender’s s.75 liability in damages doesn’t arise as a result of 
+any act or omission of the lender in performing a regulated activity – it’s simply a claim given 
+by statute to the borrower against the lender. And it arises from the acts or omissions of a 
+third party, the supplier. Only when and if that claim is presented by the borrower to the 
+lender must the lender do anything about it, which is to honour its statutory liability by paying 
+the claim if it’s a valid one. Until then, the lender’s acts and omissions are simply to have lent 
+money to the borrower at the borrower’s request, and that’s not the matter complained 
+about. 
+ 
+So, when a borrower brings a complaint to our service alleging that they were due money 
+under s.75 when the lender refused to pay, “the event complained of” in such circumstances 
+isn’t the supplier’s conduct; it’s the lender’s refusal to honour its alleged statutory liability 
+when the borrower made the claim. 
+ 
+In this case, Creation rolled up their consideration of Mrs W’s claim into a letter that 
+explained why it would not be paying the claim and treated Mrs W as having brought a 
+complaint which she was entitled to refer to our service. So, their refusal to accept and pay 
+the s.75 claim was contained in a final response letter of 11 November 2021, in which they 
+told Mrs W she could refer his complaint to our service within six months. 
+ 
+In those circumstances, because Creation’s letter rejected Mrs W’s claim under s.75, it 
+constituted “the event complained of”. It also set out Creation’s response to any complaint 
+that flowed from this and invited Mrs W to refer that complaint to our service if she was 
+dissatisfied with the outcome. Creation could have separated those stages, waited for Mrs W 
+to complain that the s.75 claim hadn’t been accepted and honoured, and only then issued 
+their final response letter. Instead, they followed the same practice that many other lenders 
+adopt by allowing Mrs W to refer the matter directly to the ombudsman service, by way of 
+treating it as a complaint. And Mrs W referred her complaint to us in January 2022, which 
+was within the six months given in Creation’s final response letter. 
+ 
+I note that Creation in their submissions to us referred to DISP 2.8.2R. However, the fact that 
+Creation refused to accept the s.75 claim within a final response letter doesn’t give rise to 
+any difficulties calculating when time begins to run under DISP 2.8.2R. 
+Merits of the s.75 complaint 
+ 
+The law imposes a six-year limitation period on claims for misrepresentation and breach of 
+contract, after which they become time barred. 
+ 
+In this case, the alleged misrepresentation and alleged breach cause of action arose when 
+an agreement was entered into in February 2015. Mrs W brought her s.75 claim to Creation 
+in September 2021. That is more than six years after she entered into an agreement with 
+them. Given this, I don’t think it was unfair for Creation not to have accepted the s.75 claim. 
+So, I don’t uphold this aspect of the complaint. 
+ 
+ 
+ 
+The unfair relationship under s.140A 
+ 
+Our investigator thought that a court would likely find the relationship between Mrs W and 
+Creation was unfair. However, I’m afraid I don’t currently agree with this. 
+ 
+In the context of this complaint, the law relating to unfair relationships is described in s.140 
+of the Consumer Credit Act 1974. It says a court may make an order under s.140 if it 
+determines a relationship between the creditor and the debtor is unfair. The consumer is the 
+debtor and s.140 defines the creditor as “the person to whom his rights and duties under the 
+agreement have passed by assignment or operation of law”.  
+  
+I note here that Creation sold Mrs W’s debt to a debt purchaser in October 2017. Bearing in 
+mind my comments above around how s.140 is set out, it follows that the debt purchaser is 
+now the creditor for the purpose of the credit agreement. Mrs W sent her letter of claim to 
+Creation after the debt was sold and I don’t believe that a claim about an unfair relationship 
+can be brought by her against them as they were no longer the creditor when she made that 
+claim. 
+ 
+I appreciate that the reasons I’ve given are very technical in nature and that this follows on 
+from our investigator’s view where she felt that Mrs W was entitled to compensation. I’m 
+aware that Mrs W will likely be disappointed with my provisional decision as a result. For the 
+reasons I’ve set out above though, I don’t currently intend on upholding this complaint. 
+ 
+I asked Mrs W and Creation to provide any further comments or evidence for me to consider.  
+ 
+Creation replied saying they agreed with my provisional decision.  
+ 
+Mrs W didn’t agree. She said, in summary, that the system had been misrepresented to her 
+and she had suffered a financial loss. Mrs W also said that she tried to contact A but wasn’t 
+able to, and the fact the debt with Creation had now been sold on wasn’t something she had 
+influenced. Mrs W asked whether A and Creation had an agreement about financing the 
+solar panels. 
+ 
+What I’ve decided – and why 
+I’ve considered all the available evidence and arguments to decide what’s fair and 
+reasonable in the circumstances of this complaint. 
+I realise that Mrs W feels that A misrepresented the system and that she’s suffered a 
+financial loss because of this. However, I set out in my provisional decision why I felt that 
+Creation’s decision not to accept her s.75 claim wasn’t unfair, because the claim had been 
+brought outside of the six year time limit as set out in law. And I also set out why I didn’t think 
+a court would find the relationship between Mrs W and Creation was unfair because the debt 
+had been sold on before her claim to Creation was made.  
+I’m afraid I haven’t been given any further comments or evidence around this that would 
+make me think that my provisional findings on these points were unfair and incorrect. I 
+appreciate that Mrs W had no influence over the debt being sold. I’m afraid though that 
+doesn’t change my findings on these points. And while A and Creation likely did have a 
+specific agreement around how the solar panels were financed, in that there were likely pre-
+existing agreements that A would arrange finance for customers from Creation, that also 
+doesn’t affect the specific points I made about Creation’s decision not to uphold the s.75 
+claim or how a court would likely assess an unfair relationship between the two parties.  
+Having considered Mrs W’s response to my provisional decision, I won’t be upholding the 
+ 
+ 
+complaint for the reasons I’ve set out in both my provisional decision and my final decision.  
+My final decision 
+I don’t uphold the complaint.  
+Under the rules of the Financial Ombudsman Service, I’m required to ask Mrs W to accept or 
+reject my decision before 21 January 2025. 
+  
+ 
+Daniel Picken 
+Ombudsman 
+ 

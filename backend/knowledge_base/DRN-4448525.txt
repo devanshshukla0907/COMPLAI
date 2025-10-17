@@ -1,0 +1,194 @@
+DRN-4448525
+The complaint
+Mr B complains Creation Consumer Finance Ltd (“Creation”) hasn’t dealt fairly with a claim 
+he brought under section 75 of the Consumer Credit Act 1974 (“CCA”) in respect of some 
+home improvement works.
+What happened
+I issued a provisional decision on this case on 20 October 2023, in which I set out the 
+background to Mr B’s complaint along with my provisional findings, so I will deal with the 
+events leading up to the complaint only briefly.
+Mr B had signed a contract with a company (“AW”) in May 2021 to install doors and windows 
+at his home, for a price of £5,500, of which £4,950 was financed by a point of sale loan with 
+Creation.
+There were various issues with the supply contract. There were significant delays in fitting 
+the doors and windows, and then when fitting did take place there were concerns over the 
+standard of workmanship. Remedial works were attempted by AW several times but Mr B 
+was dissatisfied with the results, prompting him to contact Creation in July 2022 with a view 
+to making a claim under section 75 of the CCA.
+Creation rejected Mr B’s section 75 claim, and associated complaint, in August 2022. Shortly 
+after, Mr H referred the matter to the Financial Ombudsman Service. During our 
+investigation, various pieces of evidence were supplied relating to what was wrong with the 
+installation of the windows and doors, and what it might cost to put things right. This included 
+a report from a third party (“F”) and separate quotes for works from other third parties (“S” 
+and “Y”).
+In my provisional decision I noted firstly that section 75 of the CCA allows a consumer who 
+has purchased goods or services using certain types of credit, to claim against their lender in 
+respect of any breach of contract or misrepresentation by the supplier of the goods or 
+services, so long as certain technical conditions are met. I concluded section 75 applied to 
+Mr B’s scenario and the technical conditions were in place.
+In order to determine whether there had been a breach of contract for which Creation could 
+be held liable under section 75 of the CCA, I went on to consider what Mr B had been 
+entitled to expect from AW under the contract for the doors and windows. I said the 
+following:
+“I’ve seen the front page of the purchase contract between Mr B and AW. This describes 
+the goods being supplied, where they were to be fitted, and their basic specification such as 
+the colour. The contract shows AW was meant to install two doors on the front elevation of 
+the property, with one door to have two long, thin windows on either side. Additionally, 
+four windows were to be fitted to the lounge bay, three to the main bedroom and two to a 
+small bedroom. The windows were to be finished in “anthracite” outside and white inside, 
+with white handles.
+Mr B was entitled to expect these items to be supplied and fitted. I’ve not seen the full 
+terms and conditions, but the Consumer Rights Act 2015 (CRA), which would apply to a 
+purchase like this, causes certain terms to be treated as included in the contract. Relevant to 
+Mr B’s complaint are the following such terms: 
+
+That any goods would be satisfactory quality.
+
+That any services would be carried out with reasonable care and skill.
+
+That any services would be performed within a reasonable time (if no specific date 
+was set for completion).”
+I went on to note that it appeared to have been accepted that the goods were not installed 
+within a reasonable time, and that the report from F had not been seriously challenged either 
+by Creation or AW. I said that I thought it was reasonable to proceed on the basis that the 
+report was not disputed, and went on to consider the areas the report identified problems 
+with: the front door, front bay window and garage door.
+Having considered the report, I concluded the front door had warped to the point that it had 
+become very difficult to operate, and this wasn’t reasonable so soon after installation. I 
+concluded the front door had not been satisfactory quality.
+Regarding the front bay window, my conclusion was that this had not been installed with 
+reasonable care and skill. This was because the window had not been adequately sealed 
+and this was causing draughts.
+As for the garage door, the picture was slightly less clear, but I thought the evidence showed 
+the door lock had probably been faulty and was not satisfactory quality, the handle had 
+either not been fitted properly or was not satisfactory quality (it had fallen off), and mastic 
+had not been applied around the door with reasonable care and skill.
+I said that, overall, I was minded to find: 
+“…that there were several elements of the window and door replacement work where either 
+a lack of reasonable care and skill was exercised during installation, or items were supplied 
+which were not satisfactory quality. Bearing in mind the provisions of the CRA, this would 
+represent a breach of contract by AW for which Mr B could hold Creation liable under section 
+75 of the CCA.”
+I then turned to the matter of what remedy Creation should provide to Mr B as a remedy. I 
+noted this had been a problem to date. Our investigator had recommended that Creation pay 
+one of the two quotes Mr B had provided for remedial works, but Creation had dismissed 
+these quotes as excessive. I said, based on my analysis of what aspects of the contract 
+between Mr B and AW had been breached, that I considered remedial works should cover 
+the following things:
+
+Replacement of the front door and making good any surrounding plasterwork 
+damaged as a result of the door having warped and excessive force being required 
+to close it.
+
+Sealing the windows in the front bay, inside and outside.
+
+Replacing the garage door lock and handle.
+
+Replacing the mastic around the garage door.
+I then analysed the two quotes Mr B had provided. I also thought the quotes appeared 
+unusually high, and I think it is worth repeating that analysis and my conclusions following it, 
+in full:
+“The original contract with AW was for two doors (including some associated glazing) 
+and nine windows. S has quoted for what appears to be a single door, at a cost higher than 
+the entire contract with AW. S has referred to supplying “lintels” on its quote but it is 
+unclear what it means by this. It appears to me that the S quote is disproportionately high 
+[£5,022] when compared to the original contract, and doesn’t clearly address the remedial 
+works I’ve identified above.
+The quote from Y includes the replacement of the front door, along with the lock and 
+handle on the garage door. But the rest of the quote is vague and doesn’t identify specifically 
+what work is to be done. Again, the price seems high [£4,365] when the scope of works (as 
+far as can be identified given its vagueness) is considered against the original AW contract.
+While I appreciate this will come as a disappointment to Mr B who has taken the time 
+and trouble to go out and source these quotes, I don’t think I can rely on either of them 
+as representing the reasonable cost of remedying AW’s breaches of contract.
+So where does this leave things? Creation has suggested that it source some quotes of 
+its own. Mr B is reluctant to allow this, or for AW to return to fix the problems itself, given 
+its failings to date. I think this is understandable, but on the current evidence I think it is 
+also impossible for me as a layperson without expertise in construction, to establish 
+the reasonable cost of remedial works.”   
+I went on to consider what sort of remedy it would be reasonable of Creation to provide in 
+the absence of a reasonable quote for remedial works, concluding:
+“Another potential remedy outlined in the CRA and which can apply both to contracts 
+for goods and contracts for services, is a “price reduction”. The explanatory notes 
+which accompany the CRA explain that price reductions are intended to reflect the difference 
+in value between what someone has paid for, and what they’ve received. I note the courts 
+have discouraged taking too fine-toothed an approach in calculating difference in value, and 
+it is hardly an exact science.
+With this in mind, and taking into account the remaining problems with AW’s work along 
+with its delays in carrying them out in the first place, I’m currently of the view that a 
+price reduction of 30% of the contract price (£1,650) would be a reasonable remedy. I say 
+this because although there are some significant problems with the work – specifically 
+the warped front door, and poor sealing around the bay window causing draughts – the 
+other issues seem minor in nature and a large part of the contract has been performed 
+correctly.
+There’s been no suggestion there’s anything wrong with the five upstairs windows 
+for example, which were replaced as part of the contract.
+So as things stand, I think it would be fair and reasonable of Creation, bearing in mind 
+its responsibilities to Mr B under section 75 of the CCA, to pay Mr B £1,650 to settle this 
+aspect of his complaint.”
+I highlighted that I was willing to consider further submissions on what would constitute an 
+appropriate remedy for AW’s breach of contract. I said it might be possible for the parties to 
+agree, for example, on the appointment of a professional (such as a quantity surveyor) to 
+cost the remedial works. I went on to say that I would expect Creation to cover any 
+reasonable professional costs involved in this.
+I then turned to the matter of Creation’s customer service and claims handling, which our 
+investigator had concluded had been poor. I agreed. I thought there had been unacceptably 
+long delays on Creation’s part which had caused Mr B inconvenience, annoyance and 
+frustration. I agreed that our investigator’s recommendation of £250 compensation to reflect 
+the impact of Creation’s poor service was fair.
+Concluding, I said I was minded to uphold Mr B’s complaint and direct Creation to pay him 
+£1,650 plus compensatory interest to reflect the price reduction, plus £250 compensation for 
+its delays in handling his claim. I invited both parties to the complaint to let me have any new 
+evidence, comments or arguments they wanted me to consider.
+Creation said it would accept my provisional decision. Mr B was disappointed by the 
+provisional decision. He said he was going to be left out of pocket and with a faulty product 
+which the redress I’d outlined wouldn’t come to close to covering the cost of putting right. He 
+said he’d lost £1,000 in days off work and his heating bills had gone up due to the draughts. 
+He said he’d provided quotes and didn’t know what else he could do to prove his case. He 
+said his preferred outcome was either to have the rest of what he had to pay written off, have 
+Creation pay one of the quotes he’d provided previously, or pay another £1,000 and call it 
+quits.
+The case has now been returned to me to decide.
+What I’ve decided – and why
+I’ve considered all the available evidence and arguments to decide what’s fair and 
+reasonable in the circumstances of this complaint.
+Having done so, I can see that the only point in dispute following my provisional decision, 
+summarised and quoted from above, is the matter of redress. Mr B is disappointed with my 
+provisional decision and I understand why: the redress is, after all, much less than he had 
+expected following our investigator’s assessment.
+I explained in my provisional decision why I didn’t think I could rely on the quotes from S and 
+Y as representing the reasonable cost of remedial works. I noted that I was willing to 
+consider further submissions on this point and suggested one possible way of obtaining 
+evidence – through the appointment of a professional to work out the costings, with their 
+reasonable expenses paid for by Creation. Mr B has indicated that he doesn’t want this to 
+happen and he feels he’s done enough by getting the quotes he has. 
+However, without further evidence I see no reason to depart from the conclusions I reached 
+in my provisional decision: that in the absence of reliable evidence of the reasonable cost of 
+remedial works, a price reduction would be a reasonable remedy. Taking into account the 
+proportion of the contract which was performed correctly and the nature of the remaining 
+issues, and the initial delays on AW’s part, I remain of the view that a price reduction of 30% 
+of the original contract price is reasonable, and this is what I will direct Creation to pay Mr B.
+I have received no comments on the question of what would represent fair compensation for 
+Creation’s delays in handling Mr B’s claim. Having reviewed this again, I’ve come to the 
+same conclusion – that £250 would represent fair compensation – for the same reasons.
+My final decision
+For the reasons explained above and in the extracts and summary of my provisional 
+decision, I do not think Creation Consumer Finance Ltd dealt fairly with Mr B’s section 75 
+claim. I therefore uphold Mr B’s complaint and direct Creation Consumer Finance Ltd to take 
+the following actions:
+A) Pay Mr B £1,650, this amount representing a fair price reduction in respect of his 
+section 75 claim.
+B) Add 8% simple interest per year* to the amount in A), calculated from the date 
+Creation first wrote to Mr B with a decision on his claim (15 August 2022), to the date 
+the settlement is paid to him.
+C) Pay Mr B £250 compensation for the impact on him of its delays in handling his 
+claim.
+*If Creation Consumer Finance Ltd considers that it’s required by HM Revenue & Customs 
+to deduct income tax from that interest, it should tell Mr B how much it’s taken off. It should 
+also give Mr B a tax deduction certificate if he asks for one, so he can reclaim the tax from 
+HM Revenue & Customs if appropriate.
+Under the rules of the Financial Ombudsman Service, I’m required to ask Mr B to accept or 
+reject my decision before 21 December 2023.
+ 
+Will Culley
+Ombudsman

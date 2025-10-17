@@ -1,0 +1,94 @@
+DRN-4082557
+The complaint
+Mr A complains about a car he acquired under a hire purchase agreement with Creation 
+Consumer Finance Ltd.
+What happened
+In November 2021 Mr A acquired a used car under a regulated hire purchase agreement 
+financed by Creation. The car was three years old, had a mileage of about 20,000 miles, and 
+had a cash price of £37,500. Mr A paid a deposit of £3,000, and the balance was financed 
+under the agreement (under which he had to make 60 monthly payments of £662.77).
+The following month, Mr A called the dealership to report two faults. He said a rattling noise 
+was coming from the dashboard, and the engine management light (EML) was on. Mr A has 
+also told us that, at the time, there were two other faults: the acceleration pedal was shaking 
+and the brake pedal was squeaking. The dealer told him that as the car was still under 
+warranty, he should go to one of the manufacturer’s garages.
+Mr A took the car to a garage in January 2022. That garage replaced the NOx sensor, which 
+stopped the EML coming on. But it told him that the rattling noise would cost over £1,200 to 
+diagnose, as it would not be covered by the warranty. So Mr A did not agree to that issue 
+being investigated further, and the car was returned to him in February.
+In June 2022, Mr A took the car back to the garage because of an issue with the gearbox, 
+and also a new sound, a buzzing noise. The gearbox issue was repaired, but not the buzzing 
+noise. However, the garage said that neither of these issues were faults. In its opinion, the 
+gearbox issue was the result of the selector lever button sticking because it had been 
+pressed unintentionally. And the buzzing noise was only the steering lock turning on and off 
+when the ignition was turned on and off.
+In July 2022, Mr A took the car to the garage for a third time. Some parts in the dashboard 
+were refitted, and this stopped the rattling noise.
+Also in July, Mr A brought this complaint to our service. He complained about the buzzing 
+noise, the gearbox issue – which he says is still occurring – and a new problem: he said that 
+while driving on the motorway, the steering wheel had been going from left to right by itself. 
+As he had not yet complained to Creation, his complaint was referred to Creation in 
+accordance with FCA rules. Meanwhile, in September, Mr A emailed Creation about the 
+steering wheel problem. And in December he stopped driving the car because he had lost 
+confidence in it.
+After Creation had been allowed eight weeks to investigate this complaint, one of our 
+investigators looked into it. She upheld this complaint. She thought that the car must have 
+been faulty when it was supplied to Mr A. Although the usual remedy would be to allow the 
+dealer one attempt at repairing the car, she thought that would not be suitable in this case, 
+because the dealer had already had long enough to repair the car, and also because she 
+didn’t know if another repair would be effective or proportionate. So instead, she 
+recommended that Mr A be allowed to reject the car, with nothing else to pay under the hire 
+purchase agreement. She said that his deposit and five percent of his monthly rental 
+payments should be refunded (with interest), he should be paid £300 for his inconvenience, 
+and the agreement should be removed from his credit file.
+Neither party was satisfied with that opinion. Mr A wanted more compensation. And Creation 
+insisted that the dealer should still be allowed an attempt to repair the car. It argued that 
+Mr A had only taken the car to a third party to be repaired, so the dealer should be allowed a 
+chance to fix it. If the warranty did not cover the repairs then he should have taken it to the 
+dealer in the first place. And it said Mr A shouldn’t have been driving the car between 
+February and December 2022, because if there was still a fault then continuing to drive the 
+car might have made it worse.
+Since no agreement could be reached, this case was referred to me for an ombudsman’s 
+decision. I wrote a provisional decision which read as follows.
+What I’ve provisionally decided – and why
+I’ve considered all the available evidence and arguments to decide what’s fair and 
+reasonable in the circumstances of this complaint.
+I have seen the invoices for all of the repairs I have described above, and none of them refer 
+to either the brake pedal or the accelerator pedal being repaired or even looked at, either in 
+January and February 2022 or at any other time. And I’ve seen a chain of emails between 
+Mr A and the garage, and these don’t mention any problem with the pedals either. So I’m not 
+persuaded that there is a real issue with the pedals. The only evidence of any faults in 2021 
+and early 2022 relates to the EML and the rattling noise. Both of those have since been 
+fixed.
+I accept the garage’s diagnosis that the buzzing noise and the gearbox issue were not faults. 
+There is no expert evidence to the contrary, and so I have no reason to doubt what the 
+garage says about this. I accept that the gearbox issue has recurred since it was repaired, 
+but that is something that Mr A would have to take up with the garage. Creation is not 
+responsible for it.
+Creation would only be responsible for the steering wheel issue if it was already present or 
+beginning to develop when the car was supplied to Mr A. Mr A first raised this matter eight 
+months after the car was supplied to him. He describes this fault as happening suddenly. 
+I think there is not enough evidence before me for me to make an informed decision about 
+whether this fault was already developing eight months earlier. So I am not persuaded that 
+this is a fault for which Creation is liable.
+If Mr A still maintains that there are faults with the steering and / or the pedals, then he is 
+welcome to take the car to the dealer to be looked at. If the result is that faults are identified, 
+and that they are faults which were probably already present or developing in November 
+2021, then Creation will be liable for the cost of repairing them. But at present I am unable to 
+conclude that Creation has done anything wrong, other than to supply Mr A with a car which 
+had a faulty NOx sensor and a rattly dashboard. I think that £300 is fair compensation for 
+that.
+Responses to my provisional decision
+Mr A reported some new faults which had come to light since my provisional decision. I have 
+seen no evidence about those, but as they are new matters I think that they would have to 
+form the subject of a new complaint, to give Creation a chance to investigate them. Mr A did 
+not respond to the substance of my provisional decision, and neither did Creation. So there 
+is no reason for me to depart from my provisional findings, and I confirm them here.
+My final decision
+My decision is that I uphold this complaint in part. I order Creation Consumer Finance Ltd to 
+pay Mr A £300.
+Under the rules of the Financial Ombudsman Service, I’m required to ask Mr A to accept or 
+reject my decision before 4 July 2023.
+ 
+Richard Wood
+Ombudsman

@@ -1,0 +1,204 @@
+DRN-4509164
+The complaint
+Mr B complains that Creation Consumer Finance Ltd aren’t reporting to a Credit Reference 
+Agency (CRA) that his account is closed.
+What happened
+Mr B asked Creation to close his account in June 2021. Creation acknowledged that there 
+had been a delay in doing this and they agreed to a separate complaint to pay Mr B £300 
+compensation. But Mr B says his account still hasn’t been closed and he recently received 
+information about the interest rate on the account increasing, and a notification from CRA’s 
+that his Creation account had been re-opened. Mr B brought his complaint to our service and 
+our investigator raised this complaint with Creation, but as they didn’t reply, she issued her 
+view of the complaint. 
+Creation later responded and they offered Mr B £200 compensation. They said they can 
+confirm the account was closed in 2021 and their back office team requested for his credit 
+file to be amended. They said they acknowledge this was not fully amended with one of the 
+CRA’s, however, the request was sent on their end. 
+Our investigator said she had seen evidence the account was closed in September 2021, 
+but Creation admitted there was a delay in reporting this which was why it reported as open 
+after this date. She said screenshots show Creation are reporting the account as settled and 
+dormant which is their equivalent to being closed. She said she couldn’t see what more 
+Creation could do as all the evidence shows the account is being recorded as closed with 
+them. Our investigator said Creation have done what we’d asked them to do albeit late, so 
+she was satisfied £200 compensation was fair. Mr B asked for an ombudsman to review his 
+complaint. 
+As my findings differed in some respects from our investigator’s, I issued a provisional 
+decision to give both parties the opportunity to consider things further. This is set out below:
+“I’ve considered all the available evidence and arguments to decide what’s fair and 
+reasonable in the circumstances of this complaint.
+Firstly, I’m aware that I’ve only summarised Mr B’s complaint points. And I’m not going to 
+respond to every single point made by him. No discourtesy is intended by this. Our rules 
+allow me to take this approach. It simply reflects the informal nature of our service as a free 
+alternative to the courts. If there’s something I haven’t mentioned, it isn’t because I’ve 
+ignored it. I haven’t. I’m satisfied I don’t need to comment on every individual point to be able 
+to reach what I think is a fair outcome.  
+I must make Mr B aware that I’m only able to look at the actions of Creation as part of this 
+complaint and not any CRA’s. This is because the complaint Mr B brought to our service is 
+against Creation only. But if he feels that any of the CRA’s have let him down, then he may 
+wish to make a separate complaint directly to them.
+I know Mr B has been told a lot of different things for a prolonged period of time. So what I’ve 
+asked Creation for is their system notes to try and get an understanding of what happened. I 
+can see from their system notes that Mr B had originally asked for his account to be closed 
+down in June 2021, but due to an error this was delayed until September 2021. As this was 
+part of a previous complaint Mr B has brought to our service, then I’m unable to cover this as 
+part of this complaint. But I do think what happened from that complaint had a bearing on 
+what subsequently happened, and I’ll explain why.
+Mr B was awarded £300 as part of that complaint. I can see that on 25 August 2022, 
+Creation paid the £300 compensation to his Creation account. In order to do this they had to 
+manually reopened Mr B’s account. The notes show that on the same day there was a 
+refund request issued on the account and it shows £300 being removed which had been 
+credited earlier that day. It was the following day on 26 August 2022 that this was removed 
+from Creation to be paid into Mr B’s account. But unlike 1 September 2021, where there was 
+a note to show that the account was manually closed, the person who had manually 
+reopened his account must have forgot to have the account manually closed again on the 
+same date.
+This is the reason why I’m persuaded this showed on more than one CRA that his account 
+was reopened. There are notes to suggest on 14 September 2022 that the manual process 
+was put in place to close the account and I can see a note on 14 September which shows 
+the account is dormant – which Creation uses this terminology for a closed account. But 
+there is also a date next to this of 21 February 2023. So the note does read as if the account 
+would become dormant/closed on 21 February 2023. 
+I can see a memo on the account on 1 November 2022 that they advised the bureau (CRA) 
+of the closing date. There is another system note on 8 February which shows a statement 
+was issued. I suspect that the manual process started in September 2022 wasn’t completed, 
+and therefore it’s likely that Mr B’s account was actually open during this timeframe. I say 
+this based on Mr B’s evidence of what he’s told us and the fact a statement was issued in 
+February 2023. Otherwise I would expect a closing statement to be issued in September 
+2022. I would not expect Mr B to receive information about interest rates going up on a 
+closed account on 17 March 2023, so I can only reasonably conclude that based on all of 
+these factors that his account was open despite them starting to manually close the account 
+again in September 2022 after the compensation manually reopened his account. 
+It is only on 9 May 2023, that I can see the system notes and memo show as the account 
+manually closed. On 10 May 2023, I can see a memo showing the account was settled. The 
+notes show that on 4 August 2023 they again asked the CRA to close the account after it 
+had appeared reopened on Mr B’s credit file. It also looks like in response to the questions I 
+asked Creation, there is one last note on 7 November 2023 which contains the text “LOOKS 
+LIKE A REPORTING ISSUE MANUALLY CLOSED AGAIN”. 
+So it appears that Creation think this is a reporting issue with the CRA involved. It does 
+appear that the account has been closed from Creation’s side now. I say this as Creation 
+have confirmed the account is reported in the same way to the three major CRA’s. So if they 
+were showing the account to be opened, I wouldn’t expect just one of the CRA’s to be 
+showing his account as open. It could be the way the particular CRA is interpreting the 
+status of settled that Creation report to the CRA’s. 
+I asked Creation for a drop down list of options they had to report this. And while one of the 
+options is account dormant, they are reporting Mr B’s account as “settled or satisfied 
+account”. I’m satisfied that the option they are reporting this under is the most appropriate 
+status here and it is factual as Mr B’s account is settled. Mr B may believe a more 
+appropriate option is settled and closed, but for a debt to be settled the account would 
+usually be closed. If someone had just cleared their outstanding balance and kept the 
+account open, this would be reported as “Payment received on time/up to date” on 
+Creation’s system to the CRA’s.
+As Creation last informed the CRA on 7 November 2023 that the account has been manually 
+closed again, this could take 4-6 weeks to update on his credit file. Mr B has been told 
+similar information before, and I’m sure he will be sceptical that anything will change here. 
+And if it is due to the CRA’s interpretation of the information Creation keeps reporting to 
+them, I’m not persuaded that this will be different either. So what I was going to suggest to 
+him is to reach out to the CRA involved to see if he can raise a dispute on the Creation entry.
+But Mr B has told us he has already done this. He’s said that after waiting 30 days for them 
+to investigate this and review it, the CRA has attempted to get in touch with Creation and 
+they have had no response from Creation. As such, they have told Mr B that they have 
+hidden this account from his credit file, pending a response from Creation. While this isn’t the 
+most suitable option, I hope this gives Mr B some comfort that potential lenders won’t be 
+able to see this account on his credit file until Creation respond. If Creation responds and Mr 
+B feels they give the CRA incorrect information, then he may want to raise a new complaint, 
+and if he is unhappy with their response he may be able to bring this complaint to our 
+service.
+I’ve considered what would be a fair outcome for this complaint. Creation manually reopened 
+Mr B’s account in August 2022 to pay him the compensation before reversing this. While the 
+notes suggest they manually tried to close this down, I don’t think they were fully successful 
+until May 2023, when the system note shows the account was manually closed. I say this 
+otherwise he wouldn’t have received an email about his interest rate on his account 
+increasing in March 2023. Mr B hasn’t told us of further emails after the March 2023 email 
+about interest rates increasing on his account, and the base rate has increased further times 
+since March 2023, so this would support that his account is now closed and the settled 
+status on Creation’s system supports this. 
+Creation have offered £200 for what happened here. But I’m not persuaded this recognises 
+the impact the manual reopening of the account had on him. There’s no doubt that Mr B has 
+been inconvenienced by having to try and get to the bottom of what’s happened with both 
+Creation and the CRA based on what they told Mr B to do. He’s had his account manually 
+reopened when it shouldn’t have been. While Creation did try and start the process of 
+manually closing this again, it seems like this took between 7-9 months for this to actually 
+happen from when they manually reopened his account based on the evidence I’ve seen, 
+which would be distressing for Mr B. So at times Mr B has had a £4,000 credit limit showing 
+on his credit file with all of the CRA’s as being open. When it seems this then shows as 
+closed, it can then show again as being reopened, which would be distressing to Mr B.
+The impact of the errors has caused Mr B considerable distress as no matter what he tried to 
+do, the situation hasn’t been resolved, and while the current status may not be Creations 
+fault as it could be the way the CRA is interpreting the data, Creation have admitted that his 
+account must have been active at the time to receive the email about the interest rate 
+increasing on his account. And this was seven months after they had manually reopened his 
+account. 
+I can’t see any other instances where they manually opened his account after August 2022, 
+so I can only reasonably conclude that despite Creation starting the manual closure process 
+in September 2022, this wasn’t successfully completed. So as a result of Creation’s error, 
+the impact has lasted over several months, therefore I’m persuaded that £300 compensation 
+is in line with our awards for what happened here and the impact this had on Mr B. But 
+Creation should not manually reopen Mr B’s account to pay him this compensation as the 
+same problems could occur again, so they should pay this direct to Mr B. So it follows I 
+intend to ask Creation to put things right for Mr B.” 
+I invited both parties to let me have any further submissions before I reached a final 
+decision. Creation accepted the provisional decision. Mr B did not accept the provisional 
+decision. He made a number of points. In summary, he asked if an additional point can be 
+added to clearly state that Creation should notify all CRAs that they reported this account 
+was closed in 2021 as per his original complaint. This way, this should absolutely conclude 
+the matter, as he is concerned Creation may simply re-register the account as open again 
+for example in a bulk monthly update. Mr B also felt the compensation was not sufficient for 
+what he has been through and the impact the situation has had on him for the last 2.5 years.
+What I’ve decided – and why
+I’ve considered all the available evidence and arguments to decide what’s fair and 
+reasonable in the circumstances of this complaint.
+I’ve considered what Mr B has said regarding me adding an additional point to my final 
+decision. And I can understand why he’s asked me to do this, after all, he’s been told 
+conflicting information by Creation since he originally wanted his account closed. But here, 
+I’m not persuaded that this is proportionate. 
+I say this because in my provisional decision I said the following “It also looks like in 
+response to the questions I asked Creation, there is one last note on 7 November 2023 
+which contains the text “LOOKS LIKE A REPORTING ISSUE MANUALLY CLOSED 
+AGAIN”. So it appears that Creation think this is a reporting issue with the CRA involved. It 
+does appear that the account has been closed from Creation’s side now. I say this as 
+Creation have confirmed the account is reported in the same way to the three major CRA’s. 
+So if they were showing the account to be opened, I wouldn’t expect just one of the CRA’s to 
+be showing his account as open. It could be the way the particular CRA is interpreting the 
+status of settled that Creation report to the CRA’s.”
+Creation told me in their response to some of my additional questions on 15 November 2023 
+that “Our CRA team have requested once again to (the CRA reporting the incorrect 
+information) for the account to be reported as closed”. So I’m not persuaded telling all three 
+CRA’s the same information again will change anything.
+I know Mr B has concerns that Creation will simply re-register the account as open still in 
+some bulk monthly upload for example. But I’m not persuaded this is likely. I say this as the 
+reason the account was reopened was due to the compensation from the last complaint 
+accidently being paid into his account, and it not being manually closed correctly. As I’m 
+instructing Creation to pay the compensation avoiding the closed account, then there would 
+be no reason for the reporting to change as the account wouldn’t be manually reopened. But 
+I do want to reassure Mr B in the unlikely event this did happen, he would be able to make a 
+new complaint, and potentially be compensated if Creation have done something they 
+shouldn’t have done.
+I’ve considered what Mr B has said about the compensation, and the impact the events has 
+had on him in the last 2.5 years. But as part of this particular complaint, as I said in my 
+provisional decision “I can see from their system notes that Mr B had originally asked for his 
+account to be closed down in June 2021, but due to an error this was delayed until 
+September 2021. As this was part of a previous complaint Mr B has brought to our service, 
+then I’m unable to cover this as part of this complaint”. So I’m only able to consider the 
+events of what happened after the compensation for that complaint was paid, as the original 
+complaint was previously brought to our service, and Mr B has already been paid for their 
+previous failings.
+I must make Mr B aware that our awards aren’t designed to punish a business. I set out the 
+rationale for increasing the compensation that Creation had offered him in my provisional 
+decision. And I’m still persuaded that £300 compensation is proportionate for what happened 
+here considering the impact the events had on Mr B.
+In summary, Mr B’s response hasn’t changed my view and my final decision and reasoning 
+remains the same as in my provisional decision. If Mr B is disappointed, I hope he 
+understands my reasons.
+Putting things right
+In my provisional decision I said I intend to uphold this complaint. I said I intend to ask 
+Creation Consumer Finance Ltd to pay Mr B £300 (but not to his closed Creation account) 
+for distress and inconvenience. I’m still satisfied this is a fair outcome for the reasons given 
+previously.
+My final decision
+I uphold this complaint. Creation Consumer Finance Ltd should pay Mr B £300 (but not to his 
+closed Creation account) for distress and inconvenience. 
+Under the rules of the Financial Ombudsman Service, I’m required to ask Mr B to accept or 
+reject my decision before 9 January 2024.
+ 
+Gregory Sloanes
+Ombudsman

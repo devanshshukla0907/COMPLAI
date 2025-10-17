@@ -1,0 +1,145 @@
+DRN-3234397
+The complaint
+Mr H is unhappy that Creation Consumer Finance Limited hasn’t responded to his claim 
+under Section 75 of the Consumer Credit Act 1974 (the ‘Act’) for help with a guaranteed 
+faulty solar panel inverter he’d bought on finance.
+What happened
+Mr H purchased a solar panel system in 2013 from a supplier that I’ll call M. Creation 
+financed that purchase. As part of the sale, M provided Mr H with a 10-year insurance-
+backed guarantee for the system. Both M and the insurer have since gone bust. In June 
+2020, Mr H’s inverter stopped working. He consulted the manufacturer and was told it was 
+out of the two-year manufacturer’s warranty. But the error code indicated that it would need 
+to be replaced.
+Mr H first contacted Creation in mid-June 2020 to make a claim. He was told his claim would 
+be passed to the Section 75 team and that they’d be in touch within 5 days. He heard 
+nothing and chased this up a number of times over the following month. He still heard 
+nothing back and escalated his claim to a complaint. But there was still no response, other 
+than Creation’s assertion that it was dealing with the insolvency of one of its suppliers and so 
+Mr H would have to wait until his complaint reached the top of the queue.
+Mr H brought his complaint to this Service in late July 2020. He waited until September 
+2020, but as he still hadn’t heard back from Creation, he got some quotes and decided to get 
+the inverter replaced himself. This cost £937.50 (including VAT). As the solar panels hadn’t 
+been working for the entire peak summer generation period, he calculated that over the 85 
+days’ downtime, he’d lost £196.22 in Feed-in-Tariff (FIT) and export payments.
+When we got in touch with Creation to ask for its file, it told us that it had settled Mr H’s 
+complaint in April 2020. But it was mistaken, in that it had confused Mr H’s previous solar 
+panel misrepresentation complaint with this new one about the inverter.
+Our investigator considered Mr H’s complaint and recommended that it be upheld. She 
+thought that he should be paid the cost of the inverter, the lost generation revenue, interest 
+on both those amounts and £100 for the distress and convenience that he’d been caused 
+through Creation’s failure to answer his claim.
+Creation didn’t respond until another of our investigators told the parties that he’d be putting 
+the complaint to an ombudsman for a decision. Creation again referred to the offer for the 
+misrepresentation complaint. That investigator also told Creation that this was a different 
+complaint, whereupon it said that it thought the complaint was out of this Service’s 
+jurisdiction on the basis of time, the sale having been concluded more than 6 years ago and 
+any rights that Mr H may have had under the Consumer Rights Act also having expired.
+Our investigator again informed Creation that this wasn’t a complaint about the sale or the 
+satisfactory quality of the inverter, it was about M and the insurer’s failure to answer a 10-
+year guarantee which was sold with the solar panel system. That guarantee didn’t expire 
+until 2023, so it was still covered by Section 75 of the Act.
+Creation didn’t respond to this. So, the matter has come to me for a decision.   
+What I’ve decided – and why
+I’ve considered all the available evidence and arguments to decide what’s fair and 
+reasonable in the circumstances of this complaint.
+Mr H will be pleased to hear that I shall be upholding his complaint. May I first say though 
+how sorry I am that there has been such a long wait for a decision on this matter. This 
+Service has received a significant number of complaints about solar panels, which we’ve 
+been working through in date order over the last couple of years. And Mr H’s complaint has 
+unfortunately been caught up in that back-log.
+This complaint is, however, a good example of one where Creation could have been much 
+more proactive in addressing its customer’s concerns. Mr H really shouldn’t have needed to 
+come to us in the first place if his claim had been dealt with at the time - or at least at some 
+point in the last year and a half. It’s also been most unfortunate that Creation doesn’t appear 
+to have properly read Mr H’s complaint form or our investigator’s initial view, thinking up until 
+recently that this complaint was about something it had dealt with previously.
+Jurisdiction 
+I’ll first address whether or not this complaint is within our jurisdiction. As our investigator has 
+already said, the complaint isn’t about the sale of the solar panels (or the inverter). It 
+concerns M and the insurer’s inability to cover the inverter’s failure under the insurance-
+backed guarantee following their demise. We’ve not been told by Creation of any reason 
+why the inverter shouldn’t be covered by that guarantee. And it doesn’t expire until 2023. 
+So, the act or omission complained about here is Creation’s failure to respond to Mr H’s 
+Section 75 claim for help by sending someone out to fix or replace the inverter under the 
+terms of the guarantee and any warranty provided by M. That failure took place after the 
+inverter stopped working in mid-June 2020. The claim and then the complaint were brought 
+within a month of that. So, this complaint was brought in time and we do have jurisdiction to 
+look into it.
+The Broken Inverter
+Mr H has provided us with evidence that the inverter has broken as well as an invoice for the 
+cost of its replacement. So, I’ve found that he has suffered a loss here. I’ve seen the terms 
+of the guarantee and these do purport to cover any failure by M to come out and repair any 
+item for which it is responsible. I haven’t seen the warranty that Mr H was given for his 
+inverter. And I do know that the manufacturer’s two-year warranty has expired. But in my 
+experience, solar panel suppliers often give their own 10-year warranties on panels and 
+inverters. That’s likely here to because the insurance-backed guarantee was also for 10 
+years. So, it’s my finding that, as I’ve not seen any evidence to the contrary, Mr H had a 10-
+year warranty here as well.
+Under Section 75 of the Act, Creation is responsible for any contractual agreement made in 
+relation to the financed solar panels in the same way that M would have been, had it still 
+been around to answer Mr H’s claim. So, Creation needs to take responsibility for the failed 
+inverter, the warranty and guarantee having been provided as part of the sale of the panels, 
+which was financed by Creation.
+Creation has mentioned a settlement agreement that it made with Mr H for a previous 
+misrepresentation claim and complaint that he raised. I’ve seen Creation’s offer and Mr H’s 
+acceptance of that. But that offer wasn’t made with respect to this claim for the broken 
+inverter. In its final response letter to that previous complaint, Creation said that its offer was 
+made – ‘in full and final settlement of any issues, complaints or claims your client [Mr H] has 
+relating to the sale and/or performance of the system and the finance provided by Creation.’
+Although Creation hasn’t raised this, I think I should cover it off in this decision, particularly 
+given that Mr H has also recently told us that his voltage optimiser has just failed as well. 
+He’ll likely be making a claim to Creation for that shortly. As far as I can tell from the limited 
+documentation that we’ve been provided by Creation, the misrepresentation complaint was 
+about a mis-sale of the system as a whole. Mr H had been told the panels would be self-
+funding. Which they weren’t. Creation made a goodwill settlement offer for that complaint, 
+whereby it restructured Mr H’s loan to make it self-funding and refunded him any 
+overpayments plus interest.
+So, the language I’ve quoted above must be read and interpreted in light of the complaint 
+that had been made at the time. My interpretation of it is that Mr H settled any claim he may 
+have for the misrepresentations made at the time of the sale. That settlement does not, on 
+the face of it, include any problems that Mr H may have with the constituent parts of the solar 
+panel system in the future. In this case, Mr H’s claim is under the terms of the guarantee. It 
+doesn’t relate to the ‘sale and/or performance’ of the system which I consider must be read 
+to mean the misrepresentations made about how the system would provide enough energy 
+savings and income to pay for itself. So, I’ve decided that Mr H isn’t prohibited from bringing 
+this complaint by the terms of that settlement agreement.
+Fair Compensation
+I’ve thought about what fair compensation should be here for the loss Mr H has suffered. 
+Creation never answered his claim, so I don’t know whether or not it would have agreed to 
+pay for the inverter. But Mr H’s complaint about that failure to answer his claim leads to a 
+natural conclusion in terms of fair compensation. I consider that the claim should properly 
+have been paid. Mr H ended up having to get the inverter replaced himself. He got a 
+reasonable quote for this and paid £937.50. From my experience, that’s well within the range 
+of the cost of these things.
+Mr H also lost the FIT and export income he would have expected over the peak summer 
+months. He’s helpfully provided his calculations about the amounts lost. And these appear 
+reasonable to me. So, I’ve decided that the financial loss of £196.22 should also be paid by 
+Creation.
+Mr H lost both these sums in or around September 2020. So, he’s been without that money 
+now for well over a year. Creation should compensate him for this by paying 8% interest.
+Mr H was also put to the trouble of having to continually chase up this claim. That will have 
+been both distressing for him as well as an inconvenience. And I agree with our investigator 
+that £100 compensation is appropriate for that.
+My jurisdiction decision
+I’ve decided that this complaint has been brought to us in time and that we can consider it.
+ 
+My final decision
+It’s my final decision to uphold this complaint. I require that Creation Consumer Finance 
+Limited must:
+
+Pay Mr H £937.50 for the replacement inverter;
+
+Pay Mr H £196.22 for the lost revenue from the solar panel system;
+
+Pay Mr H simple interest at 8%* a year on the above amounts from the time that he 
+paid for the inverter, in or around September 2020, until they’re repaid; and
+
+Pay Mr H £100 compensation for the distress and inconvenience he’s been caused. 
+*  HM Revenue and Customs may require that Creation deduct tax from any interest that it 
+pays. Should Mr H request it, Creation should provide him with a certificate showing how 
+much tax has been taken off so he can reclaim it if appropriate.
+Under the rules of the Financial Ombudsman Service, I’m required to ask Mr H to accept or 
+reject my decision before 10 March 2022.
+ 
+James Kennard
+Ombudsman

@@ -1,0 +1,335 @@
+ 
+ 
+DRN-5091012 
+ 
+ 
+The complaint and what happened 
+ 
+Mr P has complained about Creation Consumer Finance Ltd’s (‘Creation’) response to a 
+claim he made under Section 75 (‘s.75’) of the Consumer Credit Act 1974 (the ‘CCA’) and in 
+relation to allegations of an unfair relationship taking in to account Section 140A (‘s.140A’) of 
+the CCA. 
+ 
+I’ve included relevant sections of my provisional decision from October 2024, which form 
+part of this final decision. In my provisional decision I set out the reasons why I was planning 
+to uphold this complaint. In brief that was because I thought that Mr P was induced into 
+buying the solar panel system at the heart of this dispute by misrepresentations, which 
+resulted in there being an unfair relationship between him and Creation. 
+ 
+I asked both parties to let me have any more information they wanted me to consider. 
+Neither has responded. 
+What I’ve decided – and why 
+I’ve considered all the available evidence and arguments to decide what’s fair and reasonable 
+in the circumstances of this complaint. 
+Having done so, I’m upholding it, and I’ll reiterate why, but first I’ve included here the 
+relevant sections of my provisional decision: 
+ 
+“What happened 
+ 
+In November 2013, Mr P bought a solar panel system (‘the system’) from a company I’ll call 
+“M” using a 10-year fixed sum loan from Creation. 
+ 
+Mr P complained to Creation, he said that he was told by M that the ‘feed in tariff’ (‘FIT’) 
+payments and electricity savings he would make would cover the cost of the loan repayments, 
+and would have entirely paid for themselves within eight years. However that hasn’t 
+happened, and he’s suffered a financial loss. He also believed that what happened at the time 
+of the sale created an unfair relationship between himself and Creation. 
+ 
+Creation responded to the complaint in its final response, it considered Mr P had brought his 
+claim more than six years after the cause of action occurred under the Limitation Act (‘LA’). 
+ 
+Unhappy with Creation’s response, Mr P referred his complaint to our service. 
+ 
+An adjudicator considered Mr P’s complaint, she ultimately thought that – 
+  
+• 
+Given the s.75 claim was more likely to be time barred under the LA, Creation’s answer 
+seemed fair.  
+• 
+The s.140A complaint was one we could look at under our rules and that it had been referred 
+in time.  
+• 
+Misrepresentations could be considered under s.140A.  
+• 
+A court would likely find an unfair relationship had been created between Mr P and Creation.  
+ 
+ 
+She recommended that Mr P keep the system and Creation take into account what Mr P had paid 
+so far, along with the benefits he received, making sure the system was effectively self-funding. 
+She also recommended an award of £100 distress and inconvenience as a result of the poor and 
+protracted way in which Creation had dealt with this matter. 
+ 
+Mr P accepted the adjudicator’s view. Creation did not respond. So, the case was progressed to 
+the next stage of our process, an Ombudsman’s decision.  
+ 
+What I’ve provisionally decided – and why 
+ 
+I’ve considered all the available evidence and arguments to decide what’s fair and reasonable in 
+the circumstances of this complaint.  
+ 
+My provisional findings on jurisdiction  
+ 
+I’m satisfied I have jurisdiction to consider Mr P’s complaint, both in respect of the refusal by 
+Creation to accept and pay his s.75 claim and the allegations of an unfair relationship under 
+s.140A. 
+ 
+The s.75 complaint  
+ 
+The event complained of here is Creation’s alleged wrongful rejection of Mr P’s s.75 claim on 15 
+June 2022, this relates to a regulated activity under our compulsory jurisdiction. Mr P brought his 
+complaint about this to the ombudsman service on 22 June 2022. So, his complaint in relation to 
+the s.75 claim was brought in time for the purposes of our jurisdiction. 
+ 
+The unfair relationship under s.140A complaint  
+ 
+I have also considered Creation’s arguments in its response on our jurisdiction over the complaint 
+about an unfair relationship under s.140A. I am satisfied this aspect of the complaint was brought 
+in time so that the Financial Ombudsman has jurisdiction.  
+ 
+Mr P is able to make a complaint about an unfair relationship between himself and Creation per 
+s.140A. The event complained of for the purposes of DISP 2.8.2R(2)(a) is Creation’s participation, 
+for so long as the credit relationship continued, in an allegedly unfair relationship with him. This 
+accords with the court’s approach to assessing unfair relationships – the assessment is 
+performed as at the date when the credit relationship ended: Smith v Royal Bank of Scotland plc 
+[2023] UKSC 34. 
+ 
+S.140A doesn’t impose a liability to pay a sum of money in the same way as s.75. Rather, it sets 
+out the basis for treating relationships between creditors and debtors as unfair. Under s.140A a 
+court can find a debtor-creditor relationship is unfair, because of the terms of the credit agreement 
+and any related agreement, how the creditor exercised or enforced their rights under these 
+agreements, and anything done or not done by the supplier on the creditor’s behalf before or after 
+the making of a credit agreement or any related agreement. A court must make its determination 
+under s.140A with regard to all matters it thinks relevant, including matters relating to the creditor 
+and matters relating to the debtor.   
+ 
+The High Court’s judgment in Patel v Patel [2009] EWHC 3264 QB established that determining 
+whether the relationship complained of was unfair has to be made “having regard to the entirety of 
+the relationship and all potentially relevant matters up to the time of making the determination”. 
+The time for making determination in the case of an existing relationship is the date of trial, if the 
+credit relationship is still alive at trial, or otherwise the date when the credit relationship ended. 
+This judgment has recently been approved by the Supreme Court in Smith v Royal Bank of 
+Scotland Plc [2023] UKSC 34 (‘Smith’). 
+ 
+Throughout the period of the credit agreement, a creditor should conduct its relationship with the 
+borrower fairly, including by taking corrective measures. In particular, the creditor should take the 
+steps which it would be reasonable to expect it to take in the interest of fairness to reverse the 
+consequences of unfairness, so that the relationship can no longer be regarded as unfair: see 
+ 
+ 
+Smith at [27]-[29] and [66]. Whether that has, or has not, been done by the creditor is a 
+consideration in whether such an unfair relationship was in existence for the purposes of s.140A 
+when the relationship ended. 
+ 
+In other words, determining whether there is or was an unfair credit relationship isn’t just a 
+question of deciding whether a credit relationship was unfair when it started. The question is 
+whether it was still unfair when it ended; or, if the relationship is ongoing, whether it is still unfair at 
+the time of considering its fairness. That requires paying regard to the whole relationship and 
+matters relevant to it right up to that point, including the extent to which the creditor has fulfilled is 
+responsibility to correct unfairness in the relationship.   
+ 
+In Mr P’s case the relationship was ongoing when he referred his complaint to the Financial 
+Ombudsman. At the time, Creation was responsible for the matters which made its relationship 
+with Mr P unfair and for taking steps to remove the source of that unfairness or mitigate its 
+consequences so that the relationship was no longer unfair. By relying in his complaint on the 
+unfairness of the credit relationship between himself and Creation, Mr P therefore complained 
+about an event that was ongoing at the time he referred his complaint to the Financial 
+Ombudsman.  
+ 
+Therefore, taking into account DISP 2.8.2R(2)(a), I am satisfied it has been brought in time. I am 
+otherwise satisfied the complaint is within the ombudsman service’s jurisdiction to consider and 
+it’s not necessary to consider whether Mr P’s complaint has been brought in time for the purposes 
+of the alternative three-year rule under DISP 2.8.2R(2)(b). 
+ 
+Merits 
+ 
+The unfair relationship under s.140A complaint 
+ 
+When considering whether representations and contractual promises by E can be considered 
+under s.140A I’ve looked at the court’s approach to s.140A.  
+ 
+In Scotland & Reast v British Credit Trust [2014] EWCA Civ 790 the Court of Appeal said a court 
+must consider the whole relationship between the creditor and the debtor arising out of the credit 
+agreement and whether it is unfair, including having regard to anything done (or not done) by or 
+on behalf of the creditor before the making of the agreement. A misrepresentation by the creditor 
+or a false or misleading presentation are relevant and important aspects of a transaction.  
+ 
+Section 56 (‘s.56’) of the CCA has the effect of deeming E to be the agent of Creation in any 
+antecedent negotiations.  
+ 
+Taking this into account, I consider it would be fair and reasonable in all the circumstances for me 
+to consider as part of the complaint about an alleged unfair relationship those negotiations and 
+arrangements by E for which Creation were responsible under s.56 when considering whether it is 
+likely Creation had acted fairly and reasonably towards Mr P.  
+ 
+But in doing so, I should take into account all the circumstances and consider whether a Court 
+would likely find the relationship with Creation was unfair under s.140A. 
+ 
+What happened? 
+ 
+Mr P has said that he was told by M’s representative that the cost of the system would be fully 
+paid for by the FIT payments he would receive and the savings he would make on his electricity 
+charges. I haven’t seen any evidence he had any prior interest in purchasing solar panels before 
+speaking with M. 
+ 
+I’ve looked at the documents provided by Mr P to see if there was anything contained within them 
+that made it clear that the solar panel system wouldn’t be self-funding.  
+ 
+ 
+ 
+I have a copy of the loan agreement, which shows that both the total amount payable, and the 
+monthly cost of the loan were clear to Mr P. However, there is no mention on the agreement of 
+the potential benefits of the panels. 
+ 
+Mr P has also been able to provide his (faded) copy of a document called a “Solar Assessment 
+Survey”, provided by M, which has a section headed, “Your Potential Income/Savings”. This 
+document was clearly hand-written and the print is very faint. 
+ 
+But I have given it particular scrutiny as it does set out “potential income” figures, so I’ve 
+considered carefully whether it ought to have led Mr P to realise that the panels wouldn’t, in fact, 
+pay for themselves. 
+ 
+Overall, I don’t think it does make it clear that panels won’t be self-funding. Whilst the potential 
+year one income appears to be said to be about £493, which would be significantly less than 12 
+monthly repayments, the other figures shown in this section suggest a different picture. Firstly, the 
+potential 20-year income appears to be £13,135.90. The second digit in this figure is particularly 
+faint, but having looked at it in different lights, at different sizes, and in contrast with other figures 
+shown more clearly on the document, I find that it is more likely than not that it is a ‘3’. Secondly, 
+directly under that the “total cost of system inc vat” is set out as being £10,470. This sum entirely 
+neglects the interest payable via the credit agreement being brokered by M. So I don’t find that 
+this is clear information, as £10,470 is not the “total cost” to Mr P in any meaningful way.  
+ 
+I find what Mr P has said to be believable. Given the credit agreement doesn’t contain information 
+about the benefits, Mr P would have looked to M’s representative to help him understand what the 
+panels would bring in and how much he would benefit from the system. As mentioned, I’ve seen 
+no evidence of any motivation other than a financial one on Mr P’s part to agree to the panel 
+installation. I’m of the opinion that money would be a key reason to purchase the system and his 
+savings on his electricity bills and income from the FIT scheme would have been a central part of 
+the conversation with a salesperson. On balance, I think it is more likely than not that Mr P would 
+not have agreed to the installation of the panels if M had made it clear that it would leave him out 
+of pocket. 
+ 
+Creation hasn’t provided evidence to dispute what Mr P’s said happened. Yet with no prior 
+interest Mr P left the meeting having agreed to an interest-bearing loan, with a monthly repayment 
+of around £98, payable for 10 years. Given his lack of prior interest and the financial burden he 
+took on I find Mr P’s account of what he was told by M credible and persuasive. The loan is a 
+costly long-term commitment, and I can’t see why he would have seen this purchase as appealing 
+had he not been given the reassurances about saving money he’s said he received from M. 
+ 
+When thinking about the above I’m mindful of the actions taken by the Renewable Energy 
+Consumer Code (‘RECC’) against M. My understanding is that the RECC administers the 
+renewable energy consumer Code and ensures that its members comply with the Code. 
+ 
+The RECC investigated M’s conduct. In September 2014, it determined that M was in breach of a 
+number of sections of the code including, but not limited to, sections 5.2 and 5.4. These two 
+sections relate to requiring members not to provide false or misleading information to consumers 
+and providing clear and accurate information about the cost and benefits of the product sold. 
+ 
+Whilst I accept that the above is findings on different cases the RECC was looking at, the findings 
+do suggest that there were conduct concerns in the areas that relate to Mr P’s complaint around 
+the time that he was sold his system. 
+ 
+For the solar panels to pay for themselves, they would need to produce combined savings and 
+FIT income of around £1,160 per year. His system has clearly not produced this. So, these 
+statements were not true. I think the M’s representative must reasonably have been aware that Mr 
+P’s system would not have produced benefits at this level. Whilst there are elements of the 
+calculations that had to be estimated, the amount of sunlight as an example, I think M’s 
+representative would have known that Mr P’s system would not produce enough benefits to cover 
+the overall cost of the system in the timescales stated verbally to Mr P. 
+ 
+ 
+ 
+Considering Mr P’s account about what he was told, the documentation he was shown at the time 
+of the sale, and the fact Creation hasn’t disputed these facts, I think it likely M gave Mr P a false 
+and misleading impression of the self-funding nature of the solar panel system.  
+ 
+I consider M’s misleading presentation went to an important aspect of the transaction for the 
+system, namely the benefits and savings which Mr P was expected to receive by agreeing to the 
+installation of the system. I consider that M’s assurances in this regard likely amounted to a 
+contractual promise that the solar panel system would have the capacity to fund the loan 
+repayments. But, even if they did not have that effect, they nonetheless represented the basis 
+upon which Mr P went into the transaction. Either way, I think M’s assurances were seriously 
+misleading and false, undermining the purpose of the transaction from Mr P’s point of view. 
+ 
+Would a court be likely to make a finding of unfairness under s.140A? 
+ 
+Where Creation is to be treated as responsible for M’s negotiations with Mr P in respect of its 
+misleading and false assurances as to the self-funding nature of the solar panel system, I’m 
+persuaded a court would likely conclude that, because of this, the relationship between Mr P and 
+Creation was unfair. 
+ 
+Because of this shortfall between his costs and the actual benefits, each month he has had to pay 
+more than he expected to cover the difference between his solar benefits and the cost of the loan. 
+So, clearly Creation has benefitted from the interest paid on a loan he would otherwise have not 
+taken out. 
+ 
+The s.75 complaint  
+ 
+Given my above conclusions and bearing in mind the purpose of my decision is to provide a fair 
+outcome quickly with minimal formality, I don’t think I need to provide a detailed analysis of Mr P’s 
+s.75 complaint. Furthermore, this doesn’t stop me from reaching a fair outcome in the 
+circumstances. 
+ 
+Fair compensation  
+ 
+In all the circumstances I consider that fair compensation should aim to remedy the unfairness of 
+Mr P and Creation’s relationship arising out of M’s misleading and false assurances as to the self-
+funding nature of the solar panel system. Creation should repay Mr P a sum that corresponds to 
+the outcome he could reasonably have expected as a result of M’s assurances. That is, that Mr 
+P’s loan repayments should amount to no more than the financial benefits he received for the 
+duration of the loan agreement.  
+ 
+Therefore, to resolve the complaint, I plan to direct Creation to recalculate the agreement based 
+on the known and assumed savings and income Mr P received from the system over the 10-year 
+term of the loan, so he pays no more than that. To do that, I think it’s important to consider the 
+benefit Mr P received by way of FIT payments as well as through energy savings. Mr P will need 
+to supply up to date details, where available, of all FIT benefits received, electricity bills and 
+current meter readings to Creation. 
+ 
+Finally, I consider that Creation’s failure to fully deal with Mr P’s complaint in a reasonable 
+timeframe, with minimal communication, caused Mr P some degree of trouble and upset. In 
+recognition of this, and in addition to what I have already set out above, Creation should also pay 
+Mr P £100.” 
+ 
+As mentioned above, neither Mr P nor Creation has replied to my provisional decision. 
+Therefore I have seen nothing which alters my findings as set out therein. And so it follows 
+that I uphold this complaint. 
+Putting things right 
+In order to put things right for Mr P, Creation Consumer Finance Ltd must now: 
+  
+ 
+ 
+• 
+Calculate the total payments (the deposit and monthly repayments) Mr P has made 
+towards the solar panel system up until the date of settlement – A  
+• 
+Use Mr P’s bills and FIT statements, to work out the benefits he received up until the 
+loan term* – B  
+• 
+Use B to recalculate what Mr P should have paid each month towards the loan over 
+that period and calculate the difference, between what he actually paid (A), and what 
+he should have paid, applying 8% simple annual interest to any overpayment from 
+the date of payment until the date of settlement** – C  
+• 
+Reimburse C to Mr P  
+*If Mr P is not able to provide all the details of his meter readings, electricity bills and/or FIT 
+benefits, I am satisfied he has provided sufficient information in order for Creation to 
+complete the calculation I have directed it to follow in the circumstances using known and 
+reasonably assumed benefits. 
+ 
+** If Creation Consumer Finance Ltd considers that it’s required by HM Revenue & Customs 
+to deduct income tax from that interest, it should tell Mr P how much it’s taken off. It should 
+also give Mr P a tax deduction certificate if he asks for one, so he can reclaim the tax from 
+HM Revenue & Customs if appropriate. 
+ 
+I also think the way Creation handled Mr P’s complaint has caused him trouble and upset, 
+and an award of £100 is appropriate. 
+My final decision 
+For the reasons I’ve explained, I uphold this complaint and Creation Consumer Finance Ltd 
+must put things right as set out above. 
+Under the rules of the Financial Ombudsman Service, I’m required to ask Mr P to accept or 
+reject my decision before 18 November 2024. 
+  
+ 
+Siobhan McBride 
+Ombudsman 
+ 

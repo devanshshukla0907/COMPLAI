@@ -1,0 +1,184 @@
+ 
+ 
+DRN-5265290 
+ 
+ 
+The complaint 
+ 
+Mr M has complained that Creation Consumer Finance Ltd “Creation” rejected his claim 
+against it under Section 75 of the Consumer Credit Act 1974 “The Act”. 
+ 
+What happened 
+Mr M bought solar panels (the system) for his home in 2021. The purchase was funded by a 
+loan from Creation, and that business is therefore liable for the misrepresentations and/or 
+breach of contract by the supplier under the relevant legislation. In this case, Mr M alleges 
+that the supplier did not correctly install the system (or it is inherently faulty) and it has not 
+performed in line with expectations. He would like a full refund of the amounts he paid for the 
+system, or he wanted the system to be inspected and repaired (potentially having optimisers 
+fitted) in order to make sure the system does perform as it was designed to. The system was 
+installed in the middle of July 2021.  
+ 
+Mr M appears to have raised concerns over the performance of the system as part of a 
+survey carried out by the supplier. On 10 January 2022, the supplier responded to Mr M 
+saying that it felt the system was working as they expected it to, and the readings looked 
+good. They set out the readings from July (half month) to December 2021 in the email.  
+ 
+In March 2023, in order to try to improve the performance of the system, Mr M paid a third-
+party supplier to fit more panels to his roof. Mr M says other than fitting some more panels 
+and upgrading the inverter (to enable the new panels to function), the existing system was 
+left untouched.  
+ 
+Still unhappy with the way the system was performing, Mr M raised a section 75 claim in 
+2024. After liaising with the suppliers, Creation said Mr M used a third-party supplier to 
+modify the system in 2023 and the problems with the system performance is attributed to 
+that modification so Creation did not uphold his complaint. Mr M then referred the matter to 
+this service.  
+ 
+Mr M’s complaint was considered by one of our investigators. She thought that the problems 
+with the system performance were present from installation, so she asked Creation to 
+inspect the system, make any repairs and give Mr M £50 compensation for the trouble and 
+upset caused. During the course of our investigation, Creation also told us that whilst Mr M 
+had initially been quoted for a 3.3 kWp system of 11 panels, on the day of installation, he 
+was given a quote for a 3.0 kWp system of 10 panels as they were unbale to fit the 11 
+panels. But Mr M was charged for the 11-panel system. Because of this, our investigator 
+also asked creation to refund the amount Mr M had been overcharged by.  
+ 
+Mr M agreed with our investigator’s view of the complaint and the remedy recommended. 
+But Creation still re-iterated that the system’s poor performance was post 2023 – when the 
+third-party supplier made changes to the system. It felt Mr M was obligated to independently 
+prove that the system was faulty as the performance issues happened more than 6 months 
+after installation.  
+ 
+As the complaint couldn’t be resolved by our investigator, I’ve been asked to make a 
+ 
+ 
+decision. 
+ 
+What I’ve decided – and why 
+I’ve considered all the available evidence and arguments to decide what’s fair and reasonable 
+in the circumstances of this complaint. 
+As Mr M paid for the system with a fixed sum loan agreement, Creation agrees that section 
+75 of The Act applies to this transaction. This means that Mr M could claim against Creation, 
+the creditor, for any misrepresentation or breach of contract by the supplier in the same way 
+he could have claimed against the supplier. So, I’ve taken section 75 into account when 
+deciding what is fair in the circumstances of this case. 
+ 
+Having carefully considered everything provided, for broadly the same reasons as those 
+explained by the investigator, I uphold this complaint and I’ll explain why.  
+ 
+Price paid for the system.  
+ 
+I can see Mr M was given two quotes - one in May 2021 for a system with 11 panels with an 
+estimated generation of 2269 kWh and one in July 2021 with 10 panels with an estimated 
+annual generation of 2021 kWh. The bigger system cost £7,711.28 and the slightly smaller 
+system cost £7,459.53.  
+ 
+Creation says it was the smaller system that was installed, but Mr M’s credit agreement 
+shows he paid £7,711.28. It does look like he was overcharged so, as recommended by our 
+investigator, I think Creation should refund to Mr M the amount he has overpaid.  
+ 
+I will, however note, that Mr M’s MCS certificate which is normally registered by the supplier 
+indicates that he had the 3.3 kWp system installed with an estimated annual output of 
+2269 kWh. The MCS certificate should reflect the actual system installed, so to me, it does 
+look like the supplier has made mistakes in this installation. It changed the size of the system 
+on the day of installation and subsequently registered a system which is bigger than the 
+actual system installed.  
+ 
+Performance of the system  
+ 
+Creation has repeatedly asserted that the problems with the system performance began 
+after 2023 when Mr M paid for a third-party supplier to add further panels to the system. But 
+its supplier’s own readings from the first 6 months show the system was significantly 
+underperforming post installation, and Creation hasn’t once explained why that happened, or 
+why its supplier told Mr M that the system was performing in line with expectations, when it 
+clearly wasn’t.  
+ 
+The readings set out by the supplier in its email of 18 January 2022 says the following:  
+ 
+July 2021 - 63.9 kWh (only half month as the system wasn’t installed until the middle of July)  
+August 2021 – 200 kWh 
+Sept 2021- 126 kWh  
+Oct 2021- 80.6 kWh 
+November – 36.8 kWh 
+December 2021: 20.2 kWh 
+ 
+Without including the month of July given that it only covered half the month, the total from 1 
+August to the 31 December 20921 – was only 463.6 kWh. This gives an annual generation 
+1113.25 kWh.  
+ 
+ 
+ 
+I think it’s very clear that this system was underperforming during the first 6 months post 
+installation and despite this being raised by Mr M, he was told by the suppliers that the 
+readings were good, and the system was performing as expected. I don’t see how that can 
+be the case. The system should perform in line with the MCS certificate of 2269 KWh, but 
+even if we accept that the supplier made a mistake and registered an incorrect sized system, 
+and the system was in fact a 3.0 kWp system, then the estimated annual generation should 
+be 2021 kWh. And the readings above, falls so far below that, I don’t think it’s fair for 
+Creation to claim, that it was performing as it was meant to until the system was modified in 
+March 2023.  
+ 
+An updated meter reading from August 2024 – shows the system is still significantly 
+underperforming with an annual general of around 940.87 kWh and this is despite additional 
+panels being added in 2023. 
+ 
+Third party installer  
+ 
+I understand Creation’s concerns about a third-party installer being involved in trying to 
+increase output, and that Mr M doesn’t seem to have raised his complaint until 2024, after 
+using a third party to try to remedy the problem. But its clear that Mr M appears to have 
+raised his concerns over the performance directly to the supplier, only to be told that the 
+system readings were good. Although it would have been preferrable for him to have raised 
+this with Creation in the first instance, I don’t think it’s unreasonable (given the response he 
+received from the original supplier), for him to have then sought the advice and help of a 
+third-party installer.  
+ 
+Summary  
+ 
+Having considered all the available evidence, I am satisfied that this system has significantly 
+underperformed since installation, and the problems have existed long before Mr M made 
+any modifications using the third-party installer.  
+ 
+I feel Mr M has raised his concerns directly with the supplier and then sought to try to 
+remedy the problem himself. Unless an inspection shows differently, I have no reason to 
+doubt Mr M’s testimony that beyond the changes he’s told us about, the original system has 
+been left untouched and Creation should be able to order an inspection of the system and 
+explain why it is underperforming so significantly – and remedy it. If Creation is unable to 
+explain why the system is underperforming so significantly, and has been doing so since 
+installation, and is unable to therefore remedy it, it needs to work with Mr M to find a solution. 
+If Mr M remains unhappy with Creation following its inspection – he can refer the matter to 
+us as part of a separate complaint.  
+ 
+The supplier seems to have overcharged Mr M for a larger system, and then registered the 
+larger system despite installing a smaller system. I think Creation also needs to put this right.  
+ 
+I’m satisfied Mr M has experienced inconvenience in trying to resolve matters and Creation 
+should compensate him for the trouble and upset caused. 
+ 
+Putting things right 
+• 
+Creation should refund the amount Mr M has been overcharged by (the difference 
+between what he paid £7,711.28 and what he should have paid £7,459.53.). If 
+possible, Mr M should be given an MCS certificate to reflect the actual system that 
+has been installed.  
+ 
+ 
+ 
+• 
+Creation needs to have the system inspected and put right any faults with the system 
+that is causing the underperformance.  
+ 
+• 
+Creation must pay Mr M £50 for the trouble and upset caused.  
+ 
+My final decision 
+For the reasons I’ve explained, I uphold this complaint and Creation Consumer Finance Ltd 
+must put things right in the way I’ve set out above.  
+ 
+Under the rules of the Financial Ombudsman Service, I’m required to ask Mr M to accept or 
+reject my decision before 18 March 2025. 
+  
+ 
+Asma Begum 
+Ombudsman 
+ 

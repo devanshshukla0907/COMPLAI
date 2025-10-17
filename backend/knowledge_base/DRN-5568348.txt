@@ -1,0 +1,428 @@
+ 
+ 
+DRN-5568348 
+ 
+ 
+The complaint 
+ 
+Mr A complains Creation Consumer Finance Ltd (Creation) provided a car under a car 
+finance agreement which wasn’t of satisfactory quality. 
+  
+What happened 
+Mr A entered into a hire purchase agreement with Creation on 18 November 2022 in order to 
+acquire a used car. The total cash price of the vehicle was £25,949 and he paid an advance 
+payment of £7,200. The duration of the agreement was 60 months and the total amount 
+repayable was £31,321. He was to pay monthly repayments of £401.85 with a final option to 
+purchase fee of £10.  
+ 
+Shortly after he acquired the car the engine management light (EML) came on and Mr A 
+returned the car to the dealership. It looked into things in December 2022 and January 2023. 
+On 25 January 2023, a technician inspected the car and completed a job card. The fault 
+codes were cleared, and the car was test driven and returned to Mr A. There was further 
+correspondence about the car with the dealer after this. Mr A has said he was provided with 
+coolant and told to keep the car topped up. When Mr A’s three-month warranty ended, he 
+took out extended warranty with a manufacturer garage.  
+ 
+Mr A said the EML came on again in May 2023 when he took it into the garage. He also said 
+it came on in July 2023 and he booked it in for a service. At this point the ignition coil was 
+replaced, and coolant loss was noted. The servicing garage and the service report confirmed 
+the spark plugs had been replaced. Mr A said there were further occasions when he took it 
+to the garage after the EML illuminated and it was cleared.  
+ 
+In March 2024, the car broke down and a breakdown recovery service was called. It was 
+reported that the EML was illuminated and there was cylinder two misfire. Mr A booked it into 
+the garage in May 2024. Mr A said the car remained in the garage and he was given a 
+courtesy car. The car was inspected in October 2024, and the technician write up confirmed 
+there was misfire on cylinder two and there was damage to the engine which meant it 
+required replacement. Mr A was quoted £17,043.48 for the repairs.  
+ 
+Therefore, Mr A complained to Creation about the quality of the car in November 2024 and 
+Creation responded. It confirmed the car had been serviced in 2020, 2021 and 2022 prior to 
+Mr A acquiring it. It said there was no evidence that the fault existed at the point of sale and 
+during inspections and there were no active faults. It said it couldn’t accept liability for the 
+cost of the engine replacement. It also noted the car had not received its scheduled service 
+in 2024. It didn’t uphold the complaint.  
+ 
+Mr A remained unhappy with the response. So, he asked our service to investigate. Our 
+Investigator felt the complaint should be upheld. This was because there had been evidence 
+of an engine fault shortly after Mr A had acquired the car and which had not been resolved. 
+The fault in October 2024 was also related to the engine and seemed to be linked to similar 
+fault codes present in December 2022 and January 2023. Therefore, our Investigator felt 
+there was sufficient evidence to say the fault had been present and developing at the point 
+ 
+ 
+of sale. In any event, she felt that such a fault indicated the engine wasn’t sufficiently 
+durable. She felt Mr A ought to be allowed to reject the car. 
+ 
+Mr A broadly accepted the findings and discussed his thoughts with our Investigator. He 
+raised a concern about the courtesy car he had been using and had been asked to return. 
+There has been further correspondence about how Creation should put things right with both 
+parties. 
+  
+Creation didn’t agree with our Investigator’s view. In summary, it said:  
+ 
+• 
+There is no verified evidence that any fault existed at the point of sale in November 
+2022. Independent inspections in early 2023 confirmed there were no active faults.  
+• 
+This was a four-year-old car with over 41,000 miles at the time of sale. Reasonable 
+wear and tear, ongoing maintenance obligations, and the inherent risk of future 
+repairs or maintenance is to be expected. The Consumer Rights Act 2015 (CRA) 
+does not provide indefinite protection against faults arising from age-related 
+deterioration, insufficient maintenance, or misuse following purchase. Mr A used the 
+car for over 21 months and nearly 8,000 miles before the alleged critical fault arose. 
+The car performed satisfactorily well beyond the point of sale, aligning with 
+reasonable expectations for a used car of this age and mileage.  
+• 
+No faults were identified in the pre-delivery inspection report, MOT, and service 
+before the car was supplied. The first report of an intermittent EML occurred in 
+December 2022, several weeks post collection. It was inspected and no EML was 
+present, and no active faults were detected. A technician completed a full inspection 
+on 25 January 2023 and said the management system was functioning correctly, with 
+no faults present after diagnostics and a successful test drive. The technician’s report 
+does not confirm any active misfire in January 2023. In February 2023, the warranty 
+provider diagnosed a stuck crankcase ventilation valve – a typical wear-and-tear 
+issue. There’s no evidence that Mr A proceeded with repairs. The crank case 
+ventilation fault identified was unrelated to cylinder misfire and was a distinct and 
+manageable issue. 
+• 
+There is no contemporaneous evidence suggesting an engine replacement was 
+recommended until October 2024, nearly two years and thousands of miles after 
+purchase.  
+• 
+A broken spark plug was discovered in March 2024, which had been replaced by a 
+garage in July 2023. It is impossible for this fault to have existed at the point of initial 
+hire. The engine failure is the result of a substandard service, compounded by the 
+consumer’s failure to seek timely remedial action. This combination of factors led to 
+the eventual mechanical failure.  
+• 
+Spark plugs were replaced at various points. The initial spark plugs fitted post-sale 
+were attributable to a garage on 4 July 2023. In March 2024, Mr A was advised that a 
+“garage [was] recommended…” But the recommendation was not acted upon for two 
+months.  
+• 
+The original misfire fault should be considered collectively with the other fault codes 
+which were identified. When considered collectively, they indicate a likely temporary 
+air leak caused by a sticking crankcase ventilation actuator, rather than a fault 
+isolated to cylinder number two. It is essential that a diagnostic assessment 
+considers the combination of fault codes present, rather than attributing cause to a 
+single issue. Therefore, the faults identified should be viewed as coincidental rather 
+than evidential in the context of this claim. The car continued to be used for 12 
+months without intervention.  
+ 
+ 
+• 
+A defective ignition coil pack or a burnt exhaust valve would not result in a cracked 
+spark plug ceramic. Such damage would only occur due to an external factor – 
+namely, that the spark plug was compromised either prior to or during its 
+replacement on 4 July 2023. The customer has stated that the EML illuminated 
+shortly after this service; however, there is no evidence of any remedial action 
+undertaken during the eight months between the service date and the subsequent 
+breakdown in           March 2024.  
+• 
+Operating the vehicle for eight months and covering a distance of 4,133 miles without 
+addressing the damaged spark plug has directly contributed to the burnt exhaust 
+valves in the affected cylinder. 
+• 
+An alleged defect occurred more than six months after the date of delivery, the 
+burden of proof rests with the complainant to demonstrate that the car was not of 
+satisfactory quality (CRA 2015, s.19(14)). The chronology of faults and the 
+involvement of third-party garages during the time the alleged defect arose make it 
+impossible to say with confidence that the burnt valve existed or was detectable at 
+the point of sale. Without robust, contemporaneous and independent evidence to 
+establish causation, the legal test under the CRA is not met.  
+• 
+It referred to decisions from the Motor Ombudsman whereby it had found that if a 
+defect is not present, evidenced or diagnosable at the time of sale, a complaint under 
+the CRA is unlikely to succeed.  
+• 
+It would expect a finding that the car was not of satisfactory quality to be supported 
+by a qualified independent mechanical engineer’s report, technical linkage between 
+the diagnosed valve issue and the crankcase air leak noted over a year prior, 
+justification that any reasonably competent technician could or should have identified 
+such a fault at the time. In the absence of such evidence, any ruling would be 
+procedurally unfair and inconsistent with established precedent.  
+• 
+The car was not serviced in 2024 when it fell due and Mr A needed to monitor the 
+coolant levels.  
+• 
+The cost for an engine replacement for this make and model of car is less than what 
+has been quoted by the garage and seems wholly disproportionate and inconsistent 
+with industry norms. There is no evidence establishing a causal link between any 
+fault present at the point of sale and an alleged engine fault.  
+ 
+As Creation didn’t agree to our Investigator’s findings, the complaint has been passed to me 
+to decide.  
+ 
+What I’ve decided – and why 
+I’ve considered all the available evidence and arguments to decide what’s fair and reasonable 
+in the circumstances of this complaint. 
+In considering what is fair and reasonable, I need to have regard to the relevant law and 
+regulations, regulators’ rules, guidance and standards, codes of practice and (where 
+appropriate) what I consider to have been good industry practice at the relevant time.  
+The agreement in this case is a regulated consumer credit agreement. As such this service 
+is able to consider complaints relating to it. Creation is also a supplier of the goods under 
+this type of agreement, and responsible for a complaint about their quality.  
+ 
+The CRA is of particular relevance to this complaint. It says that under a contract to supply 
+goods, there is an implied term that “the quality of goods is satisfactory”.  
+ 
+ 
+ 
+The CRA says the quality of goods are satisfactory if they meet the standard that a 
+reasonable person would consider satisfactory taking into account any description of the 
+goods, the price and all the other relevant circumstances. So, it seems likely that in a case 
+involving a car, the other relevant circumstances a court would take into account might 
+include things like the age and mileage at the time of sale and the vehicle’s history. 
+  
+The CRA says the quality of goods include their general state and condition and other things 
+like their fitness for purpose, appearance and finish, freedom from minor defects, safety, and 
+durability can be aspects of the quality of goods.  
+ 
+The car 
+ 
+My starting point is that Creation provided a car which was around four years old, and which 
+had travelled 41,609 miles. Therefore, it’s unreasonable to expect it to be in an ‘as new’ 
+showroom condition as it would have been when first supplied. It’s reasonable to expect 
+there might be some wear and tear, and that it might need maintenance and repair sooner 
+than a car which was new or less travelled. However, even though the car wasn’t brand new 
+and it had travelled some miles, it still needed to be of satisfactory quality.  
+ 
+Is there a fault?   
+ 
+A report from the garage confirmed there were a series of issues and concluded:  
+ 
+“No.2 cylinder exhaust valve burnt damaging valve seat – broken spark plug ceramic 
+caused damage to cylinder head & cylinder bores on No.2 cylinder – evidence of 
+damage to other cylinder bores from debris. Requires replacement engine.” 
+ 
+The cost of a replacement engine was given as £17,043.48. Therefore, I’m satisfied there is 
+a fault relating to the engine of this car.  
+ 
+Satisfactory quality  
+ 
+Although I’m satisfied there is a fault with the vehicle it doesn’t automatically mean the 
+complaint should be upheld. I must now consider whether there is evidence to show the fault 
+was likely to have been present or developing at the point of sale, or that the car (or 
+components of the car) was not sufficiently durable.  
+ 
+Firstly, I note Mr A reported the EML being illuminated in December 2022 and January 2023. 
+The job card from 25 January 2023 confirms the car had travelled 42,817 miles and this was 
+very shortly after he acquired the car. The dealership noted the following fault codes:  
+ 
+• 
+P052E71 - The valve for crankcase ventilation has a malfunction.  
+• 
+P030085 - Combustion misfiring has been detected. There is a signal above the 
+permissible limit value.  
+• 
+P030285 - Combustion misfiring of cylinder two has been detected. There is a signal 
+above the permissible limit value.  
+• 
+P119012 - Sensor “intake air pressure” has a short circuit to positive. There is a short 
+circuit to positive.  
+I note amongst other faults, there was a fault code relating to misfire of cylinder two. The job 
+card and technician report confirmed the faults had been investigated, it had pressure tested 
+the coolant, deleted the faults and completed a test drive. In correspondence between the 
+dealership and Creation, the dealership confirmed the faults were deemed historic. The 
+technician report confirmed further investigation should be carried out if the EML came on 
+ 
+ 
+again. I note after the date of the job card, Mr A emailed the dealership again explaining the 
+EML had illuminated. Whilst I note Creation’s point about a problem not being diagnosable at 
+the time, it seems the EML was presenting intermittently, and the technician had noted 
+further investigation might be needed. This was requested by Mr A.   
+ 
+In submissions to our service the dealership explained the technician diagnostic did not 
+identify a cylinder valve fault but recorded a multi-cylinder misfire attributable to a crankcase 
+air leak, not a mechanical defect. I’ve listened to a call with the warranty company which 
+confirmed the car was reported on 1 February 2023 because the EML was on. The report 
+had identified a crankcase ventilation valve malfunction, and a recommendation had been 
+made for six hours of work to renew the valve. But it doesn’t seem this was acted upon and 
+there is no further information in relation to this.  
+ 
+Again, I’m mindful this was only a few months after the car had been supplied and still within 
+the initial warranty period. There was no other information in relation to this particular issue. 
+I’ve seen emails from Mr A to the dealer on 26 January 2023 and 31 January 2023. Mr A 
+sent the technician’s report and a picture of the EML. He asked for the car to be booked in 
+urgently and for it to be resolved. He has said in his testimony that the car was returned to 
+him, the EML was cleared, and he was told he needed to keep the coolant topped up. Whilst 
+I can’t say with certainty exactly what happened, Mr A has told us he kept taking the car 
+back to the dealer and was attempting to have the problems repaired, he emailed and called 
+the dealer and was told the faults had been cleared. So, he seems to have understood the 
+problem to be resolved at the time. He also purchased the extended warranty. Overall, I find 
+it unlikely he wouldn’t have followed up on any outstanding repairs. 
+  
+The service report from July 2023 doesn’t indicate that any faults were reported at this time 
+and I note the spark plugs were replaced. At this point, the car had completed 45,433 miles. 
+The ignition coil was replaced, and coolant loss had also been noted when the car was taken 
+to the garage. Mr A said the EML came on again after this and he took it back into the 
+garage on occasion. Creation raised concerns the problem had arisen because Mr A hadn’t 
+maintained the car. However, the vehicle service history provided by the garage supports 
+what Mr A has said. For example, I can see entries for August 2023, and a vehicle health 
+check was carried out in October 2023.  
+ 
+Following this, the car broke down on 1 March 2024 when it reached 49,556 miles. The 
+breakdown report confirmed Mr A had reported the EML was illuminated, it completed a 
+diagnostic check and found relevant faults with cylinder two misfire. It confirmed it had put in 
+a new spark plug and the vehicle was ok at the time of the test. However, a garage visit was 
+recommended. I understand the car was in the garage again in May 2024 and July 2024. 
+Creation had raised concerns that Mr A didn’t take it to the garage, but he has explained this 
+is when he was able to book it in. 
+  
+The report from a technician in October 2024 confirmed again that there was misfiring of 
+cylinder two. The car had completed 50,889 miles at this point. I note the technician write up 
+confirmed “Misfire fault on cylinder no.2 previous short tests dating back beyond March this 
+year…” This note seems to suggest the present of the fault for some time. As mentioned 
+above, the engine was identified as being damaged and in need of replacing.  
+ 
+Weighing up the evidence I have, I think there is a fault with the engine which is likely to 
+have been present and developing at the point the car was supplied. The fault codes 
+indicated a problem with the engine in December 2022 and January 2023, and Mr A 
+reported an illuminated EML. This was very shortly after he acquired the vehicle. In 
+particular, it noted misfire of cylinder two. This was something which was referenced when 
+the car broke down in March 2024 and when the garage inspected it in October 2024. So, it 
+ 
+ 
+seems to me more likely than not the fault with the engine was present or developing at the 
+point the vehicle was supplied to Mr A. 
+  
+I also note Creation’s comments about the burden of proof here and it is concerned about 
+the technical evidence. I’m satisfied I have sufficient evidence to be able to make a decision, 
+on balance, about this complaint. The evidence I have (including job cards, technician write 
+ups, notes from the garages and testimony from the parties) persuades me the fault was 
+present or developing at the point of supply. This is particularly given how soon after Mr A 
+had collected the car that fault codes were noted in relation to a problem with the engine. In 
+particular, misfire of cylinder two seems to have been noted throughout and in October 2024 
+fault codes relating to this were present when Mr A was told the car needed a new engine. 
+  
+I have noted Creation’s comments that there was no service in July 2024 in line with 
+manufacturer’s recommendations. However, I’m not persuaded this meant Mr A failed to 
+maintain the vehicle in such a way which meant he caused these issues. The service report 
+from July 2023 confirmed the next service was due in July 2024. So, it was only three 
+months from when the service had fallen due that Mr A was told the engine needed 
+replacing. Additionally, Mr A has told us he had use of a courtesy car from May 2024 
+because the car was in the garage when the service fell due. So, I’m not persuaded he’s 
+acted unreasonably or contributed to the issues here.  
+ 
+I note Creation feels the misfire issues which occurred were more likely because of faulty 
+installation of the spark plugs by a third party. It said a defective ignition valve or burnt 
+exhaust valve would not cause a crack ceramic spark plug and it’s more likely to have been 
+compromised during replacement.  
+ 
+However, I must consider what I think is most likely to have happened based on the 
+evidence I have. Although not impossible, spark plug replacement is a relatively routine 
+maintenance task and I think it’s unlikely that the servicing garage would have carried out a 
+faulty installation or compromised it. I also note the ignition coil was replaced under 
+warranty, but again I don’t think it’s likely this caused the issues identified in October 2024. 
+Moreover, as already highlighted, it seems problems had already shown up in the fault 
+codes which had been noted prior to the work in July 2023. I’d also note a burnt exhaust 
+valve can cause damage to a spark plug for a variety of reasons including excessive heat 
+which can cause a spark plug to crack.   
+ 
+I appreciate Creation have said they don’t agree the fault was present or developing at the 
+point of sale. Notwithstanding this, there is also an argument to be made the car wasn’t 
+sufficiently durable. I don’t think it’s reasonable to expect a car of this make and model and 
+which was six years old with around 50,899 miles to have such problems and require a 
+replacement engine.  
+ 
+There are a number of things which can heavily impact the lifespan of an engine (or 
+components of the engine). With proper care and maintenance, I understand an engine in 
+this make and model of car might be expected to last between 10 to 15 years and above 
+100,000 miles (even above 200,000). I’ve already addressed Creation’s comments about the 
+service history and, having thought about everything, the evidence doesn’t persuade me 
+Mr A was likely to have contributed to these issues by the way he used and/or maintained 
+the car. The car failed considerably before reaching this age or mileage and considerably 
+before it might reasonably have been expected to have experienced such significant issues.  
+ 
+Overall, from the evidence I’ve seen I’m satisfied it seems the fault with the engine was more 
+likely than not to be present or developing at the point of sale. The issues were raised shortly 
+after Mr A acquired the car and seem to be consistently cited throughout the time he had it. 
+In any event, there also seems to be an issue with its durability. Mr A seems to have tried to 
+ 
+ 
+resolve these issues by maintaining the car and having the car repaired whilst it’s been in his 
+possession. On balance, I don’t think Creation supplied Mr A with a car which was of 
+satisfactory quality. I’ve explained how Creation should put things right below.  
+ 
+Putting things right 
+I’ve thought about how things should be put right, and I’ve taken into account what remedies 
+would be available to Mr A under the CRA. Having done so, I’m satisfied it would be fair and 
+reasonable to allow Mr A to reject the car. I’ve thought about all the circumstances of the 
+complaint to decide how to fairly and reasonably put things right.   
+ 
+Mr A reported the EML being illuminated to the dealership in December 2022 and  
+January 2023. The dealership inspected the car at this time. However, the fault with the 
+engine seems to have persisted. Additionally, I’ve seen the engine requires a replacement. I 
+appreciate Creation is concerned about the quote provided by the garage. Notwithstanding 
+this, it is likely to come at considerable cost. I am also mindful of the time Mr A has already 
+spent having the vehicle inspected. Taking everything into consideration, including the 
+extensive repairs which would seem to be required, I’m satisfied it would be fair and 
+reasonable to allow Mr A to reject the vehicle.  
+ 
+Additionally, Mr A has told us he hasn’t used the car since May 2024. However, he was 
+provided with a courtesy car under the warranty he obtained. He has provided us with 
+evidence the car needed to be returned on 30 June 2025. He may be charged for use of the 
+courtesy car because he had it outside of the period covered under his warranty. It’s 
+reasonable for Creation to cover costs associated with this if he provides sufficient proof he 
+was obliged to pay when the warranty ended. This is because if he is charged, he will have 
+continued to pay under the hire purchase agreement at the same time as incurring costs for 
+the courtesy car.  
+ 
+There were also diagnostic charges. The garage has provided two slightly different figures, 
+but the invoice states these costs were £1,642.80. Creation should cover these costs as they 
+seem to only have arisen as a result of the quality of the car supplied. Mr A has been told he 
+needs to collect the car, and Creation should cover any costs which arise from this.  
+ 
+Moreover, Mr A explained the car was used for the benefit of his household. This included 
+commuting and taking his children to school on a daily basis. He has had to make visits to 
+the garage and has generally been inconvenienced by the problems with the car. So, 
+Creation should also pay Mr A £150 to recognise the distress and inconvenience that has 
+been caused.  
+ 
+To put things right Creation Consumer Finance Ltd should:  
+ 
+• 
+End the agreement with nothing further for Mr A to pay. 
+• 
+Collect the car at no further cost to him. Creation should cover the cost of work 
+invoiced by the garage. If Mr A has already paid these costs and if he has already 
+arranged for the car to be collected, then on receipt of proof of payment, Creation 
+should refund costs associated with this. 
+• 
+Refund the deposit/part exchange payment of £7,200 (if any part of this deposit is 
+made up of funds paid through a dealer contribution, Creation is entitled to retain that 
+portion of the deposit). 
+• 
+Waive or refund monthly repayments from 30 June 2025 which is when Mr A was 
+required to return the courtesy car. 
+ 
+ 
+• 
+If Mr A is charged for the cost of the courtesy car from when the extended warranty 
+ended, then on receipt of proof of payment, Creation should refund this to him. 
+• 
+Pay 8% simple yearly interest* on all refunded amounts from the date of payment to 
+the date of settlement. 
+• 
+Pay a further £150 for any distress and inconvenience that’s been caused due to the 
+faulty goods. 
+• 
+Remove any adverse information from his credit file in relation to the agreement. 
+ 
+*If Creation considers that it’s required by HM Revenue & Customs to deduct income tax 
+from that interest, it should tell Mr A how much it’s taken off. It should also give Mr A a tax 
+deduction certificate if he asks for one, so he can reclaim the tax from HM Revenue & 
+Customs if appropriate.  
+ 
+My final decision 
+For the reasons explained, I’m upholding this complaint and Creation Consumer Finance Ltd 
+should put things right in the way outlined above.  
+ 
+Under the rules of the Financial Ombudsman Service, I’m required to ask Mr A to accept or 
+reject my decision before 25 August 2025. 
+  
+ 
+Laura Dean 
+Ombudsman 
+ 

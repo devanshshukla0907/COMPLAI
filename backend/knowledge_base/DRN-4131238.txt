@@ -1,0 +1,148 @@
+DRN-4131238
+The complaint
+Mrs F has complained about the way Creation Consumer Finance Ltd (“Creation”) 
+responded to claims she’d made under section 75 (“s.75”) of the Consumer Credit Act 1974 
+(“the CCA”), and an alleged unfair relationship taking into account section 140A (“s.140A”) of 
+the CCA.
+Mrs F has been represented in bringing her complaint but, to keep things simple, I’ll refer to 
+Mrs F throughout. 
+What happened
+In May 2013 Mrs F entered into a fixed sum loan agreement with Creation to pay for a 
+£10,000 solar panel system (“the system”) from a supplier I’ll call “P”. The total amount 
+payable under the agreement was £15,667.09. Mrs F paid a £100 deposit and was due to 
+pay back the agreement with 120 monthly repayments of £129.72. I understand the system 
+was installed in June 2013. 
+In August 2021 Mrs F put in a claim with Creation explaining she thought the system was 
+mis-sold. In summary, she said:
+
+She became aware in May 2021 that contrary to claims made by P her system wasn’t 
+self-funding over 8 years. She thought P had deliberately misled her at the point of 
+sale the system would be self-funding. 
+
+P had been found to be in breach of the Renewable Energy Consumer Code 
+(RECC). 
+
+Creation was responsible for the misleading statements made by P. 
+
+Other lenders had settled claims in relation to systems sold by P. 
+
+She requested settlement of around £5,300 so that she pays no more than what she 
+will save or make from the system. 
+
+P is in liquidation and Creation is responsible for dealing with the claim. 
+Ultimately, Mrs F said the system was misrepresented and believed the statements and 
+several other actions at the time of the sale created an unfair relationship between herself 
+and Creation. 
+Creation sent a final response letter in October 2021 to say it was dismissing the complaint 
+without consideration because it had been brought out of time. 
+Unhappy with Creation’s response, Mrs F decided to refer her complaint to the Financial 
+Ombudsman in October 2021. 
+One of our investigators looked into things and said that they thought the unfair relationship 
+claim and section 75 claim had been brought in time. They focussed on the unfair 
+relationship claim because they said misrepresentations could lead to an unfair relationship 
+and so didn’t need to cover off section 75 in detail. Our investigator considered Mrs F’s 
+testimony that P told her the system would pay for itself in 8 years. But they noted 
+documentation that set out the estimated first year benefit was around £700, which was 
+much less than what would be required to cover the credit agreement repayments. Our 
+investigator didn’t uphold the complaint. 
+Mrs F responded to say other complaints like hers had been upheld. She highlighted again P 
+had breached the RECC code of conduct. She said P was saying to all its customer the 
+system would be self-funding, and that this was widely accepted. She said P arranged for 
+clients to agree to purchase the system before arranging the finance. She said any argument 
+from P the system wasn’t mis-sold was unlikely to be a successful defence. She said P told 
+customers they’d receive free electricity, but many customers started to realise the benefits 
+wouldn’t make the system self-funding.  
+As things weren’t resolved, the complaint has been passed to me to decide. 
+What I’ve decided – and why
+I’ve considered all the available evidence and arguments to decide what’s fair and 
+reasonable in the circumstances of this complaint.
+My findings on jurisdiction 
+The s.75 complaint 
+The event complained of here is Creation’s alleged wrongful rejection of Mrs F’s s.75 claim 
+in October 2021. This relates to a regulated activity under our compulsory jurisdiction. Mrs F 
+brought her complaint about this to the ombudsman service in October 2021. So, her 
+complaint in relation to the s.75 claim was brought in time for the purposes of our jurisdiction.
+The Unfair relationship under s.140A complaint 
+The event complained of here is Creation’s participation, for so long as the credit relationship 
+continues, in an alleged unfair relationship with Mrs F. Here the relationship was ongoing at 
+the time it was referred to the ombudsman service in October 2021, so the complaint has 
+been brought in time for the purposes of our jurisdiction.
+Merits
+The unfair relationship under s.140A complaint
+When considering whether representations and contractual promises by P can be 
+considered under s.140A I’ve looked at the court’s approach to s.140A. 
+In Scotland & Reast v British Credit Trust [2014] EWCA Civ 790 the Court of Appeal said a 
+court must consider the whole relationship between the creditor and the debtor arising out of 
+the credit agreement and whether it is unfair, including having regard to anything done (or 
+not done) by or on behalf of the creditor before the making of the agreement. A 
+misrepresentation by the creditor or a false or misleading presentation are relevant and 
+important aspects of a transaction. 
+Section 56 (“s.56”) of the CCA has the effect of deeming P to be the agent of Creation in any 
+antecedent negotiations. 
+Taking this into account, I consider it would be fair and reasonable in all the circumstances 
+for me to consider as part of the complaint about an alleged unfair relationship those 
+negotiations and arrangements by P for which Creation were responsible under s.56 when 
+considering whether it is likely Creation had acted fairly and reasonably towards Mrs F. 
+But in doing so, I should take into account all the circumstances and consider whether a 
+court would likely find the relationship with Creation was unfair under s.140A.
+Given my above conclusions and bearing in mind the purpose of my decision is to provide a 
+fair outcome quickly with minimal formality, and that I can consider the alleged 
+misrepresentations under the unfair relationship complaint, I don’t think I need to provide a 
+detailed analysis of Mrs F’s s.75 complaint. Furthermore, this doesn’t stop me from reaching 
+a fair outcome in the circumstances.  
+What happened?
+Mrs F says she was verbally misled the system would effectively pay for itself. I’ve taken 
+account of what Mrs F says she was told. I’ve also reviewed the documentation that I’ve 
+been supplied.  
+The fixed sum loan agreement sets out the amount being borrowed; the interest charged; 
+the total amount payable; the term; and the contractual monthly loan repayments. I think this 
+was set out clearly enough for Mrs F to be able to understand what was required to be 
+repaid towards the agreement.
+I’m also mindful P gave Mrs F a SAP Calculations and 1st Year Returns form. This set out 
+the generation tariff and export tariff for the FIT payments. It also set out the system had 
+estimated:
+
+Generation tariff earnings of £420.85.
+
+Electrical savings based on 50% usage of £210.36.
+
+Export tariff earnings of £61.47.
+
+Total benefit of £692.68. 
+I think the above mentioned document ought to have shown Mrs F the savings wouldn’t have 
+covered the annual loan repayments cost which was around £1,550, or indeed the higher 
+cost of paying off the agreement within 8 years. I would have expected Mrs F to have 
+queried the shortfall if she’d been told the system would be self-funding within 8 years. We 
+asked Mrs F about this and for details of why it took her as long as it did to raise the claim. 
+Mrs F said she had to replace the battery and converter which she’d assumed was the 
+reason for the low FIT payments. So I think she’s offered a plausible explanation for why she 
+didn’t raise the claim sooner. 
+Mrs F also explained her recollection of what P highlighted in 2013 wasn’t fresh in her mind. 
+She said she didn’t recall the discrepancy in savings and cost of the agreement were 
+discussed. She said she also didn’t recall the annual loan cost being highlighted – only the 
+monthly payments and yearly savings amount. I can understand the sale was a long time 
+ago and so this could have an understandable impact on her recollections. But as I said 
+above, I think the loan was broadly set out clearly enough for Mrs F to have been able to 
+understand what was required to be repaid. Mrs F has acknowledged she discussed the 
+monthly payments and yearly benefits. So I think it would have been straight-forward enough 
+for her to have seen the system wouldn’t be self-funding within 8 years or the term of the 
+agreement, based on the evidence she had a the time which she’s supplied as part of her 
+claim and complaint. 
+I appreciate Mrs F has highlighted RECC findings and actions taken by other lenders but, 
+like our investigator explained, we need to look at each case on its own merits. I note RECC 
+found P had misled a sample of customers that loan payments would be covered by the 
+system benefits, but I think I have to put fair weight on the documents that were supplied at 
+the point of sale to Mrs F – which as far as I can see from the RECC findings weren’t always 
+supplied. The information setting out the estimated benefits was included on a single page 
+and the figures were presented reasonably clearly.
+Overall, while I’ve carefully considered what Mrs F says she was told, given what I’ve set out 
+above, I’m not persuaded there’s sufficient evidence Mrs F was misled the system would be 
+self-funding. Therefore, I don’t have the grounds to say that Creation’s decision to decline 
+the claim was unfair.  
+My final decision
+My final decision is that I don’t uphold this complaint. 
+Under the rules of the Financial Ombudsman Service, I’m required to ask Mrs F to accept or 
+reject my decision before 18 July 2024.
+ 
+Simon Wingfield
+Ombudsman

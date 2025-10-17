@@ -1,0 +1,191 @@
+ 
+ 
+DRN-4511805 
+ 
+ 
+The complaint 
+ 
+Mr F complains about a car he acquired with finance provided by Creation Consumer 
+Finance Ltd. 
+What happened 
+In August 2022, Mr F entered into a regulated hire purchase agreement with Creation to pay 
+for a used car. The car was four years old, its cash price was £17,980, and according to the 
+agreement its mileage was 34,568 miles. Its MOT history shows that it had passed its MOT 
+test in June 2022 with a mileage of 33,518. It had been serviced in the same month. 
+ 
+In December 2022 the car broke down. It was repaired by replacing a drain plug gasket. 
+However, in May 2023 the car broke down again. Mr F complained to Creation that he had 
+been sold an unroadworthy car, and that the dealership he had bought it from was denying 
+that it had sold it to him. Meanwhile, the repairs were carried out at a cost of £1,791. 
+ 
+In September 2023, the car broke down again, and Mr F was told that he would need to 
+replace the engine. He complained about that, and he also complained that the car had 
+failed its MOT test in May 2023. 
+ 
+Creation told Mr F that it was his responsibility to provide expert evidence showing that the 
+breakdown was the result of a defect which had been present at the point of sale. Without 
+such proof, it would not accept responsibility. It did not uphold the rest of his complaint 
+either. Meanwhile, Mr F had already brought this complaint to our service. (He later added 
+that the odometer was not accurate.1) 
+ 
+Our investigator did not think that Mr F had proved that the car had been defective at the 
+point of sale. She pointed out that the car had already been four years old when he’d bought 
+it, and that he had driven it for over 5,000 miles before the problems started, so she thought 
+the problems had arisen through subsequent wear and tear. However, she thought that 
+Creation had failed to explain to Mr F in May 2023 that it was his responsibility to obtain 
+evidence to prove that the car had been faulty when he got it. She said Creation had waited 
+six weeks to follow matters up with the dealership, and Creation had failed to give Mr F its 
+final response within eight weeks. As Mr F had said that this had caused him stress and the 
+car had developed further problems in the meantime, the investigator recommended that 
+Creation pay him £200 for his inconvenience. 
+ 
+Neither party accepted that opinion, so the case was referred for an ombudsman’s decision. 
+I wrote two provisional decisions, which read as follows. 
+My first provisional decision 
+I’ve considered all the available evidence and arguments to decide what’s fair and reasonable 
+ 
+1 In another decision, I ruled that the complaint about the odometer was not within our service’s 
+jurisdiction, because Creation had not had an opportunity to consider it. But that does not mean it is 
+inadmissible in evidence. 
+ 
+ 
+in the circumstances of this complaint. 
+Under the Consumer Rights Act 2015, it was an implied term of the hire purchase agreement 
+that the car would be of satisfactory quality on the date it was delivered to or collected by Mr 
+F. If the car was not of satisfactory quality at that time – having regard to its age, mileage 
+and price at the time – then Creation would be liable for that. But Creation is not liable for 
+any defect which is discovered afterwards, unless that defect was already present all along. 
+When a defect is discovered within six months, it is presumed to have been present all 
+along, unless Creation can prove otherwise. But when a defect is discovered more than six 
+months later, it is for Mr F to prove that it was present when he acquired the car. 
+ 
+It can therefore be presumed that the drain plug gasket which had to be replaced in 
+December was faulty when Mr F acquired the car. However, a drain plug gasket failing on a 
+four year old car is likely to be ordinary wear and tear, and so I would not consider that to 
+mean that the car was not of satisfactory quality when the car was delivered or collected. 
+ 
+The breakdowns in May and September 2023 were beyond the six month threshold, and so 
+there are presumed to be the result of new defects, for which Creation is not liable, unless 
+Mr F can prove otherwise. 
+ 
+The roadside recovery service produced a brief report about each time it attended. The May 
+report says that there was an intermittent multiple misfire, which was attributed to a possible 
+faulty cam and crankshaft position sensor. It recommended having this diagnosis verified in 
+a garage. The garage to which the car was towed produced an invoice, which confirmed the 
+sensor fault. Several other components needed to be replaced to enable the car to pass its 
+MOT test, which was carried out at this time. 
+ 
+In September, the roadside recovery service found that the cam belt had failed. The garage 
+emailed Mr F to tell him that the entire engine would have to be replaced. 
+ 
+None of this evidence addresses how or when these problems arose. I note that a cam belt 
+should be replaced around every four or five years, and this cam belt failed at five years, so 
+it could easily be a wear and tear issue. On balance, I don’t think Creation acted unfairly by 
+declining to take responsibility for the car breaking down, or for telling Mr F that he needed to 
+obtain expert evidence to support his claim (on receipt of which, Creation undertook to re-
+evaluate his claim). 
+ 
+I have considered the point that Creation did not tell Mr F to obtain expert evidence until 
+September 2023, and that it could have told him this in May. However, I don’t think this 
+makes any difference to the outcome, because after Mr F was told this, he still didn’t get 
+expert evidence. So I doubt that he would have obtained any in May, if he had been told to 
+then. 
+ 
+I am therefore currently not persuaded that Creation should pay Mr F the £200 that was 
+recommended by my colleague. 
+ 
+Responses to my provisional decision 
+ 
+Creation accepted my provisional decision; Mr F did not. He said that the drain plug gasket 
+was not the only part of the car that had failed in December 2022; he said that all of the 
+problems that had been present in May 2023 had been present in 2022, and that he had 
+reported them to Creation at the time – within six months of acquiring the car. He said that a 
+fault code had indicated that the problems were caused by the crankshaft position sensor 
+failing. 
+ 
+ 
+ 
+He also said a sensor should last for 100,000 miles, so it should not have failed so soon. 
+This was unlikely to be wear and tear. 
+ 
+Mr F also denied that he had driven 5,000 miles since getting the car. He reiterated that 
+Creation had not told him to get independent evidence until September 2023. 
+ 
+My second provisional decision 
+ 
+I have seen no evidence that the cause of the breakdown in December 2022 was because of 
+the crankshaft position sensor failing, or that any of the problems in 2022 had anything to do 
+with the breakdown in May 2023. So I remain of the view that the burden of proving that the 
+car was faulty at the point of sale lay with Mr F, and that Creation was entitled to deal with 
+his claim on that basis. 
+ 
+However, I agree with Mr F that a crankshaft position sensor should not fail after only less 
+than 40,000 miles. (The job card from the garage which repaired the car in May 2023 gives 
+the mileage as 39,655.) A crankshaft position sensor is expected to last for 100,000 miles, or 
+ten years. So this makes it less likely that the sensor failed due to simple wear and tear. It 
+may have been defective all along. On the balance of probabilities, I am currently minded to 
+find that it was. 
+ 
+Creation was entitled to one attempt to repair the car, so Mr F was not entitled to reject the 
+car in May. But Creation is liable for the cost of the May repair, which was £1,791:96. So I 
+am minded to order Creation to refund that amount to Mr F, with interest. 
+ 
+I have not seen evidence to show that this is what caused the cam belt to fail. So I remain of 
+the view that Creation is not liable for what happened in September, and that Mr F is not 
+entitled to reject the car. If I am provided with evidence showing that these issues are linked, 
+I will reconsider this. 
+ 
+My revised decision is that I currently intend to uphold this complaint, and to order Creation 
+Consumer Finance Ltd to pay Mr F £1,791:96, plus simple interest on that amount at the rate 
+of 8% a year from 20 May 2023 to the date of settlement. 
+ 
+Responses to my second provisional decision 
+ 
+Creation did not respond to that decision. Mr F did, and he referred to an email which the 
+repairing garage had sent to him on 11 September 2023, and he asked me to take it into 
+account. 
+ 
+(Mr F also said that he had made several attempts to terminate the hire purchase 
+agreement, but Creation had not allowed him to. That is something he would need to raise 
+as a new complaint; I cannot deal with it as part of this complaint.2) 
+ 
+My findings 
+ 
+I have seen the 11 September 2023 email before, as Mr F had provided it to us in November 
+2023. I have read it again to see if I had missed anything, but all it says is that the car was 
+towed to the garage with a possible engine issue, and that the garage had found that there 
+was internal engine damage and that the entire engine would have to be replaced. This is 
+what I said in my summary of the evidence in my original decision. 
+ 
+ 
+2 But I take this opportunity to remined Creation of its obligations under sections 99 and 100 of the 
+Consumer Credit Act 1974. 
+ 
+ 
+For completeness, I will add that the email also says that the engine had not failed because 
+it had been poorly maintained. So for the avoidance of any doubt, there is no suggestion that 
+the engine was damaged because Mr F did anything wrong. But that does not mean that he 
+automatically wins his complaint. It still remains the position that I can only uphold this 
+complaint if Creation provided him with a car that was of unsatisfactory condition at the point 
+of sale. 
+ 
+The evidence is clear that the roadside recovery service in September 2023 found that the 
+cam belt had failed. Nothing in the garage’s email contradicts that. The cam belt failing 
+would certainly cause extensive damage to the engine. So I remain of the view that the car 
+broke down in September because the cam belt failed, and that this was the result of wear 
+and tear, because the belt was five years old. Nothing in the email to which I have referred 
+contradicts that, or says anything about the reason why the cam belt failed. 
+ 
+There is therefore no reason for me to depart from the findings I made in my last decision, 
+and so I confirm them here. 
+My final decision 
+My decision is that I uphold this complaint in part. I order Creation Consumer Finance Ltd to 
+pay Mr F £1,791:96, plus simple interest on that amount at the rate of 8% a year from 20 
+May 2023 to the date of settlement. 
+Under the rules of the Financial Ombudsman Service, I’m required to ask Mr F to accept or 
+reject my decision before 30 August 2024. 
+  
+ 
+Richard Wood 
+Ombudsman 
+ 

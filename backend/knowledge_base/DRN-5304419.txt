@@ -1,0 +1,173 @@
+ 
+ 
+DRN-5304419 
+ 
+ 
+The complaint 
+ 
+The estate of Mr S complains about Creation Consumer Finance Ltd’s (Creation) response 
+to its claim brought under section 75 Consumer Credit Act. 
+What happened 
+In December 2014 Mr S purchased solar panels from a supplier I’ll call M for £9,105. He paid 
+a deposit of £100 and the remainder was financed with a fixed sum loan from Creation which 
+was entered into in January 2015. 
+Creation’s notes say that in March 2021 Mr S brought a claim to Creation saying the solar 
+panels had been mis-sold to him by M. He said he signed up to buy them before he even 
+knew what he’d agreed to, was not in the process of looking for solar panels and had 
+received no benefit from them. 
+Sadly, Mr S passed away later in 2021. The complaint was taken on by his estate. Creation 
+treated the claim as a complaint and issued a final response letter in November 2021. It said 
+the complaint had been brought more than six years after the sale of the solar panels so 
+considered it had been referred out of time under the regulator’s complaint handling rules. 
+Dissatisfied with this, the estate of Mr S referred its complaint to this service. 
+I issued a provisional decision in January 2025 explaining why I didn’t plan to uphold the 
+complaint. I said the following: 
+ 
+“S.75 complaint 
+Creditors have no means of knowing what s.75 liabilities they may have, nor of 
+investigating such liabilities nor of recovering them from suppliers, unless or until 
+debtors raise s.75 claims against them; and raising the claim, if it’s a valid one, brings 
+the creditor under a duty then to honour its liability. 
+But it would not be fair or reasonable to require a creditor to respond to s.75 claims 
+however long in the past they arose. And our service must decide complaints on the 
+basis of what is fair and reasonable in all the circumstances of a case. 
+The law imposes a six-year limitation period on the relevant claims, after which they 
+become time barred. 
+Based on the alleged misrepresentations, the cause of action in this case arose 
+when an agreement was entered into in January 2015. The alleged breach of 
+contract isn’t defined but I take it to be that M (acting on behalf of Creation) 
+warranted that the solar panel system it agreed to provide had the capacity to finance 
+the loan repayments, when that was incorrect. As such, the alleged breach of 
+contract also occurred as soon as the agreement was entered into. 
+In these circumstances Mr S had brought his s.75 claim to Creation in March 2021 
+which is more than six years after he entered into an agreement with it in January 
+ 
+ 
+2015.  
+Where it is unlikely a claim against the supplier could succeed due to the expiry of 
+the likely relevant limitation periods of six years, as appears to be the case here, I am 
+persuaded that it was fair and reasonable for Creation to decline the s.75 claim. So, I 
+do not uphold this aspect of the complaint. 
+Unfair relationship complaint 
+The estate of Mr S is able to make a complaint about an unfair relationship between 
+it and Creation per s.140A CCA. The event complained of is Creation’s participation, 
+for so long as the credit relationship continues, in an allegedly unfair relationship with 
+it. The credit relationship continues in this case as the obligations to repay under the 
+loan agreement sit with the estate of Mr S now. 
+I can consider representations and contractual promises by M when considering a 
+complaint about an unfair relationship between Mr S and Creation. s.56 of the CCA 
+has the effect of deeming M to be the agent of Creation in any antecedent 
+negotiations, and so Creation is responsible for the antecedent negotiations M 
+carried out direct with Mr S. 
+Taking this into account, I consider it would be fair and reasonable in all the 
+circumstances for me to consider as part of the complaint about an unfair relationship 
+those negotiations and arrangements by M for which Creation was responsible under 
+s.56 when considering whether it is likely Creation had acted fairly and reasonably 
+toward the estate of Mr S. 
+When speaking to our investigator the representative of Mr S’s estate said Mr S 
+wouldn’t have understood how to get money from the solar panels (such as how to 
+claim FiT payments) to pay for the loan and this was never explained to him by M. He 
+said he doesn’t believe Mr S would have bought the solar panels if he’d been told the 
+monthly benefits generated would not meet the loan repayments over the course of 
+the loan agreement. 
+I’ve looked first at the paperwork the estate of Mr S has provided to see if it was 
+made clear what benefits the solar panels would generate and how these would 
+compare with the monthly loan repayments. It’s clear from the loan agreement how 
+much Mr S was borrowing, what the monthly repayments would be and how long 
+he’d have to make them for.  
+What’s not so clear from the paperwork is what benefits the solar panels would 
+generate and how they measured up against the loan repayments. A document titled 
+‘estimated returns’ gives an ‘estimated year 1 benefit’ a ‘total estimated 20 year FiT 
+benefit’ a ‘total estimated 25 year energy savings benefit’ and a ‘total lifetime PV 
+system benefit’. While its fairly clear from this the benefits in year one would not be 
+as much as the total loan repayments in that year, the rest of the estimates all appear 
+to use different metrics, and I don’t find the estimate provides information in a clear 
+enough way that would at the very least have enabled Mr S to work out the estimated 
+benefits himself so he could measure these against the monthly loan repayments 
+over the life of the agreement. 
+It seems likely therefore that Mr S would have needed to rely on what he was told 
+about the solar panels by the representative of M to get a good understanding of the 
+benefits of the panels over the course of the loan agreement. 
+ 
+ 
+The investigator thought it was unlikely Mr S would have bought the solar panels if 
+he’d been told they wouldn’t be self-funding over the course of his loan as the loan 
+repayments would have significantly increased his monthly outgoings and he wasn’t 
+looking for solar panels when M contacted him. So, he thought Mr S must have been 
+told that they were self-funding. However, I haven’t reached that same conclusion. 
+Most of the testimony that has been provided about what Mr S was told is that of the 
+representative of the estate and not Mr S. And sadly, it’s impossible to get Mr S’s 
+testimony now that he has passed away. As a result, (and entirely understandable in 
+the circumstances) the available testimony is not particularly rich in detail and relies 
+quite heavily on what the representative considers Mr S would or wouldn’t have 
+agreed to. Because of this however I’m not able to give the kind of weight to the 
+available testimony that I would if it had come directly from Mr S. This poses 
+significant challenges to the estate of Mr S’s complaint as it essentially hinges on 
+what Mr S was or was not most likely told about the benefits of the solar panels. 
+I appreciate the representative of Mr S’s estate has said he was not tech savvy and 
+would not have understood how to claim things like FiT payments. I don’t think it 
+automatically follows however that M didn’t explain how to register for these 
+payments - even if as appears to be the case, Mr S did not indeed register for them. 
+Again, without direct testimony from Mr S it’s very difficult to know what he would or 
+would not have been told in this respect. 
+Overall, I’ve not seen enough in this particular case to persuade me on the balance 
+of probabilities that Mr S would have been told the benefits of the solar panels would 
+have paid for the loan repayments over the course of the loan agreement or that 
+things such as claiming FiT payments were not explained to him. It therefore seems 
+unlikely to me that the estate of Mr S’s relationship with Creation is unfair as a result 
+of a misrepresentation or contractual promise made by M to Mr S when the solar 
+panels were sold to him. Creation does (not*) therefore need to do anything in 
+respect of the estate of Mr S’s complaint. 
+I know this will come as a disappointment to the representative of Mr S’s estate in the 
+circumstances.” 
+*my correction 
+Creation agreed with my provisional decision and had nothing further to add.  
+The estate of Mr S did not agree. It said in summary: 
+• 
+Its complaint is mostly about M rather than Creation and how it sold the solar panels 
+to Mr S.  
+• 
+It believes it started the complaints process much earlier than stated in my 
+provisional decision.  
+The complaint has therefore been passed back to me for a final decision.  
+What I’ve decided – and why 
+I’ve considered all the available evidence and arguments to decide what’s fair and 
+reasonable in the circumstances of this complaint. 
+I’ve very carefully considered the comments provided by the estate of Mr S in response to 
+ 
+ 
+my provisional decision. I appreciate it believes its complaint rests more with M. However, as 
+the estate has identified, M is no longer trading so it cannot refer a complaint about it to this 
+service. It would likely have run into difficulties with time limits in any event in the 
+circumstances.  
+My consideration of this complaint is therefore limited to Creation’s acts and omissions in 
+respect of the complaint that has been brought, which I laid out in the headings in the extract 
+of my provisional decision above.  
+I’ve examined Creation’s record of contact with Mr S and his estate. There is no record of a 
+complaint having been made any earlier that March 2021. I’ve seen no other persuasive 
+evidence that one was referred to Creation any sooner than this. My findings in respect of 
+the estate’s claim under s.75 therefore remain that Creation did not unreasonably decline to 
+meet it – the estate having notified Creation of its claim more than six years after its cause of 
+action.  
+I’ve also seen no reason to depart from the findings I made in my provisional decision about 
+the fairness of the credit relationship. As I explained therein, the complaint turns largely on 
+what happened when M sold the solar panels to Mr S in 2015. The available paperwork did 
+not guarantee that the benefits the solar panels were expected to generate would pay for the 
+loan repayments on the loan agreement. So, testimony as to what was explained to Mr S by 
+M at the time is key.  It’s very unlikely that Creation would have been able to obtain 
+testimony from M because it ceased trading. And sadly, Mr S is unable to give testimony 
+either. I haven’t found the representative of the estate’s recollections or suggestions 
+persuasive enough on their own to conclude the solar panels were mis-sold to Mr S. He 
+wasn’t present when the pre-contract negotiations took place and the recollections are not 
+sufficiently detailed.   
+It remains my decision therefore that Creation need not do anything in respect of the estate 
+of Mr S’s complaint.  
+My final decision 
+For the reasons I’ve explained above, my final decision is that I do not uphold this complaint.  
+Under the rules of the Financial Ombudsman Service, I’m required to ask the estate of Mr S 
+to accept or reject my decision before 4 March 2025. 
+  
+ 
+Michael Ball 
+Ombudsman 
+ 

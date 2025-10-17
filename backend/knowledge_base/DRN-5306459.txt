@@ -1,0 +1,343 @@
+ 
+ 
+DRN-5306459 
+ 
+ 
+The complaint 
+ 
+Mr P complains about a credit agreement he took out with Creation Consumer Finance Ltd 
+in relation to some home energy improvements. More specifically, that Creation did not 
+accept his claims under s.75 and s.140A of the Consumer Credit Act.  
+What happened 
+The background and my provisional findings to this complaint were set out in my provisional 
+decision of 30 January 2025. In that provisional decision I set out the following:  
+In late 2014 Mr P entered into a Green Deal arrangement with a company I shall refer to as 
+H. It was agreed that Mr P would receive solar panels, the total price for these was £8,000 
+and this was to be funded through a Green Deal loan and a loan with Creation.  
+Mr P is represented in his complaint but for ease I have referred to all submissions from Mr 
+P and his representative as if made by Mr P. Mr P has said that he was told the Gren Deal 
+arrangement would be fully self-funded and the new solar panels would therefore not 
+actually cost him anything. Mr P believes the arrangement was misrepresented to him as it 
+has actually cost him money and the arrangement has not been self-funding as he was told.  
+Mr P believes he has valid claims under s.75 and s.140A of the Consumer Credit Act and is 
+unhappy that Creation has not upheld his claims. Creation did not consider that Mr P had 
+submitted his claims in time and it believes this complaint is outside the time limits permitted 
+in the FCA’s DISP Rules.  
+The case was considered by an investigator who, in summary, found that when considering 
+s.75 and the Limitations Act, Mr P’s s.75 claim is likely to be time barred as it was made to 
+late. This was because Mr P had submitted his claim more than 6 years from the date he 
+had entered into the loan agreement and suffered a loss.  
+The investigator set out how the limitation period in relation to a s.140A claim starts from 
+when the relationship between the parties ended and as the relationship is ongoing, Mr P’s 
+claim under s.140A has been made in time.  
+The investigator found that Mr P’s complaint about misrepresentation can be considered 
+under s.140A, through s.56 Consumer Credit Act as H was acting as Creation’s agent when 
+negotiating the provisions of the loan and the sale of energy efficient measures.  
+When considering the evidence presented in this case, which included the requirements of 
+the ‘Golden Rule’ under the Green Deal scheme, there had been a misrepresentation to Mr 
+P. And that Mr P had relied on that misrepresentation when deciding to enter into the 
+contract with H, and he had suffered a financial loss as a result of this. The investigator 
+upheld Mr P’s complaint and set out what Creation should now do to put things right.  
+Creation responded to say that it did not accept the investigator’s view of the complaint and 
+as the complaint could not be resolved informally, it has now been referred to me for 
+consideration as the last stage in our process.  
+ 
+ 
+The Green Deal  
+Before I set out my findings in this case I think it will be helpful to include some further details 
+of the Green Deal scheme and in particular the ‘Golden Rule’.  
+The energy efficient measures that Mr P entered into with H were through the government 
+Green Deal initiative. It will be helpful therefore to set out some detail around this initiative 
+and in particular the requirements of the ‘Golden Rule’ under the Green Deal scheme.  
+The Green Deal scheme was a government backed initiative intended to remove the upfront 
+cost to consumers of installing energy efficiency measures into their homes. It did this by 
+allowing Green Deal Providers (“Provider”) to enter finance agreements with consumers to 
+pay for the measures, which were then repaid via the consumer’s electricity bill. The finance 
+agreement was part of what was known as the Green Deal Plan (“Plan”).  
+The Green Deal Provider Guidance issued by the Department of Energy & Climate Change 
+(now part of the Department for Business, Energy & Industrial Strategy) set out the general 
+structure of a Green Deal arrangement and the duties and responsibilities of various parties. 
+Typically, this worked as follows:  
+• If a consumer was interested in the Green Deal arrangement, an accredited Green Deal 
+Assessor (“Assessor”) would visit their home and assess possible improvements the 
+consumer could introduce to make the home more energy efficient. This assessment should 
+have taken place at least 24 hours after any initial introduction to the Green Deal scheme, 
+unless the consumer opted to waive their right to this in writing.  
+• The Assessor produced an Energy Performance Certificate (“EPC”) which showed the 
+energy use of a typical household of the relevant type. And a Green Deal Advice Report 
+(“GDAR”), which included an Occupancy Assessment certificate (“OA”).  
+• The OA formed part of the qualifying assessment. And would have set out the actual use of 
+energy by the customer’s household at the time the assessment was carried out. It then 
+detailed the potential measures which could improve energy efficiency for the property and 
+what savings these measures would likely lead to.  
+• Once a GDAR was registered in a centralised register, it could be taken to any Provider, or 
+several, to obtain quotes for a Plan. The Provider should have ensured that the quote 
+covered all payments that were to be recovered from the consumer for supply and 
+installation of the improvements and the provision of credit.  
+• It was the Provider who was ultimately responsible for designing the specification of works 
+and the implementation of the Plan. This would include ensuring that the improvement 
+measures were properly integrated into the overarching design of the package of 
+improvements agreed upon.  
+• The Provider would arrange for a Green Deal Installer (“Installer”) to install the measures 
+under the plan. The Provider had to provide the Installer with a clear design and specification 
+for all works to be carried out, including how the various products should be integrated into 
+the overarching design for the package of improvements.  
+• Once the installation was complete, the Green Deal payments were collected by electricity 
+suppliers alongside the collection of energy payments. In doing so, the supplier would be 
+acting on behalf of the Provider.  
+• The Plan was a contract between the Provider and the consumer. It was a contract for 
+ 
+ 
+energy efficiency improvements to be made to a property and for finance to pay for those 
+improvements.  
+• The Provider had to establish the Plan in line with requirements set out in the Energy Act 
+2011, the Green Deal Framework (Disclosure, Acknowledgement, Redress etc.) Regulations 
+2012 (“the Framework”) and the Green Deal Code of Practice.  
+The Golden Rule  
+A significant key principle of the Green Deal scheme was that the amount of finance that 
+could be provided for the improvement measures was limited to the estimated financial 
+benefit to the customer that was likely to be made by those measures. This limitation was 
+partly constructed through a comparison of the estimated saving from having the benefits 
+with the repayments made, in the first year of the agreement.  
+This principle is known as the “Golden Rule” and it forms part of the legislative provisions 
+governing Plans. Regulation 30 of the Framework stated: “The first year instalments must 
+not exceed the estimated first year savings…”  
+As the Plan remained with the property, and so was not dependent on the usage of energy 
+by the specific occupant at the time of the assessment, the total amount of finance that could 
+be provided was based on the benefits that could be achieved for a typical property of the 
+type the consumer had.  
+Before entering into a Plan, the Provider had to estimate the overall savings which were 
+likely to be made if the improvements were carried out. It was also the responsibility of the 
+Provider to ensure that the “Golden Rule” was satisfied and that it was properly explained to 
+the consumer.  
+What I’ve provisionally decided – and why 
+I’ve considered all the available evidence and arguments to decide what’s fair and 
+reasonable in the circumstances of this complaint. 
+What I’ve provisionally decided – and why I’ve considered all the available evidence and 
+arguments to decide what’s fair and reasonable in the circumstances of this complaint.  
+When considering what is fair and reasonable, I am required to take into account relevant 
+law and regulations; regulator’s rules, guidance and standards, and codes of practice; and, 
+where appropriate, what I consider to have been good industry practice at the time.  
+Where the evidence is incomplete, inconclusive or contradictory (as some of it is here), I 
+reach my decision on the balance of probabilities – in other words, what I consider is most 
+likely to have happened in light of the available evidence and the wider circumstances.  
+S.140A Consumer Credit Act  
+As the investigator has already set out in some detail, Mr P has complained about the 
+misrepresentations made by H have created an unfair relationship, as set out in s.140A 
+Consumer Credit Act. Mr P is able to make a complaint about an unfair relationship between 
+himself and Creation per s.140A. The event complained of for the purposes of DISP 
+2.8.2R(2)(a) is Creation’s participation, for so long as the credit relationship continued, in an 
+allegedly unfair relationship with him. This accords with the court’s approach to assessing 
+unfair relationships – the assessment is performed as at the date when the credit 
+relationship ended: Smith v Royal Bank of Scotland plc [2023] UKSC 34.  
+ 
+ 
+S.140A doesn’t impose a liability to pay a sum of money in the same way as s.75. Rather, it 
+sets out the basis for treating relationships between creditors and debtors as unfair. Under 
+s.140A a court can find a debtor-creditor relationship is unfair, because of the terms of the 
+credit agreement and any related agreement, how the creditor exercised or enforced their 
+rights under these agreements, and anything done or not done by the supplier on the 
+creditor’s behalf before or after the making of a credit agreement or any related agreement. 
+A court must make its determination under s.140A with regard to all matters it thinks 
+relevant, including matters relating to the creditor and matters relating to the debtor.  
+The High Court’s judgment in Patel v Patel [2009] EWHC 3264 QB established that 
+determining whether the relationship complained of was unfair has to be made “having 
+regard to the entirety of the relationship and all potentially relevant matters up to the time of 
+making the determination”. The time for making determination in the case of an existing 
+relationship is the date of trial, if the credit relationship is still alive at trial, or otherwise the 
+date when the credit relationship ended. This judgment has recently been approved by the 
+Supreme Court in Smith v Royal Bank of Scotland Plc [2023] UKSC 34 (‘Smith’).  
+Throughout the period of the credit agreement, a creditor should conduct its relationship with 
+the borrower fairly, including by taking corrective measures. In particular, the creditor should 
+take the steps which it would be reasonable to expect it to take in the interest of fairness to 
+reverse the consequences of unfairness, so that the relationship can no longer be regarded 
+as unfair: see Smith at [27]-[29] and [66]. Whether that has, or has not, been done by the 
+creditor is a consideration in whether such an unfair relationship was in existence for the 
+purposes of s.140A when the relationship ended.  
+In other words, determining whether there is or was an unfair credit relationship isn’t just a 
+question of deciding whether a credit relationship was unfair when it started. The question is 
+whether it was still unfair when it ended; or, if the relationship is still on foot, whether it is still 
+unfair at the time of considering its fairness. That requires paying regard to the whole 
+relationship and matters relevant to it right up to that point, including the extent to which the 
+creditor has fulfilled its responsibility to correct unfairness in the relationship.  
+In Mr P’s case the relationship was ongoing when he referred his complaint to the Financial 
+Ombudsman. At the time, Creation was responsible for the matters which made its 
+relationship with Mr P unfair and for taking steps to remove the source of that unfairness or 
+mitigate its consequences so that the relationship was no longer unfair. By relying in his 
+complaint on the unfairness of the credit relationship between himself and Creation, Mr P 
+therefore complained about an event that was ongoing at the time he referred his complaint 
+to the Financial Ombudsman.  
+Therefore, taking into account DISP 2.8.2R(2)(a), I am satisfied it has been brought in time. I 
+am otherwise satisfied the complaint is within the ombudsman service’s jurisdiction to 
+consider and it’s not necessary to consider whether Mr P’s complaint has been brought in 
+time for the purposes of the alternative three-year rule under DISP 2.8.2R(2)(b).  
+The unfair relationship under s.140A complaint  
+When considering whether representations and contractual promises by H can be 
+considered under s.140A I’ve looked at the court’s approach to s.140A.  
+In Scotland & Reast v British Credit Trust [2014] EWCA Civ 790 the Court of Appeal said a 
+court must consider the whole relationship between the creditor and the debtor arising out of 
+the credit agreement and whether it is unfair, including having regard to anything done (or 
+not done) by or on behalf of the creditor before the making of the agreement. A 
+misrepresentation by the creditor or a false or misleading presentation are relevant and 
+ 
+ 
+important aspects of a transaction.  
+Section 56 (“s.56”) of the CCA has the effect of deeming H to be the agent of Creation in any 
+antecedent negotiations. Taking this into account, I consider it would be fair and reasonable 
+in all the circumstances for me to consider as part of the complaint about an alleged unfair 
+relationship those negotiations and arrangements by H for which Creation was responsible 
+under s.56 when considering whether it is likely Creation had acted fairly and reasonably 
+towards Mr P.  
+But in doing so, I should take into account all the circumstances and consider whether a 
+court would likely find the relationship with Creation was unfair under s.140A.  
+Mr P’s case  
+Mr P says he was misled that the solar panels would effectively pay for themselves. I’ve 
+taken account of what Mr P says he was told, and I’ve reviewed the documentation that I’ve 
+been supplied. 
+The cost of the solar panels was £8,000, This was to be funded by a green deal loan of 
+£3,683 and a £4,317 loan with Creation. The £4,317 proceeds for the Creation loan appear 
+to be used as a ‘deposit’ under the Gren Deal loan. And I assume this has been done to 
+reduce the true appearance of the actual cost of the Green Deal loan.  
+Mr P’s Green Deal credit agreement refers to the total estimated first year savings that he 
+can expect to make on his energy bills based on the improvements being made for a typical 
+property. It is noted that these are not guaranteed savings but Mr P’s estimated first year 
+savings are noted as being £347.55.  
+I think it’s important to note the Green Deal credit agreement also states, “Under the Green 
+Deal the total estimated first year savings must be equal to, or greater than, your 
+repayments in the first year of this agreement. This is called the “Golden Rule”.”  
+H was responsible for ensuring that the whole package of instalments was taken into 
+account when producing the Plan. The Green Deal Provider Guidance states:  
+“The Green Deal Provider has responsibility for designing the specification of works to be 
+carried out for the property in question. In practice this means working with the customer to 
+select products and ensuring that they are properly integrated into the overarching design of 
+the package of improvements agreed upon. This is important in development of the quote 
+stage because costing will depend on, amongst other things, the price of the products and 
+any requirements for integration. It is the Green Deal Provider’s responsibility to ensure that 
+they take any necessary steps to satisfy themselves and their customers that the 
+specification of works is comprehensive, ensures the proper integration of measures and 
+meets all the necessary requirements.”  
+And: 
+“The Green Deal Provider should ensure that the quote issued to the customer covers all 
+payments that are to be recovered from the Improver and bill payer for supply and 
+installation of the improvements and the provision of credit.”  
+So, I think it reasonable that H should have known that not all of the cost was being funded 
+by the Plan. The annual repayments required under the Green Deal credit agreement are 
+approximately £346.75, which is clearly less than the estimated savings of £347.55. 
+Considering this in isolation, it would appear that the Golden Rule was met here, as the 
+ 
+ 
+savings are likely to exceed the cost of the measures.  
+But the cost of the energy efficient measures Mr P was acquiring far exceeded the amount 
+being borrowed under the Green Deal loan and Mr P was therefore required to make 
+repayments to Creation for the £4,317 loan, in addition to the repayments to the Green Deal 
+loan. When including the required repayments for the Creation loan, the Golden Rule was 
+not even close to be being met.  
+I’m satisfied in the circumstances here, after considering the estimated savings from the 
+solar panels and the cost of the Green Deal and Creation loans, the Plan did not meet the 
+Golden Rule. I also think that by indicating to Mr P that the measures being financed through 
+the Plan would result in an estimated overall saving, H provided Mr P with misleading 
+information.  
+Mr P has been consistent and clear about his intentions of taking out the energy efficient 
+measures here and that it was because he was told they would be self-funding and therefore 
+essentially cost him nothing. Had Mr P been made aware that the installation of the solar 
+panels would come at a net cost to him, I don’t think he would have agreed to the Plan. I 
+don’t think he would have agreed to have the solar panels installed or have entered the 
+finance agreement with Creation.  
+Mr P complains about the arrangement being misrepresented to him and a 
+misrepresentation is generally considered to be a false statement of fact that has the result 
+of inducing the other party to enter a contract. For the reasons set out here, I am satisfied 
+that there was a false statement of fact around the actual cost of the measures as these 
+were not self-funding as Mr P was led to believe. Mr P has said that it was that the measures 
+would be self-funding and therefore not cost him anything that was behind his decision to 
+enter into the agreement. This is to me entirely plausible, and I’m satisfied the false 
+statement about the measures being self-funding is what induced Mr P into entering into the 
+arrangement.  
+Would the court be likely to make a finding of unfairness under s.140A?  
+The relationship between Mr P and Creation was built on the misrepresentation made by H, 
+Creation’s agent and having considered the submissions in this case, I consider it more 
+likely than not that Mr P would not have agreed to take out the solar panels had he been 
+correctly informed about the true costs of the arrangements. Because of this shortfall 
+between his costs and the actual benefits, each month Mr P has had to pay more than he 
+expected to cover the difference between his energy efficient benefits and the cost of the 
+loans. So, clearly Creation has benefitted from the interest paid on a loan he would 
+otherwise have not taken out.  
+In my view, the original misrepresentations and the resulting collection of the loan 
+repayments gave rise to the level of unfairness required to trigger a likely finding by a Court 
+under s.140A. As the investigator has set out, the whole relationship is tainted by the untrue 
+statements made by Creation’s agent.  
+It follows that I think a court would likely find the relationship in question unfair. Given that, 
+I’ve also concluded that Mr P has suffered a loss through entering the agreement. And I find 
+that he’s been treated unfairly and unreasonably and as a result his complaint should be 
+upheld.  
+Putting things right  
+As I am persuaded a court would find the relationship between Creation and Mr P to have 
+ 
+ 
+been unfair I will now set out what I consider to be fair and reasonable redress.  
+The aim of any award will be to try and put Mr P in the position he would have been in had 
+an unfair relationship not been created and H had not misrepresented the benefits of the 
+solar panel system. But to achieve this Creation would need to arrange for the removal of 
+the solar panels. This is likely to be expensive to Creation, who would need to employ other 
+parties to carry out the work. And this would create significant disruption Mr P. I’m also 
+mindful of the solar panels working in line with the way they should and would likely be 
+scrapped if now removed. It would therefore be more reasonable in my view for the solar 
+panels to stay in place.  
+Mr P agreed to purchase the solar panels on the basis that they would be self funding. So 
+I’ve considered whether it would be fair and reasonable for Creation to take action now to 
+ensure that Mr P does not lose out financially and the package of measures Mr P received 
+don’t cost him more than the benefits he’s receiving and will continue to receive. I appreciate 
+this is not our service’s normal approach where there has been a misrepresentation, but I’m 
+satisfied this is a fair remedy in this instance when considering the alternatives.  
+The cost of the solar panels was £8,000. The repayment period for the solar panels is 23 
+years. The first year estimated savings was £347.55 and while I appreciate the savings may 
+vary each year, for simplicity, assuming £347.55 was saved over the 23 year term of the 
+Green Deal loan, this would likely equate to approximately £7,993 of savings. When 
+considering what the Golden Rule sets out and what Mr P was led to believe, it would be 
+reasonable in my view to limit the amount he should pay for the solar panels to an amount 
+equivalent to the savings he would have likely received for the solar panels over the 23 year 
+repayment term. I calculate that to be £7,993.  
+The cost of the Green Deal loan is shown to be £7,856.50 over the full 23 year term of the 
+loan. I have not included the ‘deposit’ payment of £4,317 which is shown on the Green Deal 
+credit agreement as this is not in my view a deposit. It is the amount of the Creation loan 
+which appears to have been used to give the illusion of a deposit.  
+The amount of estimated savings Mr P should expect to receive when compared to the 
+actual cost of the Green Deal loan is £137. It is in my view fair and reasonable that Mr P 
+does not pay more than £7,993 across both the Green Deal loan and Creation loan. The 
+£137 difference between the Green Deal loan cost and potential savings is a modest sum 
+and would be a reasonable amount to pay Mr P for any distress and inconvenience caused 
+by being misled into entering into this arrangement. The approximate cost of the Green Deal 
+Loan is similar to the estimated savings Mr P might achieve and the Creation loan costs are 
+simply an additional expense over and above this. 
+The easiest, and fairest, remedy in this instance would now be for Creation to cancel the 
+Creation credit agreement, write off any outstanding loan balance and remove any records 
+of this loan from Mr P’s credit files.  
+Creation should refund any instalments Mr P paid, with 8% simple interest. Interest should 
+be calculated from the date of each payment to the date of the settlement. 
+This will ensure Mr P broadly pays no more than the estimated savings he should expect to 
+receive.   
+My provisional decision 
+My provisional decision is that I uphold Mr P’s complaint against Creation Consumer 
+Finance Ltd and direct it to settle the complaint in accordance with what I have set out above 
+ 
+ 
+in the putting things right section. 
+Both parties responded to my provisional decision and said that they accepted my 
+provisional findings.  
+What I’ve decided – and why 
+I’ve considered all the available evidence and arguments to decide what’s fair and reasonable 
+in the circumstances of this complaint. 
+Having reconsidered what I have set out above and in my provisional decision of 30 January 
+2025, and in the absence of any further submissions from either party in this complaint, I 
+have come to the same overall conclusions as set out in my provisional decision. I also see 
+no reason to depart from the redress proposal within the provisional decision.  
+My final decision 
+My final decision is that I uphold Mr P’s complaint against Creation Consumer Finance Ltd 
+and direct Creation Consumer Finance Ltd to settle the complaint in accordance with what I 
+have set out in the putting things right section of my provisional decision and above. 
+Under the rules of the Financial Ombudsman Service, I’m required to ask Mr P to accept or 
+reject my decision before 5 March 2025.  
+  
+ 
+Mark Hollands 
+Ombudsman 
+ 

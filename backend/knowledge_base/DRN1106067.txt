@@ -1,0 +1,561 @@
+K822x
+complaint
+Mr M is unhappy with a water and heating system he purchased using a loan from 
+Creation Consumer Finance Ltd (Creation). Mr M is represented by Mrs M, his wife.
+background 
+I issued my provisional decision on 30 June 2020. A copy of my provisional decision is 
+attached and forms part of this final decision.
+My provisional decision sets out the background to this complaint and explains why I think it 
+should be upheld and what I think Creation should do to put things right.
+Creation says it accepts my provisional decision.
+On behalf of Mr M, Mrs M has asked me to consider some additional points, which I’ve 
+summarised and addressed below.
+my findings
+I’ve reconsidered all the available evidence and arguments to decide what’s fair and 
+reasonable in the circumstances of this complaint.
+First, I’d like to thank Creation and Mrs M for replying so swiftly to my provisional decision.
+In reply to my provisional decision, Mrs M:
+1.
+says she accepts that she and Mr M would have had to save £156.27 a month for the 
+system to ‘pay for itself within 5 years’ – but they planned to use any savings they 
+made to repay the loan early;
+2.
+has reiterated that she and Mr M believe they would have paid off the loan early – 
+possibly by now – if the system had been installed correctly;
+3.
+says she can’t be sure but she thinks the inconsistencies in her emails about the 
+amount they were told they’d save, expressed in percentage terms, may have simply 
+been typos;
+4.
+confirmed that the subcontractor didn’t provide her and Mr M with anything in writing 
+and that the information she provided was based on the conversations she had with 
+the subcontractor’s engineers;
+5.
+stressed that a power flush wasn’t carried out – and one is needed urgently;
+6.
+says she doesn’t think she asked me to tell Creation to pay Mr M the sum they’ve 
+paid Business B for its ongoing support as this was their decision;
+7.
+says the only written correspondence Mr M received from Creation was its short 
+letter dated 13 June 2017;
+8.
+wants me to tell Creation to do the things I said it should do; and,
+9.
+also wants me to tell Creation to refund Mr M’s deposit and the loan payments he’s 
+made, cancel the loan agreement and remove it from his credit file – Mrs M says that 
+if I don’t tell Creation to do this, Mr M will have to pay more in loan payments over the 
+next three years than he’ll receive in compensation and Mrs M doesn’t think this 
+would be fair given the time it’s taken to resolve the problems and the considerable 
+stress this has put them under.
+Ref: DRN1106067
+2
+I’ll address point 6 first. If I misunderstood Mrs M’s submissions on behalf of Mr M, I’m sorry. 
+And I’d like to thank Mrs M for clarifying some other aspects of this case.
+Mrs M has made three points that I’d like to address specifically.
+First, I appreciate that the inconsistencies in Mrs M emails may have been typos. To her 
+credit, Mrs M was honest and said she can’t remember. But if they were typos, I still don’t 
+think I could safely conclude, on the evidence available to me, that the sales person made a 
+specific ‘statement of fact’.
+Second, when Mrs M says she and Mr M planned to use any savings they made to pay off 
+the loan early and that if the system had been installed correctly, they would have paid off 
+the loan early, I don’t see how. Mr M’s loan payments are £123.74 per month. And as I 
+explained in my provisional decision, in the year before the system was installed, on average 
+they paid £155.35 per month for electricity and gas. If the new system had reduced their 
+energy bills by 30%, they’d have saved, on average, £46.61 per month – which isn’t enough 
+to make Mr M’s scheduled loan payments, let alone overpayments. So I don’t think Mr M 
+would have repaid the loan early even if the system had been installed correctly.
+Finally, Mrs M wants me to tell Creation to refund Mr M’s deposit and the loan payments he’s 
+made, and unwind the loan. This is often a remedy for misrepresentation. But, as I explained 
+in my provisional decision, on the evidence available to me, I don’t think I can safely say that 
+the sales person misrepresented the benefits of the system. In this case, I think there was a 
+breach of contract. The usual remedy for a breach of contract is to compensate the injured 
+party for their actual loss as a result of the breach. And that’s what I’ve tried to do in this 
+case. I don’t think it would be fair to also tell Creation to refund everything Mr M has paid for 
+the system, which he chose to buy and which is now working well.
+my final decision
+For the reasons I’ve explained above and in my provisional decision, I uphold Mr M’s 
+complaint against Creation Consumer Finance Ltd. Creation Consumer Finance Ltd should:
+
+refund the £198 Mr M paid Business B to fix the problem with the heating;
+
+refund the £400 Mr M paid to repair the damage caused by the leak;
+
+add simple interest at 8% per year on both of these from the date he made each 
+payment until the date he receives the refund;*
+
+pay Mr M £500 so that he can pay for a power flush; and,
+
+pay Mr M an additional £1,800.
+* If Creation Consumer Finance Ltd thinks it is required by HM Revenue & Customs (HMRC) 
+to deduct income tax from this interest payment, it should tell Mr M how much it’s deducted. 
+It should also give him a certificate showing how much it’s deducted if he asks for one so 
+that he can claim it back from HMRC.
+Under the rules of the Financial Ombudsman Service, I’m required to ask Mr M to accept or 
+reject my decision before 15 August 2020.
+Christopher Reeves
+ombudsman
+Ref: DRN1106067
+3
+My provisional decision
+complaint
+Mr M is unhappy with a water and heating system he purchased using a loan from 
+Creation Consumer Finance Ltd (Creation). Mr M is represented by Mrs M, his wife.
+background
+Below, I’ve summarised the material facts in this case.
+
+In 2014, Mr M borrowed £8,875 from Creation to pay for a water and heating system to be supplied and 
+installed by a separate company, which I’ll call ‘Business A’. He also paid a deposit of £500. (Whoever 
+wrote the loan agreement made a mistake: next to the words ‘total amount of credit’, it says £8,775 – but 
+it’s clear from the ‘total cash price of the system’, the monthly repayments, the number of payments and 
+the ‘interest charge’, that Mr M borrowed and will have to repay £8,875.)
+
+Mr M says that, since installation, there have been several problems with the system. Specifically, he 
+says:
+1.
+the water temperature was so hot that members of his family were scalded washing their hair 
+over the bath or washing at the sink, and only a thermostatic shower valve prevented this from 
+being a problem with the shower;
+2.
+there was a problem with the system, which meant that the central heating either didn’t come 
+on at all, even on very cold days, or was far too hot; and,
+3.
+his energy and water bills increased when he was told the system would reduce his bills 
+significantly.
+Additionally:
+4.
+Mr M says he was told the system would take two days to install. Instead, it took a week, so he 
+had to take more time off work.
+5.
+Leaks damaged the hallway and bathroom carpets and the kitchen ceiling. Mr M says he was 
+told the leak happened because Business A’s subcontractor used the existing plastic piping 
+when it installed the system, and this couldn’t withstand the increase in water pressure.
+6.
+When the system was installed, the bathroom radiator leaked for two days.
+7.
+Mr M says Business A said it would check the efficiency of the system after it was installed and 
+‘balance’ the radiators to ensure efficiency. He says this didn’t happen.
+8.
+Mr M says Business A said it would service the boiler annually, for free, for nine years. He says 
+it hasn’t serviced it since 2016.
+9.
+In February 2018, Mr M told us the radiators in his living room and conservatory stopped 
+working. He says he was told they stopped working because of ‘sludge in the system’, and 
+there was ‘sludge in the system’ because a small tank, which is still in use, was not sealed 
+when the system was installed. Mr M says this also shows that a full ‘power flush’ wasn’t done 
+by Business A’s subcontractor when the system was installed.
+
+Mr M says Business A misrepresented the benefits of the system. He says it also made several 
+mistakes when it installed the system and it did not do what it agreed to do, so it breached the contract. 
+He wants Creation to:
+
+refund his deposit and the loan payments he’s made;
+
+cancel the loan agreement and remove it from his credit file;
+
+refund the money he’s paid to resolve the problems with the system and to repair the damage 
+caused by those problems;
+
+refund the extra he’s paid for gas and electricity;
+
+pay, or contribute to, the cost of an annual service of the boiler;
+
+compensate him (and his representative and family) for the distress and inconvenience caused 
+by the problems with the system, Business A’s failure to rectify those problems and the way 
+Business A and Creation have handled his complaint.
+my provisional findings
+I’ve considered all the available evidence and arguments to decide what’s fair and reasonable in the 
+circumstances of this complaint. When considering what is, in my opinion, fair and reasonable in all the 
+Ref: DRN1106067
+4
+circumstances of the case, I’m required by DISP 3.6.4 R of the Financial Conduct Authority (FCA) Handbook to 
+take into account:
+‘(1) relevant:
+(a) law and regulations;
+(b) regulators’ rules, guidance and standards;
+(c)
+codes of practice; and
+(2) (where appropriate) what [the ombudsman] considers to have been good industry practice at the 
+relevant time.’
+Where the evidence is incomplete, inconclusive or contradictory, I’ve made my decision on the balance of 
+probabilities – that is, what I think is most likely to have happened given the available evidence and the wider 
+circumstances.
+The law
+Section 75 of the Consumer Credit Act 1974 (CCA) protects consumers who buy goods and services on credit. 
+This says that, in certain circumstances, the finance provider is legally answerable for any misrepresentation or 
+breach of contract by the supplier.
+Section 56 of the CCA is also relevant. This says that any pre-sale negotiations between the consumer and the 
+supplier are deemed to have been conducted by the supplier as agent of the finance provider. In this case, it is 
+not disputed, and I am satisfied, that Mr M entered into a contract with a supplier, Business A, for goods and 
+services purchased on credit and has a ‘like claim’ against Creation under section 75 of the CCA.
+Section 13 of the Supply of Goods and Services Act 1982 (SGSA) says that, in a contract like this, there’s an 
+implied term that the supplier will carry out the service with ‘reasonable skill and care’. And section 14 of the Sale 
+of Goods Act 1979 (SGA) says there’s an implied term that the goods supplied will be of ‘satisfactory quality’.
+Misrepresentation
+A misrepresentation is a statement of fact by one party to a contract, which isn’t true and which persuades the 
+other party to enter into the contract.
+Mr M says Business A misrepresented the benefits of the system. He says the sales person made specific 
+promises about the savings he’d make on his energy bills. And he says it was only because of these promises, 
+which were made orally, that he agreed to buy the system.
+I can’t know exactly what was said when Mr M met the sales person from Business A. I think it’s very likely Mr M 
+was told the system would be more efficient than his current boiler, which was 15 years old, and that, as a result, 
+his energy bills would be cheaper. Indeed, the manufacturer of the boiler makes these claims in its promotional 
+material, which Mr M has provided. But on the evidence I’ve seen, I don’t think I can safely conclude that the 
+sales person made specific promises about the savings Mr M would make. I’ll explain why.
+Mr M has sent us the emails Mrs M sent Business A and Creation in an attempt to resolve the problems with the 
+system. I’ve read them all. On 29 July 2016, in an email to Business A, Mrs M wrote that an increase in their 
+water and energy bills was ‘contrary to the promise we were made that the installation of this system would 
+reduce our bills by up to 30%.’ On 17 September 2016, in another email to Business A, Mrs M wrote, ‘…we 
+agreed to the installation to save up to 20% on our utility bills’. The emphasis here is mine.
+On 22 July 2017, in an email to our service, Mrs M wrote: ‘When agreeing to this installation we were told that the 
+efficiency of it would reduce our bill by such an amount that we would be able to settle the debt early’. And in 
+emails we received on 11 October 2017 and 29 January 2019, Mrs M wrote that they were told the installation 
+‘would pay for itself within 5 years’. Finally, on 20 May 2019, in an email to our service, Mrs M wrote:
+‘We were told that we’d make a 10% saving on electricity and a 20% saving on gas. The statement 
+made was that the installation would “pay for itself within 5 years” due to the savings we’d make on the 
+electricity and gas.’
+There seems to me to be two elements to this and I’ve considered them separately and together.
+Ref: DRN1106067
+5
+First, for the system to ‘pay for itself within 5 years’, Mr and Mrs M would have to save at least £156.25 every 
+month. This is the total cost of the system, £9,375, divided by 60. It doesn’t include any interest.
+I’ve looked at how much Mr and Mrs M paid for electricity and gas each month in the year before the system was 
+installed. It fluctuated seasonally, as I’d expect. For example, in December 2013, they paid £233.38 for both; in 
+June 2014, they paid £95.85. But on average, they paid £155.35 per month for electricity and gas.
+For the system to ‘pay for itself within 5 years’, Mr and Mrs M would have had to save more than they paid – 
+which obviously isn’t possible. Mr M may not have known exactly how much he paid for electricity and gas each 
+month, but I think he’d have known roughly what he paid and would therefore have realised he couldn’t possibly 
+save £9,375 in 5 years – especially if he was also told he’d save just 10% on electricity and 20% on gas.
+Second, the amount Mr and Mrs M say they were told they’d save on their utility bills, expressed in percentage 
+terms, varies. I want to be clear that this isn’t a criticism – they were sold the system two years before the earliest 
+email I’ve seen, so it’s understandable if they don’t remember exactly what was said. But Mrs M’s testimony is 
+the only evidence I have of what was supposedly said and it isn’t consistent.
+To conclude that the sales person misrepresented the benefits of the system, I must first find that he made ‘a 
+statement of fact’. On the evidence available to me, I don’t think I can say it’s more likely than not that he said the 
+system would ‘pay for itself within 5 years’ or that Mr and Mrs M would save a specific amount.
+For completeness, I’d add that when Mrs M emailed Business A, she wrote that the sales person said they’d save 
+‘up to’ an amount. Those two words mean that even if I was persuaded that the sales person said Mr and Mrs M 
+would save ‘up to 20%’ or ‘up to 30%’ as alleged, I don’t think I could say either statement was untrue: installed 
+correctly, I’m satisfied a new system is more efficient than a 15-year-old boiler, and that Mr and Mrs M will save 
+money as a result. Indeed, Mrs M has recently confirmed that, now the system is working well, they have 
+‘benefitted from cheaper bills’.
+Breach of contract
+Mr and Mrs M have explained in some detail the problems they’ve had since the system was installed. The 
+question is: what caused those problems?
+Hot water
+Based on an email Mrs M sent our service on 16 December 2018, I understand the issue with the hot water 
+(complaint point 1, above) was caused by a faulty cylinder. Mrs M told us this was replaced, under warranty, by 
+the manufacturer in or around 2016.
+In an email Mrs M sent Business A on 29 July 2016, she explains that she had to contact ‘the subcontractor’, 
+which installed the system for Business A, on numerous occasions about various problems. Among other things, 
+she mentions inflated energy bills. She also says:
+‘One of the main issues was the boiler/tank and it has taken 2 years to resolve this, the 
+heating/thermostat, as detailed above, has yet to be resolved 2 years later.’
+In these circumstances, I think it’s fair to assume the cylinder was faulty when it was installed and was not, 
+therefore, of ‘satisfactory quality’. I’ll consider Mr M’s loss as a result, below.
+Heating
+The system has been inspected on several occasions. Below, I’ve summarised the evidence I’ve received about 
+each inspection.
+
+On 3 June 2016 and 31 March 2017, the system was inspected by an engineer from the manufacturer of 
+the boiler (‘the manufacturer’). He wrote two brief reports. The first says he ‘found [an] external 
+wiring/controls issue’. The second also refers to ‘external control and wiring issues’ and includes a one-
+line opinion:
+‘From the history of the job and what the customer tells me I feel this is a system controls issue and 
+needs to [be] taken up with the installer.’
+
+On 24 February 2017, in an email to Business A, Mrs M wrote that an engineer from the subcontractor 
+had identified a ‘wiring issue’ when he inspected the system the day before. Apparently, this ‘wiring 
+Ref: DRN1106067
+6
+issue’ was causing the problems with the water temperature and may have been causing the problems 
+with the central heating.
+
+An engineer from the subcontractor re-inspected the system on 28 April 2017. The compliance director 
+at Business A emailed Creation on 13 June 2017. She wrote:
+‘[The subcontractor] has detected the wiring between the airing cupboard and boiler is faulty, this has 
+attempted to be resolved previously but to no avail…this is an existing problem and is unrelated to the 
+installation…’.
+And in an earlier email, the same person at Business A told Creation that the ‘wiring issue’ was 
+‘affecting the water valve leading to the problems with overly hot water’. Apparently, Business A had 
+‘continually chased and called [the subcontractor] to go and visit this customer’.
+
+An engineer from the subcontractor went to Mr and Mrs M’s house on 13 June 2017. There is a dispute 
+about both the nature of the visit and what the engineer said when he was there.
+Business A and Creation say the purpose of the visit was to remedy the fault with the wiring, which was 
+unrelated to the installation of the system, as a ‘gesture of goodwill’.
+Mrs M, on behalf of Mr M, says the visit was not a ‘gesture of goodwill’ but an effort to remedy a mistake 
+made when the system was installed. In an email she sent our service on 22 July 2017, Mrs M wrote:
+‘[The subcontractor’s engineer] informed me, after tracking the wiring back and carrying out tests for 2 
+hours, that the installation had originally been wired incorrectly…When he left, he stated he would speak 
+to his boss […] and arrange to call back to run a new cable and resituate the boxes from the kitchen to 
+the airing cupboard, where they should have been fitted in the first place…’.
+Neither Business A nor Creation can provide a report from the subcontractor or any other written 
+evidence or testimony from it or its engineers. Mrs M told us she and Mr M were repeatedly promised 
+written reports from the subcontractor but haven’t received any.
+
+Mrs M arranged for an engineer from a different business, which I’ll call ‘Business B’, to inspect the 
+system on 28 July 2017. This cost Mr and Mrs M £198. Mrs M has confirmed that the engineer from 
+Business B fixed the problem.
+According to Mrs M, the engineer: checked the entire system thoroughly; identified a fault with the 
+receiver in the kitchen and the valve on the tank; removed the faulty receiver and fixed the problem with 
+the valve; questioned the need for separate thermostats in the kitchen; said that copper piping should 
+have been fitted when the system was installed; installed a ‘Hive’ hub, thermostat and controller (which 
+are all working); confirmed there isn’t a gas leak; and, suggested the faulty receiver and valve may have 
+contributed to the increase in gas use. Mrs M sent us photos of the ‘redundant items’ he removed.
+The engineer’s report is very brief and simply says:
+‘Found wiring on central heating fitted correctly, fault on receiver, replaced w hive control’.
+
+I’ve seen emails between Creation and Business A, which imply that the subcontractor planned to do 
+something similar. The subcontractor told Business A that installing a ‘Hive’ and removing the 
+‘programmer’ and room thermostat should ‘resolve the issue’. In an earlier email, the compliance 
+director of Business A told Creation that she’d spoken to the subcontractor, who said ‘this is an existing 
+fault and not due to his installation’.
+One of our adjudicators upheld Mr M’s complaint, based in part on what Mrs M says she was told by the engineer 
+from the subcontractor on 13 June 2017.
+In reply, Business A said it was ‘unaware that [the subcontractor] has supposedly admitted liability to the 
+customer. They have always denied liability and this has come as a surprise.’ It explained that it had sent the 
+subcontractor a copy of the assessment and asked it to comment on it. Business A also made the following 
+points: Mr M has confirmed that the system is now working to his satisfaction; and, if the system had been wired 
+incorrectly on installation, Mr and Mrs M’s energy bills would have increased immediately not, as implied by the 
+assessment, 15 months after the system was installed.
+Creation responded separately. It:
+Ref: DRN1106067
+7
+
+thinks more information is needed;
+
+thinks the reason for the increase in Mr and Mrs M’s energy bills is unclear – and suggested we 
+compare their energy bills before the system was installed with their bills after the system was installed;
+
+asks why Mr and Mrs M didn’t contact Creation until 2017 if they’d had problems from day one; and
+
+says the subcontractor hasn’t admitted liability to either Creation or Business A – on the contrary, 
+according to Business A, it has denied liability.
+I can address Creation’s third point briefly.
+Mrs M told us she’s been dealing with the subcontractor directly since the system was installed. She says this 
+was partly at the subcontractor’s suggestion, and partly because Business A was slow to respond when Mrs M 
+called to complain or it did not return her calls at all. When it did respond, Mrs M says it referred the matter back 
+to the subcontractor.
+I accept Mrs M’s explanation. I think it was sensible for her to try to resolve the problems with Business A and the 
+subcontractor before involving Creation.
+I’ll consider Mr and Mrs M’s energy bills below. I accept that, on occasion, an increase in energy use may be 
+indicative of problems with a water and heating system. However, the two aren’t necessarily linked. And I don’t 
+think I need to consider Mr and Mrs M’s energy bills to determine whether or not the components of the system 
+were of ‘satisfactory quality’ or the system was installed with ‘reasonable skill and care’. I’m satisfied they were 
+not and/or it was not, based on the evidence I’ve summarised above. I will therefore consider Mr and Mrs M’s 
+energy bills when I look at Mr M’s loss. But first, I’ll explain why, provisionally, I think there was a breach of 
+contract.
+Mrs M has confirmed that the system is now working well. And it has, since the engineer from Business B 
+removed the thermostats in the kitchen and replaced them with a ‘Hive’ hub. So despite the reference to ‘wiring 
+issues’ by the engineer from the manufacturer, and the conclusion of the subcontractor that the problems were 
+caused by a ‘wiring issue’, I accept the conclusion of the engineer from Business B that the wiring was ‘fitted 
+correctly’ and that the problem was instead caused by the thermostats and a faulty receiver.
+That said, I think Mrs M’s email of 22 July 2017 accurately reflects what she was told by the engineer from the 
+subcontractor on 13 June 2017. First, Mrs M emailed us just over a month after the inspection, so I’d expect her 
+to remember what she was told. Second, Business A also told us the subcontractor thought the root cause of the 
+problem was the wiring – even if we now know it wasn’t. Third, the diagnosis of the problem is so detailed and 
+specific that I think it’s very unlikely it came from anyone other than a heating technician. Finally, Mrs M wrote her 
+email in anticipation of a report from the subcontractor, so I think it’s very unlikely she would have embellished or 
+misrepresented what she was told.
+I’ve explained why I think Mrs M’s email accurately reflects what she was told by the engineer because she told 
+us the engineer planned to ‘resituate the boxes from the kitchen to the airing cupboard, where they should have 
+been fitted in the first place’.
+And as I’ve explained above, according to Mrs M, the engineer from Business B also questioned the need for 
+thermostats in the kitchen. When he removed them and the faulty receiver the system worked well.
+What’s more, the subcontractor subsequently told Business A that installing a ‘Hive’ and removing the 
+‘programmer’ and room thermostat should ‘resolve the issue’. The subcontractor doesn’t say why it put 
+thermostats in the kitchen in the first place, why it didn’t remove or replace them sooner, how ‘this is an existing 
+fault and not due to his installation’, or how it fixes the ‘wiring issue’, which is what the subcontractor told 
+Business A was the cause of the problems.
+Late in the day, there seems to be a consensus that there was a problem with the system controls caused by the 
+way the system was set up and faulty components.
+Power flush
+Mr M has sent us a copy of the one-page contract with Business A, which he signed on 26 July 2014. As well as 
+information about the price of the system, including installation, there’s a handwritten note that says: ‘[illegible 
+word], installation – V phase, megaflow, Worcester, [illegible word], power flush’. I’m therefore satisfied that a 
+‘power flush’ was included in the contract price.
+Ref: DRN1106067
+8
+In February 2018, Mr M told us the radiators in his living room and conservatory stopped working. An engineer 
+from Business B was called out. According to his brief report, he ‘replaced pump which was very dirty!!’ (The 
+exclamation marks are in the original and I’ve seen photos which appear to show that the pump was dirty.) He 
+recommended a power flush. In a separate box, the engineer wrote:
+‘Customer asked if central heating is sealed which is not as it has feed & expansion tank working!’
+In an email she sent our service on 4 March 2018, Mrs M wrote:
+‘[The engineer’s findings] were that there is sludge in the system, caused (or contributed to) by the fact 
+that, when the installation was done, the main tank in the loft was disconnected but the small tank was 
+left in use but had not been sealed. This has led to over 3 years’ worth of dirt entering the system…His 
+solution was to recommend that we have a power flush done at a cost of just under £700.’
+On 28 October 2018, Mrs M emailed our service to tell us that the pump was failing again and, according to her 
+plumber, this indicates that a power flush wasn’t done when the system was installed.
+One of our adjudicators agreed, and recommended Creation reimburse Mr M for the cost of a power flush (on 
+receipt of an invoice). In reply, Creation said it was ‘standard practice’ for Business A to complete a power flush 
+on installation and it has ‘no reason to believe this would not have been completed in this situation’. It also says 
+an annual boiler service should prevent the build-up of sludge – so unless Mr M can show he had the boiler 
+serviced every year, it thinks the sludge built up because Mr M didn’t look after the boiler properly.
+First, it’s worth pointing out that Business A didn’t install the system, its subcontractor did. I don’t know what, if 
+anything, Creation knows about the subcontractor, its ‘standard practice’ or its reliability. Second, Mr M says the 
+subcontractor serviced the boiler annually until 2016. And he’s provided evidence to show the boiler has been 
+serviced annually by Business B since 2017. So I don’t think the build-up of sludge can be attributed to ‘improper 
+care’. Mrs M says her plumber and the engineer from Business B both told her that it was unlikely that a power 
+flush was done when the system was installed. Based on the evidence I’ve seen so far, I agree: I think it’s 
+unlikely a power flush was done or was done properly. So I think Creation should pay for a power flush.
+Mrs M has sent us a quote for a power flush: £400 plus VAT. This doesn’t seem unreasonable – so, provisionally, 
+it’s how much I think Creation should pay Mr M.
+Leaks
+Mr M says the bathroom radiator leaked for two days after the system was installed. (This is complaint point 6, 
+above.) I haven’t seen any evidence that this caused any permanent damage to the bathroom carpet or anything 
+else, but I appreciate that it must have been upsetting and inconvenient.
+However, there was a more significant leak under the bath, which damaged the kitchen ceiling and hallway 
+carpet. (This is complaint point 5, above.) Mrs M has also sent us photos, which show that the airing cupboard 
+floor was badly damaged by a leak.
+I’ve seen a report by an engineer from ‘Business C’, which appears to be another subcontractor of Business A. 
+The engineer visited Mr and Mrs M’s home on 9 December 2016. He wrote:
+‘Leak through ceiling – cylinder stat appears to be faulty causing temp/PRU to discharge, leaking from 
+unglued fitting (I have re-glued)…Damage to ceiling and carpet – taken photo and sent to office.’
+And he recommended:
+‘New cylinder stat and new discharge to be run to outside and in copper.’
+I understand the subcontractor that installed the system replaced the plastic pipes with copper pipes in February 
+2017. That it did this without charge would indicate that it should have done this initially or at least identified that it 
+couldn’t use the existing pipework when it installed the system. That said, it’s clear from the engineer’s report that 
+an ‘unglued fitting’ caused the leak. The engineer ‘re-glued’ it and took photos of the damage – which would 
+indicate that it should have been glued in the first place. So that’s my conclusion. Mr M has provided an invoice to 
+show that he paid £400 to repair the ceiling. Based on what I’ve seen so far, I think Creation should refund this.
+Mrs M has confirmed that the airing cupboard was repaired at no cost to Mr M, so I don’t need to consider this 
+further.
+Ref: DRN1106067
+9
+Mrs M has also told us about a leak under an en-suite shower, which damaged the floor and walls. This was 
+uncovered when Mr and Mrs M had work done recently. I haven’t seen any evidence that this damage was 
+caused by the leak I’ve already mentioned or that there was another leak due to the ‘unglued fitting’, the use of 
+the existing piping or some other mistake made when the system was installed. Nor has Mr M told me how much 
+extra he had to pay. So unless, in reply to this provisional decision, Mr M provides me with evidence to show that 
+the leak was caused by a mistake made when the system was installed and that he’s out of pocket as a result, I 
+won’t tell Creation to compensate him for the leak under his en-suite shower.
+All other matters
+As I’ve explained above, Mr M signed a one-page contract with Business A, which says very little. It is essentially 
+a tick-box form – half the page is a list of products, which, in this case, have been crossed out by hand with the 
+abbreviation ‘N.A.’ (‘not applicable’) written across them. However, Mr M says the sales person made specific 
+promises orally.
+Mr M says he was told the system would take two days to install – instead, it took a week. (This is complaint point 
+4, above.) I don’t think I can say, based on the evidence I’ve seen, that installing the system in two days was a 
+contractual term rather than merely an indication of how long it might take.
+Mr M also says the sales person from Business A said it would check the efficiency of the system after it was 
+installed and ‘balance’ the radiators, and service the boiler annually, for free, for nine years. (These are complaint 
+points 7 and 8, above.)
+When Mrs M emailed Business A on 29 July 2016, she made the same point about the efficiency check. And on 
+8 November 2016, someone from Business A emailed Mrs M to say it would carry out the efficiency check on 
+18 November 2016. This didn’t happen for some reason, and it still hasn’t happened. But I think it’s clear from 
+Mrs M’s email, and Business A’s response, that an efficiency check was included in the purchase price.
+Similarly, the emails I’ve seen between Mrs M and Business A indicate that an annual boiler service was also 
+included. Mrs M emailed Business A on 8 November 2016 and 18 November 2016 to complain about its 
+subcontractor, Business C, which had not serviced the boiler as scheduled on two separate occasions. I think it’s 
+clear from Business A’s reply that it had arranged for its subcontractor to service the boiler and, as I’ve 
+mentioned above, Business A’s subcontractor serviced the boiler annually until 2016. So unless, Creation or 
+Business A send me evidence that shows Mr M paid for the boiler service each year, I think it’s fair to infer that 
+an annual boiler service was included with the purchase price. And I accept the consumer’s testimony that it was 
+for nine years – which would be consistent with a ten-year loan.
+What does Creation need to do to put things right?
+Above, I’ve explained why, provisionally, I think:
+
+the cylinder – subsequently replaced under warranty – was faulty when it was installed;
+
+there was a problem with the system controls because of faulty components and the way it was set up;
+
+an ‘unglued fitting’ – which should have been glued – caused a leak, which damaged the kitchen ceiling 
+and hallway carpet;
+
+a power flush was included in the contract price – and it either wasn’t done or wasn’t done properly;
+
+an ‘efficiency check’ was included in the contract price, and hasn’t been done; and,
+
+an annual boiler service was included in the contract price, but the boiler hasn’t been serviced by 
+Business A (or one of its subcontractors) since 2016.
+What’s more, Business A’s subcontractors have had to carry out remedial work intermittently, for example, 
+replacing the plastic pipes.
+Accordingly, based on what I’ve seen so far, I don’t think the system was installed with ‘reasonable skill and 
+care’, I think components of the system were not of ‘satisfactory quality’, and I don’t think Business A has done 
+everything it was contractually required to do.
+I’ve thought carefully about what I think Creation should do to put things right.
+Elements of this are relatively straightforward. It should, for instance, refund the £198 Mr M paid Business B to fix 
+the problem with the heating and refund the £400 he paid to repair the damage caused by the leak – and it 
+should add simple interest to both at 8% per year from the date he made the payments. It should also pay Mr M 
+£500 (£400 plus VAT) so that he can pay for a power flush.
+Ref: DRN1106067
+10
+Mr M’s other losses are harder to quantify.
+Mr M has sent us a breakdown from his energy supplier, which shows how much electricity and gas he used 
+each month from August 2013, how much it cost and how it compares to the year before.
+The system was installed in August 2014, the problem with the hot water was resolved sometime in 2016, and 
+the problem with the heating was resolved in July 2017.
+Creation says I should compare Mr and Mrs M’s electricity and gas use after the system was installed with their 
+use before. But this won’t tell me how much electricity and gas they would have used if the system was working 
+well.
+For example, in September 2014, Mr and Mrs M used 17% less electricity and gas than the year before. Would 
+they have used even less if the system was working well? If so, how much less? It’s worth noting that in 
+July 2014, the month before the system was installed, they used 18% less than the year before. They also used 
+less than the year before in May and June 2014 – 20% and 11% respectively. For whatever reason, year on year, 
+Mr and Mrs M were using less electricity and gas even before the system was installed.
+However, in October 2014, Mr and Mrs M used 15% more than the year before. All things being equal, I would 
+have expected them to have used less electricity and gas after the system was installed. But were all things 
+equal? There doesn’t appear to be a discernible pattern: in March 2015, Mr and Mrs M used 46% more than the 
+year before, but 17% less in November 2015, December 2015 and January 2016.
+I also don’t think it would be helpful to compare Mr and Mrs M’s electricity and gas use after the system was fixed 
+with their use before it was installed. Mr and Mrs M’s grandson was born in January 2018 so they’ve had their 
+heating on a lot more than they did before. I wouldn’t be comparing like-for-like.
+That said, I think it’s fair to assume Mr and Mrs M have used more electricity and gas than they would have done 
+had the system been working well from the start. In the same way I think a new system is likely to be more 
+efficient that an old system, I think a system with the problems I’ve mentioned is likely to be less efficient than 
+one that’s working well. And Mr and Mrs M have told us they’ve ‘benefitted from cheaper bills’ since the system 
+was fixed. So any compensation I award should reflect the fact that Mr and Mrs M have probably had to pay more 
+for electricity and gas.
+Similarly, compensating Mr M for Business A’s failure to do everything it was supposed to do isn’t straightforward 
+either. Neither Creation nor Mr M can tell me how Business A worked out the contract price – in other words, I 
+don’t know what cost what. And Creation says it can’t get this information from Business A.
+Finally, it’s clear the service delivered by Business A and its subcontractors was very poor. When deciding how 
+much to award to in a case like this, I’m considering the liability of the finance provider for a ‘like claim’ against 
+the supplier for breach of contract. So I think it’s relevant to consider what a court might award against Business 
+A in similar circumstances – and compensation for stress and inconvenience is limited with this type of contract.
+However, the system was installed in 2014. That problems persist must be deeply frustrating for Mr and Mrs M. 
+And they’ve had to do a lot themselves to make sure the other problems were fixed. It’s clear from Mrs M’s 
+emails to Business A and Creation, and more recently, to us, that the cumulative impact of the various problems 
+– which, among other things, affected their hot water and heating – was significant. It’s worth noting that Mr and 
+Mrs M’s daughter and their grandson, who was born prematurely, live with them, which must have made the 
+situation worse. So in the specific circumstances of this case I think some modest compensation is appropriate.
+Instead of trying to calculate an estimate for each of the above, I’ve decided to take a more practical approach. I 
+think Creation should pay Mr M an additional £1,800 to compensate him for:
+
+any extra he’s had to pay for electricity and gas;
+
+the extra he’s paid and will have to pay to have the boiler serviced (a quick online search shows that an 
+annual boiler service costs between £70 and £100 and Mr M will have to pay for 7 of the 9 that were 
+included in the contract price);
+
+the extra he’ll have to pay for an ‘efficiency check’;
+
+the distress and inconvenience caused by Business A’s breaches of contract,
+So, provisionally, I think Creation should:
+
+refund the £198 Mr M paid Business B to fix the problem with the heating;
+
+refund the £400 Mr M paid to repair the damage caused by the leak;
+Ref: DRN1106067
+11
+
+add simple interest at 8% per year on both of these from the date he made each payment until the date 
+he receives the refund;
+
+pay Mr M £500 so that he can pay for a power flush; and,
+
+pay Mr M an additional £1,800 for the reasons I’ve explained above.
+I appreciate that Mr and Mrs M have asked me to tell Creation to pay the monthly sum they’ve paid Business B 
+for its ongoing support. However, ongoing support of this sort wasn’t part of the contract and I’m not persuaded it 
+was necessary as a result of any breach of contract.
+my provisional decision
+For the reasons I’ve explained, I think Creation Consumer Finance Ltd should pay Mr M the compensation I’ve 
+described above.
+So unless the comments and evidence I receive by 30 July 2020 change my mind, that’s what I will tell it to do in 
+my final decision.
+Christopher Reeves
+ombudsman
+Ref: DRN1106067

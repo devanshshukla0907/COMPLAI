@@ -1,0 +1,280 @@
+DRN-2979051
+The complaint
+Mr H complains that Creation Consumer Finance Limited won’t compensate him for what he
+believes are defective goods he bought with a loan Creation provided.
+Mr H is assisted in his complaint by Mrs H. For ease of reading I’ve described actions taken
+by either of them as being taken by Mr H.  
+What happened
+In November 2017 Mr H took out an interest-free loan with Creation to buy a pair of leather 
+reclining sofas and a carpet from a retailer, which I’ll call S. S delivered the furniture towards 
+the end of February 2018.
+A couple of weeks later Mr H contacted S to say that the recliner handles on the sofas were 
+loose, expressing concern that this was a danger to his baby daughter. S arranged for an 
+adjustment to be made to the handles, though Mr H says he remained unhappy with the 
+situation. Shortly after this, Mr H told S he was dissatisfied with marks that were appearing 
+on the seats of the furniture. S sent a technician to inspect the marks. He concluded the 
+marks were surface problems rather than a manufacturing defect. The technician cleaned 
+the marks using leather and solvent cleaners.
+In October 2019 Mr H contacted S again, to report further problems with marking on the 
+sofas. Again this was on the seat cushions, but this time he also reported marks and flecking 
+on the headrests. S undertook an inspection, for which Mr H paid £70, concluding that the 
+marks on the seat cushions were due to accidental damage, and that the marks on the 
+headrests were down to “contamination of head oils”.
+Mr H disputed S’s conclusions. He said the sofas had been well cared for and cleaned 
+regularly. He didn’t think the furniture was of satisfactory quality and contacted Creation to 
+seek a refund after this was rejected by S. Mr H also mentioned that his daughter had 
+recently been injured by the furniture fittings and questioned the safety of the sofas given his 
+young children.
+Creation also rejected Mr H’s claim. In doing so, it cited the conclusions in the earlier reports 
+S had obtained, and said that S had told it the issues were matters of wear and tear. 
+Creation told Mr H that to consider the matter further he would need to demonstrate the 
+furniture was inherently faulty at the point of supply. This would mean Mr H obtaining an 
+independent report at his own expense, which he subsequently did, paying £130.
+In the meantime, a third party alternative dispute resolution scheme (“A”) considered Mr H’s 
+claim against S. A didn’t uphold Mr H’s claim, saying that he hadn’t demonstrated the 
+problems with the sofas were due to a manufacturer defect. Creation has referenced A’s 
+February 2020 report in its submissions to us.
+Mr H’s inspection was carried out by a third party (“B”) in July 2020. B concluded that the 
+work carried out on the recliner handles was an inadequate repair, and that the remaining 
+gap was a potential hazard. B also considered the problems with the sofa finish were likely 
+due to pre-delivery issues, and that this pointed towards a failure to meet the test of 
+durability. B didn’t think the issues with the sofa were capable of repair.
+Our investigator thought Creation should compensate Mr H. He said the problems with the 
+finish and the recliner handles suggested the furniture wasn’t of satisfactory quality, as 
+indicated by B’s report. The investigator proposed that Creation refund Mr H’s costs from the 
+inspections he’d paid for, along with interest. He thought Creation should pay Mr H 
+compensation for the inconvenience and upset experienced in dealing with matters, which 
+the investigator assessed at £200. And the investigator suggested Creation terminate the 
+loan agreement with nothing further for Mr H to pay, as well as refund half the payments 
+Mr H had made to reflect that he’d had some use of the furniture.
+Mr H was unhappy with the investigator’s conclusions and proposed outcome. He didn’t 
+think it properly reflected the timeline of events or the way in which Creation had handled 
+matters. Creation also didn’t agree with the recommendation. It said it considered the earlier 
+reviews confirmed there were no faults, expressing the view that they were more credible 
+sources than B’s report.
+As neither party has accepted the proposed outcome, the matter was passed to me for 
+review.
+My provisional findings
+I recently issued my provisional decision to both parties, setting out my thoughts on the key 
+complaint points and how best I thought matters should be resolved. In my provisional 
+findings I said:
+“Although neither party has sought to question Creation’s potential liability here, for 
+completeness I should set out how that potential liability has arisen. Creation gave a 
+loan to Mr H to buy the sofas. The loan in question is regulated by the Consumer 
+Credit Act 1974 (“CCA1974”). One effect of section 75 of CCA1974 is that, where an 
+individual buys goods from a supplier using credit provided under pre-existing 
+arrangements between the lender and the supplier, that individual can bring a claim 
+for breach of contract or misrepresentation against the lender in the same way he 
+could against the supplier.
+The supplier here was S and Creation was the lender. Mr H has a claim for breach of 
+contract against S, and therefore can bring the same claim against Creation, as he 
+has sought to do. Mr H was unhappy with Creation’s response to that claim and 
+complained about it. He then referred that complaint to us.
+In order to decide whether Creation has dealt fairly with Mr H, I have to think about 
+his underlying claim for breach of contract against S. Mr H’s contract with S 
+incorporates provisions of the Consumer Rights Act 2015 (“CRA2015”), meaning it is 
+to be read as including a term that the sofas would be of satisfactory quality. That, as 
+B’s report noted, includes such matters as durability. Durability means the goods 
+must be sufficiently durable, that is, they should be made to last a reasonable period 
+of time. An item is of satisfactory quality if it is of the quality a reasonable person 
+would expect in the circumstances.
+I’m conscious that another dispute resolution body, A, has already looked at whether 
+the furniture was of satisfactory quality, albeit in the context of a claim against S 
+rather than against Creation. I don’t consider that prevents me from taking a view on 
+that matter, or that I am bound to share A’s conclusions. A’s report is not binding on 
+Mr H. Further, it clearly states that it is based on the available evidence, and that Mr 
+H hadn’t satisfied the burden of proof it required of him to demonstrate his claim. The 
+available evidence didn’t include the report Mr H commissioned from B, which he 
+didn’t obtain until a few months later.
+I don’t share Creation’s view regarding the credibility of B’s report. B appears to me 
+to be an expert in his field. He cites some 35 years’ experience conducting 
+independent inspections, and that he is registered for this purpose with Trading 
+Standards services. I further note B’s report says that he also held managerial 
+positions with S in Service Inspection Quality Control. Creation does not give any 
+substantive reason for questioning B’s credibility, and I’m satisfied B has the 
+appropriate experience and expertise to compile his report.
+Creation has referenced the earlier reports carried out by the technician and by S. I 
+consider the technician’s report of limited value. It deals only with the marks then 
+apparent on the seat cushions, not the recliner handle repair or the later marks on 
+the headrests and cushions. The fact that the technician was able to remove the 
+earlier marks doesn’t mean the sofa was free from latent defects that might only have 
+become apparent further down the line.
+That leaves the report from S. That report contains some high quality photographs of 
+the condition of the sofas, which are undoubtedly useful. However, I think it would be 
+fair to say S’s report doesn’t contain the level of detail expressed in B’s report. It 
+gives me little information on the experience or expertise of the inspector, though I’ve 
+no reason to question this. But it also fails to mention the issue with the recliner 
+handles, and gives no significant explanation of why it concluded that “head oils” was 
+the underlying cause of the surface damage shown in the photographs.
+Even if that were to be substantiated, I think it would speak to the issue of whether 
+the sofa manufacture was sufficiently durable. S inspected the sofa in November 
+2019 – about 18 months after Mr H took delivery. That doesn’t strike me as a 
+particularly long time, even for an item of furniture likely to be in daily use. A 
+reasonable person might expect a sofa they’d looked after to last longer than 18 
+months before displaying such problems. B’s report notes that the “…furniture is 
+clean and looked after showing no signs of neglect or misuse…”, echoing S’s report 
+describing the furniture condition as “good”.
+I see no reason why, in light of this, I should conclude that the issues with the sofas 
+are down to a lack of care or ordinary wear and tear on Mr H’s part. Rather, I’m 
+satisfied that I can fairly place reliance on the conclusions in B’s report, which 
+addresses the key issues Mr H raised and explains its reasons for determining that 
+the problems are down to inherent defects in the sofa finish pre-supply, and an 
+inadequate repair on the recliner handles.
+Overall, then, I’m currently minded to conclude that the sofas S supplied to Mr H 
+weren’t of satisfactory quality as required under the CRA2015, and that under the 
+relevant provisions of the CCA1974, Creation is liable to him for the resultant breach 
+of contract. I now turn to the matter of how best to deal with that breach.
+putting things right
+Under the CRA2015, where goods aren’t of satisfactory quality certain remedies are 
+available to the consumer. These include a short-term right to reject the goods, the 
+right to a repair or replacement, and the right to a price reduction or the final right to 
+reject the goods. Other remedies include claiming damages arising from the breach 
+or seeking specific performance of the contract.
+I don’t think the short-term right to reject would apply in this situation. Although Mr 
+H’s first report of dissatisfaction was within a couple of weeks of delivery, the 
+passage of time after that suggests to me that it would be wrong to say Mr H had 
+rejected the sofas within the 30- day period specified in the CRA2015. And I don’t 
+think the technician’s visit would be the right date either. Mr H and his family 
+continued to use the sofas for some time after this, albeit that they weren’t entirely 
+satisfied with the remedial work that had been carried out. I think the appropriate 
+point to use for this purpose is November 2019, when Mr H disputed the response he 
+received from S about the deterioration of the upholstery.
+An effective repair is ruled out based on the fact there’s been a previous 
+unsuccessful attempt on the recliner handles and on B’s assessment of whether this 
+would be possible in respect of the other problems with the sofas. It also doesn’t 
+seem right to suggest a price reduction. Mr H’s dissatisfaction with the condition of 
+the sofas is behind the complaint, rather than the price he paid. And it seems to me 
+unlikely that Creation is in a position to replace the sofas. It is a credit provider, rather 
+than a furniture supplier.
+I think it’s most likely that Mr H would be able to exercise his final right to reject the 
+sofas, which would entitle him to a refund of money already paid towards them, 
+subject to an appropriate deduction for use. I don’t think the 50% deduction our 
+investigator suggested is quite right in this respect. While Mr H and his family have 
+had some use of the sofas, that use has been notably impaired over time.
+A’s report provides a working formula for this, which in the absence of any obvious 
+alternative, I’m happy to adopt. That formula is the purchase price of the goods (here, 
+£3,457) divided by the life expectancy of the goods, multiplied by the number of 
+years or months the consumer had use of the goods (so based on November 2019, 
+around a year and a half). The life expectancy of a sofa isn’t a set period, so I’ve 
+thought about how long a reasonable person might expect such a sofa to last, taking 
+into account matters such as the price paid.
+Although Mr H has mentioned a 20-year guarantee, according to S’s website this 
+applies to the sofa frame rather than the upholstery. In respect of the latter, S 
+provides a 12-month guarantee, which is consistent with the warranty information on 
+the manufacturer’s website. But in any event, I’m not minded to say goods should 
+last only as long as the period for which they’re guaranteed. After careful 
+consideration, I think it would be appropriate to use 10 years as a working figure, 
+based on the reasonable expectation I’ve mentioned. That gives the following 
+calculation:
+(£3,457 / 10) x 1.5 = £518.55
+So Creation would be entitled to deduct £518.55 from the refund of the money Mr H 
+has paid towards the sofas. The calculation is complicated slightly by the fact 
+Creation also lent Mr H money to buy a carpet, which forms part of the money he’s 
+paid each month. In the interests of a simpler calculation for both parties, I’m minded 
+to suggest Creation is entitled to retain the £518.55 deduction for use as calculated 
+here, along with the £502.37 being the amount it lent for the carpet; £1,020.92 in 
+total. It should calculate and refund Mr H all amounts he’s paid over this sum, and 
+treat the loan agreement as at an end.
+I’m conscious of the concerns Mr H has expressed about the hazard the sofas pose 
+to his children. Creation should make suitable arrangements with Mr H to take the 
+sofas into its possession as soon as possible, noting such arrangements should be at 
+no cost to Mr H. Mr H has incurred costs in demonstrating the breach. He’s had to 
+obtain two reports at a cost to him of £200. He shouldn’t be out of pocket for this. I 
+propose that Creation compensates him for these costs by paying him £225, to 
+reflect the costs incurred and to reflect the fact he’s not had the use of this money for 
+over a year.
+I note Mr H has mentioned his daughter being injured by the sofa and is considering 
+claiming compensation for this. I should make it clear this isn’t something I’ve been 
+minded to address in the context of Mr H’s complaint about Creation’s response to 
+his breach of contract claim. What Mr H has described appears to be a personal 
+injury to a member of his family rather than to him. While I have every sympathy for 
+what has happened, that case is by no means as clearly laid out as the issue of 
+whether Creation has liability for the sofas not being of satisfactory quality. I should 
+say though, that if Mr H is minded to accept my decision, he might want to take legal 
+advice on how that might impact on any future claim he might look to take against 
+Creation and/or S in respect of personal injury.
+Although it has been mentioned by Mr H and our investigator, I don’t propose to 
+make any award to reflect any distress Mr H might have experienced as a direct 
+result of the supply of the sofas. The contract between Mr H and S was to supply 
+specified goods. It wasn’t a contract for pure enjoyment or designed to provide peace 
+of mind. It’s not certain a claim for compensation arising from distress due to the 
+breach of contract would be successful, given the general approach the courts have 
+taken towards this sort of claim.
+However, our rules do allow me to make a money award to reflect distress or 
+inconvenience in relation to a complaint, as distinct from the breach of contract claim. 
+And I do think overall Creation could have handled matters better than it did. From 
+what I’ve seen, there were occasions where Creation failed to respond to Mr H’s 
+claim correspondence in a timely manner. Further, I don’t think I could say Creation 
+had proper regard for the content of B’s report, despite having told Mr H in February 
+2020 that it would investigate further if the report confirmed a manufacturing fault or 
+failed repair.
+I’m conscious Mr H has strong feelings about Creation’s conduct here. I should make 
+clear that it’s not for me to fine a business or make an award as a punishment. But I 
+don’t doubt Creation’s handling has caused Mr H distress and inconvenience, for 
+which Creation should compensate him. I can see that Mrs H’s health conditions 
+have been extensively detailed in the complaint submissions. Again, while not 
+intending to diminish the impact the whole situation’s had on members of Mr H’s 
+family, I must assess what I think’s fair and reasonable compensation for his distress 
+and inconvenience, as he’s the eligible complainant under our rules. I consider the 
+£200 our investigator proposed is a fair sum in this respect.”
+I invited both parties to let me have any further comments they wished to make in response.
+response to my provisional decision
+Mr H responded to my provisional findings. He accepted my conclusions and the proposed 
+resolution, making the following points:
+
+The credit agreement was paid off some time ago, so there should be no outstanding 
+balance against which redress should be offset
+
+He’d been able to source a replacement sofa on a temporary basis, so it was 
+important the faulty goods were uplifted as soon as possible
+
+Creation had in the past taken a long time to respond to their situation and he was 
+anxious to avoid any further delay in finally settling matters
+Creation acknowledged receipt of my provisional decision but made no further submissions 
+in response to my proposed conclusions.
+What I’ve decided – and why
+I’ve considered all the available evidence and arguments to decide what’s fair and 
+reasonable in the circumstances of this complaint.
+Neither party has said anything that causes me to change my provisional findings, or that 
+leads me to reach a different conclusion. It follows that, for the reasons I’ve set out here and 
+in my provisional decision, I’m upholding Mr H’s complaint.
+I’ve noted Mr H’s comments. I don’t think it’s necessary to amend the settlement calculation. 
+If he has repaid the credit in full, this calculation simply means he will receive the money as 
+part of the refund instead of having nothing further to pay. However, I take his point 
+regarding the need to avoid further delay.
+I’m aware that Creation has told us of difficulties it’s having due to Covid-19 implications. But 
+I have to balance that against the ongoing problems Mr H has experienced; not least the 
+need to store a redundant pair of sofas and his financial situation, which means he’s unable 
+to bear the cost of a longer-term replacement until Creation refunds him. Taking these 
+factors into account, I think it’s appropriate that I set a fair timescale in which Creation must 
+carry out the resolution I’ve instructed. I’ll set out this timescale below.
+My final decision
+My final decision is that I uphold Mr H’s complaint. To settle it, Creation Consumer Finance 
+Ltd must take the following steps to resolve the dispute:
+1.
+Within five calendar days of being notified of Mr H’s acceptance of this final decision, 
+contact Mr H to arrange a suitable date on which to collect the faulty goods. 
+Collection should be at no cost to Mr H.
+2.
+Calculate the total amount Mr H has paid under the credit agreement;
+3.
+Deduct from the sum in 2. the amount of £1,020.92 to reflect the price of the carpet 
+and the use Mr H has made of the sofas;
+4.
+Pay Mr H the remaining sum after the deduction in 3. and – in the event it hasn’t 
+already done so – treat the credit agreement as being at an end. For the avoidance 
+of any doubt, this account should show as being fully settled on Mr H’s credit file;
+5. Pay Mr H £225 to compensate him for the costs he incurred in obtaining the third 
+party reports; and
+6.
+Pay Mr H £200 for his distress and inconvenience
+For the avoidance of any doubt, Creation Consumer Finance Ltd should take steps 2-6 
+within 28 calendar days of being notified of Mr H’s acceptance of my final decision. If 
+Creation fails to pay within this timescale, it will also need to pay interest on the total amount, 
+calculated daily at 8% simple per year from the notification date. If Creation deducts tax from 
+this interest, it should provide Mr H with the appropriate tax certificate.
+Under the rules of the Financial Ombudsman Service, I’m required to ask Mr H to accept or 
+reject my decision before 17 September 2021.
+ 
+Niall Taylor
+Ombudsman

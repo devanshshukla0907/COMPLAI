@@ -1,0 +1,147 @@
+DRN-4351408
+The complaint
+Mr T is unhappy that a car supplied to him under a hire purchase agreement with Creation 
+Consumer Finance Limited was of an unsatisfactory quality.
+Mr T is being represented in this complaint by Mr D. However, for ease of reference, I’ll refer 
+to any comments or actions by Mr D as if they were made/done by Mr T.
+What happened
+In January 2023, Mr T was supplied with a used car through a hire purchase agreement with 
+Creation. He paid an advance payment of £800, and the agreement was for £8,398 over 52 
+months; with 51 monthly payments of £223.56 and a final payment of £233.56. At the time of 
+supply, the car was around seven and a half years old and had done 38,574 miles.
+Mr T returned the car to the supplying dealership on 15 February 2023 as the engine felt 
+sluggish and the engine management light (EML) was illuminated. The dealership cleared 
+the fault codes and carried out a 56-mile road test. The car was returned to Mr T, having 
+done 39,178 miles – 604 miles since supply.
+However, the car was returned to the dealership shortly afterwards, as the EML had come 
+on again and the car had gone into limp mode. The dealership recorded the return mileage 
+as 39,178 miles, meaning Mr T had driven the car for less than a mile before the fault 
+reoccurred. The dealership again cleared the fault codes and returned the car back to Mr T 
+on 25 February 2023, this time after a 279-mile road test.
+The car went back to the dealership in early March, where again fault codes were cleared, 
+and the car returned to Mr T. The dealership says that after this repair, Mr T agreed to 
+monitor the car and, if the fault reoccurred, then he would bring the car back for further 
+investigation. The dealership also says that, as Mr T signed an acceptance of repair, the 
+Consumer Rights Act 2015 (CRA) allows them to continue to conduct any necessary repairs 
+to the car.
+However, the fault reoccurred, and Mr T didn’t take it back to the dealership. He continued to 
+drive the car and, as long as he kept below 3,000RPM, it wouldn’t go into limp mode. The 
+dealership had offered Mr T the option to take the car to a local garage, as he lived over 200 
+miles from the dealership, which Mr T did. And a diagnostic scan revealed faults with the fuel 
+injectors, air flow circuits, air intake temperature sensors, and the turbocharger sensors.
+Mr T had raised his complaint with Creation, asking to reject the car. But Creation said the 
+car had been repaired by the dealership. So, Mr T brought his complaint to the Financial 
+Ombudsman Service for investigation.
+Our investigator said there was a persistent fault with the car, which made it not of a 
+satisfactory quality when it was supplied to Mr T. And, as there had been multiple attempts 
+at repair, Mr T was now able to reject the car. And she thought Creation should pay Mr T 
+£250 compensation for the distress and inconvenience he’d been caused.
+After the investigator had issued her view, Mr T explained that the car was due to have an 
+MOT in August 2023, and it was expected the car would fail this. He was concerned that, 
+without the car, he would need to pay around £100 a week to get to work. The investigator 
+amended her view to say that, in these circumstances, and with proof supplied by Mr T, then 
+Creation should reimburse these travel costs.
+Creation didn’t agree with the investigator. While they didn’t object to the finding that the fault 
+made the car of an unsatisfactory quality when it was supplied, they said that Mr T had 
+agreed to return the car to the dealership if the fault reoccurred. Which he didn’t do.
+Creation said that, given this, the CRA allowed the dealership to repair the car and that Mr 
+T’s agreement for this “is something which cannot be taken away once agreed.” As such, 
+this matter has been passed to me to make a final decision.
+What I’ve decided – and why
+I’ve considered all the available evidence and arguments to decide what’s fair and 
+reasonable in the circumstances of this complaint.
+Having done so, I’ve reached the same overall conclusions as the investigator, and for 
+broadly the same reasons. If I haven’t commented on any specific point, it’s because I don’t 
+believe it’s affected what I think is the right outcome.
+In considering this complaint I’ve had regard to the relevant law and regulations; any 
+regulator’s rules, guidance and standards, codes of practice, and (if appropriate) what I 
+consider was good industry practice at the time. Mr T was supplied with a car under a hire 
+purchase agreement. This is a regulated consumer credit agreement which means we’re 
+able to investigate complaints about it.
+The CRA says, amongst other things, that the car should’ve been of a satisfactory quality 
+when supplied. And if it wasn’t, as the supplier of goods, Creation are responsible. What’s 
+satisfactory is determined by things such as what a reasonable person would consider 
+satisfactory given the price, description, and other relevant circumstances. In a case like this, 
+this would include things like the age and mileage at the time of sale, and the vehicle’s 
+history and its durability. Durability means that the components of the car must last a 
+reasonable amount of time.
+The CRA also implies that goods must confirm to contract within the first six months. So, 
+where a fault is identified within the first six months, it’s assumed the fault was present when 
+the car was supplied, unless Creation can show otherwise. But, where a fault is identified 
+after the first six months, the CRA implies that it’s for Mr T to show it was present when the 
+car was supplied.
+So, if I thought the car was faulty when Mr T took possession of it, or that the car wasn’t 
+sufficiently durable, and this made the car not of a satisfactory quality, it’d be fair and 
+reasonable to ask Creation to put this right.
+In this instance, it’s not disputed there was a problem with the EML light keep coming on, nor 
+that this fault was present when the car was supplied to Mr T. As such, I’m satisfied that I 
+don’t need to consider the merits of this issue within my decision. Instead, I’ll focus on what I 
+think Creation should do to put things right.
+Putting things right
+Section 24(5) of the CRA says “a consumer who has … the right to reject may only exercise 
+[this] and may only do so in one of these situations – (a) after one repair or replacement, the 
+goods do not confirm to contract.” This is known as the single chance of repair. And this 
+applies to all issues with the goods, and to all repairs – the first attempted repair is the single 
+chance at repair. What’s more, if a different fault arises after a previous repair, even if those 
+faults aren’t related, the single chance of repair has already happened – it’s not a single 
+chance of repair per fault.
+The CRA is clear that, if the single chance at repair fails, as was the case here, then Mr T 
+has the right of rejection. 
+I appreciate Creation’s comments that Mr T had told the dealership he’d take the car back 
+for further repairs if the fault reoccurred. Section 23 (6) of the CRA states “a consumer who 
+requires or agrees to the repair of goods cannot require the trader to replace them, or 
+exercise the short-term right to reject, without giving the trader a reasonable time to replace 
+them.” However, it isn’t the short-term right to reject that’s being considered here, but the 
+right to reject after a failed repair. 
+While Mr T may’ve said he’d bring the car back to the dealership if it failed for a third time, he 
+didn’t do so. So, the car wasn’t presented for repair, which I’m satisfied means that Mr T 
+didn’t agree to a third repair. And there’s nothing in the CRA which says that Mr T saying he 
+would do something in the event of another event occurring i.e., he would return the car for 
+repair if it failed again, is legally binding and he therefore must do so.
+As such, for the reasons stated, I remain satisfied that Mr T has the right to reject the car.
+Despite the quality issues, Mr T has been able to use the car while it’s been in his 
+possession. And it’s my understanding that, while it was being repaired, he was also 
+provided with a courtesy car to keep him mobile. Because of this, I think it’s only fair that he 
+pays for this usage. So, I won’t be asking Creation to refund any of the payments he’s made.
+Mr T has also raised the issue of the car failing its MOT and the alternate travel expenses he 
+would incur as a result. The investigator has said that, in these circumstances, and with 
+proof of his expenses, then Creation should refund these. The publicly available MOT record 
+shows the car failed its MOT on 25 August 2023 due to an issue with a headlight, and not 
+something connected with the fault with the car. The MOT record also shows that this issue 
+was fixed the same day, and the car passed the MOT. Which would mean that Mr T was still 
+able to drive it.
+As such, as the circumstances in which the investigator said Mr T’s travel expenses should 
+be refunded haven’t occurred, I won’t be expecting Creation to refund any alternate travel 
+costs. 
+However, it’s clear that Mr T has been severely inconvenienced by having to drive a car that 
+cannot go over 3,000RPM without it going into limp mode. And by having to take the car back 
+to the dealership on multiple occasions for it to be repaired, and by these repairs being 
+unsuccessful. So, I think Creation should compensate him for this. The investigator had 
+recommended Creation pay him £250, which is in line with what I would’ve directed had no 
+recommendation been made. So, I see no compelling reason not to adopt this as part of my 
+final decision.
+Therefore, if they haven’t already done so, Creation should:
+
+end the agreement with nothing more to pay;
+
+collect the car at no cost to Mr T;
+
+remove any adverse entries relating to this agreement from Mr T’s credit file;
+
+refund the £800 advance payment Mr T paid;
+
+apply 8% simple yearly interest on the refund, calculated from the date Mr T made 
+the payment to the date of the refund†; and
+
+pay Mr T an additional £250 to compensate him for the trouble and inconvenience 
+caused by being supplied with a car that wasn’t of a satisfactory quality.
+†HM Revenue & Customs requires Creation to take off tax from this interest. Creation must 
+give Mr T a certificate showing how much tax they’ve taken off if he asks for one.
+My final decision
+For the reasons explained, I uphold Mr T’s complaint about Creation Consumer Finance 
+Limited. And they are to follow my directions above.
+Under the rules of the Financial Ombudsman Service, I’m required to ask Mr T to accept or 
+reject my decision before 28 November 2023.
+ 
+Andrew Burford
+Ombudsman

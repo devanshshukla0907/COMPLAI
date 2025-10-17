@@ -1,0 +1,94 @@
+DRN-1855993
+ 
+The complaint
+Mr G complains that Creation Consumer Finance Ltd mis-sold him a £20,000 loan without 
+checking that he could afford it.
+ 
+What happened
+In December 2018 Mr G borrowed £20,000 from Creation. He was to repay £438 a month for 
+five years. He made one repayment, and then said he could not afford to keep up the 
+repayments. He made token repayments until the debt was sold to a third party. He 
+complained that his credit history should have shown Creation that he was already heavily 
+indebted, having borrowed £78,000 over nine previous loans with other lenders during the 
+previous two years. That figure significantly exceeded his annual income. He also said that 
+his outgoings (including loan repayments) had already exceeded his income. He said that 
+Creation would have realised this if it had asked for payslips and bank statements, but it 
+hadn’t. He also said that Creation would then have realised that he had a serious gambling 
+addiction, and that it should never have lent to him. He later said that one of the previous 
+lenders had upheld a similar complaint, and had written off the loan and refunded his 
+payments.
+Creation said that it had checked Mr G’s credit file with one of the credit reference agencies 
+(“CRAs”), but many of Mr G’s debts had not been reported there. But he had had no defaults 
+or court judgements against him, and had never been in arrears. There had been no 
+indication of financial difficulties. Mr G had told Creation that the purpose of the loan was to 
+consolidate his debts. Creation had not asked for bank statements or payslips because his 
+stated income and outgoings had been plausible, and so it had taken him at his word. It had 
+calculated that after making his monthly payments to Creation, Mr G would still be left with a 
+disposable income of £415 a month.
+Our investigator did not uphold this complaint. She said that on the information provided to 
+Creation at the time, it had been reasonable of Creation not to ask for bank statements, and 
+to conclude that Mr G could afford the loan. She agreed that on the information since 
+provided to her by Mr G, the loan had not in fact been affordable after all, but she didn’t think 
+that Creation could have known that, or that it should have realised he had a gambling 
+addiction.
+Mr G did not accept that opinion, and he asked for an ombudsman to review his case. He 
+made a lot of detailed submissions in support of his complaint, but in summary he 
+maintained that Creation ought to have known that his outgoings were higher than they had 
+taken them to be when he applied for the loan.
+ 
+What I’ve decided – and why
+I have considered all the available evidence and arguments to decide what is fair and 
+reasonable in the circumstances of this complaint.
+I have noted that the lender who sold Mr G his last loan before he approached Creation 
+agreed with him that it had mis-sold that loan. But it does not necessarily follow that Creation 
+must have mis-sold his next loan. The previous lender may have not carried out the same 
+checks as Creation, or it might have stricter criteria. So I have confined my attention to what 
+Creation knew and what Creation did.
+Under rules made by the regulator, a lender has a duty to carry out proportionate and 
+reasonable checks to ensure that Mr G could afford to make his loan repayments without 
+undue difficulty. Provided it does that, each lender may decide for itself what checks to carry 
+out, although they will usually consider information provided by a CRA. But a lender is also 
+entitled to take into account what its customer tells it about his finances. It doesn’t have to 
+doubt everything he says, and ask for supporting evidence, if what he tells it seems plausible 
+on its face. The customer has a duty to provide accurate, complete and truthful information, 
+and the lender is entitled to believe him. So my starting point is that Creation was entitled to 
+rely on what Mr G told it. Just because that information later turns out to be wrong or 
+incomplete doesn’t automatically mean the loan was mis-sold. I would only uphold a 
+complaint in such circumstances if I thought that the information provided was so clearly 
+implausible or contradictory that Creation ought to have investigated it further.
+Mr G declared a monthly income of £2,830. That figure fell within Creation’s parameters for 
+accepting it at face value, so it didn’t ask for proof. I think that was a reasonable approach, 
+but I am strongly reinforced in that view by the fact that Mr G stands by that figure even now. 
+If it was the right figure all along, then it wouldn’t matter that Creation didn’t ask to see 
+evidence of it, even if I thought it was supposed to.
+According to Creation’s contact notes, Mr G told Creation that he paid £275 a month towards 
+his mortgage. (I have noted that this was missed by the credit broker, but it appears that 
+Creation asked its own questions.) Creation also took into account six unsecured loans, 
+which it saw on his credit file. The total repayments on those loans added up to £1,702 a 
+month. Mr G has provided our Service with another copy of his credit file which he obtained 
+from a different CRA: that shows £1,810 of monthly repayments before he took the loan with 
+Creation (including mortgage payments of £602 a month). There are three CRAs in the 
+United Kingdom, and they each receive different information from different lenders (because 
+lenders don’t all have to report their data to all three CRAs). So different information will 
+show depending on which CRA is used, but in this instance I don’t think that the difference of 
+£108 is significant, because it is still smaller than the disposable income figure calculated by 
+Creation. (That was £2,830 – £1,702 – £275 – £438 = £415.)
+I accept that the figures Mr G provided to our investigator show that he couldn’t afford the 
+loan, and that he had no disposable income. But Creation didn’t know that then, although Mr 
+G must have. Mr G argues that Creation should have known, because it should have 
+checked other sources, like the monthly turnover on his current account, for example (which 
+was available through the CRA Mr G used).
+But balanced against that are the following facts which Creation did know. Mr G had not 
+been in arrears, nor had a default. He had been managing his existing loans well. He said he 
+was taking out the Creation loan in order to consolidate his existing payments (and I note 
+from the credit file that Mr G provided to us that two of his prior loans were settled in 
+December 2018, the same month in which he applied for the Creation loan). I think Creation 
+was entitled to believe him, and not to ask him for proof of what he was going to do with it. 
+So for the above reasons, I do not agree that this loan was mis-sold.
+ 
+My final decision
+So my decision is that I do not uphold this complaint.
+Under the rules of the Financial Ombudsman Service, I’m required to ask Mr G to accept or 
+reject my decision before 20 July 2020.
+Richard Wood
+Ombudsman

@@ -1,0 +1,205 @@
+K821x#15
+Complaint
+Mr B is unhappy with the response of Creation Consumer Finance Ltd (‘Creation’), following 
+his claim against it under section 75 of the Consumer Credit Act (‘CCA’) 1974.
+Background
+Mr B was contacted by a company, I’ll refer to as ‘G’, that supplied and installed solar panel 
+systems. Following a meeting, Mr B agreed to enter into a contract with G for it to supply and 
+install a solar panel system costing around £7,500. To pay for this, Mr B also agreed to enter 
+into a 10 year fixed sum loan agreement with Creation.
+Mr B, via his representative, made a claim under section 75 (‘s75’) of the CCA. The 
+representative said that G had told Mr B that the solar panels would be ‘self-funded’ and that 
+the monthly loan repayments would be covered by any electricity savings and feed-in-tariff 
+(‘FIT’) income from the solar panels. But that hadn’t happened. Instead, the monthly loan 
+repayments had been much higher.
+In its final response letter, Creation said it didn’t think the benefits of the solar panels had 
+been misrepresented to Mr B and his solar panel system was performing in line with the 
+contract he had signed with G. Unhappy with this response, Mr B referred the complaint to 
+our service.
+One of our investigators looked into what had happened. She said that G had 
+misrepresented the benefits of the solar panels to Mr B so thought his complaint should be 
+upheld. To put things rights she said that Creation should calculate the potential income and 
+savings to Mr B over the term of the loan. She asked Creation to then restructure the loan so 
+that he wouldn’t pay any more than this over the 10 year term. As this would mean that Mr B 
+may have overpaid each month, she thought Creation should give him the following options 
+as to how he’d like any overpayments to be used:
+a.
+any overpayments to be used to reduce the outstanding balance of his loan and Mr B 
+would continue to make his current monthly loan payment meaning his loan would 
+finish early,
+b.
+any overpayments to be used to reduce the outstanding balance of the loan and Mr B 
+pays a new, lower monthly loan amount until the end of the current loan term,
+c.
+any overpayments are returned to Mr B and he continues to make his currently 
+monthly loan repayment meaning his loan would finish early, or;
+d.
+any overpayments are returned to Mr B and he pays a new, lower monthly amount 
+until the end of the loan term.
+She also recommended Creation pay Mr B £100 to recognise the trouble and upset caused. 
+Mr B accepted the recommendation from the investigator. Creation didn’t agree, so the 
+matter has been passed to me to review.
+My findings
+I’ve considered all the available evidence and arguments to decide what’s fair and 
+reasonable in the circumstances of this complaint.
+Ref: DRN0528488
+2
+When considering what’s fair and reasonable, I’m required to take into account: relevant law 
+and regulations, relevant regulatory rules, guidance and standards and codes of practice; 
+and, where appropriate, what I would consider to have been good industry practice at the 
+relevant time.
+In this case the relevant law includes Section 56 (‘s56’) and s75 of the CCA, which provided 
+protection for consumers for goods or services bought using credit. S75 states:
+“If the debtor under a debtor-creditor-supplier agreement falling within section 12(b) or (c) 
+has, in relation to a transaction financed by the agreement, any claim against the supplier in 
+the respect of a misrepresentation or breach of contract, he shall have a like claim against 
+the creditor, who, with the supplier, shall accordingly be jointly and severally liable to the 
+debtor.”
+As Mr B paid for the solar panels with a fixed sum loan, Creation agrees that s75 applies to 
+this transaction. This means that Mr B could claim against Creation – the creditor – for any 
+misrepresentation or breach of contract by G in the same way he could have claimed against 
+G, the supplier. So, I’ve taken s75 into account when deciding what is fair in the 
+circumstances of this case.
+S56 is also relevant. This is because it says that any negotiations between Mr B and G, as 
+the supplier, are deemed to have been conducted by G as an agent of Creation.
+Mr B says that he was contacted by G and during a sales meeting told that the installation 
+would be entirely self-financing. Mr B wasn’t looking to buy a solar panel system until he was 
+approached by G. I think he would have been relying on the salesperson to fully explain the 
+benefits and any associated costs to him before they were installed.
+There is limited information available from the time of sale. I’ve been provided with a copy of 
+the sales presentation that G says it would’ve gone through with Mr B, a copy of Mr B’s 
+signed credit agreement, a customer satisfaction note signed by Mr B, a personalised 
+illustration showing a review of the expected benefits from the solar panel system, a copy of 
+a compliance script G says it would have gone through with Mr G as well as a table to show 
+that G had actually underestimated the performance of Mr B’s solar panel system.
+I’ve considered each of these documents carefully. Having reviewed the sales presentation 
+that G says it went through with Mr B, I can see no reference to the solar panel system being 
+self-funding. And this is the same for the satisfaction note Mr B has signed.
+The credit agreement sets out the amount being borrowed, the term of the loan, the interest 
+rate being charged, the amount of interest being added, Mr B’s monthly payments and the 
+total amount payable. I’m satisfied that this is clear, and Mr B doesn’t dispute that he was 
+aware of what his monthly loan repayments would be but that he was led to believe that they 
+would be covered by the benefits from his solar panels.
+I’ll now turn to the personalised illustration that was given to Mr B at the time he agreed to 
+the solar panel installation as well as the finance through Creation. This shows that the total 
+first year benefit Mr B should expect to receive from his solar panels was £777. But it doesn’t 
+compare this figure to his annual loan repayments. So, whilst I accept that it is clear what the 
+expected first year benefits of the solar panels would be as it doesn’t compare it to the 
+associated finance cost, I don’t think it’s clear that the panels wouldn’t be self-funding. 
+Therefore, I’m of the view that Mr B would’ve relied on the representation made by the 
+salesperson for G that the panels would be self-funding.
+Ref: DRN0528488
+3
+The personal illustration also shows a payback time of nine years with a 1st year tax free 
+return of 9.1%. But, as explained above these figures don’t include the associated finance. 
+Creation has said it should’ve been clear to Mr B that the payback time and tax-free return 
+was based on the cost price of the panels only. I don’t agree. The document refers to the 
+‘Cost of Full Investment’ which I find misleading.
+There are also some handwritten figures on the illustration. They show that the overall 
+lifetime benefit of the solar panel system divided by 240, the lifetime of the panels in months, 
+would give Mr B a monthly income of £170. I’m of the view that this supports Mr B’s 
+testimony that he was told the solar panels would be self-funding as his monthly loan 
+repayments were around £108. 
+The final document I’ve considered is the compliance script G says would have been used 
+with Mr B prior to the installation of the solar panels. The first part of the script refers to when 
+the installers will be arriving at the property. The next part of the script relates to the finance 
+for the solar panel system. The questions that G says it asked were:
+“I would just like to confirm you have chosen one of the finance options as way of payment (-
+confirm the payment terms.)
+Has the sales representative gone through the finance details with you
+Do you full understand by choosing a finance option there may be interest on your balance 
+making the total amount payable significantly more than a one off payment
+Was you offered all payment options of bnpl 3 yr & 5 yr interest free 120 months and one off 
+payment in full
+Did the sales rep explain the estimated returns and benefits from the system and show you a 
+personalised report ?
+Was a copy of the estimated returns , order form and finance left with you”
+I’ve considered each of the questions and whether any of them would’ve meant Mr B should 
+have understood that this solar panels wouldn’t be self-funding. I’m satisfied that none of the 
+questions would’ve made it clear that the panels wouldn’t be self-funding and support that Mr 
+B was reliant on the information he was given by the salesperson for G.
+Taking everything that I have explained, I believe it is more likely than not that the 
+salesperson for G led Mr B to believe that the solar panels would be self-funding and the 
+benefits would be sufficient to cover the repayments required under the loan agreement. 
+I’ve considered whether the solar panels were self-funding. I’m of view that for the solar 
+panels to be self-funding and come at no additional cost to Mr B, the savings and income he 
+would receive should have been sufficient to cover the repayments due under the loan 
+agreement.
+Based on the figures provided by G at the time of sale, the total expected return to Mr B from 
+the benefits from his solar panels would’ve come to £777 whereas the loan repayments were 
+about £1,300 a year. Creation has said Mr B’s solar panels have outperformed the estimate 
+and his first year return was £813.
+Ref: DRN0528488
+4
+Taking the figure provided by Creation into account, Mr B was likely to have been out of 
+pocket by around £487 in the first year. And that would broadly been the same during the 
+term of the loan. This means that the solar panels aren’t self-funding. I’m satisfied that G 
+misrepresented the benefits to Mr B.  
+Mr B didn’t have any prior experience of the solar panel systems and was cold called by G. 
+I’m satisfied that Mr B decided to go ahead with the purchase of the solar panel system 
+based on the representation made by G that the system would be self-funding.
+For the reasons I have explained above, I find that Mr B has suffered a loss as a result of the 
+misrepresentation made by G. The system wasn’t self-funding and Mr B has ended up 
+paying a significant amount over the savings. And as Creation has equal liability for the 
+misrepresentation made by G, I find that it is responsible for Mr B’s loss.
+Fair compensation
+The role of this service is to help settle disputes between consumers and businesses 
+providing financial services fairly and reasonably with minimum formality. My role here is to 
+arrive at a fair and reasonable outcome taking into account of the particular circumstances.
+My view of Mr B’s complaint is that it isn’t so much about the solar panels themselves but 
+that he was led to believe that they would be self-funding. And based on this I don’t think it 
+would be fair or reasonable to require the removal of the solar panels from his home. And it 
+is also accepted that it would cost Creation a significant sum to remove them. So, I don’t 
+think it would be fair or reasonable to ask it to do that. Rather, I think the fair outcome here is 
+to put Mr B in a position where the panels are self-funding over the original term of the loan. 
+By allowing Mr B to keep the panels, he will likely benefit from lower electricity bills or FIT 
+payments going forward.
+By making the panels self-funding, Mr B’s monthly loan repayments will likely reduce, 
+meaning that he would’ve previously been paying more each month, resulting in an 
+overpayment. And as he will have been deprived of the monthly overpayment, I expect 
+Creation to add 8% simple interest a year from the date the overpayment was made until the 
+date of settlement. Like our investigator, I think the fairest resolution would be to allow Mr B 
+to decide how he’d like any overpayments to be used from the following options:
+(a) any overpayments and associated interest are used to reduce the outstanding 
+balance of his loan and he continues to make his current monthly loan repayment 
+resulting in his loan finishing early,
+(b) any overpayments and associated interest are used to reduce the outstanding loan 
+balance and Mr B pays a new, lower monthly loan payment until the original loan 
+term,
+(c) any overpayments and associated interest are returned to Mr B and he continues to 
+make his current monthly loan repayment resulting in his loan finishing early, or;
+(d) any overpayments and associated interest are returned to Mr B and he pays a new, 
+lower monthly loan payment until the original loan term.
+My understanding is that Mr B had previously said he’d like option a, and if he accepts my 
+decision, he should indicate on the acceptance form his preferred option.
+Ref: DRN0528488
+5
+I’m satisfied that there was sufficient information available at the time that Mr B first 
+contacted Creation that means that his claim should have been upheld. The fact that this 
+didn’t happen undoubtedly caused him trouble and upset and consequently I’ll make an 
+award of £100 to cover this.
+My final decision
+My final decision is that Mr B’s complaint should be upheld. In full and final settlement of it, 
+Creation Consumer Finance Ltd must:
+
+allow Mr B to keep the solar panels,
+
+estimate the potential savings and income to Mr B form the panels over the 10 year 
+term of the loan and rework it so he pays no more than this,
+
+add 8% simple interest* a year to any overpayment from the date the overpayment 
+was made to the date of settlement,
+
+allow Mr B to decide how he’d like any overpayments and associated interest to be 
+used, using the four options described above, and;
+
+pay Mr B £100 for the trouble and upset caused.
+Under the rules of the Financial Ombudsman Service, I’m required to ask Mr B to accept or 
+reject my decision before 17 January 2020.
+Michael Fisher
+ombudsman
+*If Creation Consumer Finance Ltd considers that it’s required by HM Revenue & Customs 
+to take off income tax form that interest, it should tell Mr B how much it’s taken off. It should 
+also give Mr B a certificate showing this, if he asks for one, so he can claim the tax from HM 
+Revenue & Customs.
+Ref: DRN0528488

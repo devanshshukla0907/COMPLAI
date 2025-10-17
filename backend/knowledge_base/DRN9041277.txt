@@ -1,0 +1,163 @@
+K821x#12
+complaint
+Mrs A complains about a single premium payment protection insurance (PPI) policy sold to 
+her in May 2008 over the telephone by Creation Consumer Finance Ltd. 
+The policy covered a £5,000, five-year personal loan for debt consolidation. It provided life, 
+accident, sickness and unemployment cover. Mrs A says the policy was mis-sold. 
+background
+Our adjudicator recommended the complaint be upheld. She didn’t think Creation had done 
+enough to make Mrs A aware that she wouldn’t be entitled to a proportionate refund if she 
+refinanced the loan early and had to cancel the policy. And the adjudicator didn’t think Mrs A 
+would have agreed to buy the policy, in her particular circumstances, if she had been given 
+that information. 
+Creation disagreed. It said documentation was issued to Mrs A after she gave her initial 
+consent to the policy during the telephone call. The documents clarified the details of the 
+policy and the onus was on Mrs A to read them and to ask for further information if she didn’t 
+understand them. 
+my findings
+I have considered all the available evidence and arguments to decide what is fair and 
+reasonable in the circumstances of this complaint. In doing so, I have taken into account any 
+relevant regulatory rules and guidance, as well as the law and good industry practice when 
+the policy was sold.
+We’ve been looking at complaints about the sale of PPI for several years now. And we have 
+a well-established approach, which is published on our website. I think the relevant 
+considerations in this case are materially the same as our published approach. 
+Broadly speaking, what I need to consider here is:
+•
+whether Creation gave Mrs A advice and, if it did, whether it took adequate steps to 
+ensure the policy was suitable for her needs; 
+•
+whether Creation gave Mrs A information which was clear, fair and not misleading so 
+she could make an informed choice about the policy she was buying; and
+•
+if there were faults with the way Creation sold the policy, whether Mrs A is worse off 
+as a result (in other words would she have done something different – such as not 
+buy the policy – but for any shortcomings?)
+did Creation recommend the policy to Mrs A?
+Creation says this sale took place on a non-advised basis. It hasn’t been able to provide a 
+call recording. But it has provided a sales script it says was in use at the time. That script 
+doesn’t suggest that advice would have been given. Creation has also provided documents it 
+says would have been issued to Mrs A immediately after the call – including the credit 
+agreement, and a key facts document containing a policy summary and statement of price. 
+Ref: DRN9041277
+2
+These documents also tend to suggest that Creation didn’t give Mrs A any specific 
+recommendation. 
+Mrs A can’t remember whether she was given advice. She does remember that the policy 
+was sold over the telephone. She says she doesn’t recall any information being given to her 
+about the PPI, or the cost of it. 
+Overall – based on the available evidence – I’m not persuaded that Creation gave Mrs A a 
+specific recommendation to buy the policy. This means it didn’t have to take steps to ensure 
+the policy was suitable for Mrs A. But it did have to give her enough information to allow her 
+to make an informed choice about the policy she was buying. 
+did Creation give Mrs A enough information – and did it make a difference if not?
+It’s here that I think Creation failed to live up to its responsibilities towards Mrs A, and why 
+I’m not satisfied Mrs A made an informed choice to add the policy to her loan. I think 
+Creation failed to properly bring to Mrs A’s attention that the policy didn’t offer a pro-rata 
+refund if it was cancelled early. And I think this is important information which would have 
+impacted on Mrs A’s decision to buy the policy if she had been made properly aware of it. 
+When explaining why I’ve come to my findings it’s important to consider the type of policy 
+Mrs A bought, and also the context in which she bought it. 
+This was a single premium PPI policy. Single premium PPI policies are paid for in a very 
+different way to most other insurance products. In particular, their cost structure is different – 
+because the initial premium cost is often significantly increased by the interest added to it 
+over the term of the loan. And the fact that the single premium (and the interest on it) is 
+added to the loan up front – and is then paid back gradually over the term of the loan – 
+means they often also have restrictive cancellation terms. Overall, this is not a 
+straightforward way to pay for insurance and can lead to significant cost if cancelled early. 
+This is not something Mrs A was likely to have much understanding of. 
+The single premium cost of the policy sold to Mrs A was £1,215.76. A further £613.35 of 
+interest added to the premium over the loan term brought the total cost of the PPI to 
+£1,829.11. According to the policy summary and policy wording, it offered a 5% refund of the 
+initial premium if the policy was cancelled after 36 months. It offered a 13% refund if 
+cancelled at 24 months. 
+Mrs A had telephoned Creation to apply for a £5,000 loan for debt consolidation. And she 
+was taking it over a reasonably long period of time – five years. There was a high likelihood 
+that she would look to re-finance the loan again at some point during that five-year period. 
+So the impact of the policy’s cancellation provisions on her ability to refinance the loan – and 
+what it might cost her to do so – was important information. Creation should have drawn 
+Mrs A’s attention to this important information. 
+As there’s no call recording, I can’t be sure what Mrs A was told during the telephone call. If 
+I assume that the script was followed I can see that it required the call handler to tell Mrs A 
+that she had a statutory right to cancel the policy for up to 30 days after the agreement 
+started, at no cost. 
+The script then required the call handler to explain what would happen if Mrs A cancelled 
+outside that 30-day period. However, according to the script, Mrs A would only have been 
+Ref: DRN9041277
+3
+told that she would “..only be entitled to a partial refund of the original premium”. There was 
+no explanation of how that refund would be calculated, or what it might amount to. Nor was 
+there any explanation that the ‘partial refund’ wouldn’t be calculated on a pro-rata basis (as 
+Mrs A might otherwise reasonably have expected). So the information disclosed in the call 
+script wasn’t enough to adequately draw Mrs A’s attention to the restrictive cancellation 
+terms. 
+The script does indicate that Mrs A would have been told to read the policy terms and 
+conditions for details of ‘cancellation rights’. And Creation says documents were sent to 
+Mrs A for further clarification after it ‘gained her initial consent to the PPI’. That is my concern 
+here. Mrs A effectively agreed to have the PPI added to her loan during the telephone 
+conversation with Creation. It’s reasonable to conclude that she would place greater reliance 
+on what she was told during the telephone call, than on anything she received in writing 
+afterwards. So it’s during the telephone call that Creation should have drawn Mrs A’s 
+attention to the significant features of the policy, including the restrictive nature of the 
+cancellation terms. I’m not satisfied that sending written information afterwards was enough 
+to mitigate Creation’s failure to disclose this information orally. 
+I also note that:
+
+The policy summary does refer to the non-pro-rata refund and gives the 5% refund figure 
+as an example. However, it’s not clear that Mrs A ever saw this document, or that it was 
+adequately drawn to her attention. 
+
+Even if she did see the policy summary, the refund information was positioned lower 
+down the document after a lot of other information about exclusions and limitations. And 
+it was in the section entitled “Early termination of loan” rather than in the “Right of 
+cancellation” section the script suggests her attention would have been directed towards. 
+So I’m not persuaded Mrs A would have easily found this information. 
+
+The “Right of cancellation” section of the summary referred Mrs A to the policy document 
+for further information. Again it isn’t clear that Mrs A received the policy document. But 
+even if she did, the relevant information is provided on pages 18 and 19 of a 25-page 
+document. I don’t consider that this information was prominently positioned, or 
+adequately brought to Mrs A’s attention. 
+
+Finally, it would have been difficult for Mrs A to work out from the percentage examples 
+given how much she might lose in real terms if she cancelled the policy early.
+Creation says the onus was on Mrs A to review the information given and ask for further 
+information if she didn’t understand something. That isn’t correct. It was Creation’s 
+responsibility to provide Mrs A with enough information about the main features and benefits 
+of the policy to enable her to make an informed choice. For the reasons given above I find it 
+failed to do so here. And, bearing in mind why Mrs A was taking out the loan and also the 
+length of the term, I find that Mrs A wouldn’t have bought the policy, but for Creation’s failing.
+fair redress
+I find that, if Mrs A hadn’t bought the PPI policy, she would still have gone ahead with the 
+loan. Therefore she should be put back in the position she would have been in if the 
+PPI policy hadn’t been sold. The loan and the PPI policy had a term of five years so should 
+by now have run their course. Creation Consumer Finance Ltd should therefore:
+Ref: DRN9041277
+4
+A.
+Work out and repay the extra monthly payments paid by Mrs A because PPI was 
+added to the loan by:
+•
+calculating how much the loan payments would have been if Mrs A had taken out the 
+loan without PPI.
+•
+subtracting those amounts from what Mrs A actually paid and paying her the 
+difference. 
+•
+paying Mrs A interest (simple, not compound) on each of these amounts at the rate 
+of 8% a year from the date each payment was made to the date the redress is paid†.
+B.
+Write to Mrs A to set out the details of the calculations and amounts under (A).
+† I understand Creation Consumer Finance Ltd is required to deduct basic rate tax from this 
+part of the compensation. Whether Mrs A needs to take any further action will depend on her 
+financial circumstances. More information about the tax position can be found on our 
+website. Mrs A should refer back to Creation Consumer Finance Ltd if she is unsure of the 
+approach it has taken and both parties should contact HM Revenue & Customs if they want 
+to know more about the tax treatment of this portion of the compensation.
+my final decision
+My final decision is that I uphold this complaint and I direct Creation Consumer Finance Ltd 
+to pay Mrs A compensation calculated in accordance with the instructions set out above 
+under ‘fair redress’.
+Dawn Griffiths
+ombudsman
+Ref: DRN9041277

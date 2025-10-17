@@ -1,0 +1,170 @@
+DRN-4873878
+The complaint
+Miss F complains about Creation Consumer Finance Ltd (“Creation”)’s response to a claim 
+she made under Section 75 (“s.75”) of the Consumer Credit Act (“CCA”), in relation to a 
+solar panel system (“the system”). She also complains that her relationship with Creation 
+was unfair on her, taking into account Section 140A (“s.140”) of the CCA, and that Creation 
+should not have lent to her because the lending was unaffordable or its decision to lend 
+irresponsible.
+What happened
+In May 2014, Miss F purchased the system from a supplier, which I will call “G”. She paid for 
+this using a fixed sum loan from Creation, which was repayable over ten years. In 
+December 2014, Miss F entered an Individual Voluntary Arrangement (“IVA”) with her 
+creditors, including Creation.  
+In August 2020, Miss F contacted Creation through a Claims Management Company 
+(“CMC”). She claimed that G had misrepresented the system to her, as she was told it would 
+not cost her anything – because the Feed-In Tariff (“FIT”) payments would cover the monthly 
+loan repayments. Miss F later told us that her understanding was that she was signing for a 
+grant to pay for the system, rather than a loan. The CMC also alleged that Miss F’s 
+relationship with Creation was unfair on her, because of what she was told by G, and also 
+because the loan was unaffordable – implying that its lending decision was irresponsible. 
+Creation responded to say that Miss F had made her claim too late, since the Limitation Act 
+meant she only had six years to make the claim from the date the loan started. 
+Unhappy with this, Miss F asked the Financial Ombudsman Service to look at what had 
+happened. Creation did not consent to our involvement, as it said the complaint was made 
+too late under our rules. 
+Our investigator thought we could look at the complaint and that it should be upheld. The 
+Investigator said a Court would likely find that Miss F’s relationship with Creation was unfair 
+on her. And to put things right, Creation should ensure that Miss F paid no more for the 
+system than the benefits she would receive from it over the original loan term, plus pay her 
+an additional £100 compensation for the trouble and upset caused by Creation not fully 
+responding to her claim and complaint. 
+Creation asked for more time to respond as it was seeking outside counsel on the matter of 
+time limits and our jurisdiction. But it has not provided any further response for well over a 
+year. So, I’ve been asked to make a decision on the complaint, which is the final stage in our 
+process.  
+The CMC objected to the Investigator’s method of redress. It said that the benefits of the 
+system would far outweigh what she had paid back to Creation following the IVA. So, Miss F 
+would only get £100 compensation – which the CMC did not feel fairly recognised the 
+distress and inconvenience she’d experienced. The CMC said it was Creation’s fault that 
+Miss F entered an IVA, which happened shortly after the loan was agreed.
+I was asked to make a decision on the complaint, which is the final stage in our process. I 
+issued a provisional decision explaining that I was not planning to uphold the complaint. 
+Creation responded to acknowledge receipt of this and to say it agreed. Neither Miss F, nor 
+the CMC, responded by the given deadline. So, there is nothing further for me to consider 
+and my final decision is in line with my provisional one. 
+What I’ve decided – and why
+I’ve considered all the available evidence and arguments to decide what’s fair and 
+reasonable in the circumstances of this complaint.
+I’ve decided that this complaint is within our jurisdiction. But I am not telling Creation to take 
+any further action as a result of this complaint. I explain my reasons below, which match 
+what I said in my provisional decision.
+My findings on jurisdiction 
+I’m satisfied I have jurisdiction to consider Miss F’s complaint, both in respect of the refusal 
+by Creation to accept and pay her s.75 claim and the allegations of an unfair relationship 
+under s.140A.
+However, we do not have jurisdiction to consider the complaint about Creation’s lending 
+decision – and whether the lending was unaffordable or irresponsible. My reasons are set 
+out below.
+The s.75 complaint 
+The event complained of here is Creation’s alleged wrongful rejection of Miss F’s s.75 claim 
+on 10 March 2021, this relates to a regulated activity under our compulsory jurisdiction. 
+Miss F brought her complaint about this to the ombudsman service on 12 November 2020. 
+So, her complaint in relation to the s.75 claim was brought in time for the purposes of our 
+jurisdiction.
+The unfair relationship under s.140A complaint 
+The event complained of is Creation’s participation, for so long as the credit relationship 
+continued, in an alleged unfair relationship with Miss F. Here the relationship was ongoing at 
+the time it was referred to the ombudsman service on 12 November 2020 – the debt being 
+written off in October 2022 following completion of the IVA. So, the complaint has been 
+brought in time for the purposes of our jurisdiction.
+The unaffordable and/or irresponsible lending complaint
+This complaint has been made too late under the rules I must apply. A consumer must make 
+their complaint within six years from the event complained about – in this case the lending 
+decision made in May 2014. Or, if it provides more time, three years from when the 
+consumer became aware, or ought reasonably to have become aware, of cause for 
+complaint. 
+The complaint was made in the CMC’s letter of claim dated 3 August 2020 and referred to 
+the Financial Ombudsman Service on 12 November 2020. Both are more than six years 
+after the event complained about. 
+Miss F entered the IVA on 29 December 2014 – which she says was caused by the loan. So, 
+at that stage she ought reasonably to have known she had cause to complain about 
+Creation’s lending decision. This means the six-year time limit is not extended beyond May 
+2020. 
+So, the complaint was made too late, and I do not have the power to consider whether the 
+lending was unaffordable or irresponsible, unless the delay in referring the complaint was 
+due to exceptional circumstances. Miss F has not suggested there was, nor has she 
+provided any evidence of, any exceptional circumstances that caused the delay. 
+My findings on the merits of the complaint 
+The s.75 complaint 
+The law imposes a six-year limitation period on claims for misrepresentation and breach of 
+contract, after which they become time barred. 
+In this case the alleged misrepresentation and cause of action arose when an agreement 
+was entered into on 15 May 2014. Miss F brought her s.75 claim to Creation on 3 August 
+2020. That is more than six years after she entered into the agreement with it. Given this, I 
+think it was fair and reasonable for Creation to have not accepted the s.75 claim. So, I do not 
+uphold this aspect of the complaint. 
+The unfair relationship under s.140A complaint
+Following our usual approach to this type of complaint, of which Creation is fully aware from 
+previous decisions, I think it is likely that G misled Miss F in relation to the benefits of the 
+system and how this compared to what she was agreeing to pay. This is because:
+
+There is no evidence from the time of sale of Miss F being provided a written 
+estimate of the benefits of the system, so she had to rely on what G told her.
+
+G’s website at the time said that for consumers taking a loan, “the profit from the 
+electricity should cover the repayment amounts – and leave you with money to 
+spare”. This suggests that G may have sold solar panels as being self-funding on a 
+monthly basis, such that it wouldn’t cost a consumer anything. 
+
+The Renewable Energy Consumer Code found that G was in breach of section 5.2 
+and 5.3 of the code around the time of sale, which relate to behaviour of sales 
+representatives, false or misleading information, pressure selling and estimates of 
+performance, amongst other things. 
+
+Miss F recalls being told the system was paid for using a grant, rather than a loan, so 
+that she would not pay anything, and she would benefit from free electricity. She was 
+attracted to this because she was struggling financially at that time and the 
+salesperson was so convincing. Although she signed the credit agreement, her 
+understanding was that this was a grant, not a loan. 
+
+Creation hasn’t provided any evidence to dispute Miss F’s recollection of events. 
+In light of this, I think it is likely that a Court would conclude that Miss F’s relationship with 
+Creation was unfair on her. 
+Normally in this situation I would recommend that Creation ensure that Miss F pays no more 
+for the system than the benefits she received over the ten-year term of the loan. But in this 
+case that would result in no redress being paid to her. 
+The evidence provided shows that Miss F borrowed £7,995.00 under the credit agreement. 
+By the time she entered the IVA she still owed £7,882.88. By the end of the IVA, she had 
+paid a further £437.28 to Creation. Creation wrote off the remaining debt. I calculate that 
+Miss F repaid £550.00 of what she borrowed. The total she paid may have been slightly 
+more due to interest accruing prior to the start of the IVA. But I’m satisfied that what she paid 
+for the system is far less than the benefits it will have provided her over ten years. 
+I see no justification for departing from our usual approach to redress. The main alternative 
+would be to unwind the credit agreement. But this would put Creation to disproportionate 
+expense in removing the system. And Miss F, aside from the disruption this would cause, 
+would overall be worse off. This is because she would no longer benefit from the system, 
+which is likely to continue to generate income and savings for a considerable amount of 
+time. 
+Looking forward, the benefits of keeping the system (£100s per year for ten to fifteen years) 
+would far exceed any refund received in the short term (around £1,000 including interest). 
+That does not seem to me like a fair and reasonable outcome for either party – particularly 
+Miss F. 
+As such, I am not directing Creation to refund any payments Miss F made towards the loan. 
+This is because I do not think that she has suffered a loss as a result of what happened. 
+I’ve thought about whether Creation should pay some compensation for the trouble and 
+upset caused by it not fully responding to the claim and complaint. But I’ve concluded that it 
+should not. 
+I’m mindful that Miss F is represented by a CMC, which has dealt with this matter on her 
+behalf. So, I don’t think pursuing the matter further would’ve caused her significant 
+inconvenience. 
+I also think that if Creation had responded to the claim in full, it is unlikely that this would’ve 
+resolved the complaint. Had Creation followed our approach to these cases it would not 
+have offered any redress to Miss F (as explained above). The complaint would still have 
+been referred to the Financial Ombudsman Service. And I don’t think that outcome would’ve 
+caused any less distress or inconvenience to Miss F than Creation’s actual response did. 
+So, I do not think any compensation is warranted.
+I do not think I can reasonably say that Creation should compensate Miss F for the distress 
+and inconvenience caused by having to enter an IVA – which the CMC has alluded to. The 
+IVA included debts in excess of £40,000, owed to a large number of creditors (not all of 
+which were financial businesses). And given how little was repaid to creditors as a result of 
+the IVA, it seems likely that an IVA would have been necessary anyway – regardless of 
+whether she had purchased the system and taken the Creation loan. 
+My final decision
+For the reasons I’ve explained, I do not uphold this complaint.
+Under the rules of the Financial Ombudsman Service, I’m required to ask Miss F to accept or 
+reject my decision before 24 July 2024.
+ 
+ 
+Phillip Lai-Fang
+Ombudsman

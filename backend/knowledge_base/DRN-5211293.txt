@@ -1,0 +1,129 @@
+ 
+ 
+DRN-5211293 
+ 
+ 
+The complaint 
+ 
+Mr R complains that Creation Consumer Finance Ltd (Creation) did not mark his account as 
+defaulted. 
+What happened 
+Mr R had a debt with Creation (and other lenders). He entered a Scottish Debt Arrangement 
+Scheme (DAS) in January 2020. The debt due to Creation was £1,376.54. This was due to 
+be paid in 72 instalments. Interest was stopped. 
+ 
+The DAS was completed in June 2022. By then, the balance had reduced to £1,164.53. And 
+Creation accepted a final payment of £527.25 and agreed to write off the balance of 
+£637.28. 
+ 
+ During the period of the DAS, Creation marked Mr R’s credit file with late payments. When 
+the final payment was made, Creation marked his credit file as ‘partially settled’.  
+ 
+Mr R complained. He said that the marking of his credit file with late payments was unfair – 
+as it meant that his credit record would be affected for another six years from June 2022. He 
+says his credit file should’ve been marked as ‘default’ when he entered the DAS in January 
+2020. He says this would be in line with the Information Commissioner’s Office (ICO) 
+guidance stating  that: “Where an arrangement to pay breaks down, a default may be filed 
+when the total value of the arrears is equivalent to three monthly payments under the original 
+terms. However, this should not result in the customer being placed in a worse position than 
+someone who had made no effort to pay whatsoever.” 
+ 
+Mr R says his other lenders marked his credit file with a default and Creation should do the 
+same. He says that the DAS is the same as bankruptcy or an IVA – which would lead to a 
+default being marked. He said he has been disadvantaged by trying to deal with his creditors 
+rather than stopping the payments and defaulting. 
+ 
+Creation didn’t uphold Mr R’s complaint and said his credit file had not been marked as 
+default-  but agreed that it should be marked as in ‘arrangement’; and then ‘settled’ in June 
+2022.  
+ 
+Mr R brought his complaint to us. Our investigator didn’t uphold it. He looked at the ICO’s 
+guidance called ‘Principles for the Reporting of Arrears, Arrangements and Defaults at 
+Credit Reference Agencies’. He was satisfied that what Creation had done was in line with 
+that. 
+ 
+Mr R didn’t agree and asked that an ombudsman look at his complaint. 
+ 
+What I’ve decided – and why 
+I’ve considered all the available evidence and arguments to decide what’s fair and 
+reasonable in the circumstances of this complaint. 
+ 
+ 
+I hear what Mr R has argued and I appreciate the points he has put to us – and I have 
+thought a lot about his complaint.  
+In general terms, lenders must advise true, and accurate information to the credit reference 
+agencies (CRAs).  And in the ICO’s guidance, it says that a default should normally be 
+marked if the account is subject to an arrangement and the terms of that arrangement had 
+broken down.  
+The crux of this decision therefore comes down to whether the DAS should have been 
+considered an ‘arrangement to pay’ or a default. And on balance, I think it is reasonable to 
+have considered it as an arrangement to pay.  
+I looked at the terms of the DAS scheme sent to Creation in January 2020 – when Mr R 
+entered the DAS. The letter says – a ‘Debt Payment Programme’ (DPP) was approved for 
+Mr R and it says: 
+“DAS helps people with debts to pay most of what they owe to their creditors over an agreed 
+period of time. 
+No further interest or charges can be added to the debt whilst the DPP continues and they 
+are written off on completion of the DPP …. the debtor must make their first payment within 
+42 days of the date the DPP is approved. After that they must make all of their payments on 
+the date agreed with the Payments Distributor…” 
+It goes on: “There are a number of grounds where the debtor, a money adviser acting on 
+behalf of the debtor or you as a creditor in the DPP can apply to revoke a DPP. The DAS 
+Administrator can initiate the action without an application. 
+These grounds include where: 
+- 
+the debtor failed to satisfy the conditions of the DPP. 
+- 
+the debtor missed the equivalent of payments due over a 2 monthly period and a 
+further payment is due…” 
+In other words, DAS is an agreed arrangement to pay off creditors (i.e. lenders). I don’t think 
+it is reasonable to regard it as the same as bankruptcy, for example. Indeed, there is 
+reference in the letter - to one way that the DPP can fail is if a debtor enters bankruptcy – so 
+bankruptcy is a further step from a DAS/DPP.  
+I also noted that DAS is a ‘debt arrangement scheme’ and DPP is a ‘debt payment 
+programme’ – in other words, an arrangement to make regular payments to pay off a debt. 
+I looked at the further information on filing defaults with the CRAs - found in the ‘Principles 
+for the reporting of arrears, arrangements and defaults at credit reference agencies.’  
+The principles in this document have been drawn up by the credit industry in collaboration 
+with the ICO. 
+In this, it refers to a Debt Management Programme. This is common in the UK. The 
+document says:  “A debt management programme (DMP) is when a third party debt adviser 
+negotiates a repayment schedule for all or a number of a consumer’s credit agreements. If 
+the plan is accepted by the lender, the record filed at the credit reference agencies must 
+reflect that the consumer is on a DMP. For such accounts arrears may continue to be 
+calculated in accordance with the contracted terms, but the account marked as under a 
+ 
+ 
+DMP.” 
+I consider the DAS/DPP to be close to a DMP – where the ICO guidance is to mark the 
+credit file with ‘DMP’ i.e. an ‘arrangement to pay’. 
+The guidance goes on: If you fall into arrears on your account, or you do not keep to the 
+revised terms of an arrangement, a default may be recorded to show that the relationship 
+has broken down. 
+So – if the payments under the DPP aren’t maintained, then a default may be the next step. 
+In other words, if Mr R had not made the agreed payments to Creation under the DAS, then 
+Creation could’ve then defaulted his account and marked a default on his credit file. That 
+would have been consistent with the guidance to reflect true and accurate information. 
+The guidance also says: In normal circumstances lenders will be notified when the debt that 
+is owed to them is to be included in an insolvency e.g. bankruptcy, IVA or similar and should 
+be marked as included in that by filing a default as soon as is practical. 
+So- the guidance says a default only applies in the case of bankruptcy or an IVA or similar – 
+and I don’t regard the DAS as ‘similar’ for the reasons I’ve set out. 
+Creation agreed to change the marks on Mr R’s credit file to ‘arrangement’ – which I think 
+fairly and reasonably describes the circumstances he was in – he was in a scheme of 
+arrangement to pay his debts. He wasn’t in an enforcement or recovery process - as in 
+bankruptcy or under a County Court Judgment for example. 
+Mr R has said (and evidenced) that some other lenders defaulted his accounts. But I can’t 
+comment on what they did – I have only considered what Creation did. 
+As I said, I appreciate the points Mr R has made and have considered his complaint fully. 
+But, on balance, I think Creation’s treatment of Mr R’s credit file was reasonable and I’m not 
+asking the firm to do any more here. 
+My final decision 
+I do not uphold this complaint. 
+Under the rules of the Financial Ombudsman Service, I’m required to ask Mr R to accept or 
+reject my decision before 14 February 2025. 
+  
+ 
+Martin Lord 
+Ombudsman 
+ 

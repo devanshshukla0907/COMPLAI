@@ -1,0 +1,110 @@
+K820x#14
+complaint
+Mr L has complained to Creation Consumer Finance Ltd (“Creation”) about the way it’s 
+responded to a claim he made under section 75 Consumer Credit Act 1974 (“s.75”).
+background
+In May 2015 Mr L entered into an agreement to purchase a solar panel system from a 
+supplier called My Planet.  It was paid for using finance provided by Creation and installed in 
+June 2015.
+Because Mr L paid for the system using credit, Creation is responsible for 
+misrepresentations and breaches of contract – to the same extent as the supplier.  
+Represented by a claims management company (“CMC”), Mr L made a s.75 claim to 
+Creation as the supplier was no longer trading.
+The CMC made several claim points, but in summary said:
+
+The supplier has ceased trading and can’t deliver the system’s 10-year guarantee so 
+there is a breach of contract.
+
+The system was misrepresented as the supplier said the energy savings and benefits 
+would cover the cost of the finance payments and Mr L would receive free electricity.
+
+Creation failed to carry out an appropriate assessment of affordability and Mr L’s 
+creditworthiness.
+Creation didn’t uphold the complaint and explained the documentation clearly stated the 
+performance of the solar panel system was an estimate and not to be considered a 
+guarantee.
+Unhappy with Creation’s response, the CMC referred the complaint to our Service on behalf 
+of Mr L.
+One of our investigators looked into things and issued an assessment recommending that 
+the complaint should not be upheld.  He noted that Creation had carried out a calculation to 
+show the likely benefit Mr L would receive from the system over the 10-year term of the loan.  
+As that sum was greater than the amount Mr L paid to settle the loan, he didn’t feel any 
+compensation was due.
+The CMC disagreed.  It responded saying that Mr L’s complaint was not being considered on 
+its own facts, and the calculation Creation had made was based upon the units of energy 
+generated and consumed, rather than the cost of the system.
+As no agreement could be reached, I’ve now been asked to review everything afresh and 
+make a decision.
+my findings
+I’ve considered all the available evidence and arguments to decide what’s fair and 
+reasonable in the circumstances of this complaint.  Having done so, I’ve reached the same 
+conclusion as the investigator, and for broadly the same reasons.
+Ref: DRN2794310
+2
+It’s important to address the point the CMC has raised about investigating Mr L’s complaint 
+on its own facts.  Whilst this Service aims to be consistent and take account of wider general 
+considerations, each complaint is impartially reviewed and decided.  I must assure Mr L that 
+whilst I understand he’s likely to be disappointed with the outcome of my decision I have 
+reviewed everything provided on his complaint in deciding what’s fair and reasonable.
+As Mr L purchased the system using finance with Creation, he is entitled to make a s.75 
+claim, as it is jointly and severally liable to the same extent as My Planet.  Creation has 
+accepted this.
+The CMC raised concerns that Creation failed to carry out an assessment of 
+creditworthiness.  I’ve not seen anything to suggest the finance caused Mr L affordability 
+issues and I note that he settled the loan account soon after the panels were installed.  
+Creation has also explained that it’s not possible for an individual to enter into a credit 
+agreement unless an assessment has taken place, and it uses a tool which assesses a 
+customer’s circumstances.  Overall I’m satisfied Creation acted reasonably in that respect 
+and ensured it was appropriate to provide Mr L credit.
+So the issue for me to decide is whether there was a breach of contract or 
+misrepresentation.
+the system guarantee
+The solar panel system was installed in June 2015 and came with a 10-year guarantee.  The 
+CMC has said that as the supplier has ceased trading, the guarantee cannot be honoured 
+and there is a breach of contract.
+As I understand it, the guarantee came in the form of an Insurance Backed Guarantee 
+(“IBG”) for a 10-year term to match the loan.  In its final response letter to Mr L’s complaint, 
+Creation provided contact details for the scheme which would cover the guarantee in the 
+event of a fault with the system.
+I’ve seen no evidence that Mr L has needed to claim against the IBG due to any fault with 
+the solar panel system.  But in any event, Creation has confirmed that upon evidence of the 
+guarantee existing and benefits provided, it would cover it under its s.75 responsibilities.
+So, I can’t say there’s been a breach of contract in relation to the guarantee and I consider 
+Creation has acted fairly toward Mr L in this regard.
+misrepresentation
+I understand that Creation has made reference to the purchase agreement signed by Mr L in 
+2015. The agreement states that the estimate provided is “given as guidance only”, and 
+“should not be considered as a guarantee of performance”.
+It has also referred to the Customer Satisfaction Note Mr L signed following installation of the 
+panels which states “Any figures are quoted for illustrative purposes only and actual savings 
+will vary accordingly to level of energy use”.
+But Mr L says the supplier, My Planet, told him the savings and benefits he’d receive from 
+the system would pay to service the loan and it’d be self-funding.  On balance, I consider 
+Ref: DRN2794310
+3
+that likely to be the case, and it was a key inducement for Mr L entering into the agreement 
+to purchase the system.  So, I consider that expectation was likely represented to Mr L.
+Creation carried out a calculation which it says shows that over the 10-year term of the loan, 
+the financial benefit Mr L would likely generate is £7,192.44.  As the cost for Mr L to settle 
+his loan account was £6,988.66, Creations says the benefit is greater than the cost.
+The CMC provided Feed-in-Tariff (“FiT”) statements to show the annual energy generation of 
+Mr L’s system.  Having reviewed those statements and Creation’s offer, I’m satisfied it has 
+calculated the benefits properly and they are in line with what Mr L was led to believe.
+I understand the CMC says that measuring the energy generation in kWh is not the same as 
+calculating the monetary value of the benefits provided by the system.  And for this reason, 
+Creation’s calculations don’t reflect the representations made to Mr L by the supplier.  Whilst 
+I appreciate the point the CMC makes, the solar panel system generates energy which can 
+be measured, and it is that benefit which can then be converted to a monetary equivalent in 
+the form of FiT benefits and cost savings on bills.
+Taking everything into account I’m satisfied Creation’s approach to calculating the benefit is 
+fair and reasonable, and the system provides an expected monetary benefit in excess of 
+what it cost Mr L.  So, I can’t say the system was misrepresented when it will in fact, have 
+likely paid for itself at the end of 10 years.
+my final decision
+For the reasons set out above, my final decision is that I don’t uphold Mr L’s complaint 
+against Creation Consumer Finance Ltd.
+Under the rules of the Financial Ombudsman Service, I’m required to ask Mr L to accept or 
+reject my decision before 30 April 2020.
+Ross Hammond
+ombudsman
+Ref: DRN2794310

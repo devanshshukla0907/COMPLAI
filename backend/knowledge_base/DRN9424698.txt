@@ -1,0 +1,189 @@
+K822x
+Complaint
+Miss B is unhappy with the response of Creation Consumer Finance Ltd (‘Creation’), 
+following a claim against it under section 75 of the Consumer Credit Act (‘CCA’) 1974.
+Background 
+Miss B was contacted by a company, I’ll refer to it as ‘P’, that supplied and installed solar 
+panel systems. Following a meeting at her home Miss B agreed to enter into a contract with 
+P for it to supply and install a solar panel system costing around £9,300. To fund this Miss B 
+also entered into a 10 year fixed sum loan agreement with Creation.
+Miss B made a claim under section 75 (‘s75’) of the CCA. She said that P had told her that 
+the solar panel system would be ‘self-funded’ and that the monthly loan repayments would 
+be more than off-set by the feed-in-tariff (‘FIT’) income. But that hadn’t happened. Instead, 
+the monthly loan repayments had been much higher.
+In its final response letter, Creation said that it didn’t think the benefits of the solar panels 
+had been misrepresented. As a gesture of goodwill, it offered to reduce the total amount 
+payable under the loan agreement by 25%. Unhappy with this response, Miss B referred the 
+complaint to our service.
+One of our investigators looked into what had happened. She felt that the benefits of the 
+solar panels had been mis-represented. In her latest view to both parties she recommended 
+that Creation recalculate the potential savings and income from the solar panels to Miss B 
+over the term of the loan. She said it should then restructure the loan so that Miss B would 
+pay no more than this amount over the 10 year term of the loan. As this would mean that 
+Miss B would have been paying more each month than she should’ve been our investigator 
+also recommended it give Miss B the following four options as to how she would like her 
+overpayments to be used:
+1.
+the overpayments are used to reduce the outstanding balance of the loan and 
+Miss B continues to pay her current monthly loan repayment resulting in her loan 
+finishing early,
+2.
+the overpayments are used to reduce the outstanding balance of the loan and 
+she pays a new, lower monthly loan until the end of the loan term,
+3.
+the overpayments are returned to Miss B and she continues to pay her existing 
+monthly loan repayment resulting in her loan finishing early, or;
+4.
+the overpayments are returned to Miss B and she pays a new, lower monthly 
+loan repayment until the end of the loan term.
+Our investigator also recommended that Creation pay Miss B £100 to recognise the trouble 
+and upset caused.
+Creation accepted our investigators view of the complaint. Miss B didn’t. In summary, she 
+said:
+
+she didn’t think the assumptions used by Creation were fair and she’d made her 
+own detailed calculation which showed that Creation had over-estimated the 
+potential income and benefits she would receive,
+Ref: DRN9424698
+2
+
+she thought Creation should also make a payment to her for the cost of replacing 
+the inverter as it was likely to need replacing during the lifetime of the solar panel 
+system, and;
+
+£100 didn’t accurately reflect the trouble and upset this had caused her.
+As an agreement couldn’t be reached, the case has been passed to me to review.
+ 
+My findings
+I’ve considered all the available evidence and arguments to decide what’s fair and 
+reasonable in the circumstances of this complaint.
+Miss B says that she was approached by P and during a sales meeting at her home told that 
+the solar panel system would be entirely self-financing. Neither Miss B nor Creation dispute 
+that P misrepresented the benefits of the solar panel system. As a result, this decision will 
+deal with what I consider to be fair compensation.
+The role of this service is to help settle disputes between consumers and businesses 
+providing financial services fairly and reasonable with minimum formality. In cases like this 
+one, determining fair compensation isn’t an exact science. My role is to arrive at a fair and 
+reasonable outcome taking account of the particular circumstances.
+I’ve considered whether it would be appropriate to put Miss B back into the position she 
+would have been in if they’re had been no misrepresentation i.e. Creation to refund all 
+monies paid by Miss B, arrange for the solar panels to be removed and make good any 
+damage caused. My view of Miss B’s complaint is that it isn’t so much about the solar panels 
+themselves, but that she was led to believe that they would be self-funding and come at no 
+additional cost to her. So, I don’t think it would be fair or proportionate to require the removal 
+of the solar panels from her home. Rather, I think the fair outcome here is to put Miss B in a 
+position where the panels are self-funding over the original term of the loan. By allowing 
+Miss B to keep the solar panels, I’m satisfied that she will likely benefit from lower electricity 
+bills and FIT payments going forward (i.e. after the term of the loan has finished).
+Miss B has said that she doesn’t believe the assumptions that have been used by Creation 
+are fair and result in it over-estimating the benefits she can expect to receive from her solar 
+panels. She has provided her own calculation as to what she believes a fair figure would be.
+I’ve carefully considered the methodology Creation has submitted to this service to calculate 
+the total benefits of Miss B’s solar panel system. This methodology is based on the actual 
+performance and estimated future performance of Miss B’s solar panels.
+Creation has outlined that when calculating the estimated future performance of Miss B’s 
+solar panels, it will make a number of assumptions. These include using a self-consumption 
+rate of 37%. This is the percentage of energy generated by her panels that Miss B is 
+expected to use rather than buying electricity from her energy provider. 
+The self-consumption rate that is used by Miss B’s energy provider to calculate her FIT 
+payments is 50%. This is based on the rate that was previously set by the Government. The 
+Energy Savings Trust website had previously set out a table that showed the potential 
+savings under various scenarios depending on the consumer’s lifestyle rather than a specific 
+percentage.
+Ref: DRN9424698
+3
+What is clear is that self-consumption is impacted by the period of time that someone is in 
+their home and able to use, or self-consume, the electricity that their solar panels are 
+generating. It is self-evident that determining an exact figure over the period of the loan is 
+difficult. My role is to determine fair compensation and arrive at an outcome that is fair and 
+reasonable overall. And in cases of this nature that isn’t an exact science.
+Taking the above into account I’m satisfied that using a self-consumption rate of 37% is fair 
+and reasonable in this case. I’m of the opinion that this takes into account the evidence I’ve 
+discussed above and will also take into account changing consumer occupancy habits over 
+the lifetime of the solar panel system. Once the loan has been repaid, I’m satisfied that it is 
+highly likely that Miss B will benefit from the solar panel system as a result of a reduction in 
+her electricity bills because of the electricity generated by the panels and the FIT payments.
+I’ve also considered the other assumptions used by Creation, including electricity price 
+inflation, the degradation rate and the retail price index (‘RPI’). I’m of the view that these 
+appear reasonable taking into account the actual known figures. As an example, the actual 
+average RPI for the last four years doesn’t seem to be far from the assumed figure. In 
+summary, I’m satisfied that the assumptions that have been used by Creation provide a fair 
+and reasonable basis for calculating fair compensation.
+Miss B has said that there is no guarantee that the inverter in her solar panel system won’t 
+need replacing and this is likely to cost a significant amount of money. So, I’ve considered 
+whether an award should be made for any ongoing maintenance and repair costs.
+I’ve looked at the current information available from the Energy Savings Trust. It says that 
+solar panels don’t need a lot of maintenance but usually the inverter will need replacing 
+‘sometime’ during the lifetime of the solar panel system as a cost of about £800.
+I accept that a consumer could have some maintenance and repair costs over the lifetime of 
+the solar panels. The proposed approach to put things right for a consumer is to make the 
+panels self-funding over the original term of the loan. Once the loan has been repaid, as I’ve 
+already outlined above, Miss B is highly likely to enjoy significant benefit from the solar 
+panels by way of savings and FIT income going forward. In addition, Miss B has the flexibility 
+to be paid a lump sum to cover her overpayments together with interest.
+Based on the available information I’m satisfied that the potential benefit will more than cover 
+any future maintenance costs and Miss B has the flexibility to be paid her compensation as a 
+lump sum payment to pay for a replacement inverter if necessary.
+Because of the reasons I’ve given above I’m not persuaded that Creation should make an 
+award for maintenance and repair costs.
+Creation has also agreed that as long as Miss B can provide it with a copy of her warranty, 
+and it can be evidenced that it formed part of the initial contract, it will honour the warranty. 
+This doesn’t guarantee the outcome of any future claim but, if Miss B experiences any 
+system issues within the original warranty period, she’d be entitled to raise a claim under the 
+warranty and Creation will consider it under the warranty terms.
+By making the solar panels self-funding, Miss B’s monthly payments will reduce, meaning 
+that she would have previously been paying more each month than she should have 
+Ref: DRN9424698
+4
+resulting in an overpayment. And as she has been deprived of the monthly overpayment, I 
+would expect Creation to add 8% simple interest from the date the overpayment was made 
+until the date of the settlement. In a case like this, I think the fairest resolution would be to 
+allow Miss B to select from the below four options as to how she would like her 
+overpayments and associated interest to be used:
+1.
+the overpayments and associated interest are used to reduce the outstanding 
+balance of her loan and she continues to make her current monthly loan repayment 
+resulting in her loan finishing early,
+2.
+the overpayments and associated interest are used to reduce the outstanding 
+balance of the loan and she pays a new, lower monthly payment until the end of the 
+loan term,
+3.
+the overpayments and associated interest are returned to Miss B and she continues 
+to pay her current monthly payment resulting in her loan finishing early, or;
+4.
+the overpayments and associated interest are returned to Miss B and she pays a 
+new, lower monthly payment until the end of the loan term.
+If Miss B accepts my decision, she should indicate on the acceptance form which option she 
+would prefer.
+Our investigator recommended that Creation pay Miss B £100 to recognise the trouble and 
+upset caused. Miss B has said this doesn’t reflect the time and effort she has had to make 
+and believes an award of £500 to be more appropriate.
+An award for trouble and upset isn’t intended to fine or punish the business – that’s the job of 
+the regulator. Whilst I do not doubt that this whole episode has undoubtedly caused her 
+trouble and upset, the amount recommended by the investigator is broadly in line with what 
+we’d say is fair in the circumstances. Taking everything into account I’ll make an award of 
+£100 to cover this.  
+Ref: DRN9424698
+5
+My final decision
+My final decision is that Miss B’s complaint should be upheld. In full and final settlement of it, 
+Creation Consumer Finance Ltd should:
+(a) allow Miss B to keep the solar panels,
+(b) estimate the potential savings and income to Miss B from the panels over the 10 year 
+loan term and rework it so she pays no more than this. Where possible, it should use 
+Miss B’s electricity bills and FIT statements to do this,
+(c) add 8% simple interest* to any overpayment made from the date the overpayment 
+was made to the date of the settlement,
+(d) allow Miss B to decide how she would like her overpayments to be used, using the 
+four options described above, and;
+(e) pay Miss B £100 for the trouble and upset caused.
+Under the rules of the Financial Ombudsman Service, I’m required to ask Miss B to accept 
+or reject my decision before 18 March 2020.
+Michael Fisher
+ombudsman
+*If Creation Consumer Finance Ltd considers that it’s required by HM Revenue & Customs 
+to take off income tax from that interest, it should tell Miss B how much it’s taken off. It 
+should also give Miss B a certificate showing this, if she asks for one, so she can claim the 
+tax from HM Revenue & Customs.
+Ref: DRN9424698

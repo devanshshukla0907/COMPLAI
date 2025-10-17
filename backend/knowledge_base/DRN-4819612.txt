@@ -1,0 +1,129 @@
+DRN-4819612
+The complaint
+Mr M has complained, through a claims management company (“CMC”), about Creation 
+Consumer Finance Ltd’s (‘Creation’) response to a claim he made under Section 75 (‘s.75’) 
+of the Consumer Credit Act 1974 (the ‘CCA’).
+What happened
+In May 2014, Mr M bought a solar panel system (‘the system’) from a company I’ll call “G”, 
+using a ten-year fixed sum loan from Creation. Mr M paid off the loan early, on 11 Jul 2016.
+Mr M complained to Creation through a Claims Management Company (“CMC”). He said 
+that he was told by G that the system would not cost him a penny because the income from 
+the Feed-In Tariff (“FIT”) would cover the monthly loan repayments. But that hasn’t 
+happened and as a result he’s suffered a financial loss. 
+Creation didn’t respond within a reasonable time, so Mr M referred his complaint to the 
+Financial Ombudsman Service. Creation told us that the claim had been made too late, 
+since more than 6 years had passed since Mr M purchased the system. And that we didn’t 
+have jurisdiction to consider the complaint due to the time limits that we must apply.
+Our Investigator said that we had jurisdiction to consider the complaint. And while the s.75 
+claim was made too late in relation to misrepresentation or breach of contract, under Section 
+140A of the CCA we could still consider whether there was an unfair relationship between 
+Creation and Mr M, given when the relationship ended. However, having considered the 
+evidence of what happened at the time of sale, the Investigator concluded there was 
+insufficient evidence of an unfair relationship, and she didn’t think the complaint should be 
+upheld. 
+Mr M disagreed with this, so I’ve been asked to make a decision. 
+What I’ve decided – and why
+I’ve considered all the available evidence and arguments to decide what’s fair and 
+reasonable in the circumstances of this complaint.
+I’ve decided not to uphold this complaint, for broadly the same reasons as our Investigator.
+My findings on jurisdiction 
+I’m satisfied I have jurisdiction to consider Mr M’s complaint, both in respect of the refusal by 
+Creation to accept and pay his s.75 claim and the allegations of an unfair relationship under 
+s.140A.
+The s.75 complaint 
+The event complained of here is Creation’s failure to respond to Mr M’s s.75 claim within a 
+reasonable time. This relates to a regulated activity under our compulsory jurisdiction. Mr M 
+brought his complaint about this to the Financial Ombudsman Service on 13 October 2020, 
+after he had no response from Creation for around eight months. This was clearly within the 
+six-year time limit under our rules. 
+So, his complaint in relation to the s.75 claim was brought in time for the purposes of our 
+jurisdiction.
+The unfair relationship under s.140A complaint 
+The event complained of here is Creation’s participation, for so long as the credit relationship 
+continued, in an alleged unfair relationship with Mr M. Here the relationship ended on 11 July 
+2016. Mr M had six years from that date to make a complaint about his allegedly unfair 
+relationship with Creation. He referred his complaint to the ombudsman service on 13 
+October 2020. So, the complaint has been brought in time for the purposes of our 
+jurisdiction.
+My findings on the merits of the complaint 
+The s.75 complaint 
+The law imposes a six-year limitation period on claims for misrepresentation and breach of 
+contract, after which they become time barred. 
+In this case the alleged misrepresentation and cause of action arose when an agreement 
+was entered into on 6 May 2014. Mr M’s CMC says it sent a letter to Creation on 11 
+February 2020. But Creation says it didn’t receive this. 
+The CMC has provided no evidence that it followed up its letter of claim when it got no 
+response, or that it filed a claim form with the Court or took any other action within the 
+limitation period. I can see no reason why Mr M was unable to pursue the matter further with 
+the Court or with our service within the limitation period. 
+So, I think Creation was justified in raising a limitation defence to the claim. While it would be 
+for the Court to determine if the time limits had been breached, in my opinion it was not 
+unreasonable of Creation to reject the s.75 claim on the basis that Mr M had made the claim 
+too late. 
+The unfair relationship under s.140A complaint
+When considering whether representations and contractual promises by G can be 
+considered under s.140A I’ve looked at the court’s approach to s.140A. 
+In Scotland & Reast v British Credit Trust [2014] EWCA Civ 790 the Court of Appeal said a 
+court must consider the whole relationship between the creditor and the debtor arising out of 
+the credit agreement and whether it is unfair, including having regard to anything done (or 
+not done) by or on behalf of the creditor before the making of the agreement. A 
+misrepresentation by the creditor or a false or misleading presentation are relevant and 
+important aspects of a transaction. 
+Section 56 (‘s.56’) of the CCA has the effect of deeming G to be the agent of Creation in any 
+antecedent negotiations. 
+Taking this into account, I consider it would be fair and reasonable in all the circumstances 
+for me to consider as part of the complaint about an alleged unfair relationship those 
+negotiations and arrangements by G for which Creation were responsible under s.56 when 
+considering whether it is likely Creation had acted fairly and reasonably towards Mr M. 
+But in doing so, I should take into account all the circumstances and consider whether a 
+Court would likely find the relationship with Creation was unfair under s.140A.
+What happened
+Mr M has said that he was told by G’s representative that the system would not cost him a 
+penny because the income from the FIT would cover the monthly loan repayments. 
+Mr M has provided an order form signed on 6 May 2014. This shows the cash price of the 
+system was £7,995.00, and the monthly loan repayment would be £103.35. However, the 
+order form did not include information about how much electricity the system was expected 
+to generate (although there was a space for this information on the form) or the financial 
+benefits that could be expected in terms of FIT income and savings on electricity bills. 
+While the expected electricity generation wasn’t shown on the order form, I do not think that 
+is conclusive evidence that Mr M was misled or that his relationship with Creation was unfair 
+on him. There are a number of plausible explanations for this information not having been 
+written on the form – such as the sales representative simply forgetting to do so. In any 
+case, the expected electrical generation figure would not have told Mr M very much about 
+the system, since he would not have the expertise or knowledge to calculate the financial 
+benefits that could result from this.
+The credit agreement, signed the same day, shows the amount of credit was £7,995.00, the 
+total charge for credit was £4,407.48, and the total amount payable was £12,402.48, via 120 
+monthly repayments of £103.35.
+The CMC says the order form misled Mr M in terms of what he had to pay for the system. 
+But given both documents were signed on the same day, presumably in the same meeting, I 
+think it’s clear that G gave Mr M clear information on both the loan interest and the total 
+amount he was agreeing to pay for the system. 
+G was sent a copy of the letter of claim by the CMC when it approached Creation. G 
+responded to this and pointed out that after installation of the system Mr M had signed a 
+satisfaction note that made clear the total combined benefit (FIT and savings) would be 
+£557.03. This is significantly less than the monthly loan repayments that Mr M had agreed to 
+pay. And Mr M had never contacted G to make a complaint about the financial benefits of 
+the system. 
+It seems unlikely that G would’ve told Mr M that the system would be self-funding on a 
+monthly basis, only to give him a document immediately after installation which made it clear 
+that was not the case. I’m also mindful that if the information on the satisfaction note differed 
+significantly to what Mr M had been told prior to installation, it is likely that Mr M would’ve 
+taken this up with G at the time, rather than around six years later. 
+Mr M has also been unable to provide a copy of the MCS certificate, which he would’ve been 
+given after the system was installed. I know he had this since without it he could not have 
+applied to receive FIT payments. This suggests he has not retained all the important 
+documents in relation to the system. While that is understandable, given the amount of time 
+that has passed and that he has moved house since then, it does open the possibility that 
+Mr M was given clear written information about the benefits he could expect, as was good 
+industry practice at that time, but that he has since lost those documents alongside the MCS 
+certificate. 
+Overall, I think it is unlikely that a Court would conclude that what happened at the time of 
+sale meant the relationship between Creation and Mr M was unfair on him. 
+My final decision
+For the reasons I’ve explained, I do not uphold this complaint. 
+Under the rules of the Financial Ombudsman Service, I’m required to ask Mr M to accept or 
+reject my decision before 8 July 2024.
+ 
+Phillip Lai-Fang
+Ombudsman

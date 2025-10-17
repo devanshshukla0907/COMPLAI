@@ -1,0 +1,101 @@
+DRN-3925942
+The complaint
+Miss B complains that Creation Consumer Finance Ltd (“Creation”) declined her claim for a 
+refund of a defective sofa under section 75 of the Consumer Credit Act 1974.
+What happened
+In January 2018 Miss B bought a sofa for £2,141, and paid for it with a three year interest-
+free loan from Creation. In August 2020 she complained that the leather was cracking and 
+peeling. This was repaired at the time, but the defect was not identified as a manufacturing 
+fault.1
+In July 2022 Miss B again reported damage to the leather. This time, the repairman (who 
+was sent by the retailer’s insurance company) said in a written report that the damage was 
+the result of a manufacturing fault. He went on to say: “Fabric not bonded correctly at the 
+manufacturing stages. No signs of pet damage at all no scratches.” That conclusion was not 
+disputed until recently. At the time, it was accepted by the retailer and by Creation that both 
+faults, in 2020 and in 2022, were manufacturing faults for which the retailer and, under 
+section 75, Creation were liable.
+The retailer offered Miss B a refund of 20% of the value of the sofa. Miss B rejected that 
+offer, as she now wanted to reject the sofa. She asked Creation for a full refund under 
+section 75. Creation contacted the retailer about her claim, and the retailer made a new offer 
+of either 40% credit towards new goods, or a 40% refund and “uplifting” the sofa. (This was 
+later described as 20% compensation topped up with another 20% as a gesture of good 
+will.) Miss B did not accept that offer either, and so one of our investigators considered her 
+case.
+Our investigator decided that the manufacturing defect should have been discovered in 
+August 2020, when the damage was first reported. He recommended that Creation allow 
+Miss B to reject the sofa, pay her a refund of 90% of what she had paid for it, and pay 
+interest on the refund at 8% a year from December 2018 to the date of settlement. He 
+thought that a 90% refund was fair because Miss B had had some use of the sofa before the 
+damage had appeared.
+Creation did not accept that opinion. It obtained a further report (I have not seen the original, 
+but Creation has copied the text into an email). This said that it was not possible to rule out 
+that some of the damage had been caused by a pet, although there was also evidence that 
+some of the damage was indeed a manufacturing fault, and the author of the report did not 
+think that this had started as pet damage. Creation also provided an email from the retailer 
+explaining how it had calculated that a 20% refund fairly reflected the use Miss B had had of 
+the sofa prior to complaining about it. Creation asked for an ombudsman’s decision.
+1 Another repair had been carried out in March 2018, but this was not about the leather but a chair 
+arm which was loose. That is not part of this complaint, and so I have not considered it.
+What I’ve decided – and why
+I’ve considered all the available evidence and arguments to decide what’s fair and 
+reasonable in the circumstances of this complaint.
+I think that there is clear evidence in both reports that there was a manufacturing fault. The 
+only difference between the two reports is that the first one says there was no pet damage at 
+all, and the more recent one says there is some damage which could be pet damage, but 
+also some other damage which is definitely the result of a manufacturing fault. That suggests 
+that if there is pet damage, then it was probably caused at some time between the reports, 
+but I think the alleged pet damage is a red herring, as both reports say there is a 
+manufacturing fault, and so I am satisfied that the sofa was defective at the point of sale, 
+Creation is liable for that under section 75.
+For that reason, I am satisfied that Miss B was entitled to reject the sofa under sections 20 
+and 24 of the Consumer Rights Act 2015, and to receive a refund of what she had paid for it. 
+Under section 24(8), Creation is entitled to reduce the refund “to take account of the use the 
+consumer has had of the goods in the period since they were delivered.” This is called a 
+“deduction for use.” There is significant disagreement about how much that deduction should 
+be, and the Act does not elaborate on how it should be calculated. So it now falls to me to 
+determine what would be a fair and reasonable deduction.
+As I’ve said, the sofa was delivered in January 2018. The retailer calculated a deduction for 
+the period up to the second reported leather damage; that is, up to July 2022, or about 54 
+months.  But I think that the manufacturing fault should have been identified in August 2020, 
+when the leather damage was first reported. If that had happened, then Miss B would have 
+been entitled to reject the sofa back then, and it’s likely that she would have exercised that 
+right. So I will award a deduction for the use of the sofa up until August 2020. That comes to 
+31 months.
+The retailer has explained that it calculated the use period as a proportion of the limitation 
+period for bringing a claim for breach of contract under the Limitation Act 1980, which is six 
+years. It rounded down the 54 months of use to four years. Four years is two thirds of six 
+years, so the deduction for use amount came to two thirds, which gives a refund of 33%. 
+(This means that the retailer’s original offer of a 20% refund was not enough by its own 
+measure, but its revised offer of 40% was more than enough.)
+I do not agree with that approach. The usual lifetime of a leather sofa should be about 15 to 
+20 years, so I don’t think it is fair to work out the deduction for use based on a period of only 
+six years.
+I will only round the use period to the nearest month; as I’ve said, I’m using 31 months. 15 to 
+20 years is 180 to 240 months. 31 months is 17% to 13% of that; the average of those 
+percentages is 15%. So I think it would be fair to reduce a full refund by 15%, making a 
+refund of 85% of £2,141, which comes to £1,819.85. (That is about £107 less than the 
+investigator recommended.) I will add simple interest to the refund at the rate of 8% a year, 
+from 20 August 2020 (the date of the first leather damage) to the date of settlement.
+I also think that Creation should pay Miss B £100 for her inconvenience.
+(As the difference between the compensation I am awarding and the compensation the 
+investigator recommended is only £7.05 (and some interest), I have not thought it necessary 
+to write a provisional decision in this case.)
+My final decision
+My decision is that I uphold this complaint. I order Creation Consumer Finance Ltd to pay 
+Miss B:
+
+£1,819.85, plus simple interest on that sum at the rate of eight per cent a year from 
+20 August 2020 to the date of settlement, and
+
+£100 for her inconvenience.
+(If Creation considers that it is required by HM Revenue & Customs to withhold income tax 
+from that interest, it should tell Miss B how much it’s taken off. It should also give Miss B a 
+tax deduction certificate if she asks for one, so she can reclaim the tax from HMRC if 
+appropriate. Miss B should refer back to Creation if she is unsure of the approach it has 
+taken, and both parties should contact HMRC if they want to know more about the tax 
+treatment of this portion of the compensation.)
+Under the rules of the Financial Ombudsman Service, I’m required to ask Miss B to accept 
+or reject my decision before 21 March 2023.
+ 
+Richard Wood
+Ombudsman

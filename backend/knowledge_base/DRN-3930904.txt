@@ -1,0 +1,128 @@
+DRN-3930904
+The complaint
+Ms G has complained about the way Creation Consumer Finance Ltd (“Creation”) has dealt 
+with a claim she made under section 75 Consumer Credit Act 1974 (“s.75”). 
+What happened
+In July 2014, Ms G entered into a contract to purchase a solar panel system from a supplier. 
+She paid for the system in part using a fixed sum loan agreement with Creation, which was 
+repayable over ten years. 
+The CMC wrote to Creation September 2021, to make a claim under s.75 on behalf of Ms G. 
+The purpose of s.75 is to provide protection for consumers who pay for goods or services 
+using credit. The creditor (Creation) is jointly and severally liable with the supplier for any 
+breach of contract or misrepresentation by the supplier – subject to certain considerations 
+being met. 
+Ms G’s claim explained that the system was sold to her as being self-funding – that is that it 
+would pay for itself through the benefits it would provide.
+Creation responded to say that the claim had been made outside of the time limits that 
+apply. 
+Unhappy with Creation’s response, Ms G raised a complaint and referred the matter to this 
+Service to look into. One of our adjudicators reviewed things but concluded that Creation 
+had not acted unfairly by rejecting Ms G’s claim. 
+In summary, our adjudicator said that Ms G’s claim against the supplier of the system was 
+made outside of the timescales set out in the Limitation Act 1980. As Creation (as the credit 
+provider) is liable to the same extent as the supplier, our adjudicator agreed it had acted 
+reasonably when saying the ‘like claim’ against it was made too late. 
+Creation accepted the adjudicator’s assessment, but Ms G did not. The CMC made a 
+number of points, but essentially said that we should consider s.14 of the Consumer Credit 
+Act, rather than s.75. And that due to this Ms G had three years from when she became 
+aware she had cause to make a claim. The CMC says that Ms G didn’t know she could claim 
+until she contacted the CMC, and the claim was made shortly after this. So the claim was not 
+made out of time.
+Our adjudicator wasn’t persuaded to change their mind. They said that Ms G ought to have 
+been aware she had a cause to make a claim a year or two following the installation, so the 
+claim was still made outside of the time limits that applied. 
+Unhappy with this, Ms G asked for the complaint to be reviewed by an ombudsman. 
+What I’ve decided – and why
+I’ve considered all the available evidence and arguments to decide what’s fair and 
+reasonable in the circumstances of this complaint.
+Relevant considerations 
+Ms G’s complaint is about a claim under s.75 and so naturally the appropriate parts of the 
+Consumer Credit Act 1974 are relevant here. The Limitation Act is also relevant because 
+Creation relied on this when declining the claim. 
+As I’ve explained above, s.75 sets out why a claim can be made against Creation, and it can 
+be held responsible for a purchase Ms G made using her credit card. 
+There are also high-level principles which apply to all firms authorised by the financial 
+regulator (the “FCA”). Principle 6 of the FCA Principles states: 
+“A firm must pay due regard to the interests of its customers and treat them fairly”. 
+So, Creation must have treated Ms G fairly when it declined her s.75 claim. And as the 
+reason Creation gave for declining Ms G’s claim was that it was made outside of the relevant 
+time limits, the Limitation Act 1980 is of particular relevance. 
+The Limitation Act 
+The Limitation Act is the law which sets out the time limits which apply to different causes of 
+action that a party can pursue. As Ms G’s rights to claim against Creation are on the same 
+basis of those she could make a claim against the supplier, I consider the relevant time limits 
+set out in the Limitation Act are: 
+
+Section 2 which applies to causes of action founded in tort law – which includes 
+claims for misrepresentation. 
+
+Section 9 which applies to causes of actions for sums recoverable by statute. 
+
+Section 14A which sets out when time limits are linked to when a claimant had the 
+necessary knowledge and right to bring a claim. 
+Misrepresentation 
+s.2 of the Limitation Act states, “An action founded on tort shall not be brought after the 
+expiration of six years from the date on which the cause of action accrued”.
+For me to determine whether a claim was brought within six years, I have to decide when the 
+cause of action, or damage, took place. The damage is the financial loss arising as a result 
+of the misrepresentation. 
+In this case, Ms G says the benefits of the system was the inducement that made her make 
+the purchase. But her claim is largely that those benefits were negligently misrepresented 
+and so she entered a contract which wasn’t the value for money she expected. Ms G says 
+that were it not for the misrepresentation about the potential benefits, then she wouldn’t have 
+entered the contract to purchase the system at all. 
+So, Ms G’s financial loss occurred when she contracted to pay for the system in July 2014 
+using a loan, and she began to make repayments. 
+Ms G raised her claim with Creation in September 2021, which is more than six years from 
+when the damage occurred, and her cause of action accrued. 
+Sums recoverable by statute law 
+s.9 of the Limitation Act states, “An action to recover any sum recoverable by virtue of any 
+enactment shall not be brought after the expiration of six years from the date on which the 
+cause of action accrued.” 
+I’ve considered this section because the basis of Ms G’s claim against Creation is under the 
+Consumer Credit Act, so is a sum recoverable by virtue of enactment (statute law from an 
+act of parliament). But I don’t think this changes the position compared to the other 
+provisions in the Limitation Act. s.75 makes the lender jointly and severally liable for a 
+supplier’s misrepresentation or breach of contract – effectively making Creation step into the 
+shoes of the supplier. 
+This means that the limitation period under s.9 is the same as for breach of contract – and 
+gives rise to effectively the same cause of action. 
+s.14A Limitation Act 
+Although the limitation time period is six years for cause of action as set out above, s.14A 
+provides for a second period in which a claim be made. That is, if later than the six-year 
+period, three years from the earliest date on which the claimant had both the knowledge 
+required to bring a claim for damages, and the right to bring such a claim. 
+This is a relevant consideration for Ms G’s claim as I’ve already explained she raised her 
+complaint with Creation over six years from when the contract was entered, and damage 
+suffered. So, applying s.14A in this instance I’ve considered when Ms G knew, or ought to 
+have known, that she may have a claim for misrepresentation or negligence against the 
+supplier. 
+Ms G’s complaint is that the system was not self-funding. I think she was aware at the time 
+of sale how much she would be paying each month (and year) to repay the loan. So, once 
+she had evidence of the benefits the system was providing, she would be in a position to 
+know if the system was self-funding or not. I think she ought to have known this about one 
+year after installation, since by that point she would have one year’s worth of feed-in tariff 
+(“FIT”) statements and electricity bills. This would allow her to compare the benefits (what 
+she was receiving in FIT payments and how much less she was paying for electricity 
+compared to before installation) with the loan repayments. 
+Given when I think Ms G ought to have known she had a claim for misrepresentation or 
+negligence, s.14A does not extend the time limits referred to above. So, I consider it 
+reasonable for Creation to have concluded the claim was made out of time, and that Ms G 
+did know, or ought to have known she had a claim for misrepresentation more than three 
+years before she made her claim. 
+Summary 
+In this decision I am considering whether Creation has acted in a fair and reasonable 
+manner when dealing with Ms G’s claim. It is for the courts to ultimately decide whether or 
+not any right to claim against the supplier (and so Creation) has expired under the Limitation 
+Act but given the information available and representations made by both parties, I’m 
+satisfied Creation has applied the rules fairly and made a reasonable decision. 
+I’ve not seen any evidence to show Ms G was unable to make a claim within time, and so I 
+cannot fairly ask Creation to do anything else now. I realise this will come as a 
+disappointment to Ms G. 
+My final decision
+For the reasons I’ve explained, I don’t uphold Ms G’s complaint.
+Under the rules of the Financial Ombudsman Service, I’m required to ask Ms G to accept or 
+reject my decision before 28 February 2023.
+ 
+Phillip Lai-Fang
+Ombudsman

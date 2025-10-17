@@ -1,0 +1,80 @@
+K821x#15
+complaint
+Miss B is unhappy that her direct debit payments to Creation Consumer Finance Ltd 
+(“Creation”) were cancelled without her knowledge. As a result of the cancellation she had to 
+pay late payment charges and her credit score has been affected.
+background
+In July 2016, Miss B made a purchase which was paid for by finance provided by Creation. 
+She was due to repay the borrowing by making fixed monthly payments of £24.36.
+A direct debit was set up and the first two payments in August and September were successfully 
+taken. The direct debit was then cancelled and so the payments in October and November were 
+not made. This caused Miss B to charged £55 in missed payment fees by Creation.
+When Miss B became aware of the situation in December 2016 she made a payment to 
+Creation to bring the missed payments up to date and pay the penalty fees. The direct debit 
+was reinstated and the monthly payments have been taken successfully since that time.
+Miss B complained to Creation saying it was responsible for cancelling the direct debit, and 
+so was unhappy that she had incurred fees and missed payments were recorded on her 
+credit file.
+Creation offered to refund the fees as a gesture of goodwill, but advised that it couldn’t 
+amend Miss B’s credit file as it has a responsibility to accurately record and report her 
+payment history. It stated the request to cancel the direct debit had come from Bacs which is 
+payment scheme that is used to process direct debits. Its record from Bacs shows that 
+Miss B had requested the cancellation.
+Miss B disagreed, and provided evidence from her bank showing the direct debit had been 
+cancelled by Creation.
+The investigator who reviewed the complaint said it should be upheld. She commented that 
+Creation had acted reasonably by agreeing to refund the fees, but she also felt it should 
+amend Miss B’s credit file. Whilst she couldn’t say who had been responsible for certain, on 
+balance she believed it was unlikely Miss B had made the request to cancel the direct debit. 
+And so she said it was unfair for the credit file to record the missed payments.
+Creation disagreed, and reiterated the request to cancel the direct debit had been made by 
+Miss B and it only acted on her instruction. As no agreement could be reached, I’ve been 
+asked to review the complaint afresh and make a decision.
+my findings
+I’ve considered all the available evidence and arguments to decide what’s fair and 
+reasonable in the circumstances of this complaint. Having done so, I’ve reached broadly the 
+same conclusions as the investigator.
+I’ve looked at everything which has been provided by both Miss B and Creation. I 
+understand Creation has agreed to refund the missed payment fees and so I’ve not 
+considered these further. The issues which remain in dispute are who is responsible for 
+cancelling the direct debit, and whether Creation ought to do anything to amend Miss B’s 
+credit file. And so these are the points I’ve considered in particular.
+Ref: DRN4751216
+2
+The source of all the problems in this complaint is the cancellation of the direct debit. 
+Creation has said it did cancel the direct debit, but that was because it had received 
+instruction from Miss B through the Bacs scheme – and so it did nothing wrong. It’s provided 
+evidence from it systems showing that the instruction was recorded by Bacs as cancellation 
+requested by the payer (Miss B).
+In contrast, Miss B has provided evidence from her bank, which shows the direct debit was 
+cancelled by the originator (Creation). I note that Creation acknowledges it actually cancelled 
+the direct debit, and has suggested perhaps Miss B mistakenly made the request.
+To decide what’s fair and reasonable, I’ve further considered what I think is likely to have 
+happened. I think that if Miss B had wanted to cancel her direct debit she would have either 
+contacted Creation directly or cancelled the direct debit with her bank. There’s no evidence 
+she contacted Creation directly, and so she would need to have made the request through 
+her bank.
+Miss B has requested other direct debits be cancelled with her bank. These were recorded 
+as ‘Cancelled by Customer’. In this instance the bank recorded the direct debit to Creation 
+as being ‘Cancelled by Originator’. This suggests Miss B had not requested the cancellation 
+(whether mistakenly or otherwise).
+I’ve also noted Miss B’s other behaviour in relation to the payments to Creation. As soon as 
+she was aware there was a problem, she made an immediately payment to bring her 
+account up to date and the direct debit was reinstated. At the time the missed payments 
+were due, she had sufficient funds available to pay in her bank account. So she clearly had 
+no need to cancel the direct debit.
+Whilst I understand Creation’s position, I’m not persuaded Miss B requested for the direct 
+debit to be cancelled. So it would not be fair and reasonable for adverse entries to be 
+recorded on her credit file as I don’t think she was responsible for causing the missed 
+payments.
+my final decision
+My final decision is that I uphold the complaint against Creation Consumer Finance Ltd.
+To put things right, Creation should refund the fees Miss B was charged for missing the 
+payments (if they have not been refunded already). It should also arrange for Miss B’s credit 
+file to be amended to remove any reference to missed payments on her account for October 
+and November 2016.
+Under the rules of the Financial Ombudsman Service, I’m required to ask Miss B to accept 
+or reject my decision before 23 October 2017.
+Ross Hammond
+ombudsman
+Ref: DRN4751216

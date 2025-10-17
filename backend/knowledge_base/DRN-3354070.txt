@@ -1,0 +1,80 @@
+DRN-3354070
+The complaint
+Miss W complains that Creation Consumer Finance Ltd cancelled a direct debit and set 
+up a payment break for a personal loan she’d with them.
+What happened
+In March 2021, Miss W said she called Creation after she’d been told they’d cancelled her 
+direct debit for a personal loan she’d with them. Miss W then found that Creation had applied 
+a payment break to her personal loan account. She complained to them
+Creation said they’d received a report to cancel the direct debit mandate for her personal; 
+loan account, and they were bound to take this action. They said they’d listened to Miss W’s 
+call with them and accepted that the payment break had been implemented in error. They 
+offered Miss W £75 in recognition of this and gave assurance that her credit file wouldn’t be 
+impacted.
+Miss W wasn’t happy with their response and referred her complaint to us.
+Our investigator said Creation had followed instructions they’d received to cancel the direct 
+debit mandate. And their offer of £75 was fair and reasonable. So, she didn’t ask for 
+Creation to do anything further.
+Miss W didn’t agree and asked for an ombudsman to decide.
+What I’ve decided – and why
+I’ve considered all the available evidence and arguments to decide what’s fair and 
+reasonable in the circumstances of this complaint.
+I know Miss W feels strongly that Creation’s actions weren’t correct and that she’s suffered  
+as a result. Firstly, I’ll explain our role, we’re an informal dispute resolution service, acting as 
+an alternative to the courts. This means we’re impartial and look at both sides of the story. 
+We don’t place more weight on one side’s story because of who they are. We ask questions 
+and weigh up all the information we’re given. 
+Having considered what has happened, I’m not upholding this complaint. I’ll explain why
+Direct debit cancellation
+Miss W said she’d asked to cancel a direct debit for repayment of a credit card she’d with 
+Creation. But instead Creation had cancelled the direct debit for a personal loan she’d with 
+them.
+Direct debits are processed through a scheme called Bankers Automated Clearing Services
+(BACS).  Automated Direct Debit Amendment and Cancellation (ADDAC) reports detail any 
+direct debit Instructions that have been amended and/or cancelled. And it’s strongly 
+recommended that direct debit changes are applied immediately to avoid the risk of 
+misdirected or failed collections. In February 2021 Creation received a ADDAC report which 
+showed that a direct debit instruction Miss W had with Creation had been cancelled. The 
+“reason code” stated “Instruction cancelled by payer”.
+Any direct debit instruction should have the account reference of the agreement as an 
+identifier as it’s this reference number that would confirm which instruction was being 
+cancelled. Creation has said their process is automated for actioning ADDAC reports, so for 
+the credit card direct debit to be cancelled the identifier would have needed to be for that 
+account. But Creation has said the identifier was for Miss W’s personal loan account. And 
+that they had actioned the requested cancellation. 
+I’ve thought about what might have been the cause of this problem, as it looks likely that the 
+wrong identifier was applied to the direct debit instruction to cancel. The ADDACS report 
+stated that the direct debit instruction had been cancelled by the payer (Miss W). Whilst I 
+understand Miss W says she never requested that action for her personal loan with Creation, 
+I can’t say Creation would be at fault for following the direct debit cancellation instructions 
+that they were given.
+As the report says it was Miss W who’d requested the cancellation, it’s reasonable to require 
+a new mandate to be completed showing her consent to set it back up. So, whilst I can’t say 
+what caused the direct debit to be cancelled with any certainty, I haven’t seen anything to 
+suggest Creation did anything wrong in this regard. And I’m satisfied they acted reasonably 
+by asking for a new mandate to be completed.
+Payment break
+In early March 2021 Miss W queried the cancellation of the direct debit with Creation. And 
+Creation have accepted that there was an error made as a payment break was implemented 
+despite Miss W not asking for this action to be taken. I can understand Miss W’s concern 
+about any impact this would have on her credit history. When Miss W brought her complaint 
+to Creation she was told the payment break details couldn’t be removed from her credit file 
+“before the period had ended”. Creation has given assurance that this has now been 
+removed (the payment break period has ended), and that there wouldn’t be any impact 
+caused by this. 
+I know Miss W will be disappointed by my decision. But its not our role to punish a business 
+when they get something wrong. But to see whether they have acted fairly and reasonably in 
+putting things right. Miss W said she continued to make her regular repayments during the 
+“payment break” period so this error hasn’t caused any arrears to accrue on the account. 
+And a new direct debit mandate was set up once the payment break concluded. I 
+understand this has caused some trouble and upset for Miss W, Creation has accepted that 
+that got things wrong and have offered to pay £75 for the trouble and upset this caused 
+which I think is a reasonable offer. So, I won’t instruct them to pay anything more than this. 
+But I expect this payment to now be paid by Creation to Miss W.
+My final decision
+I don’t uphold this complaint.
+Under the rules of the Financial Ombudsman Service, I’m required to ask Miss W to accept 
+or reject my decision before 12 July 2022.
+ 
+Anne Scarr
+Ombudsman

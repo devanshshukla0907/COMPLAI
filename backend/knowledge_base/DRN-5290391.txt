@@ -1,0 +1,151 @@
+ 
+ 
+DRN-5290391 
+ 
+ 
+The complaint 
+ 
+Mrs P has complained about the way Creation Consumer Finance Ltd (Creation) handled a 
+claim she’d made in relation to a desktop computer she bought using a running credit 
+account she had with Creation.  
+ 
+What happened 
+Mrs P bought an all-in-one integrated desktop computer from a supplier I’ll call C, using her 
+running credit account with Creation in October 2022 for around £1,000. 
+  
+In December 2023, she paid C using a debit card from a different provider to assess damage 
+to the screen, but said the rest of the desktop was functioning. It seems there was a delay in 
+giving Mrs P a repair quote as it was misplaced. But once the desktop was found C gave a 
+quote for around £900 to repair the screen damage. Mrs P didn’t agree to pay for the repair 
+and she asked for the desktop to be returned to her. When she went to pick it up, Mrs P said 
+it was damaged further and the whole desktop wasn’t working. She complained to C but said 
+she didn’t get a response.  
+ 
+Mrs P then raised the issue with the Financial Ombudsman. Since the complaint involved a 
+purchase made on credit, it was forwarded to Creation, the financial services provider.  
+ 
+Creation considered a claim under Section 75 of the Consumer Credit Act 1974 (Section 75). 
+It said it reviewed the information Mrs P submitted as part of her complaint and contacted C. 
+C told it a repair was needed and there was a cost to have it repaired. It said that Mrs P 
+“disputed” the charge and C then told Mrs P to return the desktop back to it for review, after 
+she said it was damaged further. As the goods needed to be returned to C, Creation said it 
+couldn’t progress the claim any further and it was rejected.  
+ 
+An Investigator reviewed Mrs P’s complaint but didn’t uphold it. She didn’t think there was 
+enough evidence to say Creation’s answer was unfair. She reviewed the information both 
+Mrs P and Creation provided and didn’t think there was enough evidence to show the faults 
+Mrs P complained of were present or developing at the point of sale which meant there was 
+a breach of contract or misrepresentation Creation could be held jointly liable for. 
+  
+Mrs P disagreed with the Investigator’s assessment. She made a number of points: 
+ 
+• 
+Mrs P disputed she was contacted by C to return the desktop for further investigation.  
+• 
+She said she thought C and Creation were responsible for providing evidence of the contact 
+and by not doing so Creation was in breach of Section 75.  
+• 
+She felt her claim was unfairly dismissed.  
+• 
+Mrs P subsequently arranged and provided an independent report to demonstrate the 
+problems with the desktop.  
+• 
+There was no clarity regarding the investigation process. 
+• 
+She reiterated that her complaint was about C’s actions in handling her desktop when she 
+ 
+ 
+paid for it to assess it and it was returned to her in a faulty state.  
+• 
+She explained she felt her claim was unresolved, even though she paid for an independent 
+report and was unhappy with delays.  
+The Investigator forwarded the report Mrs P paid for to Creation as this wasn’t provided 
+when Creation considered the Section 75 claim. Creation reviewed it and said although this 
+identified the issues with the desktop, it didn’t confirm any inherent manufacturing faults or 
+how the damage happened. It didn’t change its position on the claim.  
+ 
+The Investigator explained to Mrs P that she could only consider the actions of Creation as 
+the financial services provider and based on the evidence she didn’t think it was fair to ask it 
+to take any further action. 
+ 
+Mrs P remained unhappy, so the complaint has been passed to me to review.  
+  
+What I’ve decided – and why 
+I’ve considered all the available evidence and arguments to decide what’s fair and 
+reasonable in the circumstances of this complaint. 
+I want to acknowledge I’ve summarised the events of the complaint. I’ve reviewed and 
+carefully considered the entire file, acknowledging that Mrs P has raised several different 
+points of complaint. I’ve focused my response on what I believe is most relevant to the 
+matter at hand. If I’ve not addressed a specific point, it’s not because I’ve overlooked it or 
+failed to consider it, but because I don’t believe it’s necessary to comment on it in order to 
+arrive at what I believe is a fair outcome. The rules of the Financial Ombudsman allow me to 
+take this approach. 
+ 
+The Financial Ombudsman cannot directly investigate a complaint against C regarding the 
+quality of goods. However, under Section 75, Creation is jointly liable for any breaches of 
+contract or misrepresentations made by the supplier of goods or services – which is C in this 
+case. In order for there to be a valid claim under Section 75, there needs to be a debtor-
+creditor-supplier (‘DCS’) agreement in place and the transaction needs to be within certain 
+financial limits. I’m satisfied the criteria has been met for a claim to be considered. I can 
+decide whether Creation responded to that claim fairly.  
+ 
+For a claim to be upheld under Section 75, there needs to have been a breach of contract or 
+misrepresentation. I have nothing to suggest that the desktop was misrepresented to Mrs P 
+when she bought it and so I’ve focused on whether Mrs P provided enough evidence to 
+show there had been a breach of contract. 
+ 
+A breach of contract can be considered in relation to the express terms of the contract or 
+terms implied by law. Here the Consumer Rights Act 2015 (CRA) is relevant. The CRA 
+implies terms into the contract that goods supplied will be (amongst other things) of 
+satisfactory quality, fit for their intended purpose and as described. The CRA also sets out 
+what remedies are available to consumers if statutory rights under a goods (or services) 
+contract are not met. 
+It appears Mrs P’s complaint and claim centres on how C handled her repair request. It 
+doesn’t seem Mrs P is saying the damage to the screen that she initially wanted a quote for 
+repair was there when she first bought the desktop. Rather the screen was damaged in 
+some way, it was worsened and the entire desktop stopped working whilst it was with C for 
+assessment. It’s unclear how the original damage occurred. However, as it was screen 
+damage, I think it’s likely that if a fault was present or developing from the point of sale Mrs P 
+is likely to have raised it sooner than when she did.  
+ 
+ 
+ 
+When Creation reviewed the claim, it considered the information provided by both Mrs P and 
+C. However, I can’t see from the information available there was anything to indicate the 
+damage that Mrs P claimed for was present or developing at the point of sale, demonstrating 
+the desktop was of unsatisfactory quality – which is what Creation can be held liable for. So, 
+I don’t think the answer to the claim at that point was unreasonable.  
+ 
+Mrs P has provided a report to demonstrate the condition of the desktop during the 
+investigation of her complaint at the Financial Ombudsman. Creation said that whilst the 
+report gives details of the faults the desktop currently has, it doesn’t detail the cause of the 
+faults or that it was a manufacturing fault, so it didn’t agree to change its position. I don’t 
+think this was unfair of it. I’ve not seen enough evidence to conclude the desktop wasn’t of 
+satisfactory quality when Mrs P first bought it. On this basis I don’t think Creation acted 
+unfairly by not refunding Mrs P under its Section 75 liability. 
+ 
+I can see Mrs P feels very strongly about this matter. She has made a number of points 
+about the expectations she thinks Creation has under Section 75 and the CRA. I’ve focused 
+on the issues Mrs P complains about in regards to the quality of the desktop she bought 
+using her running credit account. That’s not to say something hasn’t gone wrong but I’m not 
+persuaded that Mrs P has satisfied the evidential requirements needed to demonstrate a 
+breach of contract, which Creation should be held responsible for. 
+  
+However, as her concerns are about the actions of C and the condition of her desktop after 
+she sent it in for an assessment, she may wish to contact it again with the evidence she now 
+has or think about an alternative avenue such as the courts.  
+ 
+Overall, I don’t think Creation has acted unfairly in the handling of Mrs P’s claim under 
+Section 75 and while I know this will disappoint Mrs P, I won’t be asking it to refund her the 
+cost of her report or take steps to repair or refund her for the current state of the desktop.  
+ 
+My final decision 
+My final decision is that I don’t uphold this complaint.  
+ 
+Under the rules of the Financial Ombudsman Service, I’m required to ask Mrs P to accept or 
+reject my decision before 19 June 2025. 
+  
+ 
+Amina Rashid 
+Ombudsman 
+ 

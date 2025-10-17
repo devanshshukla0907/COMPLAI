@@ -1,0 +1,328 @@
+ 
+ 
+DRN-4982991 
+ 
+ 
+The complaint 
+ 
+Mr M complains Creation Consumer Finance Ltd (“Creation”) have failed to honour a claim 
+he made under section 75 of the Consumer Credit Act 1974 (“CCA”). 
+What happened 
+I issued a provisional decision on Mr M’s case on 2 August 2024, a copy of which is 
+appended to, and should be read alongside, this final decision. For this reason, it’s not 
+necessary for me to go over the background to the complaint again, so I will cover the key 
+facts only briefly: 
+• 
+Mr M had a large number of doors and windows installed at his home by a company, 
+E, for a price of £24,323. This was part-financed by a point of sale loan with Creation. 
+ 
+• 
+There were various problems with the products and how they’d been installed, which 
+had not been fully resolved by the time E went out of business in 2020. 
+ 
+• 
+After unsuccessfully claiming on an insurance-backed warranty, Mr M brought a 
+claim against Creation under section 75 of the CCA in April 2023. Creation treated 
+the matter as a complaint but did not respond to Mr M in a timely manner, resulting in 
+him referring the matter to the Financial Ombudsman Service.  
+In my provisional decision I noted that it appeared to be agreed in principle by all parties that 
+Creation was liable under section 75, and an expert report from a third party – R – provided 
+a fair basis for Creation to settle the complaint. However, I didn’t think satisfactory evidence 
+had been provided of how much it would cost to carry out the works indicated in R’s report. I 
+said I was minded, subject to any further submissions from the parties, to only direct 
+Creation to pay the cost Mr M had incurred in commissioning the report from R. 
+Mr M made further submissions following the provisional decision, which I considered 
+carefully alongside the rest of the evidence. On reflection, I thought it was possible to arrive 
+at a fair figure to award Mr M, and I sent the following communication to both parties: 
+“[I]…have been thinking about how best this complaint can be resolved, bearing in mind the 
+fact the parties to agree that something needs to be done, and that the R report has been 
+agreed as a basis for a settlement. 
+I have put together a set of proposals, which (subject to any further submissions I receive) I 
+now intend to include in any final decision I issue. The proposals, and the reasoning for 
+them, can be found in the numbered paragraphs below. 
+1. The R report indicates general issues with workmanship across the board, with many 
+units (i.e. windows or doors) requiring adjustment or reapplication of sealant, and 
+some units needing to be replaced. It’s also apparent that the front door has faded 
+within the warranty period of ten years and will require replacement. The report also 
+makes it clear that some structural repairs and the addition of a lintel will be 
+necessary. There may be a need for scaffolding, if any of the works quoted for are 
+ 
+ 
+above ground floor level. 
+  
+2. I remain of the view that the A and E2 quotes don’t appear consistent with either the 
+R report or each other, in terms of the work which is being quoted for. The R 
+inspector has said that it could cost around £28,000 to fix all issues, but it’s not clear 
+how many doors and windows he’s talking about. 
+  
+3. There has been significant inflation between 2017 when the windows and doors were 
+originally installed, and 2024 when we are deciding how the problems should fairly 
+be resolved. 
+  
+4. The Consumer Rights Act 2015 ("CRA") would have applied to the original contract 
+and, where a service (i.e. installation) has not been performed with reasonable care 
+and skill, which it is agreed was the case here, then a remedy permitted under the 
+CRA is a price reduction. 
+  
+5. There appears to be no way for me to calculate precisely what the cost would be of 
+the remedial works identified in the R report, based on the current evidence. 
+However, a “rough and ready” approach, based on a combination of the CRA 
+principle of a price reduction and the SJ quote (which was for building works only), 
+with an uplift to account for inflation, appears to me to be fair and reasonable in all 
+the circumstances. I appreciate it will not be perfect, but ultimately I think this is the 
+best that can be done with the information available to me, bearing in mind the 
+informal nature of the Financial Ombudsman Service and the apparent difficulties in 
+obtaining further quotes. 
+  
+6. I would therefore propose that a full refund is given for all units the R inspector said 
+should be replaced or repaired/reinstalled, plus the front door which should be 
+replaced under the guarantee. The R report appears to indicate that most, if not all, 
+of the other units require adjustment of some kind, or resealing. I would propose a 
+50% price reduction is given in respect of all other units. An uplift using the Bank of 
+England’s inflation calculator will be applied to the resulting figure, calculated from 
+2017 to the latest date available. The amount of the SJ quote (which was for 
+building works to address structural issues caused by the defective E works) will 
+then be added on top, with an adjustment for inflation over the past year. Mr M 
+would receive a cash lump sum, and he will have the choice of putting some or all of 
+this sum towards remedial works. 
+  
+7. The original supplier did not itemise the cost of everything under the contract 
+precisely, so the approach to be taken to the cost of each item, will need to be to 
+divide the total cost by the number of elements, to arrive at a cost for each. Again, 
+this is not perfect, but is the best that I think can reasonably be done with the 
+information available. I have included my calculations in a spreadsheet which is 
+attached to this communication, but the total settlement amount comes to 
+£18,356.24, plus the cost of the R report.” 
+I invited Mr M and Creation to provide any further comment, prior to me making a final 
+decision. Mr M said he would accept the proposals. Creation did not respond. 
+The deadline for further submissions has now passed, and the case has been returned to 
+me once again to review. 
+ 
+ 
+What I’ve decided – and why 
+I’ve considered all the available evidence and arguments to decide what’s fair and reasonable 
+in the circumstances of this complaint. 
+Mr M has accepted my proposed methodology for calculating redress, and Creation has not 
+put forward any arguments against it. It follows that I see no reason to depart from the 
+reasoned proposals I set out in email communication with the parties, as quoted above.  
+My final decision 
+For the reasons explained above, and in my appended provisional decision, I uphold Mr M’s 
+complaint and direct Creation Consumer Finance Ltd to take the following actions: 
+• 
+Pay Mr M £18,356.24 – this being the amount which would be fair and reasonable for 
+it to offer to settle his section 75 claim. Creation Consumer Finance Ltd must pay this 
+within 28 days of the date on which we tell it Mr M accepts my final decision. If it pays 
+later than this, it must also pay 8% simple interest per year* on the amount from the 
+deadline date for settlement to the date of payment. 
+ 
+• 
+Reimburse Mr M the amount he paid for the report from R. 8% simple interest per 
+year* must be added to this amount, calculated from the date Mr M paid for the 
+report, to the date he is reimbursed. 
+If Creation Consumer Finance Ltd considers that it’s required by HM Revenue & Customs to 
+deduct income tax from that interest, it should tell Mr M how much it’s taken off. It should 
+also give Mr M a tax deduction certificate if he asks for one, so he can reclaim the tax from 
+HM Revenue & Customs if appropriate. 
+Under the rules of the Financial Ombudsman Service, I’m required to ask Mr M to accept or 
+reject my decision before 20 September 2024. 
+Will Culley 
+Ombudsman 
+ 
+ 
+ 
+ 
+COPY OF PROVISIONAL DECISION 
+  
+I’ve considered the relevant information about this complaint. 
+ 
+Having done so, I’m currently minded to reach a different set of conclusions to our 
+investigator, and so I need to allow an opportunity for the parties to the complaint to provide 
+further submissions before I make my decision final. 
+I’ll look at any more comments and evidence that I get before 16 August 2024. This deadline 
+is subject to potential extension in view of the complexity of the case and how long it has run 
+for. But unless the information changes my mind, my final decision is likely to be along the 
+following lines. 
+The complaint 
+ 
+Mr M complains Creation Consumer Finance Ltd (“Creation”) have failed to honour a claim 
+he made under section 75 of the Consumer Credit Act 1974 (“CCA”). 
+What happened 
+Mr M ordered new windows and doors from a company I’ll call “E”, in July 2017. The original 
+price for the works was quoted as £86,580, but Mr M negotiated various discounts which 
+eventually reduced the cash price to £24,323. A loan with Creation, organised by E, was put 
+in place to cover £12,405 of the price, and Mr M paid the rest by other means. 
+The schedule of works was extensive, listing five or six doors, 27 windows, and unspecified 
+building works. All of the windows and doors were constructed from uPVC or composite 
+materials, in a woodgrain effect. 
+The products came with two warranties supplied by E. These were a “Standard” and 
+“Lifetime” guarantee. The Standard guarantee stated that E would repair or replace, free of 
+charge, any product which developed a fault due to defective materials or construction, for a 
+period of ten years from installation. Any building works carried out by E were also 
+guaranteed for a period of ten years from installation. The Lifetime guarantee stated that any 
+double-glazed units on uPVC frames which developed condensation or fogging between the 
+panes, would be repaired or replaced free of charge, for the lifetime of the original 
+purchaser. 
+The installation appears to have been completed by the end of September 2017, but Mr M 
+says there were various issues with the windows and doors following installation, including 
+leaks, structural problems, frames falling out and frames not being sealed. E went out of 
+business in 2020 while issues were still outstanding. The guarantees had been insurance-
+backed, but the insurer declined Mr M’s claim in relation to further issues with E’s work, due 
+to a requirement that other routes for recovery were pursued first – such as section 75 
+claims. 
+This caused Mr M to bring a claim to Creation under section 75 of the CCA, in or around 
+April 2023. He said he’d been quoted over £9,500 for remedial works, and wanted Creation 
+to cover this. Creation treated this as a complaint, but then failed to respond to Mr M, 
+causing him to refer the matter to the Financial Ombudsman Service in June 2023.  
+One of our investigators began looking into the complaint. He requested further information 
+from Mr M about the nature of the issues with E’s products and installation. Mr M 
+ 
+ 
+commissioned a report from a third party expert (“R”) which found a number of defects with 
+E’s work and made the following recommendations: 
+1. Kitchen window to be replaced. Lintel to be fitted above opening to support the 
+weight of the structure above. 
+ 
+2. Two rear doors need to be removed and re-installed, ensuring adequate damp-
+proofing and sealing below. 
+ 
+3. Window in master bedroom to be removed and re-installed with correct damming 
+sealant applied. 
+ 
+4. On all windows, hinge side compression wedges should be fitted to all side hung 
+sashes. All sashes to be adjusted by packing, to give a good alignment/seal. 
+ 
+5. On all windows, any cement repairs around sill horns to be refilled/resealed. Existing 
+silicone sealant to be replaced with low modulus sealant with backing rods/foam as 
+required. 
+I understand Mr M was invoiced £714 for this report.  
+The report was shared with Creation, and all parties agreed in principle that R’s report 
+should form the basis of a settlement of Mr M’s claim and complaint. Disputes then arose 
+however, over the cost of the works required. Mr M produced two quotes from well-known 
+national suppliers (“A” and “E2”), coming to £22,843.79, and £24,396 respectively. 
+Our investigator recommended that Creation pay one of these quotes, but Creation objected 
+on the grounds that the quotations specified more work than was recommended in R’s 
+report. In particular, they appeared to specify the replacement of many of the windows. No 
+agreement could be reached, and the case was subsequently passed to me to decide. 
+Having reviewed the available evidence, I also observed that the A and E2 quotes appeared 
+to include more work than R had recommended in their report – a matter which I thought 
+required clarification. I directed that further comment be sought from R on this issue. I could 
+summarise R’s response as follows: 
+1. They did not want to know what the prices of the A and E2 quotes were, in order to 
+preserve their impartiality. 
+ 
+2. There were a number of major defects with E’s installation which would require 
+extensive works to remediate. While their original report did not specify that the 
+affected units needed to be replaced, some or all of the units may need to be 
+replaced due to the original poor installation and damage which could be caused by 
+their removal. 
+ 
+3. Damage on removal, especially to the edges, was more likely in this case due to how 
+long the units had been installed for, which had given them time to “settle” in place. 
+ 
+4. Extensive scaffolding would be required for the remedial works, which would push up 
+the price. 
+ 
+5. They estimated that the price of removing and repairing the affected units, taking into 
+account the risk of damage to the frames and the need for scaffolding, would cost 
+around £28,000. They thought replacement of the frames, rather than removing and 
+repairing them, would be slightly cheaper. 
+ 
+ 
+I wrote to Creation to request their comments on these latest developments. I observed it 
+was not a straightforward case and that the quotes Mr M had provided did not appear to be 
+inconsistent with R’s comments in terms of their price. I also noted that the price of building 
+works had increased significantly since 2017, but emphasised that I would like to hear from 
+Creation with any comments they had before I made a decision. 
+Creation has, disappointingly, not replied to my enquiries, despite chasing for several 
+months. It would not be reasonable to wait any longer, so I have decided to proceed with a 
+provisional decision in the hope that setting out my current position will encourage the 
+parties to the case either to provide further evidence or arguments to assist me in making a 
+final decision, or to make alternative proposals as to how the complaint should be settled. 
+What I’ve provisionally decided – and why 
+I’ve considered all the available evidence and arguments to decide what’s fair and 
+reasonable in the circumstances of this complaint. 
+Section 75 of the CCA allows consumers who have used certain types of credit to purchase 
+goods or services, to hold their lender liable for any breach of contract or misrepresentation 
+by the supplier of the goods or services, so long as certain technical conditions are met. 
+In this case, the type of loan agreement Mr M entered into with Creation is of a type to which 
+section 75 would apply. I’ve thought carefully about the technical conditions which need to 
+be met. One of these, which I considered was potentially relevant in Mr M’s case, is the need 
+for the “cash price” of the purchase to be more than £100, but no more than £30,000. 
+The original quote from E priced the works at over £80,000. However, it is the discounted 
+price which is relevant for the purpose of determining whether or not the purchase is covered 
+by section 75. The discounted price was £24,323, and so the value of the purchase falls 
+within the range covered by section 75. 
+It appears to be undisputed that E was in breach of contract by failing to carry out the 
+installation correctly, and/or by supplying defective goods, and that Mr M can therefore find 
+Creation liable under section 75 of the CCA. It also appears to be agreed that the basis on 
+which Creation should satisfy its liability is by covering the cost of the necessary remedial 
+works. Creation has not put forward any alternatives, such as a cash settlement, so I’ve 
+proceeded on the basis that there’s an agreement in principle that Creation will settle 
+matters by paying the reasonable cost of remedial works. 
+The key point in dispute has been what constitutes a reasonable cost. The quotes from A 
+and E2 (which has since gone out of business) are very close to the original amount Mr M 
+paid for the whole schedule of works from E, despite being for far fewer items, and I can 
+understand Creation’s concerns over this. It’s not immediately apparent to me either, how 
+the installation of approximately five windows and two or three doors could cost around as 
+much as 27 windows and five or six doors. I also note Mr M says he was previously quoted 
+the significantly lower amount of £9,500 for remedial works, though I acknowledge that was 
+prior to R’s report. 
+The report from R states that one window must be replaced, one must be removed and re-
+installed, and two doors must be removed and re-installed. So only two windows and two 
+doors are specifically identified within the report as requiring repair or replacement. 
+However, the report does say that other windows require various adjustments, and that the 
+works required are “extensive”.  
+R's later comments suggest that replacement of any affected units (i.e. doors or windows) 
+ 
+ 
+would be necessary where damage was caused by removal, which they considered was 
+likely in this case. So it doesn’t seem unreasonable to me that A and E2 would have chosen 
+to quote to replace the affected units, rather than to repair them.  
+However, a problem I have with the A and E2 quotes is that they do not appear to match 
+either each other or R’s report, in terms of the items and works they include. 
+The quote from E2 includes the kitchen window and two sets of rear doors mentioned in R’s 
+report. It doesn’t include the master bedroom window. However, it does include a front door 
+with windows either side, two windows to the rear of a hallway, one window to the front of a 
+hallway, and one circular window, also said to be in the hallway. None of these items were 
+mentioned in R’s report, although I note a photograph appeared in the report of the circular 
+window. 
+The quote from A includes the kitchen window and one set of rear doors from R’s report. It 
+doesn’t include the second set of rear doors or the master bedroom window. It does however 
+include items which are not on R’s report – a front door with associated windows either side, 
+and the circular window. 
+Neither of the quotes is broken down in a way which assigns a cost to each item being 
+replaced. Unfortunately, I don’t think the quotes are helpful in establishing the reasonable 
+cost of carrying out the remedial works identified in R’s report. 
+So where does that leave things? As things stand, I don’t think it would be fair or reasonable 
+to direct Creation to pay any of the remedial quotes I have seen, due to the difficulties I’ve 
+outlined above. There are also, potentially, other issues which might not make it reasonable 
+for the full cost of replacement windows and doors to be covered by Creation. The windows 
+and doors are currently around seven years old, and to replace them with brand new ones 
+arguably puts Mr M in a better position than he would have been in, had E carried out the 
+installation correctly in 2017. So, assuming satisfactory evidence of the cost of remedial 
+works is supplied, a deduction may still need to be made from any settlement to reflect this 
+and this is something the parties should bear in mind. 
+Regardless of the ultimate outcome of this case, I intend to require Creation to reimburse 
+Mr M the amount he paid for R’s report if he can provide evidence of this payment being 
+made. That is because R’s report established that E was in breach of contract by carrying 
+out parts of the installation poorly, and it has been a necessary cost to Mr M in proving his 
+case. I think it’s reasonable that cost is borne by Creation. 
+My provisional decision 
+Based on the evidence currently available to me, I am minded to uphold Mr M’s complaint in 
+part and direct Creation Consumer Finance Limited to reimburse the proven cost of the 
+report Mr M commissioned from R.  
+I am not currently minded to make any other award, as I have not been provided with 
+satisfactory evidence of the reasonable cost of the remedial works required to remedy E’s 
+breach of contract, and for which Mr M could hold Creation liable for under section 75 of the 
+CCA. 
+I now invite the parties to the complaint to provide any further submissions they would like 
+me to consider, before 16 August 2024. Given the complexity and long-running nature of this 
+case, I would be willing to consider requests for an extension to this deadline, but the parties 
+must let our investigator know if that is the case. 
+ 
+ 
+  
+ 
+Will Culley 
+Ombudsman 
+ 

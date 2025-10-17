@@ -1,0 +1,105 @@
+DRN-3069030
+The complaint
+Miss M complains that Creation Consumer Finance Ltd miscalculated her outstanding loan 
+balance, chased her for payments after she had agreed an arrangement to pay with a debt 
+collection agency, falsely accused her of ending two phone calls, and referred her debt to 
+another agency while her complaint was still outstanding.
+What happened
+In January 2018 Miss M entered a running account credit agreement with Creation, and 
+used it to purchase goods from a third party. The loan was to be repaid over 24 months. 
+Miss M set up a direct debit, but some of the payments were returned, and no payments 
+were made at all between May and October 2019. In October 2019 the debt was passed to a 
+collection agency and a repayment plan was agreed, but Miss M complains that Creation still 
+continued to try to take payments from her. The debt was later brought back to Creation in 
+June 2020, but Mrs M disputed the amount which Creation said was still outstanding. She 
+said Creation was trying to overcharge her by over £90.
+Miss M phoned Creation to try to sort this out, but she says two phone calls were abruptly 
+ended by the call handlers. She was later told that these calls had been ended by her, which 
+she denies. She also says one of the call handlers agreed with her own figure for the 
+outstanding balance. She complained, and while her complaint was still outstanding her debt 
+was passed to a new collection agency.
+Creation apologised to Miss B for its staff having told her that she had hung up on the two 
+calls. It said that both of the call handlers had put Miss B on hold, and when they had 
+returned to the calls they had found that the calls had been disconnected at Miss B’s end, 
+which they had summarised as her having hung up. Creation accepted that she had not 
+hung up, and apologised for using that term. But it did not uphold any other aspect of her 
+complaint. It said that interest is charged daily, and since not all of the monthly payments 
+had been made on time, extra interest had been charged on the arrears and on the returned 
+direct debit fees, which accounted for the balance being higher than Miss B had expected.
+After Miss B complained to our service, Creation said that it had been entitled to refer her 
+debt to an agency whether or not there was a complaint outstanding. This would not interfere 
+with the handling of her complaint or affect the outcome.
+Our investigator did not uphold this complaint. He said Creation had been entitled to charge 
+Miss B extra interest, and he referred her to the clause in the credit agreement which said 
+this would happen. Miss B did not accept this opinion, and she pointed out that nobody had 
+addressed her complaint about Creation and Moorcroft both trying to take payments from 
+her over the same period. She asked for an ombudsman to review her case.
+What I’ve decided – and why
+I’ve considered all the available evidence and arguments to decide what’s fair and 
+reasonable in the circumstances of this complaint.
+The outstanding balance
+I have checked Creation’s balance figure myself, and it is accurate. The outstanding balance 
+includes extra interest which Miss B did not take into account. (Also, Miss B’s own 
+calculations were wrong, as I will explain.)
+The cost of the goods Miss B purchased was £699.99. The total opening balance is given in 
+the credit agreement as £840.96. I have seen another figure for that in another document, 
+£841.04, but this cannot be right, because both documents agree that the loan was to be 
+repaid over 24 monthly payments of £35.04, and that amount times 24 is exactly £840.96. 
+So I have used the lower figure for the opening balance.
+The total charge for credit is therefore the difference between £699.99 and £840.96, which is 
+£140.97.
+However, I have added up all of the interest which Creation charged Miss B, and it comes to 
+a total of £263.73. That means Creation has charged her £122.76 in additional interest as a 
+result of the returned direct debits, which it was entitled to do under the terms of the credit 
+agreement.
+Creation also charged Miss B a total of £110 in fees, but two fees of £30 each were refunded 
+after she phoned Creation to explain her situation. Creation also credited another £50 to her 
+account; this might not have been a refund of fees because it has been recorded differently 
+on her payment history. Assuming it was not a refund of the remaining fees, Creation 
+therefore charged her a total of £172.76 in addition to the original amount repayable. This 
+means that the new total amount repayable is £1,013.72.
+Not counting the returned payments, Miss B made payments adding up to £458.75. Adding 
+the £50 which Creation credited to her account makes £508.75. The difference between 
+£1,013.72 and £508.75 is £504.97, which is the same arrears figure that appears in 
+Creation’s payment history. I am therefore satisfied that it is accurate. (It is equal to the 
+figure of £484.78 which Creation gave Miss B in June 2020, plus three more months’ interest 
+charged since then (£20.19), before the account was transferred to the second collection 
+agency.)
+In Miss B’s own calculations, she did not include the additional interest. (She also left out the 
+£60 of refunds, and counted the £50 credit twice.) I don’t know why one of Creation’s call 
+handlers still agreed with her figure for the outstanding balance, but I’m afraid that they were 
+wrong.
+Creation and the collection agency
+As I’ve said, in October 2019 a collection agency was instructed to collect the debt. This 
+continued until May 2020, when the agency transferred the debt back to Creation. I have 
+looked at her payment history, and it shows that the last direct debit payment she made to 
+Creation before October 2019 was in May 2019 – not that there were direct debits which 
+were returned, but there were no payments at all. Then in October 2019 she resumed 
+making payments to Creation by direct debit. This means that she must have cancelled her 
+original direct debit and then set up a new one to Creation instead of to the collection 
+agency.
+Creation’s account notes show that the only contact it had with Miss M during that period 
+(May to October 2019) was a phone call she made to Creation in November 2019 (and 
+indeed Miss M has not suggested that Creation was writing to her or calling her during that 
+period, only that Creation was trying to take her money). The call handler’s note of that 
+phone call states that he or she told Miss M that her account was now with the agency and 
+that she should be sending her payments to the agency, not to Creation.
+The payments still continued until February 2020, and then stopped, and the payments from 
+December 2019 had each been all returned. In May 2020 the agency returned the debt to 
+Creation, and in June Creation wrote to Miss M, which was its first contact with her since the 
+call in November. So Creation did not pro-actively contact Miss M while the debt was with 
+the agency, and it took no action to collect money from her other than to receive her direct 
+debits, which continued to happen after it had told her to stop. So I cannot uphold Miss M’s 
+complaint about this issue.
+Other matters
+Creation was entitled to refer the debt to a second collection agency, and since this did not 
+affect her complaint, no disadvantage was caused to her by doing so.
+Finally, I think that Creation’s apology is fair redress for having suggested that Miss M had 
+hung up on the two phone calls, and that the payment of compensation for that issue is not 
+necessary.
+My final decision
+My decision is that I do not uphold this complaint.
+Under the rules of the Financial Ombudsman Service, I’m required to ask Miss M to accept 
+or reject my decision before 1 November 2021. 
+Richard Wood
+Ombudsman

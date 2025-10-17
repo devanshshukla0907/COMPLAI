@@ -1,0 +1,175 @@
+ 
+ 
+DRN-4649695 
+ 
+ 
+The complaint 
+ 
+Mr B complains that he was mis-sold a vehicle partially financed by a hire purchase 
+agreement with Creation Consumer Finance Ltd.  
+What happened 
+On 29 July 2023 Mr B acquired a used electric car partially financed through a hire purchase 
+agreement with Creation. He paid £18,000 in cash and £4,500 using finance. He said he 
+asked the dealer to confirm that when the battery is charged to 100% the mileage range 
+would be 214 miles. He said it wouldn’t work for him if the mileage range was less than this. 
+Mr B said the dealer confirmed the 214 miles and said if he paid more he would get a better 
+car.  
+Mr B collected the car on 30 July. He said the battery wasn’t charged so he took it to a 
+charging station. At 100% charge Mr B said the mileage range was 183 in normal mode and 
+175 in sports mode and 193 in ECO mode. Mr B said he emailed the dealer on the same day 
+saying he wasn’t happy. He visited the dealer the next day to ask for his money back as he 
+wasn’t interested in the car. No faults were identified by the dealer. Mr B complained to 
+Creation.  
+In its final response Creation said the range of the battery depends on several factors 
+including driving style, road conditions, condition of the tyres and the age of vehicle amongst 
+other factors. It said the dealer carried out an inspection and could not identify any faults. Mr 
+B brought his complaint to this service. He said he wasn’t complaining about the actual car 
+but about the fact it had been mis-sold to him.  
+Our investigator concluded that Creation hadn’t acted fairly, and that the car had been 
+misrepresented to Mr B. Creation didn’t agree so the complaint has come to me for a 
+decision.   
+What I’ve decided – and why 
+I’ve considered all the available evidence and arguments to decide what’s fair and reasonable 
+in the circumstances of this complaint. 
+Having done so I agree with the investigator for the reasons I’ve outlined below:  
+Section 56 of the Consumer Credit Act 1974 (CCA) says that a finance provider can be held 
+responsible for any ‘antecedent negotiations’ carried out by the credit broker. By this I mean 
+what was said or done before the credit agreement was entered by the customer. It explains 
+that finance providers are liable for what is said by a supplier before the agreement is signed 
+– where there’s a debtor-creditor-supplier agreement. I must take account of relevant law 
+when deciding and in this case Section 56 does apply. In Mr B’s case, the dealership acted 
+as Creation’s agent with the hire purchase agreement. So, I can consider Mr M’s complaint 
+against Creation. 
+No contemporaneous evidence of what was discussed when Mr B visited the dealership or 
+ 
+ 
+spoke on the phone, has been provided by either party; no notes or witness statements. I 
+wasn’t present when Mr B visited the dealer, and no call recordings are available, so I can’t 
+be certain of what was said. Where facts are in dispute or information is unclear or 
+contradictory - as some of it is here - I reach my conclusions on the balance of probabilities. 
+That is, what I think is most likely to have happened considering the available evidence and 
+the wider surrounding circumstances. 
+Mr B has said the car was misrepresented to him. A misrepresentation is a false statement 
+of fact which induces a customer to enter an agreement and to suffer loss because of that 
+misrepresentation. 
+Did the dealer make a false statement of fact? 
+I’m unable to know the precise detail of discussions which took place between Mr B and the 
+dealer in the run up to the finance agreement. But I’ve read Mr B’s testimony and copies of 
+emails he’s sent to the dealer very soon after collection. And I’ve thought carefully about the 
+circumstances and Mr B’s business motivation for having the range of mileage he wanted.  
+The dealer provided a statement to this service. It says: 
+• 
+On the initial visit Mr B declined to test drive, at this point there was no conversation 
+about range.  
+• 
+Mr B wanted to see how the charger worked.  
+• 
+The settled on a car which needed to be delivered from a different branch. Mr B paid 
+£100 deposit. The car arrived a few days later and Mr B came in to view the car and 
+discuss options for payment.  
+• 
+Mr B questioned at this point the kind of range he could expect to get out of the car 
+but no definitive figure was given as with all elective vehicle customers the range is 
+dependent on conditions, driving style etc.  
+• 
+Mr B questioned about the charging time of the car. He said he planned to use 
+service stations/supermarkets to charge.  
+• 
+After handover Mr b said he wasn’t’ happy with the charged vehicle  
+• 
+The dealer concluded that at no point was Mr B given a figure of what the range he 
+would get out of the car would be.  
+ 
+I’m not disputing the dealer’s testimony. As I mentioned above when evidence or testimony 
+is contradictory I must decide based on what is more likely to have occurred. It does appear 
+that the bulk of the sales discussion was on charging the car and range. And given the 
+nature of the vehicle itself, an electric car, I find it unlikely that Mr B wasn’t given any idea of 
+what range the vehicle could achieve when charged. I think it reasonable to say that electric 
+car range would be an important feature for buyers seeking electric cars. I think it likely that 
+the expected, if not guaranteed, range of the vehicle was discussed.  
+In addition to this neither party has provided any evidence that the dealership explained the 
+variations in range that can happen under different driving and external conditions prior to 
+sale. I think it reasonable to expect such a discussion to have taken place. I find Mr B’s 
+testimony credible and find it more likely than not that a figure in the region Mr B wanted was 
+discussed leading to an expectation of that range.  
+Was the statement false? 
+Mr B said when he collected the car it wasn’t charged which surprised him. I’m persuaded by 
+evidence, including transactions on his bank statements, that he tried several times on 1 
+August, immediately after collection, to charge the car to get the desired mileage range at 
+ 
+ 
+idle, at 100% charge. And he wasn’t able to. Nor has the dealership been able to replicate 
+the 214 mile range. So on the basis I think it likely a figure in the region Mr B wanted was 
+given, I’m persuaded it was false. 
+Was Mr B induced into the contract? 
+I’m persuaded that Mr B required an electric vehicle which would have a particular range 
+when at idle at 100% charge. He told this service he made it clear that he didn’t want a car 
+that had a range of no less than 214 miles without starting. He said the dealership first 
+showed him a car which did not meet his criteria at a cost of £19,000. He said he was 
+offered a more expensive car which did meet his conditions, but he wasn’t able to test drive 
+it because it wasn’t on site. He said he was therefore unable to immediately see the real 
+condition of the car the dealership was promising. So I am persuaded he was induced into 
+the contract. 
+Mr B has been consistent that he was after a vehicle with mileage range of 214 at 100% 
+charge. He has said he understands the explanations given from the dealer about the 
+differing range in different driving conditions, but he told this service: 
+“The only thing I wanted was a car that, when stopped, had a range of 214 miles per 
+100% charged battery. They sold a car with the range of 183 miles at 100% loaded, 
+as if it were a car with 214 miles per 100%.  
+So I’m satisfied Mr B was expecting the car to have a range of 214miles at 100% charge and 
+wanted this car. And I’m persuaded this was his primary requirement because of his 
+business intentions. 
+I’ve also seen copies of emails between Mr B and the dealer. On 1 August at 12.23 Mr B 
+said he checked the car before he accepted that it was 214 range. He said he tried different 
+charging places and at 100% charge could only reach 183 miles. He said he wasn’t happy 
+with this condition and wanted to return the car. At 12.36 he followed up by asking the dealer 
+if he remembered he wanted 214 miles and if it was less he didn’t agree to the deal. He said 
+he attached a photo. At 1.19pm he said he was going to visit the dealership and wanted it to 
+show the mileage of 214 on the screen. If he saw it he would accept. 
+On 2 August he said: 
+“Today I checked the car again with same problem I told you before I not accept if 
+electric car came with less than 214 miles range. ... Today 01 August 3 hours in 
+(dealer) without any solution. Now I am going again waste all day. Finally tomorrow 
+my friend hand over the car your office. Please 3 August return my money to my 
+(bank) account by transfer.” 
+I can see that Mr B immediately went back to the dealer after charging the car to request to 
+return the car. And I’m persuaded by his strength of feeling in this matter that he was 
+induced into buying because of the mileage range he was likely told.  
+Putting things right 
+To put things right Creation Consumer Finance Ltd must allow Mr B to reject the car and put 
+him back in the position he would’ve been in had the car not been sold to him.  
+Creation must: 
+• 
+Unwind the credit agreement and release Mr B of any further liability. 
+• 
+Remove any trace of the credit agreement from Mr B’s credit file. 
+ 
+ 
+• 
+Refund Mr B’s deposit paid of £17,517. 
+• 
+Refund all finance payments paid from inception to present (Mr B has made it clear 
+he hasn’t used the car and he’s provided evidence it has been stored and kept safe n 
+storage). 
+• 
+Pay 8% simple yearly interest on these refunded amounts from the date of payment 
+until the date of settlement.* 
+• 
+Pay Mr B £200 in compensation for the distress an inconvenience caused by the 
+misrepresentation. 
+ 
+*If Creation Consumer Finance Ltd thinks it’s required by HM Revenue & Customs to deduct 
+income tax from the simple interest outlined above, it should tell Mr B how much it’s taken 
+off. It should also give him a tax deduction certificate if he asks for one, so he can reclaim 
+the tax if appropriate. 
+ 
+My final decision 
+My final decision is I uphold this complaint and Creation Consumer Finance Ltd must put 
+things right as set out above. 
+Under the rules of the Financial Ombudsman Service, I’m required to ask Mr B to accept or 
+reject my decision before 12 August 2024. 
+  
+ 
+Maxine Sutton 
+Ombudsman 
+ 

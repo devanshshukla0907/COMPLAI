@@ -1,0 +1,129 @@
+ 
+ 
+DRN-5176230 
+ 
+ 
+The complaint 
+ 
+Mrs E is complaining about the way Creation Consumer Finance Ltd (Creation) administered 
+certain aspects of her running credit account. Mrs E has brought the complaint to us together 
+with a representative, but for ease I’ll write as if we’ve dealt directly with Mrs E throughout. 
+What happened 
+Mrs E took out a running credit account with Creation in April 2019 with a credit limit of 
+£2,500. She used the account to buy three items on Buy Now Pay Later (BNPL) 
+arrangements – one in September 2021 (Arrangement A), another in December 2022 
+(Arrangement B), and a third in June 2024 (Arrangement C). 
+This complaint relates primarily to Arrangement B. The arrangement included 12 months 
+interest-free, and Mrs E made a payment of £200 shortly before the 12 months expired. 
+When she did so, she intended that her payment would reduce the monthly payment amount 
+for the remainder of the arrangement – and she selected this option on the Creation app. But 
+when she later logged in to check the payment had gone through, she found that Creation 
+had instead reduced the term of the arrangement. 
+Mrs E was unhappy and contacted Creation. After a series of phone calls which failed to 
+resolve the issue she raised a complaint. Creation responded, acknowledging that they’d got 
+things wrong. They said they’d look into why the account didn’t work as intended, and 
+credited £75 to Mrs E’s balance as an apology. But they didn’t make any changes to the 
+monthly payments. 
+Mrs E rejected Creation’s response and brought her complaint to our service. She was 
+unhappy that she was having to pay more each month than she’d intended. She was 
+frustrated that Creation had offered no solution to this. And she was upset that she hadn’t 
+been offered the option to have the £75 paid to her bank account, or deducted from the 
+monthly repayments – it, like her £200 payment, had been applied to reduce the term on 
+Arrangement B. 
+One of our investigators looked into Mrs E’s complaint. He thought the complaint should be 
+upheld. He said Creation needed to rework the account to reduce the monthly payment and 
+pay Mrs E £100 in compensation. And he said, if it could be done without causing adverse 
+information on Mrs E’s credit report, Creation should allow Mrs E to underpay by £75 to 
+reflect that Creation’s earlier compensation payment should have been paid to Mrs E rather 
+than credited to her BNPL account. 
+Both parties accepted our investigator’s view in principle. But the implementation of this 
+resolution did not go smoothly.  
+In response to our investigator’s view, Creation calculated Mrs E had around £650 
+outstanding on Arrangement B, and 18 months over which to pay it. They took the 24.74% 
+APR and calculated that Mrs E would need to make monthly payments of £42.84 for 18 
+months to pay off the balance.  
+ 
+ 
+By August 2024, Creation hadn’t changed the direct debit, and Mrs E was still paying £65 
+per month instead of the revised amount, so she got back in touch with us. Later that month, 
+Creation reduced both the monthly payments and the outstanding term, saying Mrs E would 
+need to pay £35.81 for ten months from September 2024.  
+Mrs E objected, saying she would have around £185 left over at the end of the ten months if 
+this was the case, and wouldn’t want to be put in a position where she had to pay this off all 
+at once. She also said she hadn’t received the £100 compensation into her bank account. 
+Creation arranged to pay the £100. And they offered to write off £196 from Arrangement B – 
+the amount Mrs E estimated would be left after nine months’ worth of payments. But when 
+Mrs E accepted this offer, they wrote it off the wrong arrangement – applying the amount to 
+Arrangement C instead of Arrangement B. 
+In addition, Creation said they couldn’t reverse the £75 credit without adversely affecting 
+Mrs E’s credit file. Mrs E disputed this, saying other creditors had been able to do this.  
+Frustrated by the continuing errors, and concerned that there might be an outstanding 
+balance even after Creation had written £196 off the account, Mrs E asked for a decision. 
+I issued a provisional decision on 7 November 2024 suggesting a change in redress – I said 
+Creation should pay a further £100 to Mrs E and should provide her with a statement clearly 
+setting out both past and future payments. I explained this as follows: 
+“Creation have acknowledged that they ought to have reduced Mrs E’s monthly 
+payments, rather than the term of her arrangement.  
+It’s not clear what the intended repayment profile for Arrangement B was, even before 
+Mrs E made her £200 payment. The statement says £65 per month for 24 months, but 
+this would have led to Mrs E significantly overpaying, and other evidence suggests it 
+was £65 per month for 18 (or possibly 19) months.  
+However, assuming the initial term was supposed to be 24 months, as stated in 
+Creation’s statement, an APR calculator suggests the repayments would have been 
+reduced to around £42 per month by Mrs E’s £200 payment if Creation had done what 
+Mrs E asked and reduced the monthly repayment instead of the term.  
+Instead, Mrs E seems to have paid £65 per month for eight months, and then £35.81 per 
+month since September 2024. If I deduct from the balance the £75 that Creation says 
+they credited to the account in February 2024, I estimate that the balance will be fully 
+paid off by the end of June 2025 if Mrs E continues to make her payments on schedule.  
+The figures being shown in Mrs E’s app are confusing and don’t match what I 
+understand to have happened on this account. So I can appreciate why Mrs E is 
+concerned by the figures being presented to her. However, I don’t think there will be any 
+balance outstanding at the end of June 2025 if the payments continue as planned.  
+So, Mrs E has paid more than she wanted to – by around £23 per month for eight 
+months. But she’s now paying around £7 less each month than she would have done if 
+Creation hadn’t got things wrong in the first place. And she’ll pay Arrangement B off six 
+months earlier than she’d have done if the term was 24 months. 
+I’m not inclined to ask Creation to rework the account – I’m not confident their systems 
+can do this in the way that Mrs E wants, and it would lead to Mrs E having to pay more 
+each month and for longer. 
+ 
+ 
+Instead, I think Creation should pay a further £100 to Mrs E. This will take the total 
+compensation up to £275 - £200 paid directly to her and £75 which reduced the balance 
+on her account. I’m inclined to say that’s a fair amount to compensate her for paying off 
+the agreement earlier than she intended as well as the considerable distress, frustration 
+and inconvenience caused by Creation’s ongoing errors over the past ten months or so.  
+For the avoidance of doubt, Creation are entitled to reverse the credit they applied to 
+Arrangement C, but they need to ensure they do this correctly and that it has no adverse 
+impact on Mrs E’s credit file. 
+Because of the inaccuracy of the information that appears in Mrs E’s app, I’m also 
+inclined to ask Creation to provide Mrs E with a full statement of account for both 
+arrangements, setting out clearly the payments, credits and interest applied both to date 
+and expected through to settlement.” 
+In response, Creation said they can’t provide an accurate statement showing future 
+payments. But otherwise they accepted my view. And Mrs E suggested that for added peace 
+of mind, I should direct Creation to write off any balance that remains outstanding once all 
+the planned payments have been made – but otherwise accepted my view. I put Mrs E’s 
+suggestion to Creation but didn’t receive a definitive response. So I’m issuing a final decision 
+to clarify what needs to happen next. 
+What I’ve decided – and why 
+I’ve considered all the available evidence and arguments to decide what’s fair and reasonable 
+in the circumstances of this complaint. 
+Having done so, I’m upholding the complaint and directing redress in broadly the same way 
+as I did in my provisional decision. However, because Creation are unable to produce a 
+statement showing the future transactions, I’m satisfied it’s fair to direct them instead to write 
+off any balance that’s showing as outstanding on Arrangement B after Mrs E has made the 
+remaining planned payments of £35.81 per month up to June 2025.  
+My final decision 
+As I’ve set out above, I’m upholding Mrs E’s complaint. Creation Consumer Finance Ltd 
+need to pay an additional £100 to Mrs E. And, should there be a balance outstanding on 
+Arrangement B at the end of June 2025 after all the planned payments have been made, 
+Creation Consumer Finance Ltd will need to write off this balance. 
+Under the rules of the Financial Ombudsman Service, I’m required to ask Mrs E to accept or 
+reject my decision before 26 December 2024. 
+  
+ 
+Clare King 
+Ombudsman 
+ 

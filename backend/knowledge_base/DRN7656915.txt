@@ -1,0 +1,144 @@
+K820x#14
+complaint
+Mr P complains about the way Creation Consumer Finance Ltd handled a Subject Access 
+Request (SAR) he made in October 2018. He also complains that it wrongly shared his 
+personal data with a third party.
+(I’m aware that Mr P disagrees with Creation on a wide range of issues, but this complaint is 
+solely about his October 2018 SAR and the way Creation handled his personal data.)
+background
+Mr P told us:
+
+As at October 2018, he had an existing credit agreement with Creation. A dispute 
+had arisen in connection with that existing credit agreement. The dispute involved 
+goods purchased from a third party, which I will call “C”.
+
+He made a SAR, but Creation did not provide all the documents that he believes it 
+should have done – either within the required timescales or at all. Amongst other 
+things, Creation did not supply him with copies of correspondence between itself and 
+C (and in particular, it did not supply him with C’s response to Creation’s email of 
+12 April 2018). Creation also failed to supply him with copies of correspondence 
+between himself and C.
+
+Creation did provide him with a CD, which it said contained information relevant to 
+his SAR – but the CD came without any instructions, and he was not able to use it to 
+access data.
+
+In addition, Creation shared his personal data with C without his authorisation.
+Creation told us:
+
+It processed Mr P’s SAR correctly. It sent him all the information he was entitled to 
+see, and it did so within the required timescales.
+
+It is sorry that it sent Mr P a CD without any instructions, but it did send him 
+instructions very shortly afterwards.
+
+It considers that the terms and conditions of its agreement with Mr P allow it to 
+“contact and exchange information with partner companies [such as C] providing we 
+have an appropriate reason to do so”. It is satisfied that it did have an appropriate 
+reason to contact C in this case.
+One of our investigators looked at Mr P’s complaint, but she did not uphold it. Briefly, she 
+said:
+
+She didn’t think Creation held copies of the correspondence between Mr P and C – 
+so she didn’t think it was possible for Creation to send that correspondence to Mr P 
+in response to his SAR.
+
+She also didn’t think Creation received a response to its 12 April 2018 email to C – 
+so again, she didn’t think it was possible for Creation to send that response to Mr P.
+Ref: DRN7656915
+2
+
+She accepted that Creation sent Mr P a CD with no instructions on it. But she also 
+noted that Creation had apologised for that failure, and sent instructions. She said 
+she was sorry to hear that the CD wasn’t playable on Mr P’s device, but she didn’t 
+think she could fairly ask Creation to do anything more. 
+Mr P did not accept our investigator’s conclusions, and asked for his complaint to be 
+reviewed by an ombudsman. He also said that before any ombudsman review was 
+undertaken, he would like “Creation to provide the FOS all telephone calls and [C’s] emails 
+from archive, since SAR is incomplete…Creation stated in letters to me previously that 
+certain other calls which have not been provided were listened to’”.
+I issued a provisional decision on this complaint in July 2021. I said:
+“Mr P has provided comprehensive submissions in support of his complaint. I confirm 
+that I have read and considered everything he provided, but I will not respond using 
+the same level of detail. I do not intend any discourtesy by that; it simply reflects the 
+informal nature of the Financial Ombudsman Service.
+There is very little that I can add to what our investigator has already said. It is 
+impossible for me to be absolutely certain that Creation processed Mr P’s SAR 
+correctly, but on balance I think it is much more likely than not that Creation did give 
+Mr P all the information he was entitled to. 
+Creation says it does not have all of the information that Mr P wants. Clearly Creation 
+cannot disclose information it does not have. I have noted Mr P’s comments about 
+phone calls being listened to, but I have no reason to suspect that Creation has failed 
+to disclose information that it should have done.
+It is unfortunate that Creation sent Mr P a CD without instructions, but I don’t think it 
+would be appropriate for me to award compensation as a result. I consider that 
+Creation provided instructions within a reasonable period, and it would not be fair for 
+me to require anything more.
+I am also satisfied that it was necessary for Creation to disclose Mr P’s personal data 
+to C in order for Creation to comply with its own legal obligations (and consider a 
+claim Mr P had made against Creation in relation to goods purchased from C).
+I can see that Mr P and Creation have had various exchanges about Creation’s 
+practical arrangements for dealing with SARs – for example, whether it supplies 
+telephone recordings on CD or memory stick, and whether it could or should have 
+used a particular delivery service for physical documents. As an ombudsman, it is not 
+part of my role to tell Creation what its practical arrangements should be. I can 
+consider whether Creation’s practical arrangements have caused Mr P financial loss 
+or material distress or inconvenience – but here, I don’t think they have. Mr P was 
+disappointed to receive some documents slightly later than he expected to, but I don’t 
+think it would be fair for me to award compensation for that disappointment.  
+In the overall circumstances of this complaint, I consider that Creation has treated 
+Mr P fairly. I do not intend to award compensation, nor do I intend to direct Creation 
+to take any actions.”
+Ref: DRN7656915
+3
+Mr P did not accept my provisional findings, and asked that they be reviewed. He said:
+“Creation have not supplied every telephone call to myself, despite having to adhere 
+to Data Security arrangements under GPDR and the former 1998 Data Protection 
+Act. The “privacy policy” of Creation states they ensure a third party, in this case, [C] 
+to use encryption to safeguard sensitive Creation customer data but this was not the 
+case, as [C] were involved in a Data Theft notified to the ICO. If Creation may 
+exchange data when I have a right of access to all telephone calls as Creation 
+systems are Archived. 
+Creation admit that telephone calls were made by me, and listened to by Creation, 
+yet have not been provided via the FOS; in particular, at 9:54AM on 19 April 2017, 
+this was confirmed in Creation letter dated 15 June 2017; the FOS have not 
+addressed failures under Data Protection Act 1998 given these calls were made in 
+the last six years, as I need these calls for possible future litigation against Creation 
+itself, and [C] under the Consumer Credit Act 1974, as faulty goods were purchased 
+yet then not repaired.”
+Creation did not make any further comments in response to my provisional findings.
+my findings
+I’ve considered all the available evidence and arguments to decide what’s fair and 
+reasonable in the circumstances of this complaint.
+I have carefully considered Mr P’s further comments, but I have not changed my mind. As I 
+said, it is impossible for me to be certain that Creation processed Mr P’s SAR correctly – but 
+on balance, I have no reason to suspect that Creation failed to disclose information that it 
+should have done.
+I would not expect any business to retain telephone recordings forever – so the fact that a 
+business possessed a phone recording at one point does not necessarily show that the 
+business was still in possession of that recording some months later. I have seen nothing 
+that suggests to me that Creation failed to disclose information that it should have done, or 
+that it treated Mr P unfairly in any way.
+I understand that Mr P may wish to take legal action against Creation or C in future. But the 
+Financial Ombudsman Service is an alternative to the courts – it is not the first stage of court 
+proceedings. Our purpose is to resolve disputes between consumers and financial 
+businesses, not to enable them to obtain evidence so they may pursue their dispute 
+elsewhere. The courts have their own procedures for the disclosure of evidence. Mr P will be 
+able to use those procedures if he does choose to take legal action against Creation (or 
+indeed against C or anybody else). 
+I remain satisfied that it was necessary for Creation to disclose Mr P’s personal data to C in 
+order for Creation to comply with its own legal obligations. In the specific circumstances of 
+this complaint, I do not think it would be fair or reasonable for me to require Creation to make 
+a payment to Mr P as a result of any data breaches associated with C.
+Overall, I have come to the same conclusions as I did in my provisional decision, for the 
+same reasons. I now confirm those provisional conclusions as final.
+Ref: DRN7656915
+4
+my final decision
+My final decision is that I do not uphold this complaint about Creation Consumer 
+Finance Ltd.
+Under the rules of the Financial Ombudsman Service, I’m required to ask Mr P to accept or 
+reject my decision before 27 September 2021.
+Laura Colman
+ombudsman
+Ref: DRN7656915

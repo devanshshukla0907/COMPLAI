@@ -1,0 +1,166 @@
+ 
+ 
+DRN-5047577 
+ 
+ 
+The complaint 
+ 
+Mrs D complains about Creation Consumer Finance Ltd (“Creation”)’s response to a claim 
+she made under Section 75 (“s.75”) of the Consumer Credit Act (“CCA”) and about 
+allegations of an unfair relationship taking into account Section 140A (“s.140”) of the CCA.  
+What happened 
+In November 2013, Mrs D purchased a solar panel system (“the system”) from a supplier, 
+which I will refer to as “S”. Mrs D paid for the system using a fixed sum loan agreement with 
+Creation.  
+In February 2020, Mrs D complained to Creation through a claims management company 
+(“CMC”). She said that the system had been misrepresented to her by S, in that she’d been 
+told the system would come at no cost to her, since it would be self-funding – the Feed-In 
+Tariff (“FIT”) payments being enough to cover the loan repayments from the first year. She 
+also said that her relationship with Creation was unfair for reasons including that Creation: 
+• 
+Failed to assess Mrs D’s creditworthiness.  
+• 
+Failed to act honestly fairly and professionally in Mrs D’s best interests. 
+• 
+Failed to disclose payment or receipt of any commissions and inducements. 
+• 
+Failed to provide a cooling off period.  
+• 
+Failed to notify Mrs D of her cancellation rights.  
+ 
+Creation responded to Mrs D in its final response of 18 March 2020, in which it said the 
+claim had been made too late given the provisions of the Limitation Act, so it did not uphold 
+the complaint.  
+ 
+Unhappy with this, Mrs D referred the complaint to the Financial Ombudsman Service.  
+ 
+Creation disputed our jurisdiction to consider the complaint. I previously issued a decision 
+explaining why we do have jurisdiction in this matter.  
+ 
+Our investigator didn’t recommend the complaint be upheld. She said that the sales contract 
+provided at the time of sale clearly showed the system would not be self-funding, so it was 
+unlikely that the alleged misrepresentation had taken place. No commission was paid in 
+relation to Mrs D’s credit agreement. And our investigator didn’t find any reason to conclude 
+that the relationship between Creation and Mrs D was unfair on her.  
+ 
+The CMC responded to say Mrs D was not in agreement with this. The CMC provided a 
+document our investigator hadn’t seen before, which it said was provided to Mrs D at the 
+time of sale. This said the first-year benefit from the system would be £1,500, benefits over 
+25 years would be £43,118, that Mrs D had chosen the “self-financing option” at a cost of 
+£123.71 and that her contribution to this would be “ZERO Per Week / Month”. 
+ 
+Our investigator considered this document alongside all the other evidence, and asked 
+Mrs D for her comments about it – which she provided by email. Our investigator felt that the 
+significant disparity between what was on the document and what was on the contract would 
+ 
+ 
+not have gone unnoticed by Mrs D at the time of sale. So, our investigator was not 
+persuaded to change her opinion. 
+ 
+I issued a provisional decision explaining why I was not planning to uphold this complaint. 
+Creation responded to say that it agreed with this. Mrs D and the CMC did not respond by 
+the deadline I gave.  
+ 
+What I’ve decided – and why 
+I’ve considered all the available evidence and arguments to decide what’s fair and 
+reasonable in the circumstances of this complaint. 
+In line with my provisional decision, I’ve decided not to uphold this complaint.  
+s.75 claim 
+The sale and alleged misrepresentation took place on 20 November 2013. Mrs D made her 
+claim to Creation on 7 February 2020. This is more than six years later. Bearing in mind the 
+provisions of the Limitation Act, Mrs D made the claim too late, and Creation would have no 
+liability in relation to the s.75 claim. So, I do not think its response to this part of the claim 
+was unreasonable.  
+s.140 Unfair relationship complaint  
+ 
+At the time Mrs D made her complaint the relationship between her and Creation (through 
+the loan agreement) was ongoing. So, the provisions of the Limitation Act were not 
+applicable, and Creation ought to have responded fully to this part of the complaint.  
+ 
+When considering whether representations and contractual promises by S can be 
+considered under s.140, I’ve looked at the court’s approach to s.140. A court must consider 
+the whole relationship between the creditor and the debtor arising out of the credit 
+agreement and whether it is unfair, including having regard to anything done (or not done) by 
+or on behalf of the creditor before the making of the agreement. A misrepresentation by the 
+creditor or a false or misleading presentation are relevant and important aspects of a 
+transaction. Section 56 (“s.56”) of the CCA has the effect of deeming S to be the agent of 
+Creation in any antecedent negotiations.  
+ 
+Taking this into account, I consider it would be fair for me to consider as part of the 
+complaint about an alleged unfair relationship those negotiations and arrangements by S for 
+which Creation was responsible under s.56 when considering whether it is likely Creation 
+acted fairly and reasonably towards Mrs D. In doing so, I should take into account all the 
+circumstances and consider whether a Court would likely find the relationship with Creation 
+was unfair under s.140A. 
+ 
+Given the evidence available, I am not persuaded that S told Mrs D that the system would 
+not cost her anything, or that the FIT payments would cover the loan repayments from the 
+first year.  
+ 
+The contract, which Mrs D signed, said the first-year benefits would be: 
+ 
+• 
+FIT generation tariff  £126.17 
+• 
+FIT export tariff 
+£19.64 
+• 
+Electricity bill savings £65.19 
+• 
+Total   
+ 
+£210.97 
+ 
+ 
+ 
+This is far below the loan repayments, which were £123.71 per month, or £1,484.52 per 
+year. With this in mind, it seems unlikely that S would’ve provided these figures on the 
+contract whilst telling Mrs D something completely different. I think it is likely that Mrs D 
+would’ve noticed the significant discrepancy and raised this at the time, rather than many 
+years later.  
+ 
+I’ve taken on board what Mrs D has said, particularly in relation to the further document 
+provided, which shows a much higher benefit. It is difficult to understand why this would 
+provide such radically different information to that shown on the contract, why it is in such a 
+different style to the other documents provided by S at the time of sale, and why the CMC 
+did not submit this with the initial claim and complaint. And it is hard to understand why 
+Mrs D did not make a complaint much sooner when the reality of the system’s benefits were 
+so different to what is shown on this document.  
+ 
+Overall, I am not persuaded that this document means that Mrs D was misled about the 
+benefits of the system or that a court would conclude this created an unfair relationship.  
+ 
+I’ve also thought about the other reasons given in the letter of claim as to why the 
+relationship between Creation and Mrs D may be unfair on her, but I am not persuaded a 
+court would conclude that an unfair relationship was created.  
+ 
+My understanding is that Creation carried out a creditworthiness assessment. And there is 
+no suggestion that the loan was unaffordable at the time it was taken out.  
+ 
+It is unclear in what way Creation is alleged to have failed to act honestly, fairly, and 
+professionally in accordance with Mrs D’s best interests. But I have identified no reason to 
+conclude that this allegation is justified nor that a court would conclude the relationship was 
+unfair as a result of this.   
+ 
+Creation neither paid nor received any commission in relation to Mrs D’s loan agreement. 
+So, there was no commission to disclose that would’ve made any difference to what Mrs D 
+did at the time of sale or that would render her relationship with Creation unfair on her.  
+ 
+I cannot be sure that the cooling off period and cancellation rights were made clear to Mrs D. 
+But there is no suggestion that she would’ve exercised those rights at the time. So, I can’t 
+see that this would lead a court to conclude that the relationship between Creation and 
+Mrs D was unfair on her.  
+ 
+Overall, I am not persuaded that a court would conclude an unfair relationship existed 
+between Mrs D and Creation. So, I do not uphold this complaint.  
+ 
+My final decision 
+For the reasons I’ve explained, I do not uphold this complaint.  
+Under the rules of the Financial Ombudsman Service, I’m required to ask Mrs D to accept or 
+reject my decision before 25 October 2024. 
+  
+  
+ 
+Phillip Lai-Fang 
+Ombudsman 
+ 

@@ -1,0 +1,115 @@
+ 
+ 
+DRN-5625387 
+ 
+ 
+The complaint 
+ 
+Mr E complains that Creation Consumer Finance Ltd (“Creation”) applied interest to a Buy 
+Now Pay Later (BNPL) purchase he made using credit provided by them.  
+What happened 
+Mr E has a running account credit agreement with Creation. 
+On 28 November 2023, he purchased a laptop that cost £478.99 using the BNPL option of 
+this credit facility. The terms of this meant that Creation wouldn’t charge interest on this 
+purchase if Mr E repaid £478.99 by 28 August 2024.  
+Mr E says he tried to pay the due amount before the BNPL period ended but couldn’t 
+because of errors at Creation’s end. As he wasn’t able to pay this, Creation applied the 
+interest that was due.  
+Mr E complained to Creation. He said they hadn’t sent him any reminders that the BNPL 
+period was due to end, which meant they hadn’t complied with their own terms and 
+conditions. Mr E also mentioned he tried to pay the due amount but couldn’t because 
+Creation’s payment page didn’t work.  
+Creation didn’t provide their response to Mr E’s complaint, so he referred the matter to our 
+service. Creation then sent their final response letter to Mr E, in which they said they sent a 
+reminder to him in March 2024 about the end of the BNPL period and that this information 
+was also set out in two monthly account statements which Mr E could access online.  
+Our investigator didn’t recommend that Mr E’s complaint should be upheld. Mr E disagreed 
+and so his complaint has been passed to me for a decision.  
+What I’ve decided – and why 
+I’ve considered all the available evidence and arguments to decide what’s fair and 
+reasonable in the circumstances of this complaint. 
+Mr E’s complaint relates to a running account credit agreement provided by Creation. Our 
+service is able to consider complaints about these types of agreements.  
+ 
+ 
+The Financial Conduct Authority (“FCA”) has made specific rules relating to BNPL deals, 
+about the kind of information which must be given to borrowers taking out such deals. The 
+most relevant of these rules is CONC 6.7.16AR, which states: 
+“Where a customer has the benefit of a zero-percentage or low interest, introductory or 
+promotional offer that depends on the customer meeting certain conditions, a firm must 
+provide notice to the customer reminding them of any action they need to take to meet the 
+conditions of the offer and the date by which this action must be taken, within a reasonable 
+period before that date, taking account of the time at which the information may be most 
+useful to the customer. 
+This notice must be provided in an appropriate medium (taking into account any preferences 
+expressed by the customer about the medium of communication between the firm and 
+customer), in plain language and sufficiently prominent, so that it is likely to be seen and 
+understood by the customer”. 
+In other words, lenders such as Creation must provide timely and clear reminders to 
+consumers about the terms of their BNPL purchases, to lessen the risk that they 
+inadvertently miss the deadline and become liable to pay a significant amount of interest.  
+Mr E has told us he was aware of how the BNPL deal worked, which makes sense bearing 
+in mind he had previously taken out other BNPL deals using Creation’s account. The issue 
+here is that Mr E says Creation didn’t send him reminders about the expiration of the BNPL 
+period and that he wasn’t able to pay the cash price of the laptop in time to avoid interest 
+being applied.  
+Creation says it sent Mr E a reminder letter about the end of the BNPL period on 1 March 
+2024. I’ve seen an example of what this letter would have looked like, and I think it explains 
+how the BNPL purchase worked quite clearly and what Mr E needed to do to avoid interest 
+being applied to it. The example letter has a “code” which matches the code on Creation’s 
+systems next to the entries which they say indicates a letter was sent. Creation has the 
+correct postal address details for Mr E, and I’m not aware of any postal issues in early March 
+2024 which could have prevented this letter from reaching him. Generally, the vast majority 
+of correctly addressed post is delivered successfully, and to the right address. So, I think I 
+have to conclude, on the balance of probabilities, that the reminder letter of March 2024 was 
+successfully delivered to Mr E.  
+However, that reminder letter was sent around five months before the end of the BNPL 
+period. I think a reminder ought to have been given to Mr E closer to the BNPL deadline, and 
+that would in my view had been appropriate for Creation to do, to have met their obligations 
+under CONC 6.7.16AR.  
+I’ve looked at the account statements for July 2024 and August 2024. Both contained 
+reminders on the front page, in a box titled “Important Information”. The reminder set out that 
+the BNPL period was due to end on 28 August 2024. And it included the following text: “Any 
+balance on your account after this date will be charged interest from the date of your 
+purchase at the rate specified in your credit agreement”. The interest rate was shown as 
+well. I don’t think this information was insufficiently clear or prominent, so I have to consider 
+that Mr E was given a timely reminder of the BNPL deadline and what would happen if he 
+still had a balance when the deadline expired. 
+ 
+ 
+I’ve considered Mr E’s comments that he didn’t know he had an online account which 
+Creation created for him. So, he says he didn’t know about the reminders in the statements. 
+I’ve not seen enough evidence that Mr E was being sent statements by other means, and he 
+presumably was aware that statements would likely be generated each month. I note that 
+Creation has said that Mr E set his communication preference for this purchase to be set to 
+the online system they had (rather than by other means such as e-mail or letter). I’ve not 
+seen enough evidence that this was incorrect.  
+Overall, I conclude that Creation provided a reminder letter to Mr E in March 2024 and a 
+further set of reminders to him in the July and August 2024 account statements. I think they 
+complied with their obligations under CONC 6.7.16AR as a result.  
+Finally, I’ve considered what Mr E has said about his problems in making the payment to 
+Creation. He’s provided screenshots of messages he saw which said the service he was 
+trying to access wasn’t available and asking him to try again later. The screenshots don’t 
+unfortunately show the date when Mr E tried to access the service in question, so I can’t be 
+certain whether this was before the BNPL period ended, or after. If it was after, then the 
+interest for the purchase would already have become payable. And, as I’ve concluded that 
+Creation complied with their obligations under the relevant part of CONC for the BNPL 
+purchase, and as I’ve not seen they made any errors in how they communicated with Mr E, 
+then it follows that Creation was entitled to apply the interest. If the payment was attempted 
+beforehand, then Mr E’s argument that Creation didn’t send reminders is largely irrelevant as 
+he was already attempting to pay what was due before the end of the BNPL period. And, if 
+that was the case, then I can’t rule out that there were other options available to Mr E to 
+enable him to make the payment in time.  
+For the reasons I’ve given above, I won’t be upholding Mr E’s complaint as I don’t think 
+Creation acted in such a way that meant he was unable to make the required due payment 
+before the end of the BNPL period, or that they acted in such a way so that Mr E was 
+unaware of that requirement.  
+My final decision 
+My final decision is that I don’t uphold this complaint.  
+Under the rules of the Financial Ombudsman Service, I’m required to ask Mr E to accept or 
+reject my decision before 19 September 2025. 
+  
+ 
+Daniel Picken 
+Ombudsman 
+ 

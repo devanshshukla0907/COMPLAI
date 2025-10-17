@@ -1,0 +1,93 @@
+DRN-3803683
+The complaint
+Mr H complains that Creation Consumer Finance Ltd (Creation) didn’t make payments from 
+his credit card.
+What happened
+Mr H had a credit card from Creation with a limit of £10,000. He used a third-party payment 
+card (which I will call A) to make payments, with the Creation credit card being debited with 
+the transaction.  On 13 September 2021, he attempted a payment for £300. It was not made. 
+On 8 September 2021, Creation stopped allowing its customers to use A.
+Mr H complained. He said he hadn’t been notified that Creation were to stop using A. He 
+then wasted time on the phone to Creation trying to sort things out. He said he got mixed 
+messages from Creation to why the payment had failed. 
+Creation said they’d made a business decision to stop using A. They said they sent a SMS 
+text to all customers telling them about that and the new policy came into effect immediately. 
+Creation said there wasn’t any law which said emails should be used. They said were within 
+their rights to restrict any transactions without further reason, and there was no breach of 
+their terms and conditions. 
+Mr H didn’t agree with Creation. He said that the use of SMS texts to advise such a change  
+wasn’t a reasonable method of communication. As it was, he was out of the UK when the 
+text was sent – and was using a local phone with a local SIM card – so he didn’t get the text. 
+He said that a better means of communication was by email or similar. He said there was 
+nothing in Creation’s terms of business which said they could stop using a payment card 
+such as A.
+Mr H brought his complaint to us. Our investigator said Creation had made a business 
+decision to stop transactions involving A. That wasn’t something our service could change. 
+And it was also up to Creation to carry out checks on certain transactions for possible fraud 
+– and that’s what they’d done here.
+Mr H didn’t agree – he said he had been told different things on the calls he made to 
+Creation. He repeated that it wasn’t in Creations terms that they could stop using A; and he 
+maintained that SMS texts were not a reasonable form of communication about such a 
+matter. He asked that an ombudsman look at his complaint – and so it has come to me to 
+make a final decision.
+What I’ve decided – and why
+I’ve considered all the available evidence and arguments to decide what’s fair and 
+reasonable in the circumstances of this complaint.
+Let me say at the outset that this service resolves individual disputes between customers 
+and financial businesses. We aren’t the regulator of Creation – that’s the Financial Conduct 
+Authority (FCA). So – we don’t tell businesses to change their policies or practices. So – 
+here, it’s for Creation to make its own commercial decisions as to how it runs its business. 
+But we do say if a customer has, or hasn’t, been dealt with fairly and reasonably – based on 
+the individual circumstances of their complaint. 
+On 13 September 2021, Mr H tried to make a payment of £300 from his Creation credit card. 
+It was stopped because Creation stopped using A. Thus is the crux of Mr H’s complaint – 
+that he had no knowledge of this change.
+In September 2021, Creation made a business decision to stop allowing their card to be 
+used as part of the payment card A. This caused transactions attempted by Mr H to be 
+declined. I can see that Creation sent text messages to customers on 8 September 2021. It 
+said: “with immediate effect we will be unable to process any transactions using your (A) 
+card”. He was on holiday at the time and didn’t get Creation’s text. And he also made the 
+point to us that it was common practice for people to use a local SIM card (therefore use a 
+local phone service) while abroad – as this was cheaper than paying roaming charges with a 
+UK phone. And that’s what he had done – so he didn’t get the text. He says that using text 
+messaging as a means of communication isn’t viable – and email is better.
+I hear what he says here. And I’ve considered his points. The FCA’s guidance is that 
+communications should be clear and not misleading. Which - looking at the text message, I 
+think it’s reasonable to say it was. And so I have to say that SMS text was a reasonable way 
+for Creation to advise its customers about the change. I accept that Mr H was out of the 
+country and using a locally enabled phone - and so wouldn’t have got the text – but I can’t 
+hold Creation responsible for that.
+Creation also told us that Mr H changed his mobile number with them on 18 September 
+2021 and showed us the evidence that was done then. So – even if Mr H had opened his 
+texts on his UK phone while abroad, he wouldn’t have got Creation’s text dated 8 September 
+2021 anyway – as he hadn’t at that stage advised Creation of his new number. But – it’s 
+reasonable to expect customers to advise a firm if their phone number has changed, and it 
+appears that Mr H didn’t do that until after the change in policy regarding A.
+I agree that Creation can take its own business decision about whether to allow the use of A 
+with its credit cards – that’s not something we can interfere with, as I have set out. But I 
+wanted to confirm whether Creation’s terms and conditions allow them to make that change 
+– and Mr H has raised that point.
+And Creation’s terms and conditions say at section 5.5: “… You may instruct a Third Party 
+Provider (TPP) to access information on your Account or make certain transactions from 
+your online Account….We will treat any instruction received from a TPP as if it was from you 
+and the terms and conditions of this agreement will continue to apply….. We may refuse to 
+allow a TPP to access your Account if we reasonably suspect fraudulent or unauthorised 
+activity on their part. We will tell you before we do this unless it is impractical to do so or 
+unlawful.” Therefore – Creation were entitled to stop using A if they wished in line with its 
+terms, and these also say they would advise customers - which I’m satisfied they did.
+We asked Creation for the calls that Mr H referred to in his complaint. Creation told us they 
+were no longer available given the passage of time – they have been deleted. So – we can’t 
+check the information that Mr H was given on why the payment was declined. Creation 
+showed us a note of the call made by Mr H on 13 September 2021 – and the notes says he 
+was advised about the decision to stop using A. So that looks to be consistent with what 
+happened. Therefore, I’m persuaded that Creation gave Mr H the correct information when 
+he called them.
+Mr H had argued his complaint with us in detail, and he will be disappointed by my decision, 
+but I’m not asking Creation to do anything here.
+My final decision
+I do not uphold this complaint.
+Under the rules of the Financial Ombudsman Service, I’m required to ask Mr H to accept or 
+reject my decision before 9 March 2023.
+ 
+Martin Lord
+Ombudsman

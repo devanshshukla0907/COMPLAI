@@ -1,0 +1,388 @@
+ 
+ 
+DRN-4948333 
+ 
+ 
+The complaint 
+ 
+Mr S has complained about Creation Consumer Finance Ltd (‘Creation’)’s response to a 
+claim he made under Section 75 (‘s.75’) of the Consumer Credit Act 1974 (the ‘CCA’) and in 
+relation to allegations of an unfair relationship taking into account Section 140A (‘s.140A’) of 
+the CCA. 
+ 
+What happened 
+In July 2015, Mr S bought two solar panel systems (‘the systems’), from a company I’ll call 
+“the supplier”, using a ten-year fixed sum loan from Creation. The first was for his home and 
+the second for another property he owned but did not reside at. He paid a deposit, and the 
+loan covered the remaining cost of the two systems.  
+ 
+In September 2021, Mr S made a claim to Creation through a claims management company 
+(“CMC”). This said that Mr S was told by the supplier that the income and savings from the 
+systems would fund the cost of the loan so he would be no worse off each month. Mr S says 
+that didn’t happen.  
+ 
+The letter of claim also said that what happened at the time of the sale created an unfair 
+relationship between Mr S and Creation, including because: 
+ 
+1. No suitable creditworthiness assessment was carried out before Creation agreed to 
+the loan.  
+ 
+2. No pre-contract credit information was provided to Mr S.  
+ 
+3. There is no evidence that Mr S was given notice of his cancellation rights.  
+ 
+4. The sale took place in a high-pressure selling environment. 
+ 
+5. Full details of the credit agreement were not explained to Mr S, and he did not 
+understand the total costs of the loan.  
+ 
+6. Creation received commission which Mr S was not told about.  
+ 
+Creation responded to the claim in October 2021. Creation treated the claim as a complaint 
+and said that Mr S had brought his complaint too late. Creation dismissed the complaint 
+without responding to the claim, which it said was allowed by the Dispute Resolution (DISP) 
+Rules. These rules set out how financial businesses should handle complaints.   
+ 
+Unhappy with Creation’s response, Mr S contacted the Financial Ombudsman Service. 
+ 
+Our investigator looked into what had happened. He said that: 
+ 
+• 
+Given the s.75 claim was likely to be time barred under the Limitation Act, Creation’s 
+refusal of this part of the claim was fair.  
+ 
+ 
+ 
+• 
+The s.140A complaint was one we could look at under our rules and that it had been 
+referred in time.  
+ 
+• 
+Misrepresentations could be considered under s.140A.  
+ 
+• 
+A court would likely find an unfair relationship had been created between Mr S and 
+Creation.  
+ 
+Our Investigator recommended that Mr S keep the systems and Creation take into account 
+what Mr S had paid so far, along with the benefits he received, making sure the systems 
+were effectively self-funding.  
+ 
+Neither Creation nor Mr S provided any response by the deadline given. So, I’ve been asked 
+to make a decision.  
+ 
+I issued a provisional decision explaining why I was not planning to uphold the complaint.  
+ 
+Mr S responded to say, “I'm sorry to say but there is nothing we can think of to add to the 
+complaint. Only bitter disappointment about the failure of the system and wish we had never 
+had it installed. All it has turned out to be is debt! And broken with no one to call to fix it so 
+we could get even a little return on it.” 
+ 
+Creation did not respond by the deadline I gave.  
+ 
+What I’ve decided – and why 
+I’ve considered all the available evidence and arguments to decide what’s fair and 
+reasonable in the circumstances of this complaint. 
+My findings on jurisdiction  
+ 
+I’m satisfied I have jurisdiction to consider Mr S’s complaint, both in respect of the refusal by 
+Creation to accept and pay his s.75 claim and the allegations of an unfair relationship under 
+s.140A. 
+ 
+The s.75 complaint  
+ 
+The event complained of here is Creation’s alleged wrongful rejection of Mr S’s s.75 claim on 
+3 September 2021. This relates to a regulated activity under our compulsory jurisdiction. 
+Mr S brought his complaint about this to the ombudsman service on in February 2022. So, 
+his complaint in relation to the s.75 claim was brought in time for the purposes of our 
+jurisdiction. 
+ 
+The unfair relationship under s.140A complaint  
+ 
+The event complained of here is Creation’s participation, for so long as the credit relationship 
+continues, in an alleged unfair relationship with Mr S. Here the relationship was ongoing at 
+the time it was referred to the ombudsman service in February 2022, so the complaint has 
+been brought in time for the purposes of our jurisdiction. 
+ 
+My findings on the merits of the complaint 
+ 
+The s.75 complaint  
+ 
+ 
+ 
+The law imposes a six-year limitation period on claims for misrepresentation and breach of 
+contract, after which they become time barred.  
+ 
+In this case the alleged misrepresentation and alleged breach cause of action arose when 
+an agreement was entered into on 17 July 2015. Mr S brought his s.75 claim to Creation on 
+3 September 2021. That is more than six years after he entered into the credit agreement 
+with Creation. Given this, I think Creation would have no liability for the s.75 claim. So, I do 
+not uphold this part of the complaint.  
+ 
+The unfair relationship under s.140A complaint 
+ 
+When considering whether representations and contractual promises by the supplier can be 
+considered under s.140A I’ve looked at the court’s approach to s.140A.  
+ 
+In Scotland & Reast v British Credit Trust [2014] EWCA Civ 790 the Court of Appeal said a 
+court must consider the whole relationship between the creditor and the debtor arising out of 
+the credit agreement and whether it is unfair, including having regard to anything done (or 
+not done) by or on behalf of the creditor before the making of the agreement. A 
+misrepresentation by the creditor or a false or misleading presentation are relevant and 
+important aspects of a transaction.  
+ 
+Section 56 (‘s.56’) of the CCA has the effect of deeming the supplier to be the agent of 
+Creation in any antecedent negotiations.  
+ 
+Taking this into account, I consider it would be fair and reasonable in all the circumstances 
+for me to consider as part of the complaint about an alleged unfair relationship those 
+negotiations and arrangements by the supplier for which Creation were responsible under 
+s.56 when considering whether it is likely Creation had acted fairly and reasonably towards 
+Mr S.  
+ 
+But in doing so, I should take into account all the circumstances and consider whether a 
+Court would likely find the relationship with Creation was unfair under s.140A. 
+ 
+What Mr S was told at the time of sale 
+ 
+The letter of claim says that Mr S was told that the income and savings from the system 
+would fund the cost of the loan so he would be no worse off each month. When our 
+investigator asked Mr S about his recollection of the sale, he let us know that he’d been told 
+that, “it would be a good deal and a profitable one for the future of our income, implying a 
+good amount of cash back from our electricity suppliers.”  
+ 
+Mr S has not provided any sales documents which could shed further light on what 
+information he was given at the time of sale.  
+ 
+I’ve looked at the supplier’s website from the time of sale, which is available on the Internet 
+Archive (I provided a link to this in my provisional decision). This had the following example 
+of the benefits that might be provided by a domestic solar panel system: 
+ 
+ 
+ 
+ 
+ 
+The figures in this example do not seem unreasonable. They are based on the FIT unit rates 
+and the cost of electricity at that time, as well as the industry standard self-consumption rate 
+of 50%. Nowhere on the archived website does it suggest the benefits of a solar panel 
+system could cover the monthly cost if a loan is used, or that the system would in effect be 
+free or self-funding. I think this is relevant to Mr S’s sale because it suggests that the 
+supplier was making a reasonable assessment of the benefits of the systems it was selling 
+at that time.  
+ 
+Mr S has provided a welcome letter and attachments that were sent by the supplier in 
+relation to each installation. Both gave figures for “predicted system performance” and 
+warned that this was impossible to predict with certainty.  
+ 
+The welcome letter for the first system is dated 7 July 2015. This stated the annual benefits 
+of the first system would be as follows: 
+ 
+• 
+Contract value  
+ 
+£7,500.00 
+• 
+Output  
+ 
+ 
+2,203 kWh per year 
+• 
+FIT generation rate 12.92p  £284.65 
+• 
+FIT export rate 4.85p   
+£53.43 
+• 
+Import rate (for savings) 18p  £209.30 
+• 
+Total income/savings   
+£547.39 
+• 
+Annual ROI 
+ 
+  
+7.30% 
+ 
+ 
+ 
+ROI means return on investment – in this case the annual return as a percentage of the 
+contract value.  
+ 
+So, I’m satisfied that before Mr S signed the credit agreement he was aware that the first 
+system would provide a benefit of £547.39 per year, or 7.3% of the purchase price.  
+ 
+The credit agreement was signed before the second welcome letter. It showed the following 
+information about the loan: 
+ 
+• 
+Purchase price  
+£13,600 
+• 
+Deposit paid   
+£1,600 
+• 
+Credit   
+ 
+£12,000 
+• 
+Charge for credit  
+£6,615.35 
+• 
+Total payable   
+£20,215.35 
+• 
+120 repayments of  
+£155.12 per month 
+ 
+So, when signing the credit agreement, it would have been clear to Mr S that the benefits of 
+the first system would not cover the monthly or annual loan repayments.  
+ 
+The welcome letter for the second system is dated 3 August 2015. This was after Mr S 
+signed the credit agreement. It provided the following information about the annual benefits 
+of the second system: 
+ 
+• 
+Contract value  
+ 
+£7,000.00 
+• 
+Output  
+ 
+ 
+1,468 kWh 
+• 
+FIT generation rate 12.92p  £189.77 
+• 
+FIT export rate 4.85p   
+£35.62 
+• 
+Import rate (for savings) 18p £235.01 
+• 
+Total income/savings   
+£460.40 
+• 
+Annual ROI 
+ 
+  
+6.60% 
+ 
+So, the combined benefits of the two systems shown in the welcome letters was £1,007.79 
+per year. This compares to the loan repayments of £155.12 per month which equates to 
+£1,861.44 per year. From the welcome letters it is clear that the benefits of the system would 
+not cover the loan repayments.  
+ 
+I’m mindful that Mr S did not live at the second property, so would not benefit from any 
+electricity savings from the system. He would only benefit from the FIT income from that 
+system. I think he’d have been aware of this at the time.  
+ 
+While the welcome letter for the second system is dated after the credit agreement was 
+signed, it is clear that when signing the credit agreement Mr S was agreeing to purchase two 
+systems. I say this because the purchase price shown on the credit agreement included the 
+cost of both the systems. It stands to reason that prior to signing the credit agreement there 
+would at least have been a discussion about both systems. And it is likely that a contract 
+would’ve been signed, although this has not been provided to us.  
+ 
+The welcome letters and the information on the supplier’s website make me think that it is 
+likely the benefits discussed would’ve been realistic and in line with what is shown in the 
+welcome letters. If that was not the case, I would have expected Mr S to do something about 
+this when receiving the welcome letters, or within a reasonable time after installation – when 
+he would’ve realised the loan repayments were much more than the benefits. But in fact, 
+Mr S didn’t raise any concerns about the benefits he was receiving until over six years after 
+ 
+ 
+the sale took place – even though the supplier was still in business for around five years 
+after installation.  
+ 
+Overall, I am not persuaded that the supplier told Mr S the system would pay for itself so that 
+he would be no worse off financially each month. It seems more likely that the supplier gave 
+Mr S a reasonable indication of what the benefits would be, and that these were much less 
+than the loan repayments.  
+ 
+Because I do not think that the supplier misled Mr S about the benefits of the system, I do 
+not think that the way the system was represented to him meant that his relationship with 
+Creation was unfair.  
+ 
+Other points from the letter of claim 
+ 
+The letter of claim makes some other points as to why the relationship between Mr S and 
+Creation may be unfair. So, I have thought about these as well. I summarise my findings 
+below. Overall, I do not think it is likely that any of these points would render Mr S’s 
+relationship with Creation unfair.  
+ 
+1. No suitable creditworthiness assessment was carried out before Creation agreed to 
+the loan.  
+ 
+I have not seen details of the creditworthiness assessment carried out. However, there has 
+been no suggestion that the lending was irresponsible or that it was unaffordable for Mr S.  
+ 
+I said in my provisional decision that if Mr S thought the lending was irresponsible or 
+unaffordable then he should provide information and evidence about this in response to this 
+provisional decision. He did not provide any comments, information, or evidence in relation 
+to this. So, it seems unlikely that a suitable creditworthiness assessment would’ve led to 
+Creation declining the loan application.  
+ 
+2. No pre-contract credit information was provided to Mr S.  
+ 
+The CMC has provided a copy of the pre-contract credit information. It’s unclear if this is a 
+copy that Mr S held (in which case he was given this) or if this was received from Creation 
+prior to the claim being made.  
+ 
+That it exists suggests it is likely that Mr S was given a copy of it. However, even if Mr S was 
+not provided with this, he signed the credit agreement which has all the same information on 
+it. It is not clear to me that having this information sooner would’ve led to Mr S taking 
+different action, such as not taking the loan or not purchasing the systems.  
+ 
+3. There is no evidence that Mr S was given notice of his cancellation rights.  
+ 
+Mr S has not provided a copy of the sales contract or terms and conditions, which would 
+normally include the cancellation rights. In any case, there is no suggestion that Mr S wanted 
+to cancel the contract within the 14-day cooling off period, or that he would’ve done so if he’d 
+been given notice of the cancellation rights. So, I don’t think this would’ve made any 
+difference to what happened.  
+ 
+4. The sale took place in a high-pressure selling environment. 
+ 
+The letter of claim has not set out what pressure was applied. And Mr S did not mention any 
+concerns about being pressured into signing the contract when he told us about his 
+ 
+ 
+recollection of the sale. So, I think there is insufficient evidence that Mr S was pressured into 
+the agreement.  
+ 
+5. Full details of the credit agreement were not explained to Mr S, and he did not 
+understand the total costs of the loan.  
+ 
+Mr S signed the credit agreement, which clearly set out what he was agreeing to pay and 
+over what period. If he had any concerns about this he could’ve raised it before signing the 
+agreement.   
+ 
+6. Creation received commission which Mr S was not told about.  
+ 
+It would be unusual for a lender to receive commission in a situation such as this. 
+ 
+Mr S’s response to the provisional decision 
+ 
+I acknowledge Mr S’s disappointment. His comments suggest that one or both of the 
+systems are broken or not working in some way. If that is the case – which has not been 
+mentioned previously as part of this complaint – Mr S can ask Creation if it can help (for 
+example it may agree to inspect the system if it is still under warranty, to see if Creation has 
+any liability for repairs). But that is a separate matter to this complaint about the fairness of 
+his relationship with Creation. Otherwise, he can arrange for the system to be inspected and 
+repaired at his own cost. 
+ 
+Summary 
+ 
+Overall, I am not persuaded that a court would conclude that Mr S’s relationship with 
+Creation was unfair. And I’ve found no compelling reason as to why this complaint should be 
+upheld.  
+ 
+My final decision 
+For the reasons I’ve explained, I don’t uphold this complaint. 
+ 
+Under the rules of the Financial Ombudsman Service, I’m required to ask Mr S to accept or 
+reject my decision before 10 September 2024. 
+  
+  
+ 
+Phillip Lai-Fang 
+Ombudsman 
+ 

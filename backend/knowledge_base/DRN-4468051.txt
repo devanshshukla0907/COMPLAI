@@ -1,0 +1,192 @@
+DRN-4468051
+The complaint
+Ms F complains that Creation Consumer Finance Ltd rejected her claim for compensation 
+under section 75 of the Consumer Credit Act 1974 (“section 75”) in relation to a  boiler 
+replacement.
+What happened
+On 11 March 2022 Ms F entered into a regulated fixed sum loan agreement with Creation to 
+finance the supply and installation by a third party (“the supplier”) of a new boiler in her 
+home, and a new thermostat. The boiler was subsequently installed. Since Ms F immediately 
+reported that she was dissatisfied with the installation, she did not sign a satisfaction note 
+and so the funds were never released by Creation to the supplier. The agreement was 
+eventually cancelled in March 2023. Creation has argued that this means that section 75 
+does not apply to her loan agreement.
+Ms F’s old boiler is in her attic, and it is 16 years old. As she is unwell, it is no longer 
+expedient for her to go to the attic, and so she wanted the new boiler to be installed in her 
+garage, and the old one to be removed. The old boiler has a flue which goes through the 
+roof, and removing the flue would require new tiles to cover the hole where it used to be. 
+However, Ms F says that when the workmen arrived, they were unaware that the old boiler 
+was in the attic, and no arrangements had been made for its removal, or to tile the roof. This 
+was despite the fact that the supplier had charged her extra to remove the old boiler and had 
+amended her quote accordingly.
+After the installation, Ms F complained about the old boiler not being removed from the attic. 
+She said this was taking up room, and that would be a problem whenever the house was 
+sold. She also complained about the following matters:
+
+The new thermostat didn’t work, which meant that there was no heating.
+
+It had not been possible to remove the old hot water tank until after new pipes had 
+been installed in the garage; this had resulted in hot water pipes being installed about 
+two feet away from the wall, where they took up space and were at risk of people 
+bumping into them and burning themselves. She provided photos of this.
+
+Flux had not been removed from the pipes; this will cause corrosion over time if not 
+removed, which will result in leaks.
+
+The underfloor heating had not been drained and cleaned, because the workmen 
+had not been told that she had underfloor heating, even though she had told the 
+supplier about it at the survey. The supplier denies being told about it prior to the 
+installation.
+Later on, Ms F complained that she had to keep topping up the new boiler with water. She 
+had not originally realised that was a fault until she spoke to people who told her it was not 
+normal. As time went by, she had to top it up more frequently, until she was doing this three 
+times a day. As a result of this, she contacted her insurer, who sent its engineer round to 
+inspect the heating system and prepare a report in December 2022 (“the insurer’s report”). 
+(This report has since been shared with Creation.) The engineer isolated the underfloor 
+heating, in order to reduce the water pressure loss and improve the heating upstairs. So 
+Ms F complains that the new boiler is not fit for purpose, because it cannot provide enough 
+heat to both the underfloor heating and to the radiators upstairs, only to one or the other.
+Ms F asked first the supplier, then Creation to pay for the cost of resolving these problems. 
+She obtained quotes from two other firms for about £2,700 and £2,940.
+At first, Creation did not question its potential liability under section 75. It asked the supplier 
+about Ms F’s complaint points. In response, the supplier told Creation the following:
+
+The boiler had been installed to a good standard.
+
+The boiler manufacturer had inspected the boiler twice, and had found nothing wrong 
+with it.
+
+Three different electricians had inspected the thermostat and found it to be in working 
+order.
+
+The underfloor heating is the most likely cause of Ms F’s problems, as it has a leak. 
+The supplier had not installed the underfloor heating, nor carried out any work on it, 
+nor been told about its existence at or ahead of the installation.
+Relying on what it had been told, Creation declined Ms F’s claim under section 75.
+The matter was next considered by one of our investigators. She upheld this complaint. She 
+did not accept the supplier’s claim that it had not been told about the underfloor heating, 
+because it was not plausible that this would not have been mentioned or picked up during 
+the survey, or when the hot water tank which supplied the underfloor heating was removed 
+from the garage. The insurer had found that the new boiler was insufficient to heat the whole 
+house. The investigator didn’t think that Ms F would have accepted a replacement boiler 
+which would not be able to provide heating to the same extent as the old one.
+The investigator said no evidence had been provided to support the supplier’s claims, 
+despite her asking to see some. In particular, there was no evidence to corroborate that the 
+manufacturer had inspected the boiler and found no issues with the installation. There was 
+no evidence to show that three electricians had visited the property and inspected the 
+thermostat. She pointed out that as the problems had been reported within six months of the 
+installation, the burden of proof fell on the supplier (and therefore on Creation). She said that 
+Creation appeared to have just taken the supplier at its word, but she thought that the 
+supplier was not credible.
+The investigator concluded that the necessary remedial work should be carried out by a third 
+party, at Creation’s expense (by the provider of the cheaper of the two quotes Ms F had 
+obtained). Creation should pay Ms F £500 for her distress and inconvenience. The loan 
+agreement should be reinstated on the same terms as originally agreed (twelve monthly 
+payments at 0% interest). And in case any negative information about the loan had been 
+reported to the credit reference agencies, Creation should arrange to remove this from Ms 
+F’s credit file.
+Following that opinion, Creation argued that section 75 did not apply to the loan agreement, 
+because in the end no money had been paid to the supplier, and then the agreement had 
+been cancelled. Section 75 only applies “to a transaction financed by the agreement.” But 
+the investigator did not accept that argument, because the agreement (according to its own 
+terms) had taken effect when the goods were delivered, regardless of whether the funds 
+were released to the supplier or not. So she found that the transaction had been financed by 
+Creation’s loan.
+Because no agreement could be reached, this case was referred for an ombudsman’s 
+decision.
+What I’ve decided – and why
+I’ve considered all the available evidence and arguments to decide what’s fair and 
+reasonable in the circumstances of this complaint.
+Creation’s liability under section 75
+I’m satisfied that Ms F’s purchase of the boiler qualifies as a transaction financed by 
+Creation’s loan agreement, even though the funds were never released. That is because 
+paragraph 5 of the agreement’s terms and conditions says:
+“This agreement shall be dated on and become effective and binding on the 
+parties from the date of our signature.”
+That date is 11 March 2022, which was prior to the installation.
+Creation’s liability under section 75 is for any breach of contract (or misrepresentation) by 
+the supplier. That liability was therefore incurred, and a cause of action accrued, no later 
+than the date on which the replacement boiler was installed (and, if later, by which the old 
+boiler should have been removed but was instead left where it was). The funds were not to 
+be released to the supplier until after the contracted works had been carried out, by which 
+time Ms F already had a claim against the supplier, and a like claim against Creation. So 
+whatever happened (or didn’t happen) after that cannot exclude Creation’s liability under 
+section 75.
+It is not in dispute that Ms F asked for her boiler to be moved from the attic to the garage. 
+I have seen an email which the supplier sent to Creation in which it says it agreed to do that 
+on 11 March, charged Ms F extra for it, and amended its quote accordingly. The extra 
+charge was not added to the loan but was paid separately, so I have thought about whether 
+this constitutes a separate transaction for which Creation would not be liable under section 
+75. However, as this work was so intrinsically linked to the original contract to replace her 
+boiler, I think it was a collateral contract to vary the works originally agreed, rather than an 
+entirely separate contract for entirely separate work, and I think the extra charge was really a 
+price increase. So I think this variation was still part of a transaction which was part-financed 
+by Creation, and that Creation is liable for any breach of contract arising out of it.
+Was there a contractual term to remove the old boiler?
+The email I mentioned in the last paragraph does not quite go as far as to say that the old 
+boiler was supposed to be removed from Ms F’s property. But I think that is so strongly 
+implied by the term “Boiler Replacement,” which is the title of the quote, that if the supplier 
+really never intended to remove the old boiler then it would have made this clear in an 
+express term, rather than leaving it to be implied from silence. I think that any consumer 
+would understand a boiler replacement to include taking the old boiler away and making 
+good the old site. So on the balance of probabilities, I think it was a term of the contract that 
+the old boiler would be removed, and that this wasn’t done only because the workmen hadn’t 
+realised that this would involve making good the roof and had come unprepared.
+Breach of contract
+For the reasons given above, I am satisfied that the failure to remove the old boiler from the 
+attic was a breach of contract by the supplier, and that Creation is liable for that.
+I turn now to the new boiler and the related issues.
+I have had regard to section 19(14) and (15) of the Consumer Rights Act 2015, which say 
+that goods which fail to conform to the contract at any time within six months after they were 
+delivered must be taken to have not conformed to it on the day of delivery, unless it is 
+proved that they did conform. This rule also applies to the installation of the goods by virtue 
+of section 15.
+I’m sure that if the manufacturer had carried out two visits to the property to inspect the 
+boiler, and if an electrician or three electricians had carried out three visits to inspect the 
+thermostat, then there would be written records of these five visits. No such evidence has 
+been supplied, despite the investigator asking for it, so on the balance of probabilities I think 
+this is because no such evidence exists, because the visits did not happen. That undermines 
+the supplier’s credibility.
+The only evidence I have seen of anyone visiting the property and inspecting anything is the 
+insurer’s report. That report describes how the engineer looked for a leak in the underfloor 
+heating, using thermal imaging and moisture meter testing. He determined that there was no 
+leak. That contradicts the supplier’s assertion that there was a leak; again the supplier has 
+provided no evidence to show that there was such a leak. I accept the insurer’s evidence.
+That report was shared with Creation two weeks before it provided its final response, but it 
+apparently overlooked it, because its final response said that the insurer had not yet 
+attended the property.
+Since there is no leak in the underfloor heating, which I accept was working fine before the 
+boiler replacement, I am satisfied that the installation of the new boiler is the most likely 
+cause of the problems Ms F has been experiencing. I do not think that was carried out with 
+reasonable skill and care, and 
+I have seen photos of the pipes in the garage. They do stick out from the walls. They also 
+have green patches on them. So I accept Ms F’s evidence about these issues, and I find that 
+they were not installed with reasonable skill and care.
+Overall I find that Ms F’s evidence is more credible than the supplier’s, and so I uphold her 
+complaint.
+Putting things right
+I agree with the investigator’s proposed redress.
+The cheaper of the two quotes submitted by Ms F is for a total of £2,701.68. But rather than 
+order Creation to pay Ms F that amount, I will order it to arrange for the remedial work 
+described in the quote to be carried out at no cost to her. That is in case prices have gone 
+up since the quote was prepared six months ago, and just in case the work takes longer than 
+envisaged, resulting in higher labour costs.
+In the paragraph below, “the remedial work” means the work identified in the quote dated 18 
+May 2023 (a copy of which is enclosed with this decision for the avoidance of doubt).
+My final decision
+My decision is that I uphold this complaint. I order Creation Consumer Finance Ltd to:
+
+Arrange for the remedial work to be carried out at no cost to Ms F;
+
+Pay Ms F £500 for her inconvenience;
+
+Reinstate the loan agreement on the same terms as before (i.e. 0% APR, twelve 
+monthly payments of £173.91);
+
+If any negative information about the original loan agreement has been reported to 
+Ms F’s credit file, arrange to have that information removed.
+Under the rules of the Financial Ombudsman Service, I’m required to ask Ms F to accept or 
+reject my decision before 2 January 2024.
+ 
+Richard Wood
+Ombudsman

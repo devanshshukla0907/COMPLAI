@@ -1,0 +1,74 @@
+K820x#14
+complaint
+Mrs M complains that Creation Consumer Finance Ltd failed to tell her in her annual statements 
+that she could make overpayments on her loan.
+background
+In December 2010 Mrs M took out a five-year loan with Creation. She received annual loan 
+statements until January 2013, when she paid off the loan early. It does not appear to be in dispute 
+that the interest was reduced by £972:40 as a result.
+In February 2018 Mrs M complained to Creation because it had not told her that she could make 
+overpayments on her account. She said this information should have been included in her monthly 
+statements.
+Creation disagreed. It said that is not what statements are for, and in any case the loan agreement 
+had made it clear that she could settle early. It pointed out that she had done just that, and had 
+paid less interest by doing so.
+Being dissatisfied with that answer, Mrs M complained to our Service. (Her husband also signed 
+our complaint form, but as he was not a party to the loan agreement he is not eligible to complain, 
+and so I have treated this complaint as Mrs M’s only.) She said that rules made in 2008 required 
+annual statements to include information about the right to make overpayments.
+Our adjudicator did not uphold this complaint. She said there was no such requirement, and the 
+statements had complied with legal requirements. But she also said that the statements (and the 
+loan agreement as well) had mentioned the right to settle the agreement early, and Mrs M had 
+done exactly that. That suggested that she had been aware of her rights.
+Mr M replied on Mrs M’s behalf to say that she could have paid even less interest if she had settled 
+the loan earlier, which could have happened if she had been given clearer information. He said that 
+rules made in 2010 (rather than 2008) required annual statements to mention her right to do so. He 
+also said Creation had not complied with Principle 7 of the Principles of Business in the FCA 
+Handbook. He asked for Mrs M to be refunded of all the interest she had paid under the loan. So 
+the adjudicator referred this complaint to me.
+my findings
+I have considered all the available evidence and arguments to decide what is fair and reasonable 
+in the circumstances of this complaint. I do not uphold it. I will explain why.
+Before I do that, I will explain why this case falls within the jurisdiction of our Service, since 
+Creation objected to us considering it. We can normally only deal with a complaint if it has been 
+brought within six years of the event which is being complained about. But Creation said that the 
+loan was taken out in 2010 and Mrs M complained in 2018, which is more than six years later. 
+However, this complaint isn’t about the loan itself, or the loan agreement. It’s about the contents of 
+her annual statements. The last statement she received was in December 2012, which was less 
+than six years before she complained. So I think that I do have power to consider this complaint.
+Now that Mr M has clarified that he is referring to rules introduced in 2010 instead of 2008, I think 
+he must be referring to the Consumer Credit (EU Directive) Regulations 2010. Some of the 
+provisions about early settlement apply to Mrs M’s loan agreement.1 Mr M has sought to draw a 
+Ref: DRN3949827
+2
+distinction between early settlement and what he calls “overpayment,” but the latter term is not 
+used in the Directive and I am not aware of any separate right by that name. An early settlement is 
+an overpayment, as it is a payment of more than is contractually required at the time it is made. So 
+I have had regard to the relevant rules about early settlement, as amended by the Directive. 
+(I have also considered the Consumer Credit (Agreements) Regulations 2010, but they do not 
+assist Mrs M.)
+I cannot find any requirement for an annual statement to include information about early 
+settlement. I therefore do not think that Creation broke the rules. Nevertheless, I note that the 2011 
+annual statement says (under the heading “Settling your credit agreement early”):
+“You can settle this agreement at any time by giving us notice in writing and paying off the amount 
+you owe. If you wish to settle early you should contact us for a settlement figure.”
+(I haven’t seen the 2012 statement, but I infer that it was similarly worded to the 2011 one.)
+The loan agreement also says on page one, under the heading – written in block capitals – 
+“Important – read this carefully to find out about your rights”:
+“You can settle this agreement at any time by giving notice in writing and paying off the amount you 
+owe under the agreement which may be reduced by a rebate.”
+Principle 7 reads:
+“A firm must pay due regard to the information needs of its clients, and communicate information to 
+them in a way which is clear, fair and not misleading.”
+I think the two passages I have quoted above complied with that Principle.
+So I think that Creation did bring the right to settle early (or to make an overpayment) to Mrs M’s 
+attention when she took the loan – even though it was not obliged to do so at the time. And it 
+reminded her of that right a year later (and, I infer, in the year after that).
+my final decision
+So my decision is that I do not uphold this complaint.
+Under the rules of the Financial Ombudsman Service, I’m required to ask Mrs M to accept or reject 
+my decision before 20 August 2018.
+Richard Wood
+ombudsman
+1 These are regulations 29 to 35, 59 to 62, and 77 to 84 (by virtue of regulation 100(4)).
+Ref: DRN3949827

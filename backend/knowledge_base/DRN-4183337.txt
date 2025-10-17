@@ -1,0 +1,130 @@
+DRN-4183337
+The complaint
+Mr A complains that Creation Consumer Finance Ltd declined his application for credit, and 
+unnecessarily recorded a search on his credit file.
+What happened
+In December 2022 Mr A applied for a credit facility with Creation with a £5,000 credit limit. 
+This was to be a regulated running account credit agreement, and was called a “Your Plan” 
+account. There is a dispute about whether his application was successful or not, but it is not 
+in dispute that he was sent an email telling him that his application had been approved and 
+his Your Plan account had been set up. Creation says this email was sent in error.
+Mr A then tried to buy a laptop computer for £1,700 under a buy now pay later (“BNPL”) 
+arrangement under his Your Plan account. But this purchase was refused, with no 
+explanation, even though he had apparently just been given a £5,000 credit limit. He 
+complained about that, and also about the fact that he now had a credit search recorded on 
+his credit file unnecessarily, which could be to his detriment when applying for credit in the 
+future.
+In its final response letter, Creation told Mr A that his purchase had not been approved 
+because his application had not met Creation’s internal lending criteria. Creation would not 
+elaborate further, because its lending criteria were commercially sensitive and therefore 
+confidential. This letter did not say that his application for a Your Plan account had been 
+declined.
+Being dissatisfied with that response, Mr A brought this complaint to our service. He asked 
+for Creation’s credit search to be removed from his credit file.
+Our investigator asked Creation for more detail about why Mr A’s purchase of a laptop had 
+been declined. Creation said that Mr A had not passed its affordability and general lending 
+criteria, but was not willing to divulge more. The investigator decided that he had not seen 
+enough evidence to conclude that Mr A’s application had been declined fairly, so he upheld 
+this complaint. He recommended that Creation remove the relevant search from Mr A’s 
+credit file and pay him £100 for his trouble.
+Mr A accepted that opinion. Creation did not. Because agreement could not be reached, this 
+case was referred for an ombudsman’s decision.
+I wrote a provisional decision which read as follows.
+What I’ve provisionally decided – and why
+I’ve considered all the available evidence and arguments to decide what’s fair and 
+reasonable in the circumstances of this complaint.
+Having done so, I am minded to uphold this complaint, but for entirely different reasons to 
+my colleague’s. I agree with Creation that its internal lending criteria are its own business, 
+and that it is not my role to review them. They are commercially sensitive, and so I will not 
+insist on them being disclosed; and even if I did know what they were, it is entirely for 
+Creation to decide what they should be (subject of course to its legal obligations under the 
+Equality Act 2010). For that reason I have to disagree with my colleague’s opinion: I cannot 
+conclude that Mr A’s application for credit was unfairly declined just because I do not know 
+what Creation’s lending criteria were. But that does not get Creation off the hook.
+I asked Creation why a further credit check had been carried out for the laptop purchase 
+when Mr A already had a credit facility with Creation. Creation told me that in fact Mr A had 
+not been approved for a Your Plan account, due to not meeting Creation’s lending criteria, 
+and consequently his attempted purchase of the laptop under a BNPL arrangement had also 
+been declined because Mr A did not have a line of credit with Creation.
+This was the first time Creation had said that Mr A had not been approved for a Your Plan 
+account.
+Creation provided a screenshot to support this claim, which includes the text “Applicat [sic] 
+status: REJECTED”. Creation also said that only one “hard search” (meaning a credit check 
+which is recorded on someone’s credit file) had been carried out, and this had been when 
+Mr A had applied for a Your Plan account. The subsequent credit search which had been 
+carried out when he had tried to buy a laptop as a BNPL purchase had been a “soft search,” 
+meaning that it will not appear on his credit file, and will not affect his credit rating.
+Mr A showed me an email he had received from Creation on the day he had applied for the 
+Your Plan account. Its subject heading is “Congratulations, your credit application has been 
+approved.” In the message it says “We’re pleased to conﬁrm that you’ve been approved for a 
+Your Plan account. Your account is all set up and you’re ready to shop.” It goes on to say 
+that his credit limit is £5,000. But Creation told me that this email had been generated in 
+error, and that his application had definitely been declined.
+I also asked Creation to send me a copy of the terms and conditions of a Your Plan account. 
+Creation sent me a copy of an executed running account credit agreement in Mr A’s name, 
+signed by him and signed for and on behalf of Creation by a member of its staff, and dated 1 
+December 2022. Creation also sent me evidence showing that a direct debit had been set up 
+to make payments to Mr A’s Your Plan account. That evidence is entirely inconsistent with 
+its case.
+I think that the preponderance of the evidence leans very heavily towards proving that Mr A 
+did indeed have a Your Plan account. In particular, the existence of an executed running 
+account credit agreement seems to me to be conclusive evidence that Mr A did have a credit 
+facility with Creation, whatever else the screenshot seems to say about that. (Presumably he 
+still has the account today.) If he is not supposed to have a Your Plan account because he 
+did not meet Creation’s lending criteria, then that means that his account was opened in 
+error, but it does not mean that he does not in fact have one at all. It might mean that 
+Creation’s systems did not pick up on the fact that he did not qualify for a line of credit until 
+he tried to make a purchase with it, and this may be why his attempted purchase of a laptop 
+was declined.
+Whatever the reason for that – and we may never get to the bottom of it – it must have been 
+quite galling for Mr A to be told that he had a credit facility with a £5,000 credit limit, and then 
+to immediately be declined for a BNPL purchase of a £1,700 laptop, with no more 
+explanation than that he had not met Creation’s lending criteria when only a moment ago he 
+had (or at least he had appeared to). So I propose to award him £100 for that.
+(The position would have been different if Creation had told Mr A at the outset that he 
+couldn’t have a Your Plan account. If that had happened, then telling him that he didn’t meet 
+Creation’s criteria would have been as much of an explanation as he was entitled to.)
+A hard credit search was always going to appear on Mr A’s credit file in connection with his 
+application for a Your Plan account, whatever the outcome. So I won’t require that to be 
+removed. And as I've said, I have been told that the second credit search when he tried to 
+buy the laptop will not appear on his credit file and will not affect him in any way. That seems 
+plausible to me and so I will accept it is true, and so I will not make any order about that. But 
+I may well change my mind if Mr A provides his credit file and it shows two searches by 
+Creation on the same day.
+So I am currently minded to uphold this complaint and to order Creation Consumer Finance 
+Ltd to pay Mr A £100.
+Responses to my provisional decision
+Creation accepted my provisional decision. Mr A did not. He asked if Creation have different 
+lending criteria for Your Plan and BNPL applications; he said if they do, then he had been 
+induced to apply for a Your Plan account under false pretences; if not, then he should have 
+been approved for his BNPL purchase. In either case, he argued that the hard search should 
+be removed from his credit file. He also asked for £250 compensation and a letter of 
+apology.
+Mr A also provided some screenshots of parts of his credit file, showing that Creation had 
+carried out one hard search and two soft searches (the latter relating to a credit quotation 
+and an identity check). Another screenshot showed that he used to have a £5,000 credit limit 
+with Creation, from 1 December 2022 until he closed that account three weeks later.
+My findings
+That last screenshot reinforces my opinion that Mr A did have an account with Creation, but 
+that is no longer in dispute. The other screenshots confirm that there was only one hard 
+search by Creation. So there is no reason for me to change the findings of fact I made in my 
+provisional decision, and I confirm them here.
+For the same reasons I gave earlier, I am not going to enquire about Creation’s lending 
+criteria. But I don’t think Mr A is really asking me to do that; his point is that in either of two 
+alternative cases, the hard search should be removed. However, as I explained in my 
+provisional decision, I think there is a third scenario: that the Your Plan account was opened 
+in error, and this was discovered when his BNPL purchase was declined (under the same 
+lending criteria). So I am not persuaded that the account was misrepresented to Mr A before 
+he applied for it, and I remain of the view that the hard search belongs on his credit file.
+I still think that £100 is in line with what our service would typically award for an error of this 
+kind. I have considered whether to require Creation to write a letter of apology, but I think 
+that compulsory apologies can come across as insincere, and so I will leave it to Creation to 
+decide whether it wishes to do that voluntarily.
+My final decision
+My decision is that I uphold this complaint. I order Creation Consumer Finance Ltd to pay 
+Mr A £100.
+Under the rules of the Financial Ombudsman Service, I’m required to ask Mr A to accept or 
+reject my decision before 31 October 2023.
+ 
+Richard Wood
+Ombudsman

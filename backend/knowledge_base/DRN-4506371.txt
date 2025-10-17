@@ -1,0 +1,176 @@
+DRN-4506371
+The complaint
+Ms K complains that Creation Consumer Finance Ltd failed to act responsibly or properly 
+assess affordability when deciding whether to lend to her. She also believes she was 
+scammed by the provider of the goods associated with the loan.
+Background to the complaint
+I recently issued a provisional decision setting out the events leading up to this complaint 
+and how I was minded to say matters were best resolved. I’ve reproduced my provisional 
+decision here, which forms part of this final decision.
+“My Provisional Decision
+What happened
+In December 2016 Creation approved a loan application from Ms K. The loan was arranged 
+through a third party “E”. The loan funds – just under £5,000 – were paid directly to E, who 
+provided Ms K with a ‘Magic Box’ product to improve the efficiency of her central heating. 
+The loan repayment term was 10 years, with a monthly repayment of £69.01, giving a total 
+amount payable of £8,531.20.
+Ms K subsequently complained to Creation (and us) about its decision to approve the 
+finance, as well as the way in which E sold the Magic Box product. She felt she’d been 
+scammed by E and that Creation hadn’t properly considered her financial position when 
+approving the loan.
+Creation says it undertook an affordability assessment based on information submitted in 
+Ms K’s application, her stated income and her existing credit commitments, which it obtained 
+from a credit bureau check. It felt this was enough to ensure the borrowing was affordable.
+Our investigator was satisfied with Creation’s explanation of the steps it took to assess Ms 
+K’s creditworthiness. The investigator also felt she couldn’t uphold a claim in 
+misrepresentation on E’s part, noting the connected lender liability provisions of section 75 of 
+the Consumer Credit Act 1974 (“section 75”). She considered what E had said was 
+supported by information she found on the Magic Box manufacturer’s website, and that E 
+hadn’t said anything incorrect about the condition of Ms K’s radiators.
+Ms K didn’t accept the investigator’s conclusions. She sent further information about her 
+financial position at the time of taking out the loan, as well as querying inaccuracies in the 
+information submitted to Creation. Our investigator felt this was a matter between Ms K and 
+E, who ceased trading in 2019. She wasn’t persuaded to reach a different outcome, and so 
+the matter has been passed to me for review and determination.
+Creation’s assessment of Ms K’s creditworthiness
+The Financial Conduct Authority (“FCA”) Handbook makes provisions in relation to 
+responsible lending activity. At the material time, section 5 of the Consumer Credit 
+Sourcebook (“CONC”) set out, among other things, the requirement for a lender to undertake 
+an assessment of a customer’s creditworthiness. This said that a creditworthiness 
+assessment must be based on sufficient information obtained from the customer, where 
+appropriate, and a credit reference agency, where necessary.
+CONC 5.2 also said that a creditworthiness assessment must consider the customer’s ability 
+to make payments under the credit agreement, as well as the potential for the commitments 
+under the agreement to adversely impact the customer’s financial situation. The scope of the 
+assessment should be based on sufficient information.
+Additional guidance at CONC 5.2.3G said that the extent and scope in a given case should 
+be dependent on and proportionate to a range of factors. Those factors included (but weren’t 
+limited to) the type, amount and cost of the credit, the customer’s financial position and credit 
+history, and their existing financial commitments including repayments due in respect of 
+other credit agreements, rent payments, council tax, utilities and other major outgoings 
+known to the lender.
+Other relevant CONC guidance applicable at the material time said:
+“CONC 5.3.1G
+(1) In making the creditworthiness assessment or the assessment required by 
+CONC5.2.2R(1), a firm should take into account more than assessing the customer's 
+ability to repay the credit
+(2) The creditworthiness assessment…should include the firm taking reasonable 
+steps to assess the customer's ability to meet repayments under a regulated credit 
+agreement in a sustainable manner without the customer incurring financial 
+difficulties or experiencing significant adverse consequences...”
+…(4) If a firm takes income or expenditure into account in its creditworthiness 
+assessment or its assessment required under CONC 5.2.2R (1):…
+…(b) it is not generally sufficient for a firm to rely solely for its assessment of the 
+customer's income and expenditure, on a statement of those matters made by the 
+customer”
+I’ve noted the basis of Creation’s assessment and the method it says it used for establishing 
+Ms K’s disposable income. I don’t think it’s necessary to set out that methodology here; 
+suffice to say that Creation hasn’t sought to suggest that in establishing Ms K’s ability to 
+meet the payments under the credit agreement it took into account anything other than the 
+statement of her income and her known existing credit commitments, being £15.
+That resulted in the questionable conclusion that Ms K’s monthly outgoings including the 
+proposed finance totalled £84 and left her with disposable income of £1,350. I appreciate 
+that a proportionate creditworthiness assessment did not require Creation to take into 
+account all the factors listed in CONC 5.2.3G. But I don’t think I could properly conclude that 
+a reasonable assessment would have little to no regard for asking about the sort of regular 
+expenditure most of us have, such as utilities, council tax, and groceries.
+I note Creation also used the income figure supplied without verification. Ms K has 
+questioned this amount, saying it wasn’t an accurate reflection of her income. She has 
+supplied account statements that show her net income was around £1,070 per month, 
+almost £400 lower than the figure Creation used.
+While I appreciate Creation’s comments around the accuracy of the information provided to 
+it, in my view the other inaccuracies in the application information lend credence to Ms K’s 
+assertion that it was E rather than her that completed the application. I might have expected 
+Creation to recognise the risk of relying solely on the stated information, given the way 
+CONC 5.3.1(4)(b) was worded.
+Based on what I’ve seen, the individual circumstances of this case ought to have suggested 
+to Creation that a proportionate assessment would involve more enquiry about how Ms K 
+was managing her finances in order to ensure the lending was affordable and sustainable. I 
+therefore intend to conclude that Creation hasn’t done enough to demonstrate that it 
+undertook a suitable assessment of Ms K’s creditworthiness.
+I don’t think there’s anything to suggest from Ms K’s account statements that she wasn’t in 
+control of her financial situation. The way she was dealing with her income and expenditure 
+was broadly sustainable. Ms K wasn’t borrowing money in order to meet repayments for 
+existing debt, and her overdrawn position wasn’t getting worse. Nevertheless, she was 
+regularly using her overdraft facility to maintain her monthly expenditure, which might have 
+suggested to Creation that the additional cost of the ten-year loan could cause Ms K 
+financial difficulty or have significant adverse consequences for her.
+Against that, I have to bear in mind that Ms K did meet the monthly payments between loan 
+inception and the point at which she cancelled her direct debit, which appears to have been 
+shortly after she sold her property. While I accept that as a result Ms K no longer has the 
+benefit of the Magic Box, I don’t think that provides good reason to say that Creation should 
+not have provided the loan.
+But in the circumstances, I consider Creation could – and should – have done better in 
+assessing Ms K’s application, and that its actions put additional pressure on Ms K’s limited 
+finances. It follows that I’m inclined to require Creation to take steps to recognise its 
+responsibility in this respect.
+Creation’s responsibility for E’s actions
+Our investigator referenced the provisions of section 75 in her assessment. I must also 
+recognise that section 56 of the Consumer Credit Act 1974 (“section 56”) is also relevant, in 
+that it has the effect of making E the agent of Creation in respect of any negotiations 
+between E and Ms K relating to the transaction financed by the credit agreement. For the 
+purposes of section 56, negotiations include any representations made by E to Ms K and 
+any other dealings between them.
+It's not quite correct, then, to say that Creation’s potential liability towards Ms K extends only 
+to whether she has a claim against E for misrepresentation. Indeed, she may have such a 
+claim; I’m not persuaded that information on the Magic Box manufacturer’s website means 
+that E made no representation or assertion in the course of the sale that could not 
+subsequently be shown to be false. But I must also acknowledge that Ms K’s recollection of 
+what E told her about the Magic Box system might not be enough to support such a claim.
+What isn’t in doubt, however, is that while Ms K raised with Creation the question of whether 
+she’d been the victim of a scam, Creation’s response to her complaint didn’t address this 
+aspect. Bearing this in mind, I don’t consider Creation has had due regard for its 
+responsibilities under section 56 for the actions of its agent E, either in the way it presented 
+the Magic Box as the solution to Ms K’s heating problem or in the way it dealt with the 
+application. Again, I think that’s a shortcoming on Creation’s part that has caused Ms K 
+unnecessary distress and inconvenience, which should be recognised when deciding how 
+best to resolve Ms K’s complaint.
+Putting things right
+I appreciate Ms K had her reasons for cancelling her direct debit. However, I don’t think I can 
+say that makes it reasonable to treat her payments as not being due, or that I can rightly 
+direct Creation to remove any missed payment information it recorded on Ms K’s credit file 
+as a result.
+However, I am minded to say that Creation’s handling of the loan application and its failure 
+to engage with Ms K’s concerns over its agent’s actions should be reflected by way of 
+compensation. There’s no hard and fast rule as to what’s appropriate in this respect. Having 
+carefully considered all that’s happened, I think a fair way to reflect this would be for 
+Creation to reduce the remaining balance on Ms K’s loan by £750.
+I invited both parties to let me have any further comments they wished to make in response 
+to my intended conclusions.
+Response to my provisional findings
+Creation accepted my intended conclusions and had no further comments to make.
+Ms K noted the proposed balance reduction, but felt this was merely a drop in the ocean for 
+Creation. She thought it was wrong that I had sided with the lender when I was supposed to 
+be an advocate for the consumer’s side.
+In addition, Ms K reiterated the inaccuracies in the information Creation had taken into 
+consideration when approving the finance. And she emphasised that she’d incurred 
+overdraft costs in sustaining the loan repayments.
+What I’ve decided – and why
+I’ve considered all the available evidence and arguments to decide what’s fair and 
+reasonable in the circumstances of this complaint.
+I should make clear, in light of Ms K’s comment, that we aren’t set up as a consumer 
+champion, and we don’t act for either party to a dispute. Rather, we take an independent 
+view on the complaints referred to us, and set out how we think matters are best resolved.
+I’ve considered what Ms K said in response to my provisional decision, and while I 
+appreciate her strength of feeling, she hasn’t said anything new or that I didn’t take into 
+account in my provisional decision.
+I noted in my provisional conclusions the extent to which Ms K was making use of her 
+overdraft and the potential for detriment to her financial position that arose from its decision 
+to approve the lending. That was part of the reason for the balance reduction I proposed; if 
+there had been no impact on Ms K, I wouldn’t have found it necessary to make such an 
+award.
+Our awards aren’t intended as a fine or to punish a firm, and they aren’t based on the size of 
+the firm or its financial position. Rather, they’re intended to reflect what we consider suitable 
+compensation based on any material loss, distress and/or inconvenience a complainant has 
+suffered as a result of the firm’s actions.
+I don’t see that what Ms K has said provides me with a reason to change my provisional 
+findings and so I adopt them in full in this final decision, along with the compensation I 
+originally proposed.
+My final decision
+My final decision is that to settle this complaint, Creation Consumer Finance Ltd must reduce 
+the balance of Ms K’s loan by £750.
+Under the rules of the Financial Ombudsman Service, I’m required to ask Ms K to accept or 
+reject my decision before 16 April 2024.
+ 
+Niall Taylor
+Ombudsman

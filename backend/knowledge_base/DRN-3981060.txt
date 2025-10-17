@@ -1,0 +1,102 @@
+DRN-3981060
+The complaint
+Mr C complains that Creation Consumer Finance Ltd, has rejected the claim he made under 
+section 140 of the Consumer Credit Act 1974 (“the Act”) in relation to a solar panel system 
+he says was misrepresented to him by the supplier, which he says caused his relationship 
+with Creation to be unfair on him.
+Mr C is represented by a claims management company (“the CMC”).
+What happened
+In March 2014, Mr C purchased a solar panel system (“the system”) to be installed at his 
+home. Mr C financed the purchase through a fixed sum loan agreement with Creation that 
+was repayable over ten years. In 2019, Mr C moved out of the property but is still repaying 
+the loan.
+In October 2021, the CMC made a claim on Mr C’s behalf under section 140 of the Act to 
+Creation. The CMC said that the supplier had made a number of representations about the 
+system that had turned out not to be true, and it was these misrepresentations that had 
+induced Mr C to enter into the contract.
+The CMC said the following misrepresentations had been made, which made Creation’s 
+ongoing relationship with Mr C unfair on him:
+
+The system would pay for itself through Feed-In Tariff (“FIT”) payments, which would 
+cover the loan repayments, so Mr C would not be worse off each month.
+Creation responded to say the claim had been made too late, so it had no liability. The CMC 
+then complained about this on Mr C’s behalf to the Financial Ombudsman Service. 
+Our adjudicator said the claim was not made too late, since the loan (and therefore 
+Creation’s relationship with Mr C) was ongoing, So, if the relationship was unfair on Mr C 
+then Creation would still have liability. 
+The complaint we can look at is about the response to the claim. That complaint was made 
+within the time limits in our rules. However, when looking at the merits of the complaint, our 
+adjudicator concluded that the system was not misrepresented to Mr C, and the relationship 
+between him and Creation was not unfair on him. So, our adjudicator said that Creation did 
+not need to do anything further. 
+The CMC didn’t agree with this and provided some further comments from Mr C. Amongst 
+other things, he said that:
+
+He was told it was a no brainer and that he would make money. 
+
+The loan has caused him some financial problems.
+
+He’s still paying for the loan, even though he cannot benefit from the system 
+anymore, having moved out of the property. 
+As an agreement couldn’t be reached, the case has been passed to me for a decision.
+What I’ve decided – and why
+I’ve considered all the available evidence and arguments to decide what’s fair and 
+reasonable in the circumstances of this complaint.
+Relevant considerations
+When considering what’s fair and reasonable, I’m required to take into account relevant law 
+and regulations, relevant regulatory rules, guidance and standards and codes of practice 
+and, where appropriate, what I consider to have been good industry practice at the relevant 
+time.
+In this case the relevant law includes section 56 and section 140 of the Act. Section 56 says 
+that any negotiations between Mr C and the supplier are deemed to have been conducted by 
+the supplier as an agent of Creation. 
+Section 140 gives the courts power to determine whether the relationship between a creditor 
+and a debtor was unfair to the debtor. In doing so a court will look at the way the creditor has 
+acted in relation to its rights under the credit agreement and takes account of these matters 
+in relation to any linked agreement – for example, an agreement to purchase a solar panel 
+system. The court can look at any other things done (or not done) by or on behalf of the 
+creditor before or after the making of the credit or linked agreement.
+This means that if the system was misrepresented to Mr C by the supplier, which was acting 
+as Creation’s agent, that could create an unfair relationship between him and Creation. 
+For the purpose of this decision, I’ve used the definition of a misrepresentation as an untrue 
+statement of fact or law made by one party (or their agent) to a second party which induces 
+that second party to enter the contract, thereby causing them loss.
+Key documents
+There are several documents that have been provided by both The CMC and Creation. 
+These include the credit agreement and sales contract, which includes a table showing the 
+predicted system performance.
+I’m satisfied that the sales contract and predicted system performance table are likely to 
+have formed a central part of the sales process and are therefore relevant, alongside Mr C’s 
+recollection of the sale, when considering if there have been any untrue statements of fact. 
+Mr C has confirmed he was shown information on the salesperson’s laptop during the sales 
+meeting. I think that is likely to have been the sales contract including the predicted system 
+performance table, which Mr C signed during the meeting.
+The credit agreement sets out the amount being borrowed, the interest to be charged, the 
+total amount payable (£14,162.40), the term of the loan (120 months) and the contractual 
+monthly repayments (£118.02, which is £1,416.24 per year). Mr C also signed this, and I 
+think he’d have been aware of these figures, so could compare the costs with what was 
+shown on the contract and predicted system performance table. 
+Contract and predicted system performance table
+The sales contract included the following predicted system performance table:
+I think it is clear from this that the system would not be self-funding, when compared to the 
+loan repayments of £118.02 per month or £1,416.24 per year. In the first year, the total FIT 
+payments are shown to be £491.77, and the electricity savings are £234.64. This makes a 
+total of £726.36, which is clearly shown in the table. That is significantly less than the annual 
+loan repayments. 
+The annual benefits (FIT and electricity savings) do not exceed the annual loan repayments 
+within the ten-year term of the loan, being at most £1,140.35 in the tenth year. 
+The total cost of the loan (£14,162.40) is not covered by the benefits until the end of year 14. 
+So, I think it is unlikely that the salesperson would’ve misrepresented the solar panel system 
+as self-funding on a month-to-month basis, as Mr C has alleged. 
+Summary
+Having carefully considered the evidence provided by all parties in this complaint, I’m 
+satisfied that the system was not misrepresented to Mr C in the way he has alleged, and I 
+have found no other reason to conclude that the relationship between Mr C and Creation 
+was unfair on him. 
+My final decision
+For the reasons I’ve explained, I don’t uphold this complaint. 
+Under the rules of the Financial Ombudsman Service, I’m required to ask Mr C to accept or 
+reject my decision before 28 March 2023.
+ 
+Phillip Lai-Fang
+Ombudsman

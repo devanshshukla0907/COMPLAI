@@ -1,0 +1,110 @@
+DRN-3148536
+The complaint
+Mr H complains that Creation Consumer Finance Ltd (“Creation”) rejected his claim against it 
+under section 75 of the Consumer Credit Act 1974 in relation to his purchase of some solar 
+panels.
+What happened
+Mr H bought solar panels for his home in April 2014. The purchase was funded by a loan 
+from Creation, and that business is therefore liable for the acts and omissions of the installer 
+under the relevant legislation. In this case, that relates to the installer misleading Mr H into 
+believing that the panels would be self-funding, which they weren’t. Mr H (represented by a 
+claims management company) asked Creation for a refund in September 2020. When 
+Creation did not respond (Creation says this was because it never received the claim letter), 
+Mr H brought this complaint to our service, in March 2021.
+Mr H’s complaint was considered by one of our adjudicators. She thought that the benefits of 
+the panels were mis-represented to Mr H, and that fair redress would be for the loan to be 
+restructured to effectively make the panels self-funding. This restructure should be based on 
+evidence of the actual performance of the panels, and a number of assumptions on future 
+performance. She also recommended that Creation pay Mr H £100 for his trouble.
+At first, on 27 August 2021, Creation accepted the adjudicator’s opinion. It asked for copies 
+of Mr H’s feed-in tariffs (FITs) so that it could calculate how much redress to pay him. The 
+adjudicator told Creation that Mr H had never been registered for FITs, allegedly due to an 
+error by the installer.
+After that, nothing more was heard from Creation until November, when Creation challenged 
+our service’s jurisdiction to consider this case. Creation argued that this case had been 
+brought too late under the time limits for bringing complaints. The adjudicator did not accept 
+this, and so the case has been referred for an ombudsman’s decision.
+What I’ve decided – and why
+I’ve considered all the available evidence and arguments to decide what’s fair and 
+reasonable in the circumstances of this complaint.
+Under rules made by the Financial Conduct Authority, a complaint normally has to be 
+brought within six years of the event being complained about. Alternatively, a complaint may 
+be brought later than that if it is brought within three years of when the complainant became 
+aware, or ought reasonably to have become aware, that he had cause for complaint. 
+Creation says that both of these time limits had expired by the time Mr H complained. 
+(Whether that was in September 2020 or March 2021 makes no difference.)
+However, it is important to be clear about precisely which event is the subject of the 
+complaint. Creation has assumed that this is the sale of the credit agreement, which 
+happened in April 2014. But I think that this complaint is technically about Creation’s 
+handling of Mr H’s claim under section 75, in 2020 and 2021, in line with our service’s well-
+established approach in section 75 jurisdiction cases. Accordingly, it follows that Mr H 
+brought this complaint well within six years of that event, and that this service does have 
+jurisdiction over this complaint.
+The basis of Mr H’s claim under section 75 was that he was induced to enter a contract in 
+April 2014 by a misrepresentation made by the installer. Section 75 makes Creation jointly 
+liable for that misrepresentation, and gives Mr H the same right to bring a claim against 
+Creation as he has against the installer. But under the Limitation Act 1980 there is a time 
+limit for bringing such a claim, which is six years from the date on which the cause of action 
+accrued. In this case, that limitation period expired in April 2020. Normally, I would consider 
+it to be fair and reasonable to allow Creation to rely on that limitation period, and to reject a 
+section 75 claim on the ground that it has been brought too late, as Mr H’s was.
+However, on the facts of this case, I think it is fair and reasonable to treat Creation as having 
+waived the limitation period, because in August 2021 it agreed in writing to pay Mr H 
+compensation along the lines recommended by our adjudicator in settlement of his 
+complaint. So I will hold Creation to that.
+Putting things right
+I think that it would be fair and reasonable in all the circumstances of Mr H’s complaint for 
+Creation to put things right by recalculating the original loan based on the known and 
+assumed savings and income to Mr H from the solar panels over the five year term of the 
+loan so he pays no more than that, and he keeps the solar panel system, and any future 
+benefits once the loan has ended.
+If the calculation shows that Mr H is paying (or has paid) more than he should have, then 
+Creation need to reimburse him accordingly. Should the calculation show that the 
+misrepresentation has not caused a financial loss, then the calculation should be shared with 
+him by way of explanation.
+If the calculation shows there is a loss, then where the loan is ongoing, I require Creation to 
+restructure the loan. They should recalculate the loan to put Mr H in a position where the 
+solar panel system is cost-neutral over the five year loan term.
+Normally, by recalculating the loan this way, Mr H’s monthly repayments would reduce, 
+meaning that he would have paid more each month than he should have done, resulting in 
+an overpayment balance. And as he would have been deprived of the monthly overpayment, 
+I would expect a business to add simple interest at 8% a year from the date of the 
+overpayment to the date of settlement. So I think the fairest resolution would be to let Mr H 
+have the following options as to how he would like his overpayments to be used:
+a) the overpayments are used to reduce the outstanding balance of the loan and he 
+continues to make his current monthly payment resulting in the loan finishing early,
+b) the overpayments are used to reduce the outstanding balance of the loan and he 
+pays a new monthly payment until the end of the loan term,
+c)
+the overpayments are returned to Mr H and he continues to make his current monthly 
+payment resulting in his loan finishing early, or
+d) the overpayments are returned to Mr H and he pays a new monthly payment until the 
+end of the loan term.
+If Mr H accepts my decision, he should indicate on the acceptance form which option he 
+wishes to accept.
+If Mr H has settled the loan, Creation should pay him the difference between what he paid in 
+total and what the loan should have been under the restructure above, with interest at 8% a 
+year.
+If Mr H has settled the loan by refinancing, he should supply evidence of the refinance to 
+Creation, and then Creation must: 
+1.
+Refund the extra Mr H paid each month with the Creation loan.
+2.
+Add simple interest from the date of each payment until Mr H receives his refund.
+3.
+Refund the extra Mr H paid with the refinanced loan.
+4.
+Add simple interest from the date of each payment until Mr H receives his refund.
+5.
+Pay Mr H the difference between the amount now owed and the amount he would 
+have owed if the system had been self-funding.
+I’m satisfied that there was sufficient information available at the time that Mr H first 
+contacted Creation that means the claim should have been upheld. I direct that Creation 
+must pay £100 compensation for the trouble and upset caused.
+My final decision
+For the reasons I’ve explained, I’m upholding this complaint. Creation Consumer Finance Ltd 
+must put things right in the way I’ve set out above.
+Under the rules of the Financial Ombudsman Service, I’m required to ask Mr H to accept or 
+reject my decision before 30 December 2021. 
+Richard Wood
+Ombudsman

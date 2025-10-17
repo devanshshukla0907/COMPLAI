@@ -1,0 +1,194 @@
+ 
+ 
+DRN-4949191 
+ 
+ 
+The complaint 
+ 
+Mr D is unhappy that a car supplied to him under a hire purchase agreement with Creation 
+Consumer Finance Limited was of an unsatisfactory quality. 
+ 
+What happened 
+In June 2023, Mr D was supplied with a used car through a hire purchase agreement with 
+Creation. He paid an advance payment of £4,301 and the agreement was for £35,694 over 
+49 months; with 48 monthly payments of £544.16 and a final payment of £21,286.54. At the 
+time of supply, the car was almost five years old, and had done 35,169 miles (according to 
+the MOT record for 26 June 2023). 
+ 
+The car broke down in November 2023 and was recovered to a garage. An inspection 
+showed that the turbo on the car had failed, causing a reduction in the oil being supplied to 
+the engine and subsequent damage to the crankshaft. Mr D was told the engine would need 
+to be rebuilt, and that this would cost over £9,000. At the time of the breakdown the car had 
+done around 39,000 miles. 
+ 
+Mr D complained to Creation, but they didn’t respond to this within the timescales allowed. 
+So, he brought it to the Financial Ombudsman Service for investigation. 
+ 
+Our investigator said the engine had failed within six months of the car being supplied to Mr 
+D. And, with less than 40,000 miles on the clock, such a failure couldn’t be reasonably 
+expected. As such, the investigator said it was for Creation to show the engine didn’t fail due 
+to something that was present or developing when the car was supplied to Mr D. 
+ 
+Creation provided a report from a garage that said the turbo had failed, which had led to 
+additional damage to the crankshaft and conrod. However, this report didn’t speculate on 
+whether the car was of a satisfactory quality when it was supplied to Mr D. As Creation 
+weren’t able to show this, and as the car hadn’t been repaired, the investigator said that Mr 
+D should be able to reject it, receive a refund of the deposit he paid, receive a refund of the 
+payments he’d made since the car broke down in November 2023, and receive an additional 
+£250 compensation for the distress and inconvenience he’d been caused. 
+ 
+Creation didn’t agree with the investigator’s opinion. They said they were in the process of 
+arranging for another independent inspection on the car, but that they would look to repair 
+the car instead. Given the delays, the investigator explained why they didn’t think a repair 
+was reasonable, and that rejection was the most appropriate resolution. 
+ 
+Creation still didn’t agree and said that Mr D hadn’t raised the complaint with them until he’d 
+been in possession of the car for seven months. They also said that, as they’d offered repair 
+some five months after the complaint was made to them, this was within a reasonable 
+timeframe, so they should be allowed to repair the car. 
+ 
+Because Creation didn’t agree with the investigator’s opinion, this matter has been passed to 
+me to decide. 
+ 
+ 
+ 
+What I’ve decided – and why 
+I’ve considered all the available evidence and arguments to decide what’s fair and reasonable 
+in the circumstances of this complaint. 
+Having done so, I’ve reached the same overall conclusions as the investigator, and for 
+broadly the same reasons. If I haven’t commented on any specific point, it’s because I don’t 
+believe it’s affected what I think is the right outcome. Where evidence has been incomplete 
+or contradictory, I’ve reached my view on the balance of probabilities – what I think is most 
+likely to have happened given the available evidence and wider circumstances. 
+ 
+In considering this complaint I’ve had regard to the relevant law and regulations; any 
+regulator’s rules, guidance and standards, codes of practice, and (if appropriate) what I 
+consider was good industry practice at the time. Mr D was supplied with a car under a hire 
+purchase agreement. This is a regulated consumer credit agreement which means we’re 
+able to investigate complaints about it. 
+ 
+The Consumer Rights Act 2015 (‘CRA’) says, amongst other things, that the car should’ve 
+been of a satisfactory quality when supplied. And if it wasn’t, as the supplier of goods, 
+Creation are responsible. What’s satisfactory is determined by things such as what a 
+reasonable person would consider satisfactory given the price, description, and other 
+relevant circumstances. In a case like this, this would include things like the age and mileage 
+at the time of sale, and the vehicle’s history and its durability. Durability means that the 
+components of the car must last a reasonable amount of time. 
+ 
+The CRA also implies that goods must confirm to contract within the first six months. So, 
+where a fault is identified within the first six months, it’s assumed the fault was present when 
+the car was supplied, unless Creation can show otherwise. So, if I thought the car was faulty 
+when Mr D took possession of it, or that the car wasn’t sufficiently durable, and this made 
+the car not of a satisfactory quality, it’d be fair and reasonable to ask Creation to put this 
+right. 
+ 
+Before I explain why I’ve reached my decision, I think it’s important for me to explain how 
+I’ve applied the CRA. The CRA is clear that, if a fault occurs within the first six months of 
+supply, it’s for Creation to show the fault wasn’t present or developing at the point of supply - 
+the test set out by the CRA is not if the fault is reported within the first six months. As such, 
+while Mr D initially complained to the supplying dealership, and didn’t complaint to Creation 
+until February 2024 – more than six months after the date of supply – it doesn’t mean that 
+Creation doesn’t have to prove the car was of a satisfactory quality. 
+ 
+In this instance, it’s not disputed there was a problem with the car. What’s more, Creation 
+haven’t provided anything to show that the car was satisfactory at the point of supply, and 
+they are also now arguing for the right to repair. As such, I’m satisfied I don’t need to 
+consider the merits of this issue within my decision. Instead, I’ll focus on what I think 
+Creation should do to put things right. 
+ 
+Putting things right 
+In their comments on the investigator’s opinion, Creation are saying they should have the 
+right of repair. Section 24(5) of the CRA says “a consumer who has … the right to reject may 
+only exercise [this] and may only do so in one of these situations – (a) after one repair or 
+replacement, the goods do not confirm to contract.” This is known as the single chance of 
+repair. And this applies to all issues with the goods, and to all repairs i.e., it’s not a single 
+chance of repair for the dealership AND a single chance of repair for Creation – the first 
+attempted repair is the single chance at repair. 
+ 
+ 
+ 
+Neither the dealership nor Creation have attempted any repair on the car. As such, I’m in 
+agreement with Creation that the single chance of repair hasn’t happened, and section 24(5) 
+of the CRA affords this right to them. However, Section 23(2) of the CRA states: 
+ 
+If the consumer requires the trader to repair or replace the goods, the trader must – 
+ 
+(a) do so within a reasonable time and without significant inconvenience to 
+the consumer 
+ 
+It’s not disputed that the car broke down in November 2023, nor that the dealership was 
+aware of this breakdown at the time. Despite this, they didn’t make any offer to repair the 
+car. Creation was made aware of the issue in February 2024, and at that time they were also 
+made aware the car had broken down in November 2023. Despite this, they waited until July 
+2023, and after our investigator had issued their opinion before they offered repair. As such, 
+this offer was made around five months after Creation received Mr D’s complaint, and 
+around nine months after they were aware the car had broken down. 
+ 
+I’m not satisfied that Creation made this offer within a reasonable time scale, and their 
+arguments that Mr D delayed in raising the complaint with them doesn’t change this. As 
+such, Creation failed to comply with Section 23(2)(a) of the CRA. And, in these 
+circumstances, Mr D should be able to reject the car. 
+ 
+The car has been off the road and undrivable since late November 2023 and, since then, Mr 
+D wasn’t supplied with a courtesy car. As such, he was paying for goods he was unable to 
+use. As, for the reasons already stated, I’m satisfied the car was off the road due to it being 
+of an unsatisfactory quality when it was supplied, and as Creation failed to keep Mr D 
+mobile; I’m satisfied they should refund the payments he made during this period. 
+ 
+I also think Mr D should be compensated for the distress and inconvenience He has been 
+caused by the above. But crucially, this compensation must be fair and reasonable to both 
+parties, falling in line with our service’s approach to awards of this nature, which is set out 
+clearly on our website and so, is publicly available. 
+ 
+I note our investigator also recommended Creation pay Mr D an additional £250, to 
+recognise the distress and inconvenience he’s been caused by the complaint. And having 
+considered this recommendation, I think it’s a fair one that falls in line with our service’s 
+approach and what I would’ve directed, had it not already been put forward. 
+ 
+I think this is significant enough to recognise the worry and upset Mr D would’ve felt by 
+having to arrange for alternative transport while his car was off the road. And I think it also 
+fairly reflects Mr D’s frustration with the poor communication he’s received. So, this is a 
+payment I’m directing Creation to make. 
+ 
+Therefore, if they haven’t already, Creation should: 
+ 
+• 
+end the agreement with nothing more to pay; 
+• 
+collect the car at no cost to Mr D; 
+• 
+remove any adverse entries relating to this agreement from Mr D’s credit file; 
+• 
+refund the deposit Mr D paid (if any part of this deposit is made up of funds paid 
+through a dealer contribution, Creation is entitled to retain that proportion of the 
+deposit); 
+• 
+refund the payments Mr D has made from 27 November 2023 to the date on which 
+the agreement is ended; 
+ 
+ 
+• 
+apply 8% simple yearly interest on the refunds, calculated from the date Mr D made 
+the payments to the date of the refund†; and 
+• 
+pay Mr D an additional £250 to compensate him for the trouble and inconvenience 
+caused by being supplied with a car that wasn’t of a satisfactory quality (Creation 
+must pay this compensation within 28 days of the date on which we tell them Mr D 
+accepts my final decision. If they pay later than this date, Creation must also pay 8% 
+simple yearly interest on the compensation from the deadline date for settlement to 
+the date of payment†). 
+ 
+†If HM Revenue & Customs requires Creation to take off tax from this interest, Creation must 
+give Mr D a certificate showing how much tax they’ve taken off if he asks for one. 
+ 
+My final decision 
+For the reasons explained, I uphold Mr D’s complaint about Creation Consumer Finance 
+Limited. And they are to follow my directions above. 
+ 
+Under the rules of the Financial Ombudsman Service, I’m required to ask Mr D to accept or 
+reject my decision before 25 March 2025. 
+  
+ 
+Andrew Burford 
+Ombudsman 
+ 

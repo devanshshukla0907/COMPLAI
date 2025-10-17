@@ -1,0 +1,222 @@
+K822x
+Complaint
+Mr L is unhappy with the response of Creation Consumer Finance Ltd (‘Creation’), following 
+his claim against it under section 75 of the Consumer Credit Act (‘CCA’) 1974.
+Background 
+In February 2013, I-Power Systems Ltd (‘I-Power), a company that supplied and installed 
+solar panel systems, cold called Mr L. Following a meeting at his home with a salesperson, 
+Mr L agreed to enter into a contract with I-Power for it to supply and install a solar panel 
+system costing about £9,400. To fund this he also agreed to enter into a 10 year fixed sum 
+loan agreement with Creation. The solar panels were installed soon after.
+In April 2016, Mr L made a claim under section 75 (‘s75’) of the CCA to Creation via his 
+representative. The representative said that I-Power had told Mr L that the solar panels 
+would be ‘self-funded’ and that the monthly loan repayments would be more than offset by 
+the feed-in-tariff (‘FIT’) income. But that hadn’t happened. Instead, Mr L’s monthly loan 
+repayments had been much higher than the FIT income.
+Creation wrote back to Mr L’s representative in May 2016. It explained that it didn’t think the 
+solar panel system had been mis-sold.
+Mr L, via his representative, referred his complaint to our service. Following our involvement 
+Creation made an offer to Mr L. It had worked out what it considered to be an estimate of the 
+potential savings and income to Mr L from the panels over the 10 year term of the loan. It 
+had then reworked the loan so that he would pay no more than that over the 10 year term.
+One of our investigators thought that the offer put forward by Creation was fair in the 
+circumstances of this complaint.
+Mr L didn’t accept the offer. His representatives raised several reasons as to why the offer 
+wasn’t acceptable. In summary, it said:
+
+Mr L had been told that the system would pay for itself over five years, not the term of 
+the loan.
+
+He no longer had the peace of mind of the warranty/guarantee provided by I-Power as it 
+had since gone into administration.
+
+He would never receive the benefits that he’d been led to believe he would when the 
+solar panels were sold to him.
+My findings
+I’ve considered all the available evidence and arguments to decide what’s fair and 
+reasonable in the circumstances of this complaint.
+I’d like to thank Mr L for his patience whilst this service has been looking into his complaint.
+When considering what’s fair and reasonable, I’m required to take into account; relevant law 
+and regulations, relevant regulatory rules, guidance and standards and codes of practice; 
+Ref: DRN2538157
+2
+and, where appropriate, what I consider to have been good industry practice at the relevant 
+time. 
+In this case the relevant law includes section 56 (‘s56’) and s75 of the CCA, which provides 
+protection for consumers for goods or services bought using credit. S75 states:
+“If the debtor under a debtor-creditor-supplier agreement falling within section 12(b) or (c) 
+has, in relation to a transaction financed by the agreement, any claim against the supplier in 
+the respect of misrepresentation or breach of contract, he shall have a like claim against the 
+creditor, who, with the supplier, shall accordingly be jointly and severally liable to the debtor.”
+As Mr L paid for the solar panels with a fixed sum loan agreement, Creation agrees that s75 
+applies to this transaction. This means that Mr L could claim against Creation – the creditor – 
+for any misrepresentation or breach of contract by I-Power in the same way he could have 
+claimed against I-Power, the supplier. So I’ve taken s75 into account when deciding what is 
+fair in the particular circumstances of this case.
+S56 is also relevant. This is because it says that any negotiations between Mr L and I-Power 
+as the supplier are deemed to have been conducted by I-Power as an agent of Creation.
+Mr L says that he was cold-called and during a sales meeting told that the installation would 
+be entirely self-financing. I haven’t seen anything that suggests Mr L had shown a previous 
+interest in solar panels prior to being approached by I-Power. It is difficult to see why he 
+would have agreed to the installation of the solar panels financed through a loan that would 
+increase his monthly outgoings. I therefore think it is unlikely that Mr L would’ve agreed to 
+install the solar panels, and take out a loan with Creation, unless he was led to believe that it 
+would be self-funding and come at no additional cost to him.
+I’ve also considered the action taken by the Renewable Energy Consumer Code (‘RECC’) 
+against I-Power. My understanding is that the RECC administers the renewable energy 
+consumer Code and ensures that is members comply with the Code.
+The RECC investigated I-Power’s conduct. In June and December 2014 it determined that I-
+Power was in breach of a number of sections of the code. These includes sections relating 
+to essentially requiring members not to provide false or misleading information to consumers 
+and providing clear and accurate information about the costs and benefits of the product 
+sold.
+I understand that what happened in respect of the cases RECC looked into may not have 
+necessarily happened in Mr L’s case. Whilst the RECC Panel’s findings are general and do 
+not refer to Mr L’s case, the findings do suggest that there were conduct concerns in the 
+areas related to Mr L’s complaint and at around the time he was sold the solar panels and 
+the loan.  
+Taking the above into account, I believe that it is more likely than not that the salesperson for 
+I-Power led Mr L to believe that the solar panels would be self-funding and the FIT and 
+savings would be sufficient to cover the repayments required under the loan agreement.
+I’ve noted that neither Mr L and his representative nor Creation seem to think that the solar 
+panels would be self-funding over the term of the loan.
+Ref: DRN2538157
+3
+My view is that for the solar panels to be self-funding and come at no additional cost to Mr L, 
+the savings and income he would receive should have been sufficient to cover the 
+repayments due under the loan agreement.
+To clarify, Mr L’s expected savings and incomes from the solar panels are from:
+(a) generation income tariff,
+(b) export tariff income, and;
+(c) savings to Mr L by using the electricity generated by the panels instead of buying it 
+from his energy provider.
+Based on the calculation provided by Creation the total expected return from the above three 
+items, in the first year, would have come to around £810 whereas the loan repayments were 
+about £1,460 a year.
+Taking this into account, Mr L was likely to be out of pocket by about £650 in the first year. 
+And that would have broadly been the same during the term of the loan. Based on this 
+estimate the solar panels weren’t self-funding. So I’m satisfied that I-Power misrepresented 
+the benefits to Mr L.
+Mr L didn’t have any prior experience of solar panels and was cold called by I-Power. I’m 
+satisfied that he decided go ahead with the purchase of the solar panels based on the 
+representations made by I-Power that the system would be self-funding.
+I find that Mr L has suffered a loss as a result of the misrepresentations made by I-Power. 
+The system wasn’t self-funding and Mr L has ended up paying a significant amount over the 
+FIT and savings. And as Creation has equal liability for the misrepresentations made by 
+I-Power, I find that it is responsible for Mr L’s loss.
+Mr L’s representative has said he would like his money back, any remaining finance to be 
+written off and for the solar panels to be removed. They have provided a table they say was 
+given to Mr L at the time he was sold the solar panel system. This shows that, over the 
+25 year life of a solar panel system, a customer could expect to receive an income and 
+electricity savings of just over £82,000. And based on this Mr L’s solar panel system 
+should’ve paid for itself in five years. 
+I’ve thought carefully on this point. The role of this service is to help settle disputes between 
+consumers and businesses providing financial services fairly and reasonably and with 
+minimum formality. In cases like this one determining fair compensation isn’t an exact 
+science.
+My view of Mr L’s complaint is that it isn’t so much about the solar panels themselves but 
+that he was led to believe that they would be self-funding, and in this case over five years. 
+And based on this I don’t think it would be fair or reasonable to require the removal of the 
+solar panels from his home. And it is also accepted that it would cost Creation a significant 
+sum to remove them. So I don’t think it would be fair or reasonable to ask it to do that. 
+I think the fair outcome here is to put Mr L in a position where the panels are self-funding 
+over the original term of the loan. This is because I’m not persuaded that the table the 
+representative has provided is specific to Mr L or his solar panel system. And, by allowing 
+Mr L to keep the panels, he will likely benefit from lower electricity bills or FIT payments 
+going forward. 
+Ref: DRN2538157
+4
+Creation has said that its offer is to effectively make the solar panels self-funding in the 
+sense that the loan repayments, over the term of the loan, would broadly match Mr L’s 
+potential savings and the FIT income from the solar panels.
+I’ve also considered whether any savings should be taken into account when arriving at fair 
+compensation. Although I’m satisfied that Mr L was misled into thinking that the solar panels 
+would be self-funding, it’s difficult for me to know exactly how this was explained to him. The 
+RECC’s findings I referred to earlier do suggest that, on occasions, I-Power may have 
+misled consumers about the costs and benefits of the system they were sold.
+I think that when a consumer decides to go ahead and install a solar panel system, it’s 
+reasonable to assume that their key objective is to firstly generate electricity for their own 
+use. So I don’t consider it reasonable to ignore this important benefit when arriving at fair 
+compensation.
+In cases like this I would expect Creation to follow and apply the methodology that it has 
+agreed with our service. To confirm, I expect its calculation to be based on the actual 
+performance and estimated future performance of Mr L’s solar panel system. 
+There will be a number of assumptions used when calculating the estimated future 
+performance of Mr L’s solar panels. These include using a self-consumption rate of 37%. 
+This is the percentage of energy generated by Mr L’s solar panels that he is expected to use 
+rather than buying electricity from his energy provider. Based on the Energy Savings Trust’s 
+data I’m satisfied that this is reasonable. This is because it would take into account any 
+changing occupancy habits over the lifetime of the solar panels and once the loan has been 
+repaid Mr L will continue to likely benefit from the system via his electricity bills and FIT 
+payments. 
+I’ve also considered the other assumptions used by Creation, including electricity price 
+inflation, the degradation rate and the estimated retail price index (‘RPI’). I’m of the view that 
+these don’t appear unreasonable taking into account the actual known figures. As an 
+example, the actual average RPI for the last four years doesn’t seem to be far from the 
+assumed figure.
+I’ve also considered any ongoing maintenance costs for Mr L by keeping the solar panels. 
+I’ve looked at the information available from the Energy Savings Trust website. It says that 
+solar panels don’t need a lot of maintenance but usually the inverter would need replacing 
+‘sometime’ during the lifetime of the panels at a current cost of about £800. I acknowledge 
+that Mr L could have some maintenance costs over the lifetime of the solar panels. But, on 
+the other hand, I also acknowledge that he will likely have some benefit by way of savings 
+and FIT income going forward.
+It’s impossible to know what the extent of those costs and the benefits would actually be. 
+However, based on the available information I think that the potential benefit should be 
+adequate to offset any reasonable maintenance costs. 
+Mr L is understandably concerned that as I-Power is now in administration, he is left without 
+a guarantee or warranty. I’ve noted that in its Final Response Letter Creation has said, in 
+regards to this, Mr L would be entitled to an s75 claim against it and therefore any faults or 
+issues should be addressed to it and it would assist. I’m satisfied that this is fair.
+Ref: DRN2538157
+5
+Creation has also agreed, as long as Mr L can provide a copy and it can be evidenced that it 
+formed part of the original purchase, it will honour the warranty. I accept that this doesn’t 
+guarantee the outcome of any future claim but, if Mr L experiences any system issues within 
+the original warrantee period, he’d be entitled to raise a claim under the warranty and 
+Creation will consider it under the terms of the warranty. 
+In summary, to put things right Creation should recalculate the original loan, based on the 
+known and assumed savings and income to Mr L from the solar panels, over the 10 year 
+term of the loan so he pays no more than that, and he keeps the solar panel system.
+By recalculating the loan this way, Mr L’s monthly repayments would reduce, meaning that 
+he would’ve overpaid each month. And as he would have been deprived of the monthly 
+overpayment I would expect Creation to add 8% simple interest from the date of the 
+overpayment to the date of settlement. In a case like this, I think the fairest resolution would 
+be to let Mr L have the following selection of options as to how he would like his 
+overpayments to be used:
+(a) the overpayments are used to reduce the outstanding balance of the loan and he 
+continues to make his current monthly payment resulting in the loan finishing early,
+(b) the overpayments are used to reduce the outstanding balance of the loan and he 
+pays a new, lower monthly payment until the end of the loan term,
+(c) the overpayments are returned to Mr L and he continues to make his current monthly 
+payment resulting in his loan finishing early, or
+(d) the overpayments are returned to him and he pays a new, lower monthly payment 
+until the end of the loan term.
+I also think Creation should pay Mr L £100 to reflect the trouble and upset caused. This is 
+because the RECC’s findings on the breaches I-Power where in the public domain and I’m 
+satisfied that Creation should’ve taken this information into account when reviewing Mr L’s 
+complaint. I’m of the opinion that this supports Mr L’s claim against Creation and it should’ve 
+upheld his complaint sooner than it did.
+My final decision
+My final decision is that Mr L’s complaint should be upheld. In full and final settlement of it, 
+Creation Consumer Finance Ltd should:
+(a) allow Mr L to keep the solar panels,
+(b) estimate the potential savings and income to Mr L from the panels over the ten year 
+term of the loan and rework it so he pays no more than this. Where possible, it 
+should use Mr L’s electricity bills and FIT statements to do this,
+(c) add 8% simple interest* to any overpayment made from the date the overpayment 
+was made to date of settlement,
+(d) allow Mr L to decide, using the four options given above, how his overpayments 
+should be used; and
+(e) pay Mr L £100 for the trouble and upset caused. 
+Ref: DRN2538157
+6
+Under the rules of the Financial Ombudsman Service, I’m required to ask Mr L to accept or 
+reject my decision before 30 October 2019.
+Michael Fisher
+ombudsman
+*If Creation Consumer Finance Ltd considers that it’s required by HM Revenue & Customs 
+to take off income tax from that interest, it should tell Mr L how much it’s taken off. It should 
+also give Mr L a certificate showing this if he asks for one, so he can claim the tax from 
+HM Revenue & Customs.
+Ref: DRN2538157

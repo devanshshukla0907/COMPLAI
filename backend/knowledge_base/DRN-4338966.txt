@@ -1,0 +1,83 @@
+DRN-4338966
+The complaint
+Mr G complains that Creation Consumer Finance Ltd’s handling of a finance application he 
+had made to it resulted in two personal information data breaches. And although these 
+breaches did not result in a material loss for Mr G, he says he has suffered a non-material 
+loss. 
+What happened
+Mr G applied for a fixed sum loan agreement with Creation in August 2022, he asked for the 
+agreement to be sent in the post for him to read, sign and return. When the agreement didn’t 
+arrive after a few days, Mr G rang Creation and confirmed his address. He was told the form 
+had been sent out to in the post. However, it was noted by Creation that Mr G’s address was 
+in the wrong format and the agreement was sent out to him again.
+Although Mr G had provided his correct address to Creation it failed to update its records 
+correctly and the second agreement was again incorrectly addressed. The agreement was 
+sent out for a third time and this time Mr G received it, signed it and returned it to Creation.
+Mr G was unhappy that two agreements containing his personal data had been sent to the 
+wrong address and complained to Creation that there had been a data breach.
+Creation upheld his complaint. It said there had been an accidental breach of Mr G’s data 
+because of the format of his address. It said the address error had been made by whoever 
+had originally completed the finance application, but it accepted it hadn’t then correctly 
+updated its system when the error with the address was identified. Creation confirmed that 
+neither of the two agreements with the wrong address had been returned to it. 
+Creation offered Mr G £100 compensation for the error, as it said there wasn’t any evidence 
+the breach had resulted in a material loss for him.
+Mr G informed Creation that he disagreed with its offer and said that the breach had resulted 
+in a non-material loss in that he was now suffering from a health condition linked to stress. 
+He explained that due to his work experience, he was very aware of the potential impact 
+data losses can cause and so Creation’s actions in sending out the paperwork to the wrong 
+address on two separate occasions had resulted in significant distress and inconvenience for 
+him.
+Creation reviewed its decision and increased the compensation offer to £200. Mr G 
+disagreed that the compensation was sufficient for the impact of the data losses and 
+complained to this service.
+Our investigator didn’t recommend that Mr G’s complaint should be upheld. He said that in 
+light of Mr G not suffering any material loss as a direct result of the personal data breach he 
+thought that the £200 compensation was fair and reasonable, and he wouldn’t ask Creation 
+to do more.
+Mr G disagreed with our investigator’s view. He said he thought Creation had handled his 
+personal data shoddily and there had been an impact on his health as a result. Mr G said the 
+Information Commissioner’s Office (ICO) had upheld his complaint that Creation were liable 
+for two breaches of his personal data.
+The complaint has therefore been passed to me to consider.
+What I’ve decided – and why
+I’ve considered all the available evidence and arguments to decide what’s fair and 
+reasonable in the circumstances of this complaint.
+Creation says that the original formatting of the address was due to the way it had been 
+inputted by either Mr G or the retailer when the credit agreement was applied for online. But 
+Creation has accepted that the address should have been corrected when Mr G made 
+contact with it, and this did not happen. I’ve seen Mr G feels Creation didn’t accept at first 
+there had been a data breach at all when he first complained, but I think Creation was saying 
+it didn’t know whether Mr G’s personal information had actually been given to someone else 
+because of the way the address had been recorded. However, I think Creation agrees there 
+have been data breaches here, and regardless of how that error arose, it isn’t disputed that 
+two separate agreements containing Mr G’s personal data weren’t delivered to him because 
+of the errors made with his address. This is also inline with the ICO’s findings of two data 
+breaches due to the actions of Creation.
+The issue for me is therefore, whether the amount of compensation paid by Creation to Mr G 
+was fair and reasonable in the circumstances. As explained by our investigator, 
+compensation is to reflect the impact of something that has gone wrong rather than to act as 
+a punishment for the business.
+Here, it is agreed that there hasn’t been any material loss caused to Mr G as a result of the 
+agreements being wrongly addressed. Mr G has raised that a non-material loss was caused 
+to him, in particular the effect it had on his health. While I am sorry to hear Mr G has 
+experienced physical symptoms which are linked to stress, I haven’t seen any medical 
+evidence that says this condition was directly or solely due to his distress over the potential 
+impact of his lost data. I absolutely accept that Mr G would have been concerned about what 
+may result from his lost personal data, but I’m afraid I don’t accept the suggested figure he 
+proposed to Creation as being a reasonable amount of compensation. I don’t think that 
+amount was proportionate in respect of what had happened and the actual impact on him.
+Looking at what happened, I’m satisfied that the £200 compensation paid by Creation to Mr 
+G is in keeping with the amount I would consider fair for the non-material loss suffered by Mr 
+G. He was distressed and inconvenienced to find that two agreements had been sent out to 
+him but not delivered and their whereabouts remain unknown, however, no material loss to 
+Mr G was caused.
+So, for the reasons given above, I’m not asking Creation to do more as I consider the 
+compensation payment that has been made is fair and reasonable.  
+My final decision
+For the reasons given above I’m not upholding Mr G’s complalint.
+Under the rules of the Financial Ombudsman Service, I’m required to ask Mr G to accept or 
+reject my decision before 12 February 2024.
+ 
+Jocelyn Griffith
+Ombudsman
