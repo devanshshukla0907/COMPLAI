@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useRef } from 'react';
+import  { useState, useEffect, useRef } from 'react';
 import { supabase } from './supabaseClient';
 import jsPDF from 'jspdf';
 import html2canvas from 'html2canvas';
