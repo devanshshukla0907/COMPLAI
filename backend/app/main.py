@@ -8,10 +8,16 @@ app = FastAPI(
     version="1.0.0"
 )
 
+origins = [
+    "https://complai-orpin.vercel.app", 
+    # Add your main production URL if different, e.g., your custom domain
+    #"http://localhost:5173",  Keep for local dev
+]
+
 # CORS (Cross-Origin Resource Sharing)
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["https://complai-edju3u9sh-devanshs-projects-1ebb33dd.vercel.app"], # The default Vite dev server port
+    allow_origins=origins, # The default Vite dev server port
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
